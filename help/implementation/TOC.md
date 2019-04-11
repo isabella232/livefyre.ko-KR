@@ -125,7 +125,7 @@ source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
    + [Mention 아이콘 변경](c-app-customizations/c-change-mention-icon.md)
    + [컨텐츠 강조 표시](c-app-customizations/c-highlight-content.md)
    + [날짜 및 타임스탬프 사용자 정의](c-app-customizations/c-date-time-stamp.md)
-   + 기능 컨텐츠
+   + 기능 컨텐츠x
       + [기능 컨텐츠](c-app-customizations/t-feature-content.md)
       + [Studio에서 컨텐츠 기능 사용](c-app-customizations/t-enable-featuring-content-in-studio.md)
       + [앱에서 기능 선택](c-app-customizations/t-select-content-to-feature.md)
@@ -134,10 +134,10 @@ source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
       + [기능 API](c-app-customizations/c-feature-apis.md)
    + [Authdelegate를 사용하여 Janrain에 Livefyre 연결](c-app-customizations/c-connecting-janrain-to-livefyre-using-authdelegate.md)
    + [주요 API를 사용하여 주요 컨텐츠 취합](c-app-customizations/c-aggregated-featured-content-using-the-featured-apis.md)
-   + 컨텐츠 스타일 지정
+   + 컨텐츠 스타일 지정x
       + [스타일 사용자 그룹 컨텐츠 스타일 지정](c-app-customizations/c-style-user-group-content.md)
       + [그룹에 사용자 추가](c-app-customizations/c-adding-users-to-groups.md)
-   + 사용자 정의 스타일 적용
+   + 사용자 정의 스타일 적용x
       + [사용자 지정 스타일 적용](c-app-customizations/c-applying-custom-styles-.md)
       + [사용자 정의 단추 추가](c-app-customizations/t-add-custom-buttons.md)
    + Javascript 이벤트

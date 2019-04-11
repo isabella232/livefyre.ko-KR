@@ -1,6 +1,6 @@
 ---
-description: ' C #' 언어를 사용하여 Livefyre 토큰을 생성하는 방법을 알아봅니다.
-seo-description: ' C #' 언어를 사용하여 Livefyre 토큰을 생성하는 방법을 알아봅니다.
+description: C # 언어를 사용하여 Livefyre 토큰을 생성하는 방법을 알아봅니다.
+seo-description: C # 언어를 사용하여 Livefyre 토큰을 생성하는 방법을 알아봅니다.
 seo-title: Livefyre 토큰 만들기'c #'
 solution: Experience Manager
 title: Livefyre 토큰 만들기'c #'
