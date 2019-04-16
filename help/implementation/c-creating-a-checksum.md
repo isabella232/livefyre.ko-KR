@@ -2,11 +2,11 @@
 description: Livefyre 라이브러리를 사용하여 체크섬을 만듭니다.
 seo-description: Livefyre 라이브러리를 사용하여 체크섬을 만듭니다.
 seo-title: 체크포인트 만들기
-solution: Experience Manager
+solution: Livefyre
 title: 체크포인트 만들기
 uuid: 2 dddedaa -7 a 6 d -434 a -8 db 8-dc 179935 f 810
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: f603682d95f288b510cde3a8b706a269feae4a6c
 
 ---
 
