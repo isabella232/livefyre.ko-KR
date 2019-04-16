@@ -3,7 +3,7 @@ product: livefyre
 audience: 최종 사용자
 user-guide-title: Experience Manager Livefyre 구현 안내서
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 097321964ff078bac83c4674100f8c62a8f3a1af
 
 ---
 
@@ -11,8 +11,9 @@ source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
 # Experience Manager Livefyre 구현 안내서 {#implementation}
 
 + [Livefyre 구현 안내서](home.md)
-+ [Livefyre 통합 시작하기](c-getting-started/c-getting-started.md)
-   + 구현 {#implementation-process}
++ 시작하기 {#getting-started}
+   + [Livefyre 통합 시작하기](c-getting-started/c-getting-started.md)
+   + 구현 프로세스 {#implementation-process}
       + [구현 프로세스](c-getting-started/c-implementation-process/c-implementation-process.md)
       + [앱 통합 유형](c-getting-started/c-implementation-process/c-app-integration-types.md)
       + [앱 구현](c-getting-started/designer-app-implementation.md)
@@ -25,7 +26,7 @@ source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
       + [사용자 인증 토큰](c-getting-started/c-implementation-process/c-user-auth-token.md)
       + [Collectionmeta 토큰을 사용하여 컬렉션 만들기](t-create-a-collectionmeta-token.md)
       + [체크포인트 만들기](c-creating-a-checksum.md)
-+ ID 통합
++ ID 통합 {#identity-integration}
    + [ID 통합](t-about-identity-integration/t-about-identity-integration.md)
    + [인증 패키지](t-about-identity-integration/c-authorization-package.md)
    + [Authdelegate 개체](t-about-identity-integration/c-building-an-auth-delegate.md)
@@ -43,7 +44,7 @@ source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
 + Livefyre Identity {#livefyre-identity}
    + [Livefyre Identity](c-livefyre-identity-comp/c-livefyre-identity-comp.md)
    + [Livefyre ID 사용](c-livefyre-identity-comp/t-enable-livefyre-identity.md)
-   + Livefyre ID와 소셜 앱 사용
+   + Livefyre ID와 소셜 앱 사용 {#use-social-apps-with-livefyre-identity}
       + [소셜 앱 제작](c-livefyre-identity-comp/t-create-your-social-apps.md)
       + [Livefyre ID와 함께 사용할 Facebook 앱 만들기](c-livefyre-identity-comp/t-create-a-facebook-app-for-use-with-livefyre-identity.md)
       + [Livefyre ID와 함께 사용할 Google 프로젝트 만들기](c-livefyre-identity-comp/t-create-a-google-project-for-use-with-livefyre-identity.md)
@@ -113,7 +114,7 @@ source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
    + [map](c-app-integrations/c-map-integration.md)
    + [미디어 담벼락](c-app-integrations/c-media-wall-integration.md)
    + [트렌딩](c-app-integrations/c-trending-integration.md)
-+ 앱 맞춤화 {#app-customtizations}
++ 앱 맞춤화 {#app-customizations}
    + [앱 맞춤화](c-app-customizations/c-app-customizations.md)
    + [표시 옵션 변경](c-app-customizations/c-change-display-options.md)
    + [CSS 클래스](c-app-customizations/c-css-classes.md)
@@ -125,7 +126,7 @@ source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
    + [Mention 아이콘 변경](c-app-customizations/c-change-mention-icon.md)
    + [컨텐츠 강조 표시](c-app-customizations/c-highlight-content.md)
    + [날짜 및 타임스탬프 사용자 정의](c-app-customizations/c-date-time-stamp.md)
-   + 기능 컨텐츠x
+   + 기능 컨텐츠 {#feature-content}
       + [기능 컨텐츠](c-app-customizations/t-feature-content.md)
       + [Studio에서 컨텐츠 기능 사용](c-app-customizations/t-enable-featuring-content-in-studio.md)
       + [앱에서 기능 선택](c-app-customizations/t-select-content-to-feature.md)
@@ -134,13 +135,13 @@ source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
       + [기능 API](c-app-customizations/c-feature-apis.md)
    + [Authdelegate를 사용하여 Janrain에 Livefyre 연결](c-app-customizations/c-connecting-janrain-to-livefyre-using-authdelegate.md)
    + [주요 API를 사용하여 주요 컨텐츠 취합](c-app-customizations/c-aggregated-featured-content-using-the-featured-apis.md)
-   + 컨텐츠 스타일 지정x
+   + 컨텐츠 스타일 지정 {#style-content}
       + [스타일 사용자 그룹 컨텐츠 스타일 지정](c-app-customizations/c-style-user-group-content.md)
       + [그룹에 사용자 추가](c-app-customizations/c-adding-users-to-groups.md)
-   + 사용자 정의 스타일 적용x
+   + 사용자 정의 스타일 적용 {#apply-custom-styles}
       + [사용자 지정 스타일 적용](c-app-customizations/c-applying-custom-styles-.md)
       + [사용자 정의 단추 추가](c-app-customizations/t-add-custom-buttons.md)
-   + Javascript 이벤트
+   + Javascript 이벤트 {#javascript-events}
       + [JavaScript 이벤트 정의 및 예제](c-app-customizations/c-javascript-events.md)
       + [시각화 앱에 대한 Javascript 이벤트](c-app-customizations/c-javascript-events-for-visualization-apps.md)
       + [미디어 담벼락에 대한 Javascript 이벤트](c-app-customizations/c-javascript-events-media-wall.md)
