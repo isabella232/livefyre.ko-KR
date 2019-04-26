@@ -6,7 +6,7 @@ seo-title: 스타일 기능
 title: 스타일 기능
 uuid: 72 A 3843 D -692 A -43 FF-B 72 B -6 BD 840 DE 87 D 6
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 09011bac06f4a1c39836455f9d16654952184962
 
 ---
 

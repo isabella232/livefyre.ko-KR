@@ -6,7 +6,7 @@ solution: Experience Manager
 title: Sidenotes 앱 이벤트
 uuid: AFCA 4 B 03-C 370-41 CA-AA 12-45 BC 357517 CA
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 987e682f9c7cd94543fd269f386fd2a971ee9934
 
 ---
 

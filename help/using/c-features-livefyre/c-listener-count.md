@@ -6,7 +6,7 @@ solution: Experience Manager
 title: 리스너 카운트
 uuid: FDD 7 CFE 4-AE 69-4 D 31-BAA 2-8978368 FC 3 E 8
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 

@@ -6,7 +6,7 @@ solution: Experience Manager
 title: 스트림에 대한 규칙 추가
 uuid: 7 a 3 fb 400-95 e 4-49 f 9-ae 39-90654 df 14665
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 8bdb537b38d78dba033d6671b710c2a61934d6b2
 
 ---
 

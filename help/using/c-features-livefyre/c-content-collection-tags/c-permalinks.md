@@ -6,7 +6,7 @@ solution: Experience Manager
 title: Permalinks
 uuid: 40 EF 30 EC-DC 3 E -47 FE -87 A 9-F 9073 CD 4 C 4 FF
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 09011bac06f4a1c39836455f9d16654952184962
 
 ---
 

@@ -6,7 +6,7 @@ solution: Experience Manager
 title: 주석 앱 포함
 uuid: E 4982 AD 3-CAB 1-4805-A 55 C -594 CCA 3 B 7203
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 268dc91369d346a254b7120706264eb91da8257e
 
 ---
 

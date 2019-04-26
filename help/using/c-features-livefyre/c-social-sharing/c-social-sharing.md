@@ -6,7 +6,7 @@ solution: Experience Manager
 title: 소셜 공유
 uuid: 3 FD 8 A 628-2414-45 B 5-B 91 C -2 AD 33 AAD 2634
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 09011bac06f4a1c39836455f9d16654952184962
 
 ---
 

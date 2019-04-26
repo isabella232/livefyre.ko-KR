@@ -5,7 +5,7 @@ seo-title: SSL 검사 목록
 title: SSL 검사 목록
 uuid: 2 B 176 C 73-8 A 6 A -4835-88 B 3-047 C 6661 CBA 9
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 

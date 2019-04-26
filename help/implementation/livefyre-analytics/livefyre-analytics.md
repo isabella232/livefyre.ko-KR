@@ -6,7 +6,7 @@ solution: Experience Manager
 title: Analytics
 uuid: B 022 AA 77-59 B 9-422 A -8 D 9 F-FB 9 D 8 A 1 B 0478
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 

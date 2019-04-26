@@ -6,7 +6,7 @@ solution: Experience Manager
 title: 자산 라이브러리의 보류 중인 권한 요청으로 콘텐트 관리
 uuid: Fab 285 AF-DE 09-4061-A 946-5 BEDE 91603 DE
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 0c5420fcb3ba2e12375e92d4574d0a6dff310869
 
 ---
 

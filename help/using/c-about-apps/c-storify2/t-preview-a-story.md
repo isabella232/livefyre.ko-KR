@@ -6,7 +6,7 @@ solution: Experience Manager
 title: 스토리 미리 보기
 uuid: 3 B 5321 C 3-1 FAB -4439-86 AB-EFA 2 FFC 24 F 41
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 

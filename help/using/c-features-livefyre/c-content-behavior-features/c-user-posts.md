@@ -6,7 +6,7 @@ solution: Experience Manager
 title: 사용자 게시물
 uuid: 41242 F 4 D -614 C -4737-A 1 F 6-6 F 0 A 914 F 5 F 7 F
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 09011bac06f4a1c39836455f9d16654952184962
 
 ---
 

@@ -6,7 +6,7 @@ solution: Experience Manager
 title: 날짜 및 타임스탬프 사용자 정의
 uuid: 632 EA 405-56 B 7-4664-8 D 2 B -0 DD 0 A 7611 BD 8
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 

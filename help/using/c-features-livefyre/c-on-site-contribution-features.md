@@ -6,7 +6,7 @@ solution: Experience Manager
 title: 사이트 내 기여도 기능
 uuid: 1 F 441490-28 EB -4 FC 4-9 FE 8-0879 C 62 C 4 B 4 A
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 0c5420fcb3ba2e12375e92d4574d0a6dff310869
 
 ---
 

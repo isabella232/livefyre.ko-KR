@@ -6,7 +6,7 @@ seo-title: Livefyre ID와 함께 사용할 수 있는 github ID 앱 제작
 title: Livefyre ID와 함께 사용할 수 있는 github ID 앱 제작
 uuid: CF 56164 C -1521-4 A 42-89 CB -39483764807 E
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 

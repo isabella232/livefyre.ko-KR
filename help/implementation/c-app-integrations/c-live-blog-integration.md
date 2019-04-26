@@ -6,7 +6,7 @@ solution: Experience Manager
 title: 라이브 블로그
 uuid: 5 CA 373 F 1-2008-45 AB -9 EC 2-1 E 295 AF 4 E 368
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 987e682f9c7cd94543fd269f386fd2a971ee9934
 
 ---
 

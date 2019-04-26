@@ -5,7 +5,7 @@ seo-title: 날짜 및 타임스탬프
 title: 날짜 및 타임스탬프
 uuid: 3022059 F-CFDC -4 E 13-AA 3 D -7537875 EF 431
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 09011bac06f4a1c39836455f9d16654952184962
 
 ---
 

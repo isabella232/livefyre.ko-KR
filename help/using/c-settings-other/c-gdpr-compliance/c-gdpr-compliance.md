@@ -8,7 +8,7 @@ solution: Experience Manager
 title: 개인 정보 보호 요청 (GDPR-ready)
 uuid: 8 C 8 B 2001-F 94 D -4 AFC -8 ACD-FF 4 C 096 DC 2 F 9
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 

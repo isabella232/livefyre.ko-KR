@@ -6,7 +6,7 @@ solution: Experience Manager
 title: 주석 수 표시
 uuid: 0 F 39 B 25 E -11 E 0-4945-BE 71-55 FB 4798 B 6 C 7
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: c287e7a880f956f0444af746adee682571fe5a72
 
 ---
 

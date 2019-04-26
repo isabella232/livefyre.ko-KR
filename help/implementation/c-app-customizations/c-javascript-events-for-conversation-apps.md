@@ -6,7 +6,7 @@ solution: Experience Manager
 title: 대화 앱에 대한 Javascript 이벤트
 uuid: CCE 112 B 5-7 C 3 A -4721-9854-FC 8471 F 3 D 5 D 0
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 

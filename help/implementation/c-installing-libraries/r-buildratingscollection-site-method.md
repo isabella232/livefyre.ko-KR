@@ -7,7 +7,7 @@ seo-title: Buildratingscollection 사이트 메서드
 title: Buildratingscollection 사이트 메서드
 uuid: 5 EEA 2 BA 3-48 E 1-4 CD 2-AA 73-EA 81788 AF 1 DF
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 

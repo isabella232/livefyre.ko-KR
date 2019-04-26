@@ -6,7 +6,7 @@ solution: Experience Manager
 title: 컨텐츠 비헤이비어 기능
 uuid: 4 A 1 C 6 D 6 E -8785-49 E 8-AAF 5-6 FA 4576 D 7232
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 09011bac06f4a1c39836455f9d16654952184962
 
 ---
 

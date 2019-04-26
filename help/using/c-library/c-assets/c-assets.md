@@ -6,7 +6,7 @@ solution: Experience Manager
 title: 자산
 uuid: 21 AB 781 A -3 A 05-4725-B 77 D -92 DECC 2 D 2 E 1 F
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 

@@ -6,7 +6,7 @@ solution: Experience Manager
 title: 모자이크
 uuid: 331 C 5 F 80-7440-4 B 91-8 AC 6-4 F 56 A 8 A 5 BEFE
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 

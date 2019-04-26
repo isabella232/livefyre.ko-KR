@@ -6,7 +6,7 @@ solution: Experience Manager
 title: 서버측 토큰 빌드
 uuid: 8313 F 26 E -5 CEB -414 E-A 61 A -480 BB 7 A 8 BA 66
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 5bf937c8cb1a9ca12216ee1884142b8787ff063e
 
 ---
 

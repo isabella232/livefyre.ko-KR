@@ -8,7 +8,7 @@ solution: Experience Manager
 title: Buildsitenotescollection 사이트 메서드
 uuid: 2 BFBC 032-4 C 0 C -48 D 2-8 CE 6-02460 B 38 BD 6 C
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 

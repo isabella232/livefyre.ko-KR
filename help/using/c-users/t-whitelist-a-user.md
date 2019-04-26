@@ -6,7 +6,7 @@ solution: Experience Manager
 title: 화이트 리스트 A 사용자
 uuid: C 58 F 7279-5 FDE -419 A-A 833-3 C 639 D 469421
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 0c5420fcb3ba2e12375e92d4574d0a6dff310869
 
 ---
 

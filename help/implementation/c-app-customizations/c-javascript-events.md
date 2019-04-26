@@ -6,7 +6,7 @@ solution: Experience Manager
 title: JavaScript 이벤트 정의 및 예제
 uuid: 61 DA 2 E 2 E -8 FCD -482 D -93 DF-C 946 F 0475277
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 

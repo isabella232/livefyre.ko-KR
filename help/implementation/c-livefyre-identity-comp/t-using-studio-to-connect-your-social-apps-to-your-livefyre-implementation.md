@@ -7,7 +7,7 @@ seo-title: Studio를 사용하여 소셜 앱을 Livefyre 구현과 연결
 title: Studio를 사용하여 소셜 앱을 Livefyre 구현과 연결
 uuid: BE 14869 c-e 0 df -48 cd-a 1 f 3-99 eb 953 dd 9 ce
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 

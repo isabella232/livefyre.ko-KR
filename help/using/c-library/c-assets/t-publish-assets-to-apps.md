@@ -6,7 +6,7 @@ solution: Experience Manager
 title: 앱에 에셋 게시
 uuid: 42 D 39142-B 047-4055-B 946-15 BCC 91 D 5 A 95
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 

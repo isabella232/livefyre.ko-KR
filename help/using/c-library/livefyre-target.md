@@ -7,7 +7,7 @@ seo-title: Adobe Target에서 Adobe Experience Manager Livefyre 사용
 title: Adobe Target에서 Adobe Experience Manager Livefyre 사용
 uuid: 98108 DDB -5710-4331-891 B -7 E 1 BBB 106059
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 78399019741620ad8e16d2ba04db7f766631fe74
 
 ---
 

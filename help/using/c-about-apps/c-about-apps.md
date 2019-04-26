@@ -6,7 +6,7 @@ solution: Experience Manager
 title: apps
 uuid: 672 DB 3 B 6-722 A -4 ECA -97 E 5-B 877 B 926 B 5 F 6
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 

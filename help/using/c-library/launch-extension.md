@@ -5,7 +5,7 @@ seo-title: Adobe, Livefyre 확장 출시
 title: Adobe, Livefyre 확장 출시
 uuid: 98108 DDB -5710-4331-891 B -7 E 1 BBB 106059
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 155791af94c277e7afdbd51521e00da77169911e
 
 ---
 

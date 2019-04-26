@@ -6,7 +6,7 @@ solution: Experience Manager
 title: Studio에서 기능 선택
 uuid: D 2983 D 44-E 388-4324-A 9 A 4-BE 0 B 30 F 7 CEEA
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 

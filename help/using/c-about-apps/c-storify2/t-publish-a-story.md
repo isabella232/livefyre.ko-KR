@@ -6,7 +6,7 @@ solution: Experience Manager
 title: 스토리 게시
 uuid: 2 FBF 0 AB 3-AE 59-4 DAC -8 A 4 D-E 076 BB 5 E 477 A
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 

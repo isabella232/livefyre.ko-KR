@@ -6,7 +6,7 @@ solution: Experience Manager
 title: 필름스트립 기능
 uuid: 0 D 7 D 59 DC -0465-44 D 3-8348-B 59 E 51312 AAB
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 09011bac06f4a1c39836455f9d16654952184962
 
 ---
 

@@ -6,7 +6,7 @@ solution: Experience Manager
 title: 트윗 제한 및 빈도
 uuid: B 9 EDFB 1 E-E 6 CF -4 A 48-8756-05 F 5 F 18 D 8799
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 

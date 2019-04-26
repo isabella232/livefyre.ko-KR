@@ -6,7 +6,7 @@ solution: Experience Manager
 title: 트렌딩
 uuid: 7 C 0 BC 020-46 A 3-4 AC 6-A 8 DB -9532 A 4 FA 83 B 1
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 

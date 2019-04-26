@@ -6,7 +6,7 @@ solution: Experience Manager
 title: Android SDK
 uuid: 68793 FA 9-3 EA 1-4890-B 36 D-B 631 F 1 C 6 F 7 DE
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 

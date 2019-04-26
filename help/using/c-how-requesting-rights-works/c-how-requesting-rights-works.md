@@ -7,7 +7,7 @@ seo-title: 권한 요청
 title: 권한 요청
 uuid: d 3194 afa-f 3 c 6-44 ed-b 03 f -9 b 1 ecb 50 c 1 d 3
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 09011bac06f4a1c39836455f9d16654952184962
 
 ---
 

@@ -6,7 +6,7 @@ solution: Experience Manager
 title: 탐색 안내서에 제목 추가
 uuid: 9 B 8 DE 96 D -76 C 3-46 D 0-97 CE -338 B 01 F 49 CA 7
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 

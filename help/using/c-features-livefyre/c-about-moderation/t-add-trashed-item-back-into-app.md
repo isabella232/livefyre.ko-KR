@@ -5,7 +5,7 @@ seo-title: 앱에 다시 트레이트 항목 추가
 title: 앱에 다시 트레이트 항목 추가
 uuid: 96 C 5 DB 19-999 F -476 F-A 96 C-AD 101028 D 484
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 

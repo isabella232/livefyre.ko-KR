@@ -5,7 +5,7 @@ seo-title: Instagram 규칙
 title: Instagram 규칙
 uuid: 98108 DDB -5710-4331-891 B -7 E 1 BBB 106059
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 0c5420fcb3ba2e12375e92d4574d0a6dff310869
 
 ---
 

@@ -6,7 +6,7 @@ solution: Experience Manager
 title: IP 주소 금지
 uuid: 4 D 21 B 53 E -4 CF 7-4 DA 3-8910-9716709721 F 5
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 

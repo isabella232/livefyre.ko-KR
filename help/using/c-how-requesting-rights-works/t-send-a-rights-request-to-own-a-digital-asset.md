@@ -6,7 +6,7 @@ solution: Experience Manager
 title: Twitter 권한 요청 보내기
 uuid: bf 3 e 84 a 6-dc 67-47 bc -9707-bd 30882 cbbf 0
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 0c5420fcb3ba2e12375e92d4574d0a6dff310869
 
 ---
 

@@ -5,7 +5,7 @@ seo-title: YouTube 컨텐츠 검색
 title: YouTube 컨텐츠 검색
 uuid: A 99 C 2 C 0 D -4647-4432-8 F 67-8 C 2 FC 29 FE 245
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 

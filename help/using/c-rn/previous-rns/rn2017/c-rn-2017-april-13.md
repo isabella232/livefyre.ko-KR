@@ -5,7 +5,7 @@ seo-title: 2017 년 4 월 13 일
 title: 2017 년 4 월 13 일
 uuid: ABC 591 BD -3385-40 F 5-99 A 5-3 F 4 C 8 EE 4 DC 6 B
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 35feb87bb82d1f298496717a65f1972cf4e71104
 
 ---
 

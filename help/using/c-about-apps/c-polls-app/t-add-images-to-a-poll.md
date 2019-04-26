@@ -6,7 +6,7 @@ solution: Experience Manager
 title: 투표에 이미지 추가
 uuid: 966 cefba -3 a 0 e -433 d -97 b 3-d 683 d 92 b 8 f 69
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 

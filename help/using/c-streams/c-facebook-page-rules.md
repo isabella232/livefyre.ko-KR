@@ -6,7 +6,7 @@ solution: Experience Manager
 title: Facebook 페이지 규칙
 uuid: 2 BE 63476-1 A 92-409 D-A 22 F-E 1 EC 66 B 6 DCC 8
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 

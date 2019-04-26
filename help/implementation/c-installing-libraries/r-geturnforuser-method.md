@@ -6,7 +6,7 @@ solution: Experience Manager
 title: Geturnforuser 네트워크 메서드
 uuid: B 70 B 8 B 0 F -2 B 3 A -4 A 1 D -90 D 0-93 A 97 A 137 AD 4
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 

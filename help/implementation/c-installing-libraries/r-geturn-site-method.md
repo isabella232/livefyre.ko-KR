@@ -6,7 +6,7 @@ solution: Experience Manager
 title: Geturn 사이트 메서드
 uuid: 231 C 915 C -6288-43 E 6-86 E 0-B 8 D 09 A 08 C 4 D 3
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 

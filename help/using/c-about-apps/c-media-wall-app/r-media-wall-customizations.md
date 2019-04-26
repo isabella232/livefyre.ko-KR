@@ -6,7 +6,7 @@ solution: Experience Manager
 title: 미디어 담벼락 사용자 정의
 uuid: 79 AECD 92-3937-4 BB 4-A 1 A 6-B 090 FB 39 AFB 0
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 

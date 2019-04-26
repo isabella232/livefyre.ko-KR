@@ -6,7 +6,7 @@ solution: Experience Manager
 title: 자격 증명 설정
 uuid: 688 AF 27 E -97 BA -4 BFF -8 BE 82 F 48 E 6 C 7 C 7 C 7
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 0c5420fcb3ba2e12375e92d4574d0a6dff310869
 
 ---
 

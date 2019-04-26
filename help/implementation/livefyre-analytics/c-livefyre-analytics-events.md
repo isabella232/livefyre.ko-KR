@@ -6,7 +6,7 @@ solution: Experience Manager
 title: Livefyre 분석 이벤트
 uuid: 4 EB 5 A 196-CA 33-40 F 8-A 96 D-ED 46469223 DE
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 

@@ -8,7 +8,7 @@ solution: Experience Manager
 title: Buildcommentscollection 사이트 메서드
 uuid: 0 E 5 C 062 E -960 D -4 AB 0-BA 32-0965731 A 1571
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 

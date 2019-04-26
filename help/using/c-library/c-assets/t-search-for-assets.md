@@ -6,7 +6,7 @@ solution: Experience Manager
 title: 라이브러리에서 저장된 에셋 검색
 uuid: 2 FEE 5 BA 4-FE 69-487 E -8 D 9 C -0 FD 2 AF 97179 C
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 

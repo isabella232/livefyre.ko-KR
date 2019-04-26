@@ -6,7 +6,7 @@ solution: Experience Manager
 title: 2018 년 4 월 26 일
 uuid: A 84 EBE 5 C -40 D 5-43 B 5-A 300-3 E 041 AB 22046
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 35feb87bb82d1f298496717a65f1972cf4e71104
 
 ---
 

@@ -6,7 +6,7 @@ solution: Experience Manager
 title: 네트워크에 번역 세트 적용
 uuid: 3 D 9 A 2616-3721-4 AC 5-A 039-AEFBF 57 CF 269
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 

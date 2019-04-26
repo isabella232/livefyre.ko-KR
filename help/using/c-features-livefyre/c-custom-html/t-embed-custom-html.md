@@ -6,7 +6,7 @@ solution: Experience Manager
 title: 주석에 사용자 정의 HTML 포함
 uuid: F 7 D 07286-B 3 B 3-447 D -8281-51735 F 24 DDD 9
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 

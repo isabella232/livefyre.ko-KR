@@ -6,7 +6,7 @@ solution: Experience Manager
 title: CSS 클래스
 uuid: 8714 E 7 E 5-3858-458 F-A 464-DE 87 FD 2 F 0 FF 0
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 

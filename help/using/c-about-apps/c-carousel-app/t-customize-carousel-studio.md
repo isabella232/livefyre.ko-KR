@@ -6,7 +6,7 @@ solution: Experience Manager
 title: Studio를 사용하여 Carousel 사용자 정의
 uuid: 24 F 080 FC -37 BF -40 D 4-8 C 1 A-A 502 EE 8 AC 978
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 

@@ -8,7 +8,7 @@ solution: Experience Manager
 title: Livefyre ID와 함께 사용할 Twitter 앱 만들기
 uuid: 841 CCE 7 C -618 D -4154-85 A 3-1 DE 96 D 04 BB 69
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 

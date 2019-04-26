@@ -6,7 +6,7 @@ solution: Experience Manager
 title: 표시 옵션 변경
 uuid: 121 BB 921-D 9 A 7-4925-AB 46-8 E 3 D 7 DD 0 CBFE
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: bd989c97ae5cf06a5ac3deec215f865b0fe95d16
 
 ---
 

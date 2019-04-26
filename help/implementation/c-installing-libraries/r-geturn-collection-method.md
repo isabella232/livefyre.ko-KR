@@ -8,7 +8,7 @@ solution: Experience Manager
 title: Geturn 컬렉션 메서드
 uuid: 2 F 4 D 7796-2 AE 5-4 B 74-A 958-40825 C 6 BFF 16
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 

@@ -6,7 +6,7 @@ solution: Experience Manager
 title: 스타일 사용자 그룹 컨텐츠 스타일 지정
 uuid: 2205 D 2 C 9-1892-427 D-A 289-BAB 0 BF 1 DFE 19
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 

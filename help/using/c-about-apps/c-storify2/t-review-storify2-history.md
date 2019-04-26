@@ -8,7 +8,7 @@ solution: Experience Manager
 title: 검토 내역
 uuid: C 2 F 8 A 45 B -54 C 1-4667-893 A-B 3 BD 4 BE 4546 A
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 

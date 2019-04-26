@@ -6,7 +6,7 @@ solution: Experience Manager
 title: 댓글의 광고
 uuid: F 8 D 6372 F -4468-4884-A 384-116180 B 4 C 748
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 09011bac06f4a1c39836455f9d16654952184962
 
 ---
 

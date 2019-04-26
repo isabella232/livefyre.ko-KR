@@ -6,7 +6,7 @@ solution: Experience Manager
 title: 사용자를 위한 Studio 권한 관리
 uuid: 15 C 395 C 8-A 9 BB -4 B 0 B -9586-61 AC 36810730
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 

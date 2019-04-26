@@ -7,7 +7,7 @@ seo-title: Instagram 속도 제한
 title: Instagram 속도 제한
 uuid: 98108 DDB -5710-4331-891 B -7 E 1 BBB 106059
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: e9f672ba6e5f4338c58256e2d46ed023e84f340f
 
 ---
 

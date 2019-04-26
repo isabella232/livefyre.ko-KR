@@ -6,7 +6,7 @@ solution: Experience Manager
 title: 라이브 블로그 기능
 uuid: 5 A 9 Fede 3-E 150-4655-B 5 E 1-3 Ddaee 9 A 6 Ba 1
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 

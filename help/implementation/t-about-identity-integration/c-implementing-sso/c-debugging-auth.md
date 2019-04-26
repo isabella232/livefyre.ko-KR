@@ -6,7 +6,7 @@ solution: Experience Manager
 title: 디버깅 인증 위임
 uuid: FB 0 C 7396-190 E -4 DC 9-BF 26-23 DDE 9 EFD 45 D
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 

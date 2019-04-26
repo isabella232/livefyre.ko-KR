@@ -6,7 +6,7 @@ solution: Experience Manager
 title: 핵심 앱 유형 전환
 uuid: 442 A 517 C -3809-46 C 5-BB 5 F -8668 A 29 DC 3 E 8
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: fcee9dc152e7f8284e64248fdcc5bf81d39618ff
 
 ---
 

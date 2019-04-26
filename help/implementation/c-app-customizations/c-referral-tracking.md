@@ -6,7 +6,7 @@ solution: Experience Manager
 title: 참조 추적
 uuid: 5206 CC 16-9671-4 B 3 D-A 013-BE 1 A 3 E 8 C 029 D
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: bd989c97ae5cf06a5ac3deec215f865b0fe95d16
 
 ---
 

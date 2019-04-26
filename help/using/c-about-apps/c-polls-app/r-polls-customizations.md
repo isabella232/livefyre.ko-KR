@@ -6,7 +6,7 @@ solution: Experience Manager
 title: 사용자 지정 투표
 uuid: 788 A 4 FA 7-AAFB -4508-B 9 C 0-CD 54 E 4 CD 9 B 86
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 

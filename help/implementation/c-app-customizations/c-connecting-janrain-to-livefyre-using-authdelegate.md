@@ -5,7 +5,7 @@ seo-title: Authdelegate를 사용하여 Janrain에 Livefyre 연결
 title: Authdelegate를 사용하여 Janrain에 Livefyre 연결
 uuid: 9 D 56 E 3 F 4-960 A -4108-AAB 5-2795 B 0 E 71 C 88
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 

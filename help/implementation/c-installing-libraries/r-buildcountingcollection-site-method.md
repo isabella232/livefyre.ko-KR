@@ -7,7 +7,7 @@ seo-title: Buildcountingcollection 사이트 메서드
 title: Buildcountingcollection 사이트 메서드
 uuid: E 293 D 66 A -0025-4230-997 E -295 CE 4625713
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 

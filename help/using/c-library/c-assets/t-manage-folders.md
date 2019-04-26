@@ -6,7 +6,7 @@ solution: Experience Manager
 title: 자산 폴더 관리
 uuid: 9 CE 510 DF -4 F 7 A -4178-B 2 C 4-7 D 59 E 4868 Add
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 

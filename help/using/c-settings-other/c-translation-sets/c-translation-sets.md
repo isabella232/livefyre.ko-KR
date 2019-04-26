@@ -6,7 +6,7 @@ solution: Experience Manager
 title: 번역 세트
 uuid: 88 B 705 E 5-57 C 8-4065-8 A 41-A 73546 BD 929 A
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 09011bac06f4a1c39836455f9d16654952184962
 
 ---
 

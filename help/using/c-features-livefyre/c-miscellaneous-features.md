@@ -6,7 +6,7 @@ solution: Experience Manager
 title: 기타 기능
 uuid: 76 AC 2102-622 D -48 D 3-8 B 1 D -6 CA 6 C 90 C 806 A
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 

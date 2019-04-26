@@ -6,7 +6,7 @@ solution: Experience Manager
 title: Geturn 네트워크 메서드
 uuid: E 525 BC 54-D 4 DF -490 F-BD 6 A-F 524 F 7 EFF 211
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 

@@ -7,7 +7,7 @@ solution: Experience Manager
 title: 검토 앱 만들기
 uuid: 6 Caeafe 7-C 04 E -484 E-B 02 F -98 DC 6 D 9 B 3184
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 

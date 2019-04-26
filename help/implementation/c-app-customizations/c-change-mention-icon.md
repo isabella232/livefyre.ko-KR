@@ -6,7 +6,7 @@ solution: Experience Manager
 title: Mention 아이콘 변경
 uuid: A 395 F 4 FF-A 774-454 A -8 D 94-4 A 3371 D 8 CC 2 C
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 0d2ff61b1db6100de1d59e6e20c1175f015a78c5
 
 ---
 

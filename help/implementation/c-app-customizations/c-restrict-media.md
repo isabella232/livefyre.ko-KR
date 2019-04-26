@@ -6,7 +6,7 @@ solution: Experience Manager
 title: 미디어 제한
 uuid: C 470 C 985-D 221-4 F 39-8 BD 4-4 E 44 EC 14 DB 95
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 

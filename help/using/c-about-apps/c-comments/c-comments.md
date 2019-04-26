@@ -6,7 +6,7 @@ solution: Experience Manager
 title: 댓글
 uuid: F 409 D 04 A -2 ECC -42 FD -9 D 45-C 723 AAFAD 116
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 

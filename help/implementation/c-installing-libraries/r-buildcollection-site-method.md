@@ -6,7 +6,7 @@ solution: Experience Manager
 title: Buildcollection 사이트 메서드
 uuid: 52 ABC 42 A -9506-4492-B 219-F 2 E 05 EB 79 C 5 F
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 

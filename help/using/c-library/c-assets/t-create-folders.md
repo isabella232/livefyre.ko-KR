@@ -6,7 +6,7 @@ solution: Experience Manager
 title: 자산 폴더 만들기
 uuid: FE 5 EB 098-AC 8 C -44 E 9-AEE 4-6 C 0 B 88 F 82747
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 

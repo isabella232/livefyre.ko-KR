@@ -6,7 +6,7 @@ solution: Experience Manager
 title: 릴리스 노트
 uuid: 34 E 64943-DEA 6-46 AC -9 FCC -8 FEBEAB 6 AA 42
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 35feb87bb82d1f298496717a65f1972cf4e71104
 
 ---
 

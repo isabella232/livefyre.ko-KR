@@ -5,7 +5,7 @@ seo-title: 스마트 태그 보기
 title: 스마트 태그 보기
 uuid: 787 c 7 d 86-2 c 68-4 c 4 c-b 687-cf 2390 bcf 233
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 

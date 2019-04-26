@@ -6,7 +6,7 @@ solution: Experience Manager
 title: Sidenotes 구성 옵션
 uuid: 067 E 51 E 6-9720-4226-A 805-C 7 A 07 C 8 CDAA 0
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 

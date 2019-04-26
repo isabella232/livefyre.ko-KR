@@ -6,7 +6,7 @@ solution: Experience Manager
 title: 미디어 담벼락
 uuid: 54 F 4 FB 0 B-E 427-4 B 73-BB 96-31325805 B 081
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 

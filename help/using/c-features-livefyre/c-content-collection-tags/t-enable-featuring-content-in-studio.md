@@ -6,7 +6,7 @@ solution: Experience Manager
 title: Studio에서 컨텐츠 기능 사용
 uuid: D 903 A 2 FD -4173-4 DD 1-8 AFB -2 F 9 B 2 C 4468 D 1
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 

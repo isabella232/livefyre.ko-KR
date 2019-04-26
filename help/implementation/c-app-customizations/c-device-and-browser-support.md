@@ -5,7 +5,7 @@ seo-title: 디바이스 및 브라우저 지원
 title: 디바이스 및 브라우저 지원
 uuid: 338 F 78 B 2-051 D -4831-A 0 B 9-E 987 F 92660 CE
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 

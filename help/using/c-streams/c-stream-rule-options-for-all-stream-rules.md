@@ -6,7 +6,7 @@ solution: Experience Manager
 title: 모든 스트림 규칙에 대한 스트림 규칙 옵션
 uuid: 4072 EE 83-31 E 7-4 DE 6-918 C -134 B 8 B 8032 E 1
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 8bdb537b38d78dba033d6671b710c2a61934d6b2
 
 ---
 

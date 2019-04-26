@@ -5,7 +5,7 @@ seo-title: 아바타
 title: 아바타
 uuid: BF 20 F 3 BC -3 DCC -4 E 16-A 629-3380 D 1 A 7 A 3 F 2
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 09011bac06f4a1c39836455f9d16654952184962
 
 ---
 

@@ -6,7 +6,7 @@ solution: Experience Manager
 title: 예
 uuid: 94 E 38 DAB -6234-43 A 2-A 840-13 A 87 F 0237 F 1
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 

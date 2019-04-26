@@ -5,7 +5,7 @@ seo-title: 2017 년 4 월 27 일
 title: 2017 년 4 월 27 일
 uuid: 30284115-92 c 0-4 a 85-acdb-adc 70605 ed 5 f
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 35feb87bb82d1f298496717a65f1972cf4e71104
 
 ---
 

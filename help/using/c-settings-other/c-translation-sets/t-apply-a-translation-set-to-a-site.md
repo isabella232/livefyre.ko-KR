@@ -6,7 +6,7 @@ solution: Experience Manager
 title: 사이트에 번역 세트 적용
 uuid: 750 F 4 CA 2-0350-40 C 9-9176-CE 56581 BF 8 AB
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 

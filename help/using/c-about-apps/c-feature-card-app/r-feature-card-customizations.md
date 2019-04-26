@@ -6,7 +6,7 @@ solution: Experience Manager
 title: 기능 카드 사용자 정의
 uuid: DD 43 C 076-027 F -42 C 8-BE 2 E -7 D 863 D 4 E 3976
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: a014b5cd618672934843f1adf20d6b2cc504e2d8
 
 ---
 

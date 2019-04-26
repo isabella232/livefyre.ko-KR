@@ -8,7 +8,7 @@ solution: Experience Manager
 title: Buildreviewscollection 사이트 메서드
 uuid: 88 AF 4 C 68-57 DE -4 AE 9-9394-550 C 94 EDE 48 F
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 

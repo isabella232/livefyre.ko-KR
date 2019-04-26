@@ -6,7 +6,7 @@ solution: Experience Manager
 title: Buildchecksum 컬렉션 메서드
 uuid: 692 E 8 E 13-6218-4 E 38-ABC 8-7 CF 49 bebde 9 C
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 

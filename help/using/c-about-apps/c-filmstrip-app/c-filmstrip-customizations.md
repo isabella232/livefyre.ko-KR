@@ -6,7 +6,7 @@ solution: Experience Manager
 title: 필름스트립 사용자 정의
 uuid: 99 F 8 B 697-4 AA 3-4813-BCAC-D 0 E 0 BDEE 252 D
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: bd989c97ae5cf06a5ac3deec215f865b0fe95d16
 
 ---
 

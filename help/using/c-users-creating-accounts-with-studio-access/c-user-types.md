@@ -6,7 +6,7 @@ solution: Experience Manager
 title: 사용자 역할 및 권한
 uuid: d 9261 cfd-ae 60-40 d 8-9816-25 aef 541506 f
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 30aa5cce5e7567208362cc35caeb7b7260c42f3b
 
 ---
 

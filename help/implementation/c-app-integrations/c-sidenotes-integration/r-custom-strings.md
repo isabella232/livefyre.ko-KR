@@ -5,7 +5,7 @@ seo-title: Sidenotes 사용자 정의 문자열
 title: Sidenotes 사용자 정의 문자열
 uuid: 73745273-D 3 FB -4569-8910-D 149 FB 37 A 7 B 4
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 74a63daa264014af9a8afb6639fa1561a7b83241
 
 ---
 

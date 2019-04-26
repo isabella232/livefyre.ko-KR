@@ -6,7 +6,7 @@ solution: Experience Manager
 title: 새 스트림 만들기
 uuid: 2874660 B-D 26 B -4 E 21-B 24 E -484744 E 2303 A
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 0c5420fcb3ba2e12375e92d4574d0a6dff310869
 
 ---
 

@@ -6,7 +6,7 @@ solution: Experience Manager
 title: 2019 년 3 월 14 일자 Livefyre 릴리스 노트
 uuid: 34 E 64943-DEA 6-46 AC -9 FCC -8 FEBEAB 6 AA 42
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 9246343b64915af07feb8952060c1e3af5aada56
 
 ---
 

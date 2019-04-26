@@ -6,7 +6,7 @@ solution: Experience Manager
 title: 페이지에 Sidenotes 추가
 uuid: 6499 C 45 A -3773-4 ADB-A 6 C 7-22 A 628309 AFD
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: bd989c97ae5cf06a5ac3deec215f865b0fe95d16
 
 ---
 

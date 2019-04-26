@@ -5,7 +5,7 @@ seo-title: 자산 라이브러리에 콘텐트 저장
 title: 자산 라이브러리에 콘텐트 저장
 uuid: 5 F 076 A 55-4358-4 EE 5-866 E -5 B 6 C 0199 B 580
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 

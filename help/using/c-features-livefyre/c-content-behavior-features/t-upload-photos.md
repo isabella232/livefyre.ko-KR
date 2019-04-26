@@ -7,7 +7,7 @@ solution: Experience Manager
 title: 사진 업로드
 uuid: BEC 7 E 088-8 B 19-4839-977 D -03 FC 1 CADAEB 9
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 

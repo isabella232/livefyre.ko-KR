@@ -6,7 +6,7 @@ solution: Experience Manager
 title: Change Collection
 uuid: 81 C 8 A 554-375 F -4659-9 E 25-5 B 3618824633
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 5bf937c8cb1a9ca12216ee1884142b8787ff063e
 
 ---
 

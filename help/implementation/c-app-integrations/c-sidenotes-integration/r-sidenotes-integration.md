@@ -6,7 +6,7 @@ solution: Experience Manager
 title: Sidenotes 통합
 uuid: 4 AA 14 ADA -402 A -482 D-B 43 E -96 F 37 AFA 6 C 53
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: fcee9dc152e7f8284e64248fdcc5bf81d39618ff
 
 ---
 

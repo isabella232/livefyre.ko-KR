@@ -6,7 +6,7 @@ solution: Experience Manager
 title: 트렌드 사용자 정의
 uuid: 4 DC 58 D 90-8924-4 C 89-8 F 2 A -650 AC 6 E 0538 A
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 

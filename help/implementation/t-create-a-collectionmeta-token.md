@@ -6,7 +6,7 @@ solution: Experience Manager
 title: Collectionmeta 토큰을 사용하여 컬렉션 만들기
 uuid: 5 a 3 e 18 e 8-8568-45 bb -9070-d 0 fa 43 dd 819 b
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 5bf937c8cb1a9ca12216ee1884142b8787ff063e
 
 ---
 

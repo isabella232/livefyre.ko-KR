@@ -5,7 +5,7 @@ seo-title: Sidenotes 사용자 정의 스타일
 title: Sidenotes 사용자 정의 스타일
 uuid: 0 F 6 D 7 AD 6-1 F 6 A -4 ED 2-B 86 A -0 D 03782 E 591 E
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 

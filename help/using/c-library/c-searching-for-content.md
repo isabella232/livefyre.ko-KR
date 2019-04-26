@@ -6,7 +6,7 @@ solution: Experience Manager
 title: URL로 검색
 uuid: 45 BE 6 A 85-E 615-46 C 6-9601-82 DF 02839315
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 

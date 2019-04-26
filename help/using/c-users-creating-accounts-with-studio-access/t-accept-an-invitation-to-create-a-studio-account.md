@@ -6,7 +6,7 @@ solution: Experience Manager
 title: Studio 계정 만들기 초대 수락
 uuid: 7 C 3 D 11 A 3-9799-43 AE-A 63 C -9 CE 2 CB 15782 C
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 

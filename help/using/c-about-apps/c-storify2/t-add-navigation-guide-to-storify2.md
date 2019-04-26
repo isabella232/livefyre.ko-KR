@@ -8,7 +8,7 @@ solution: Experience Manager
 title: Storify 2에 내비게이션 가이드 추가
 uuid: 2 DB 131 B 2-54 B 8-4409-A 947-B 86169656 CAD
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 

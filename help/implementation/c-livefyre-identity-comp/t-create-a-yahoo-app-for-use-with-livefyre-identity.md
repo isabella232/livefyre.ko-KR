@@ -6,7 +6,7 @@ solution: Experience Manager
 title: Yahoo! Livefyre ID와 함께 사용할 수 있는 앱
 uuid: 6863 CD 2 E-EB 0 D -465 B-B 706-88 ECACCF 41 BC
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 

@@ -6,7 +6,7 @@ solution: Experience Manager
 title: Livefyre. js를 사용하여 앱에 Authetication 추가
 uuid: B 7 C 61 E 07-E 341-45 D 7-9112-C 50155 E 38 F 1 D
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: a6aebcc14325632cab0415e4aa4a24fda8a19bfc
 
 ---
 

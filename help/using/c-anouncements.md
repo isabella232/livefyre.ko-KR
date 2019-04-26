@@ -6,7 +6,7 @@ solution: Experience Manager
 title: 공지 사항
 uuid: C 05963 DB -4 D 96-494 E-BDB 3-DA 3570 A 14 DFE
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 2e2c1a018e5ec58a3649bc27679d53390ffcc8ca
 
 ---
 

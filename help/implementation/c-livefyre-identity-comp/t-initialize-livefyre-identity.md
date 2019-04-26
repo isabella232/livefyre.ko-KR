@@ -5,7 +5,7 @@ seo-title: Livefyre ID 초기화
 title: Livefyre ID 초기화
 uuid: 9365 D 827-2734-4 A 84-BFE 7-9 BE 573 B 2 B 03 E
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 

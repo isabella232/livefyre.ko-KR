@@ -6,7 +6,7 @@ solution: Experience Manager
 title: 업로드 단추 텍스트 문자열
 uuid: F 4 D 24 AF 3-C 7 CB -468 D -96 B 9-B 5360047 B 5 DC
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 

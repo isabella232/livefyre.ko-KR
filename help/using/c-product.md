@@ -6,7 +6,7 @@ solution: Experience Manager
 title: Livefyre 정보
 uuid: B 864 AFE 0-9 CCB -4607-B 735-69 CE 42 CD 8199
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 

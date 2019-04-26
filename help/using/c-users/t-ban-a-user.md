@@ -8,7 +8,7 @@ solution: Experience Manager
 title: 사용자 차단
 uuid: CE 528 A 9 A -7137-4 C 2 B-A 445-194 FEAE 61879
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 

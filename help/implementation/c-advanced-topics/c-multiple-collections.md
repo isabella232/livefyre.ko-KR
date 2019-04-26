@@ -6,7 +6,7 @@ solution: Experience Manager
 title: 여러 컬렉션
 uuid: 9675 FFD 7-1 A 59-42 A 1-B 3 BA -40 AF 1744 CFD 1
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 5bf937c8cb1a9ca12216ee1884142b8787ff063e
 
 ---
 

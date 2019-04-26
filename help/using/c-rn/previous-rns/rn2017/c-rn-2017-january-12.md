@@ -5,7 +5,7 @@ seo-title: 2017 년 1 월 12 일
 title: 2017 년 1 월 12 일
 uuid: FB 92 EA 52-7184-4 F 08-814 C -15 E 45 D 684371
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 35feb87bb82d1f298496717a65f1972cf4e71104
 
 ---
 

@@ -6,7 +6,7 @@ solution: Experience Manager
 title: 주석 알림 기능
 uuid: 36907977-8233-4978-9413-232 C 7 B 2 FAE 20
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 

@@ -6,7 +6,7 @@ solution: Experience Manager
 title: RSS 규칙
 uuid: 3 C 9 E 2069-BB 85-41 DC -8 B 35-6237642 A 538 A
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 

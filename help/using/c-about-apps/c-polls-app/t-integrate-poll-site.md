@@ -6,7 +6,7 @@ solution: Experience Manager
 title: 댓글 또는 라이브 블로그 앱에 투표 추가
 uuid: EEDB 63 C 1-7 D 31-40 D 9-AB 3 E-B 15765 CBE 804
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 

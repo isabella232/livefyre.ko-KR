@@ -5,7 +5,7 @@ seo-title: livefyre. js를 페이지에 추가
 title: livefyre. js를 페이지에 추가
 uuid: FE 52446 E -4911-4160-A 68 C -7413 E 9 BC 6222
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 

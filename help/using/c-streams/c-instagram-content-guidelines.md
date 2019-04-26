@@ -6,7 +6,7 @@ solution: Experience Manager
 title: Instagram 콘텐츠 가이드라인
 uuid: 4 C 5 BA 96 B-A 242-407 F-AA 36-3 A 4 E 431832 B 8
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 0c5420fcb3ba2e12375e92d4574d0a6dff310869
 
 ---
 

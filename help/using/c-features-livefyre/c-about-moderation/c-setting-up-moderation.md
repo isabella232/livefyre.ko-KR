@@ -6,7 +6,7 @@ solution: Experience Manager
 title: 중재 설정
 uuid: 0 EC 53 FDB -08 C 2-4058-88 CB -2 F 6 F 4 B 56 A 95 B
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 09011bac06f4a1c39836455f9d16654952184962
 
 ---
 

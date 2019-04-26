@@ -6,7 +6,7 @@ solution: Experience Manager
 title: YouTube 규칙
 uuid: EC 6 A 3780-7119-45 C 3-8 AB 2-FB 0 F 9803 D 161
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 30aa5cce5e7567208362cc35caeb7b7260c42f3b
 
 ---
 

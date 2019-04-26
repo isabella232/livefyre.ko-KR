@@ -4,7 +4,7 @@ solution: Experience Manager
 title: 교육 비디오 액세스
 uuid: 64438 E 2 F-DD 51-4 C 10-98 FF-E 1 B 62 DB 1 B 0 CA
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 

@@ -5,7 +5,7 @@ seo-title: 호버카드
 title: 호버카드
 uuid: A 7336 A 4 D-B 92 F -4 B 3 B-A 3 DE -713 AA 388 B 58 A
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 09011bac06f4a1c39836455f9d16654952184962
 
 ---
 

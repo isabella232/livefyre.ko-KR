@@ -6,7 +6,7 @@ solution: Experience Manager
 title: Getcollectioncontent 컬렉션 메서드
 uuid: 270 DCEA 5-4 DE 5-4 D 3 B-A 751-79 E 6 B 9 C 4 FD 93
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 

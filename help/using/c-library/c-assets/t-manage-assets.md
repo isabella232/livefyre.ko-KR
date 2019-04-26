@@ -6,7 +6,7 @@ solution: Experience Manager
 title: 자산 세부 사항 보기
 uuid: 06 a 19 bca-d 7 b 9-431 b-abc 4-9 d 6 f 154901 b 9
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 

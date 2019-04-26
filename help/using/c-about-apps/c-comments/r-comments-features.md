@@ -6,7 +6,7 @@ solution: Experience Manager
 title: 주석 기능
 uuid: EC 00 FCC 9-1 B 5 E -4 D 0 B-B 1 DA -95 F 9 F 26 B 4 CC 1
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 09011bac06f4a1c39836455f9d16654952184962
 
 ---
 

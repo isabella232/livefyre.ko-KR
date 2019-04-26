@@ -6,7 +6,7 @@ solution: Experience Manager
 title: 앱 콘텐츠 탭
 uuid: 65 B 23085-2 B 79-4 A 6 F -96 C 9-44 B 421805312
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 0c5420fcb3ba2e12375e92d4574d0a6dff310869
 
 ---
 

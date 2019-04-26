@@ -6,7 +6,7 @@ solution: Experience Manager
 title: 동일한 스토리에서 여러 편집기를 사용한 작업
 uuid: C 9 B 8 BF 70-84 C 3-4 E 58-BBD 0-F 3 D 0 EA 74 FC 68
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 

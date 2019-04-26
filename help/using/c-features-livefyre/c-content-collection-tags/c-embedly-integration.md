@@ -6,7 +6,7 @@ solution: Experience Manager
 title: Embedly 통합
 uuid: 1 F 27 E 32 C-C 2 C 3-4 F 7 C -93 de-C 9 C 7 BF 783 D 6 A
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 09011bac06f4a1c39836455f9d16654952184962
 
 ---
 

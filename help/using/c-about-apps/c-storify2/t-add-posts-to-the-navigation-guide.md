@@ -6,7 +6,7 @@ solution: Experience Manager
 title: 탐색 안내서에 게시물 추가
 uuid: 6312 E 17 F -2886-43 CF -961 D -179 F 70 C 8421 E
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 

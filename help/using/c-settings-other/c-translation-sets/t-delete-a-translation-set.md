@@ -6,7 +6,7 @@ solution: Experience Manager
 title: 번역 세트 삭제
 uuid: 8 A 098100-E 51 E -4554-83 B 8-A 91 FDB 204 A 49
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 

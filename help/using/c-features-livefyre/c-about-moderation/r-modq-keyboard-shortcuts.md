@@ -5,7 +5,7 @@ seo-title: MODQ 키보드 단축키
 title: MODQ 키보드 단축키
 uuid: FC 4 E 7796-B 6 B 5-4782-A 0 FC-B 2326 CA 56 D 66
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 

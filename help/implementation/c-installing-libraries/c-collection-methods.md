@@ -6,7 +6,7 @@ solution: Experience Manager
 title: 컬렉션 클래스 메서드
 uuid: FD 3163 C 6-981 F -44 B 3-A 7 BA -6 B 4 E 85 B 0830 D
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 

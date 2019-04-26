@@ -6,7 +6,7 @@ solution: Experience Manager
 title: Sidenotes 구현
 uuid: AA 13852 E-E 2 B 0-4 A 86-97 CD-D 08 AB 5 E 2 CFAB
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 

@@ -6,7 +6,7 @@ solution: Experience Manager
 title: 스트림을 사용하여 스토리에 소셜 컨텐츠 추가
 uuid: 4999 C 880-A 896-4 AD 2-BF 8 F -3 FD 9736 A 64 D 6
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 

@@ -8,7 +8,7 @@ solution: Experience Manager
 title: 주요 API를 사용하여 주요 컨텐츠 취합
 uuid: E 9 C 9 FF 26-37 B 6-4328-AF 85-AA 550 E 7 FFDFD
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 

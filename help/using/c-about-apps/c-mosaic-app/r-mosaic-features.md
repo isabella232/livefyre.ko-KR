@@ -6,7 +6,7 @@ solution: Experience Manager
 title: 모자이크 기능
 uuid: 95129 d 56-A 4 C 4-42 D 5-8 C 68-C 5 FC 159017 E 6
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 09011bac06f4a1c39836455f9d16654952184962
 
 ---
 

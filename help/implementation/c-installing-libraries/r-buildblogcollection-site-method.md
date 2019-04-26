@@ -8,7 +8,7 @@ solution: Experience Manager
 title: Buildblogcollection 사이트 메서드
 uuid: 6 A 5 EC 6 B 9-BC 32-467 A-ABE 6-A 57 C 6 DEFE 067
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 

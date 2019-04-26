@@ -6,7 +6,7 @@ solution: Experience Manager
 title: 주요 컨텐츠
 uuid: 2204 A 989-69 B 3-440 D-BEAE -7 E 9 C 6 E 9 D 5698
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 09011bac06f4a1c39836455f9d16654952184962
 
 ---
 

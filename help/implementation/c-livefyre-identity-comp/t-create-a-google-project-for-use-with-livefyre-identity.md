@@ -6,7 +6,7 @@ solution: Experience Manager
 title: Livefyre ID와 함께 사용할 Google 프로젝트 만들기
 uuid: B 0 A 6 BB 8 A-ABEA -4 F 5 C -92 ED -026 E 60183 E 1 D
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 

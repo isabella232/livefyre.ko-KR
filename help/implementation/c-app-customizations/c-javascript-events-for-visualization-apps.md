@@ -6,7 +6,7 @@ solution: Experience Manager
 title: 시각화 앱에 대한 Javascript 이벤트
 uuid: 0797 C 384-7 E 8 E -44 FC -9738-A 10 A 48 D 490 CC
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 

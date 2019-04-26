@@ -4,7 +4,7 @@ solution: Experience Manager
 title: Livefyre 사용 안내서
 uuid: Ccdede 9 b -88 D 3-4 E 6 E -9105-662 E 984002 D 5
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 155791af94c277e7afdbd51521e00da77169911e
 
 ---
 
