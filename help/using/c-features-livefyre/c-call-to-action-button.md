@@ -27,15 +27,15 @@ source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 작업 컨텍스트
 
-1. Livefyre Studio **[!UICONTROL Settings]**에서를 클릭합니다.
-1. 왼쪽 레일에서 **[!UICONTROL CTAs]**를 클릭합니다.
+1. Livefyre Studio **[!UICONTROL Settings]** 에서를 클릭합니다.
+1. 왼쪽 레일에서 **[!UICONTROL CTAs]** 를 클릭합니다.
 
-   CTA 라이브러리가 나타납니다. 이 라이브러리는 폴더 내에서 CTA를 만들고 구성할 수 있습니다. 1. **[!UICONTROL Create CTA]**을 클릭합니다.
+   CTA 라이브러리가 나타납니다. 이 라이브러리는 폴더 내에서 CTA를 만들고 구성할 수 있습니다. 1. **[!UICONTROL Create CTA]** 을 클릭합니다.
 1. 원하는 사용자 정의 설정으로 필드를 채우면 CTA 작성 화면 하단에 단추 미리 보기가 렌더링됩니다.
 
    ![](assets/cta-button-create.png)
 
-1. **[!UICONTROL Create]**을 클릭합니다.
+1. **[!UICONTROL Create]** 을 클릭합니다.
 
    이제 CTA 단추를 자산에 추가할 수 있습니다.
 
@@ -43,9 +43,9 @@ source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 Livefyre Studio의 모든 컨텐츠에 CTA 버튼을 추가할 수 있습니다.
 
-1. Livefyre Studio에서 **[!UICONTROL Library]** > **[!UICONTROL All Assets]**로 이동합니다.
+1. Livefyre Studio에서 **[!UICONTROL Library]** > **[!UICONTROL All Assets]** 로 이동합니다.
 1. CTA 단추를 추가할 하나 이상의 자산에서 선택합니다.
-1. **[!UICONTROL CTAs]**을 클릭합니다.
+1. **[!UICONTROL CTAs]** 을 클릭합니다.
 
    ![](assets/cta-button-create2.png)
 

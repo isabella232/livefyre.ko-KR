@@ -15,7 +15,7 @@ source-git-commit: 155791af94c277e7afdbd51521e00da77169911e
 
 Livefyre에서 개인 정보 보고서를 보고 사용자의 Livefyre에 어떤 정보가 기록되었는지 확인합니다.
 
-1. **[!UICONTROL Settings > Privacy]**이동.
+1. **[!UICONTROL Settings > Privacy]** 이동.
 1. 목록에서 개인 정보 보고서를 클릭하여 봅니다.
 
 ![](assets/privacypage5.png)

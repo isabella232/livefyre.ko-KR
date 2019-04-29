@@ -18,7 +18,7 @@ Livefyre에서 개인정보 보호 요청 만들기를 참조하십시오.
 
 사용자를 검색하여 찾고 해당 컨텐츠에 대한 보고서를 생성하려면:
 
-1. 이동한 **[!UICONTROL Settings > Privacy]****[!UICONTROL Create Request]**다음을 클릭합니다.
+1. 이동한 **[!UICONTROL Settings > Privacy]** **[!UICONTROL Create Request]** 다음을 클릭합니다.
 
    ![](assets/privacypage1.png)
 
@@ -76,7 +76,7 @@ Livefyre에서 개인정보 보호 요청 만들기를 참조하십시오.
 
 
 
-1. **[!UICONTROL Finish]**을 클릭합니다.
+1. **[!UICONTROL Finish]** 을 클릭합니다.
 
    ![](assets/privacypage4.png)
 

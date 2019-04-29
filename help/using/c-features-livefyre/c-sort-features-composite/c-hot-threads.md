@@ -29,7 +29,7 @@ source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 인기도 점수가 있는 스트림에 스레드가 없으면 댓글이 표시되지 않고 사용자에게 메시지와 **[!UICONTROL There are not enough threads yet]** 링크가 표시됩니다 **[!UICONTROL See what’s new]**.
 
-핫 스레드 목록은 실시간 선택이 아니며 페이지를 새로 고치거나 다른 보기 (**[!UICONTROL Newest]** 또는 **[!UICONTROL Oldest]**) 를 선택한 경우에만 업데이트됩니다. 주석이 조정되고 보조 또는 트래치가 표시되면 목록에서 즉시 제거됩니다.
+핫 스레드 목록은 실시간 선택이 아니며 페이지를 새로 고치거나 다른 보기 (**[!UICONTROL Newest]** 또는 **[!UICONTROL Oldest]** ) 를 선택한 경우에만 업데이트됩니다. 주석이 조정되고 보조 또는 트래치가 표시되면 목록에서 즉시 제거됩니다.
 
 ## 소규모 회의 보기 {#section_zmf_ddl_wy}
 

@@ -23,6 +23,6 @@ source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 1. 라이브러리에서 에셋을 검색합니다.
 1. 사이트에 게시할 자산을 선택합니다.
-1. **[!UICONTROL Publish]**을 클릭합니다.
+1. **[!UICONTROL Publish]** 을 클릭합니다.
 
    **[!UICONTROL Publish to App]** 대화 상자가 열립니다 .1. 선택한 자산을 게시할 앱을 선택합니다.

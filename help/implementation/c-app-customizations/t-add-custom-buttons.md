@@ -15,7 +15,7 @@ source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 Livefyre 앱에 맞춤형 액션을 추가할 수 있습니다.
 
-Livefyre를 사용하면 컨텐츠의 기존 작업 단추 (예 **[!UICONTROL Share]**: 및 **[!UICONTROL Flag]**) 옆에 사용자 정의 단추를 추가할 수 있습니다.
+Livefyre를 사용하면 컨텐츠의 기존 작업 단추 (예 **[!UICONTROL Share]** : 및 **[!UICONTROL Flag]** ) 옆에 사용자 정의 단추를 추가할 수 있습니다.
 
 mobile 인수를 사용하여 단추가 모바일 장치에 표시되는지 여부를 정의합니다.
 

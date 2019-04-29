@@ -16,7 +16,7 @@ Instagram에서 컨텐츠를 가져오는 스트림 규칙을 만들 수 있습�
 
 >[!NOTE]
 >
->Instagram 스트림을 만들기 전에 하나 이상의 Instagram 비즈니스 계정을의 **[!UICONTROL Social Accounts]** 섹션에 추가해야 **[!UICONTROL Network Settings]**합니다. Instagram 계정을 구성하는 방법에 대한 자세한 내용은 Instagram 계정 [정보를](../c-users-creating-accounts-with-studio-access/t-configure-social-accout-instagram/c-about-instagram-accounts.md#c_about_instagram_accounts)참조하십시오.
+>Instagram 스트림을 만들기 전에 하나 이상의 Instagram 비즈니스 계정을의 **[!UICONTROL Social Accounts]** 섹션에 추가해야 **[!UICONTROL Network Settings]** 합니다. Instagram 계정을 구성하는 방법에 대한 자세한 내용은 Instagram 계정 [정보를](../c-users-creating-accounts-with-studio-access/t-configure-social-accout-instagram/c-about-instagram-accounts.md#c_about_instagram_accounts)참조하십시오.
 
 @ mentions 또는 해시 태그를 기반으로 Instagram 규칙을 만듭니다.
 
@@ -52,6 +52,6 @@ Instagram 규칙을 만들어 Instagram 피드에서 앱 또는 폴더로 콘텐
 
 * **[!UICONTROL Additional Filters]**
 
-   * 스트림 포함 **[!UICONTROL All Content]**여부를 **[!UICONTROL Videos Only]****[!UICONTROL Photos Only]** 선택합니다.
+   * 스트림 포함 **[!UICONTROL All Content]** 여부를 **[!UICONTROL Videos Only]** **[!UICONTROL Photos Only]** 선택합니다.
 
 모든 스트림 규칙에 대한 추가 스트림 규칙 옵션은 모든 스트림 규칙에 [대한 스트림 규칙 옵션을 참조하십시오](../c-streams/c-stream-rule-options-for-all-stream-rules.md#c_stream_rule_options_for_all_stream_rules).

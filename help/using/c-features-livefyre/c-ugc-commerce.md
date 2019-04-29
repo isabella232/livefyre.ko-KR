@@ -67,7 +67,7 @@ AEM 커머스 사용자는 기존 제품 카탈로그를 Livefyre에 완벽하�
 >기존 파일이 있는 폴더에 파일을 업로드하면 해당 폴더의 파일이 모두 삭제되고 새 파일로 덮어씁니다.
 
 1. Navigate to **[!UICONTROL Network Settings > Products.]**
-1. A **[!UICONTROL Product Folder]** 를 만들거나 기존 **[!UICONTROL Product Folder]**요소를 사용합니다.
+1. A **[!UICONTROL Product Folder]** 를 만들거나 기존 **[!UICONTROL Product Folder]** 요소를 사용합니다.
 
 1. **[!UICONTROL Product Folder]** 을 클릭하여 선택합니다.
 1. **[!UICONTROL Upload Products]** 단추를 클릭합니다.

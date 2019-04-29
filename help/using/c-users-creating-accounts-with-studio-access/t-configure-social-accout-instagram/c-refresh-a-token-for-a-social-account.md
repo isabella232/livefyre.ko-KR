@@ -32,4 +32,4 @@ Instagram 비즈니스 계정은 만료되는 Facebook 토큰을 사용합니다
 
    ).
 
-**[!UICONTROL Network Settings]** > **[!UICONTROL Social Accounts]** > 계정의 옆에 있는 새로 고침 토큰을 클릭하여 토큰을 새로 고칠 **[!UICONTROL Instagram Accounts]**수 있습니다.
+**[!UICONTROL Network Settings]** > **[!UICONTROL Social Accounts]** > 계정의 옆에 있는 새로 고침 토큰을 클릭하여 토큰을 새로 고칠 **[!UICONTROL Instagram Accounts]** 수 있습니다.

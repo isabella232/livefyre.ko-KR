@@ -19,7 +19,7 @@ Livefyre 앱을 사용하면 사용자가 컨텐츠를 완벽하고 직관적으
 
 ## POST {#section_bty_ww2_wy}
 
-사용자는 편집기 상자에 댓글 또는 미디어 링크를 입력하고를 클릭하여 로그인하면 컨텐츠를 게시할 **[!UICONTROL Post comment]**수 있습니다.
+사용자는 편집기 상자에 댓글 또는 미디어 링크를 입력하고를 클릭하여 로그인하면 컨텐츠를 게시할 **[!UICONTROL Post comment]** 수 있습니다.
 
 로그인하지 않았을 때 컨텐츠를 게시하려면 편집기에 댓글 또는 미디어 링크를 입력하고를 클릭합니다 **[!UICONTROL Post comment as…]**. 로그인 창이 나타나 로그인에 표시됩니다.
 
@@ -67,7 +67,7 @@ Livefyre 앱을 사용하면 사용자가 컨텐츠를 완벽하고 직관적으
 
 사용자는 컨텐츠 위로 마우스를 가져가면 표시되는 **[!UICONTROL Flag]** 링크를 클릭하여 다른 사용자의 컨텐츠에 플래그를 지정할 수 있습니다.
 
-이 링크를 클릭하면 플래그가 표시되므로 사용자가 컨텐츠에 **[!UICONTROL Offensive]****[!UICONTROL Disagree]**, **[!UICONTROL Off Topic]**또는 **[!UICONTROL Spam]**으로 플래그를 지정할 수 있습니다. 플래그 및 이메일 주소는 플래그와 함께 추가할 수 있습니다.
+이 링크를 클릭하면 플래그가 표시되므로 사용자가 컨텐츠에 **[!UICONTROL Offensive]** **[!UICONTROL Disagree]**, **[!UICONTROL Off Topic]** 또는 **[!UICONTROL Spam]** 으로 플래그를 지정할 수 있습니다. 플래그 및 이메일 주소는 플래그와 함께 추가할 수 있습니다.
 
 사용자는 주석을 달기 위해 로그인할 필요가 없으므로 계정을 만들지 않고도 중재에 대한 주석을 달 수 있습니다.
 
@@ -79,7 +79,7 @@ Livefyre 앱을 사용하면 사용자가 컨텐츠를 완벽하고 직관적으
 
 ## sort {#section_bpg_nwx_vy}
 
-스트리밍 컨텐츠는 스트림 상단에 있는 또는 **[!UICONTROL Newest]****[!UICONTROL Oldest]** 링크를 클릭하여 오래된 것, 최신 처음 (기본값) 또는 가장 오래된 순으로 정렬될 수 있습니다.
+스트리밍 컨텐츠는 스트림 상단에 있는 또는 **[!UICONTROL Newest]** **[!UICONTROL Oldest]** 링크를 클릭하여 오래된 것, 최신 처음 (기본값) 또는 가장 오래된 순으로 정렬될 수 있습니다.
 
 ## 축소/확장 {#section_ypt_qr4_h1b}
 

@@ -21,7 +21,7 @@ Instagram 및 Twitter 게시물에 대한 권한 요청 설정을 정의합니�
 >
 >권한 관리는 네트워크 수준에서만 구성할 수 있습니다. 사이트별 권한 관리는 구성할 수 없습니다.
 
-1. Livefyre Studio에서 **[!UICONTROL Network]****[!UICONTROL Settings > Rights Management]**로 이동합니다.
+1. Livefyre Studio에서 **[!UICONTROL Network]** **[!UICONTROL Settings > Rights Management]** 로 이동합니다.
 
    >[!NOTE]
    >

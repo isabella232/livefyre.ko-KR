@@ -28,9 +28,9 @@ source-git-commit: 3a50e3cfce40a74ce1ee354a9ce28da17eb85463
 
 1. 검색 기준을 입력한 후를 클릭하여 **[!UICONTROL Show Filter]** 검색을 세분화합니다.
 
-   * **[!UICONTROL Sort By:]** 반환된 결과를 정렬 또는 **[!UICONTROL Recently Added]**정렬할지 여부를 선택할 수 **[!UICONTROL Most Popular]**있습니다.
+   * **[!UICONTROL Sort By:]** 반환된 결과를 정렬 또는 **[!UICONTROL Recently Added]** 정렬할지 여부를 선택할 수 **[!UICONTROL Most Popular]** 있습니다.
 
-   * **[!UICONTROL Only Include:]** 반환된 컨텐츠를 **[!UICONTROL Links]** 포함된 컨텐츠로만 제한할 수 **[!UICONTROL Media]**있습니다.
+   * **[!UICONTROL Only Include:]** 반환된 컨텐츠를 **[!UICONTROL Links]** 포함된 컨텐츠로만 제한할 수 **[!UICONTROL Media]** 있습니다.
 
    * **[!UICONTROL Tweet Types:]** 리트윗으로만 수익을 제한할 수 있습니다.
    * **[!UICONTROL Location:]** Geotagged 컨텐츠가 포함될 반경을 정의할 수 있습니다. 위치 모델을 사용하여 구/군/시를 입력하고 슬라이더 막대를 사용하여 컨텐츠를 소스로 제공할 반경을 정의합니다.
@@ -42,4 +42,4 @@ source-git-commit: 3a50e3cfce40a74ce1ee354a9ce28da17eb85463
 
 >= 반환되는 결과가 가장 최근부터 가장 적게 표시됩니다.
 
-검색과 일치하는 항목이 격자 보기에 표시됩니다. 항목 위에 마우스를 놓고 **[!UICONTROL View Details]**에셋 라이브러리 또는 앱에 **[!UICONTROL Publish]** 추가합니다.
+검색과 일치하는 항목이 격자 보기에 표시됩니다. 항목 위에 마우스를 놓고 **[!UICONTROL View Details]** 에셋 라이브러리 또는 앱에 **[!UICONTROL Publish]** 추가합니다.

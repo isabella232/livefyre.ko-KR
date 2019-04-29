@@ -50,7 +50,7 @@ Facebook 계정을 사용하여 로그인을 활성화하려면:
 
 1. **[!UICONTROL Enable Login with Facebook]** 전환 스위치를 전환합니다 **[!UICONTROL ON]**.
 
-1. Facebook 앱의 **[!UICONTROL App ID]** 및 **[!UICONTROL App Secret]**을 추가합니다.
+1. Facebook 앱의 **[!UICONTROL App ID]** 및 **[!UICONTROL App Secret]** 을 추가합니다.
 
    이러한 값은 https://developers.facebook.com/apps/에서 [제공하는 앱의 Facebook 개발자 대시보드에 나열되어](https://developers.facebook.com/apps/675503539257343/dashboard/)있습니다.
 
@@ -62,9 +62,9 @@ Google + 계정을 사용하여 로그인을 활성화하려면:
 
 1. **[!UICONTROL Enable Login with Google]** 전환 스위치를 전환합니다 **[!UICONTROL ON]**.
 
-1. Google 앱의 **[!UICONTROL Client ID]** 및 **[!UICONTROL Client secret]**을 추가합니다.
+1. Google 앱의 **[!UICONTROL Client ID]** 및 **[!UICONTROL Client secret]** 을 추가합니다.
 
-   이러한 값은 https://console.cloud.google.com/에서 [제공하는 Google Cloud Platform 프로젝트 인터페이스에 나열되어](https://console.cloud.google.com/apis/library)있습니다. 이 정보를 검색하려면 이동한 다음 **[!UICONTROL API Manager > Credentials]**프로젝트 이름을 클릭합니다.
+   이러한 값은 https://console.cloud.google.com/에서 [제공하는 Google Cloud Platform 프로젝트 인터페이스에 나열되어](https://console.cloud.google.com/apis/library)있습니다. 이 정보를 검색하려면 이동한 다음 **[!UICONTROL API Manager > Credentials]** 프로젝트 이름을 클릭합니다.
 
 ## Twitter 계정을 사용하여 로그인 활성화 {#section_iyz_wb5_bbb}
 
@@ -76,7 +76,7 @@ Twitter 계정을 사용하여 로그인을 활성화하려면:
 
 1. Twitter 앱을 **[!UICONTROL Consumer Key (API Key)]** 추가합니다 **[!UICONTROL Consumer Secret (API Secret)]**.
 
-   이러한 값은 https://apps.twitter.com/에서 제공하는 Twitter 앱의 **[!UICONTROL Keys and Access Tokens]**[페이지에 나열되어](https://apps.twitter.com/)있습니다.
+   이러한 값은 https://apps.twitter.com/에서 제공하는 Twitter 앱의 **[!UICONTROL Keys and Access Tokens]** [페이지에 나열되어](https://apps.twitter.com/)있습니다.
 
 ## Yahoo! account {#section_s1q_3c5_bbb}
 
@@ -96,11 +96,11 @@ Microsoft Live ID 계정을 Livefyre에 연결하면 사용자가 Microsoft Live
 
 Microsoft Live ID 계정을 사용하여 로그인을 활성화하려면:
 
-1. 에서 **[!UICONTROL Livefyre > Integration Settings > Livefyre Identity > Microsoft Live]****[!UICONTROL Enable Microsoft Live Login]** 전환 스위치를 **[!UICONTROL On]**전환합니다.
+1. 에서 **[!UICONTROL Livefyre > Integration Settings > Livefyre Identity > Microsoft Live]** **[!UICONTROL Enable Microsoft Live Login]** 전환 스위치를 **[!UICONTROL On]** 전환합니다.
 
-1. **[!UICONTROL Microsoft Live Client ID (Private Key)]** AND **[!UICONTROL Microsoft Live Client Secret (Password)]**를 입력합니다.
+1. **[!UICONTROL Microsoft Live Client ID (Private Key)]** AND **[!UICONTROL Microsoft Live Client Secret (Password)]** 를 입력합니다.
 
-1. **[!UICONTROL Save Settings]**을 클릭합니다.
+1. **[!UICONTROL Save Settings]** 을 클릭합니다.
 
    **[!UICONTROL Microsoft Live Client ID (Private Key)]** AND **[!UICONTROL Microsoft Live Client Secret (Password)]** 값은 Microsoft Live ID 앱 세부 사항 페이지에 나와 있습니다.
 
@@ -109,6 +109,6 @@ Microsoft Live ID 계정을 사용하여 로그인을 활성화하려면:
 사용자가 사이트에서 앱에 대한 Livefyre ID 구현을 사용하도록 할 수 있습니다.
 
 1. 앱을 제작합니다.
-1. **[!UICONTROL Studio]** > **[!UICONTROL Settings]** > **[!UICONTROL Integration Settings]**>로 이동합니다 **[!UICONTROL Livefyre Identity]**.
+1. **[!UICONTROL Studio]** > **[!UICONTROL Settings]** > **[!UICONTROL Integration Settings]** >로 이동합니다 **[!UICONTROL Livefyre Identity]**.
 
 1. 제작한 앱에 필요한 앱 자격 증명을 입력합니다.

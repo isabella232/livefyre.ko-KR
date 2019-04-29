@@ -17,8 +17,8 @@ source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 사용자는 각 검토 컬렉션에 최대 한 개의 검토를 게시할 수 있습니다. 로그인한 사용자만 검토를 게시할 수 있습니다.
 
-1. **[!UICONTROL Write review]**을 클릭합니다. 검토 편집기가 표시됩니다.
-1. (최대 150 **[!UICONTROL Review Title]**자) 를 입력합니다.
+1. **[!UICONTROL Write review]** 을 클릭합니다. 검토 편집기가 표시됩니다.
+1. (최대 150 **[!UICONTROL Review Title]** 자) 를 입력합니다.
 1. (약 8000 **[!UICONTROL Review Body]** 자) 를 입력합니다. **[!UICONTROL Review Body]** 필드를 클릭하면 리치 텍스트 서식, 친구 언급, 소셜 공유 및 검토 게시 등 사용 가능한 모든 기능이 편집기 아래쪽에 표시됩니다.
 1. [검토 편집] 영역 위에 있는 별을 클릭하여 A **[!UICONTROL Rating]** 를 선택합니다.
 1. 컬렉션을 **[!UICONTROL Post review]** 클릭하여 컬렉션에 게시하고 스트림 맨 위에 표시합니다.

@@ -27,7 +27,7 @@ Permalinks를 사용하면 스트림 내의 보관된 댓글 또는 컨텐츠에
 
 대화를 공유할 때 주석에 대한 사용자 정의 링크를 만들려면 표준 Livefyre 단축된 URL (fyre. it) 이 아닌 bitly 계정을 사용할 수 있습니다. bitly 계정을 사용하면 Permalink를 클릭할 때 사이트에서 컨텐츠를 방문할 것임을 사용자에게 상기시켜 줍니다.
 
-이 기능을 구현하려면 bitly API **[!UICONTROL Studio > Settings > Integration Settings > Social Sharing]**키와 사용자 이름을 입력하고 입력하십시오.
+이 기능을 구현하려면 bitly API **[!UICONTROL Studio > Settings > Integration Settings > Social Sharing]** 키와 사용자 이름을 입력하고 입력하십시오.
 
 >[!NOTE]
 >

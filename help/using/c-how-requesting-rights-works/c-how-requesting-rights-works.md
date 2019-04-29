@@ -20,8 +20,8 @@ source-git-commit: 09011bac06f4a1c39836455f9d16654952184962
 
 * **[!UICONTROL Granted]**. 작성자가 컨텐트를 재사용할 권한을 부여하면 자산의 상태가 변경됩니다 **[!UICONTROL Granted]**.
 
-* **[!UICONTROL Expired]**. Livefyre는 14 일 동안 작성자의 답글을 위해 Instagram와 Twitter 스트림을 모니터링합니다. 14 일 후 요청이 만료되고 Rights Request 상태가로 **[!UICONTROL Expired]**변경되고 두 번째 요청을 보내거나 라이브러리에서 항목을 제거할 수 있습니다.
-* **[!UICONTROL Requested]**. 라이브러리의 콘텐트에 대한 권한을 요청합니다. 한 번에 하나 이상의 자산에 대해 이 작업을 수행할 수 있습니다. 권한 요청 후 Livefyre는 자산 상태를로 **[!UICONTROL Requested]**설정합니다.
+* **[!UICONTROL Expired]**. Livefyre는 14 일 동안 작성자의 답글을 위해 Instagram와 Twitter 스트림을 모니터링합니다. 14 일 후 요청이 만료되고 Rights Request 상태가로 **[!UICONTROL Expired]** 변경되고 두 번째 요청을 보내거나 라이브러리에서 항목을 제거할 수 있습니다.
+* **[!UICONTROL Requested]**. 라이브러리의 콘텐트에 대한 권한을 요청합니다. 한 번에 하나 이상의 자산에 대해 이 작업을 수행할 수 있습니다. 권한 요청 후 Livefyre는 자산 상태를로 **[!UICONTROL Requested]** 설정합니다.
 * **[!UICONTROL Needs Review]**. 작성자가 # Approvalhashtag를 포함하지 않는 메모로 답글을 달 경우 자산의 상태가 변경됩니다 **[!UICONTROL Needs Review]**.
 
 * **[!UICONTROL Request Failed]**. 요청을 보내지 못했습니다 (토큰 만료 때문).

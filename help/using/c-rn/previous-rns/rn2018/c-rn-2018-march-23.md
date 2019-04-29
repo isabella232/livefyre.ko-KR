@@ -24,7 +24,7 @@ source-git-commit: 35feb87bb82d1f298496717a65f1972cf4e71104
    1. 클라이언트 OAuth 설정의 **[!UICONTROL Valid OAuth redirect URIs]** 필드에 다음 URL를 추가합니다. 올바른 `<networkname>` 네트워크 이름으로 바꾸기:
       `https://identity.livefyre.com/<networkname>/api/v1.0/public/profile/social/complete/facebook_fyre`
 
-   1. 으로 전환합니다 **[!UICONTROL Use Strict Mode for Redirect URI]****[!UICONTROL Yes]**.
+   1. 으로 전환합니다 **[!UICONTROL Use Strict Mode for Redirect URI]** **[!UICONTROL Yes]**.
 
 * **UAT의 새로운 기능:** 이제 스트림에서 스마트 태그에 대한 신뢰 임계값을 선택할 수 있습니다. 태그에 대한 정밀도 점수 (0-100) 를 설정하면 검색하는 자산의 정확도를 제어할 수 있습니다.
 

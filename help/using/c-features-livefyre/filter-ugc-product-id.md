@@ -31,16 +31,16 @@ source-git-commit: 76efa427b59a709009a3c2d3744ea65e0c959816
 1. UGC를 필터링할 제품 또는 제품이 들어 있는 최상위 제품 폴더를 선택합니다.
 CTRL/Command 키를 누른 상태로 여러 폴더를 선택합니다.
 
-1. **[!UICONTROL Show related content]**비활성화.
+1. **[!UICONTROL Show related content]** 비활성화.
 활성화되면 `data-lf-attr-product` 속성을 사용하여 필터링된 컨텐츠가 먼저 표시되고 앱의 다른 모든 컨텐츠가 먼저 표시됩니다.
 
-1. **[!UICONTROL Publish]**을 클릭합니다.
+1. **[!UICONTROL Publish]** 을 클릭합니다.
 
 1. 결과 코드에 필터링할 제품 ID를 삽입합니다.
 
 >[!NOTE]
 >
->제품 ID를 찾으려면 **[!UICONTROL Settings > Products]**으로 이동합니다. 원하는 제품을 찾아 선택하면 ID가 표시됩니다.
+>제품 ID를 찾으려면 **[!UICONTROL Settings > Products]** 으로 이동합니다. 원하는 제품을 찾아 선택하면 ID가 표시됩니다.
 
 예를 들어 다음 코드가 미디어 담벼락 앱에 대해 생성됩니다.
 

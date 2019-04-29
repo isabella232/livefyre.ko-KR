@@ -23,16 +23,16 @@ source-git-commit: 09011bac06f4a1c39836455f9d16654952184962
 
 등록된 각 Livefyre 사용자의 경우 다음 정보가 표시됩니다 (가능한 경우).
 
-* **[!UICONTROL Username]**: 네트워크의 사용자 이름입니다.
-* **[!UICONTROL Display name]**: 네트워크의 표시 이름입니다.
-* **[!UICONTROL Avatar]**: 네트워크용 아바타입니다.
+* **[!UICONTROL Username]** : 네트워크의 사용자 이름입니다.
+* **[!UICONTROL Display name]** : 네트워크의 표시 이름입니다.
+* **[!UICONTROL Avatar]** : 네트워크용 아바타입니다.
 * **[!UICONTROL Total number of posts]** 작성자가 네트워크를 사용하는 경우: Studio에서 해당 사용자의 콘텐트 목록에 연결합니다. 합계는 승인된 조각의 수, 보류 중, 보조 또는 트래치로 표시됩니다.
-* **[!UICONTROL Total #Flags]**: 이 작성자의 게시물에 적용되는 총 플래그 수입니다.
-* **[!UICONTROL Join date]**: 네트워크에서 사용자 계정을 만든 날짜입니다.
-* **[!UICONTROL Email]**: 나열된 이메일 주소입니다.
-* **[!UICONTROL IP Address]**: Livefyre에 의해 결정된 IP 주소.
-* **[!UICONTROL Bio]**: 사용자에 대한 설명입니다.
-* **[!UICONTROL Bans]**: 사용자가 금지했거나 보고되는 사이트를 나열합니다.
-* **[!UICONTROL Whitelists]**: 사용자가 화이트리스트에 가입한 사이트를 나열합니다.
+* **[!UICONTROL Total #Flags]** : 이 작성자의 게시물에 적용되는 총 플래그 수입니다.
+* **[!UICONTROL Join date]** : 네트워크에서 사용자 계정을 만든 날짜입니다.
+* **[!UICONTROL Email]** : 나열된 이메일 주소입니다.
+* **[!UICONTROL IP Address]** : Livefyre에 의해 결정된 IP 주소.
+* **[!UICONTROL Bio]** : 사용자에 대한 설명입니다.
+* **[!UICONTROL Bans]** : 사용자가 금지했거나 보고되는 사이트를 나열합니다.
+* **[!UICONTROL Whitelists]** : 사용자가 화이트리스트에 가입한 사이트를 나열합니다.
 
 앱 콘텐츠 탭에서 사용자를 중재하는 방법에 대한 자세한 내용은 앱 콘텐츠 [사용 중재를 참조하십시오](/help/using/c-features-livefyre/c-about-moderation/c-moderate-content-using-app-content.md#c_moderate_content_using_app_content).

@@ -39,7 +39,7 @@ source-git-commit: 09011bac06f4a1c39836455f9d16654952184962
 
 비속어 목록, 안전한 필터 및 규칙을 설정한 후에는 컨텐츠를 미리 중재하고 스트림에 안전 필터를 적용할지 여부를 선택할 수 있습니다. 자세한 내용은 모든 스트림 규칙에 [대한 스트림 규칙 옵션을 참조하십시오](/help/using/c-streams/c-stream-rule-options-for-all-stream-rules.md#c_stream_rule_options_for_all_stream_rules).
 
-Livefyre는 컨텐츠를 **[!UICONTROL Approved]****[!UICONTROL Pending]**, **[!UICONTROL Junk]**등으로 표시 컨텐츠가 어디에서 오는지, 어디에서 게시될지와 시스템에 설정한 규칙에 따라 달라집니다. 다음 표에서는 이러한 요인에 따라 Livefyre가 수행하는 작업에 대해 자세히 설명합니다.
+Livefyre는 컨텐츠를 **[!UICONTROL Approved]** **[!UICONTROL Pending]**, **[!UICONTROL Junk]** 등으로 표시 컨텐츠가 어디에서 오는지, 어디에서 게시될지와 시스템에 설정한 규칙에 따라 달라집니다. 다음 표에서는 이러한 요인에 따라 Livefyre가 수행하는 작업에 대해 자세히 설명합니다.
 
 ## 조정 작동 방식
 
@@ -99,7 +99,7 @@ Livefyre는 컨텐츠를 **[!UICONTROL Approved]****[!UICONTROL Pending]**, **[!
 
 * ****[!UICONTROL Trash it:]플래그가 달린 댓글을 휴지통에 보냅니다.
 * **[!UICONTROL Bozo it:]** 플래그가 지정된 주석을 제외한 모든 사용자가 볼 수 있는 상태로 숨겨진 주석을 숨깁니다.
-* **[!UICONTROL Pending:]** 컨텐츠를 대기 중으로 설정합니다. 중재를 **[!UICONTROL Settings > ModQ]**켬으로 설정하면 MODQ에 있게 됩니다. 그렇지 않으면 앱 컨텐츠에만 적용됩니다.
+* **[!UICONTROL Pending:]** 컨텐츠를 대기 중으로 설정합니다. 중재를 **[!UICONTROL Settings > ModQ]** 켬으로 설정하면 MODQ에 있게 됩니다. 그렇지 않으면 앱 컨텐츠에만 적용됩니다.
 
 >[!NOTE]
 >
@@ -116,7 +116,7 @@ Livefyre는 컨텐츠를 **[!UICONTROL Approved]****[!UICONTROL Pending]**, **[!
 
    ![](assets/image_mod_reco_trash.png)
 
-1. 중재 권장 사항이 트랩될 가능성이 있는 컨텐츠로 식별되는 컨텐츠로 어떻게 해야 할지 Livefyre에게 알리는 안전 규칙을 설정합니다. 옵션에 대한 안전 규칙을 설정하는 방법에 대한 자세한 내용은 **[!UICONTROL Livefyre Recommends Trash]**[중재를 참조하십시오](/help/using/c-features-livefyre/c-about-moderation/c-moderation.md#c_moderation).
+1. 중재 권장 사항이 트랩될 가능성이 있는 컨텐츠로 식별되는 컨텐츠로 어떻게 해야 할지 Livefyre에게 알리는 안전 규칙을 설정합니다. 옵션에 대한 안전 규칙을 설정하는 방법에 대한 자세한 내용은 **[!UICONTROL Livefyre Recommends Trash]** [중재를 참조하십시오](/help/using/c-features-livefyre/c-about-moderation/c-moderation.md#c_moderation).
 
    ![](assets/modreco4.png)
 

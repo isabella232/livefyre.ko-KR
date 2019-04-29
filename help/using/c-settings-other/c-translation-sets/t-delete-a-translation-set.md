@@ -22,7 +22,7 @@ source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 >네트워크, 사이트 또는 앱이 사용 중인 번역 세트를 삭제할 수 있습니다. Studio는 번역 세트가 사용 중임을 알리지만, 번역 세트를 삭제할 수 있도록 합니다. 번역 세트를 삭제하면 복구할 수 없습니다.
 
 1. 스튜디오 설정으로 이동합니다. 사이트 수준이 아닌 네트워크 수준으로 작업하고 있는지 확인합니다.
-1. **[!UICONTROL Network Settings]**Select.
-1. **[!UICONTROL Translation Sets]**Select.
+1. **[!UICONTROL Network Settings]** Select.
+1. **[!UICONTROL Translation Sets]** Select.
 1. 삭제할 번역 세트 옆에 있는 휴지통 아이콘을 클릭합니다.
 1. 번역 세트를 삭제할지 확인합니다.

@@ -23,7 +23,7 @@ Adobe Livefyre 사용 방법에 따라 Instagram는 소셜 계정에 대한 다�
 
 Social 계정을 구성하려면:
 
-1. Navigate to **[!UICONTROL Settings >]****[!UICONTROL Network Settings.]**
+1. Navigate to **[!UICONTROL Settings >]** **[!UICONTROL Network Settings.]**
 1. 아래 **[!UICONTROL Social Accounts]** 섹션으로 이동합니다 **[!UICONTROL Network Settings]**.
 1. 추가할 소셜 계정 **[!UICONTROL Add Account]** 유형 아래에서 클릭합니다. Livefyre의 계정을 승인할 수 있는 대화 상자가 나타납니다.
 

@@ -23,14 +23,14 @@ Livefyre 이벤트를 Adobe Analytics 보고서 세트 관리자에서 하나 �
 1. Adobe Analytics에 관리자 사용자로 로그인합니다.
 1. Adobe Analytics 관리자 보고서 세트 관리자를 엽니다.
 1. 새 보고서 세트를 만들거나 기존 보고서 세트를 선택합니다.
-1. 수정할 보고서 세트를 클릭하여 보고서 세트를 편집한 **[!UICONTROL Edit Settings > Conversion > Success Events]**다음 이동합니다.
+1. 수정할 보고서 세트를 클릭하여 보고서 세트를 편집한 **[!UICONTROL Edit Settings > Conversion > Success Events]** 다음 이동합니다.
 1. Livefyre 이벤트를 하나 이상의 사용자 지정 성공 이벤트에 매핑합니다.
 
 ## 2 단계: 전환 변수 설정
 
 Livefyre 전환 변수 (evar) 를 Adobe Analytics 관리자 보고서 세트 관리자의 전환 변수에 매핑합니다. 전환 변수는 Livefyre 이벤트에서 수집한 데이터를 식별하는 방법을 결정하는 정렬 함수처럼 작동합니다.
 
-1. **[!UICONTROL Edit Settings > Conversion > Conversion Variables]**를 클릭합니다.
+1. **[!UICONTROL Edit Settings > Conversion > Conversion Variables]** 를 클릭합니다.
 1. 사용할 사용자 지정 전환 변수 (Evar) 를 선택하고 Livefyre 전환 변수에 매핑합니다. Livefyre 전환 변수를 사용자 지정 전환 변수에 매핑하려면:
 * 전환 변수 활성화
 * 전환 변수 이름 지정
@@ -47,7 +47,7 @@ Livefyre 이벤트로 설정한 보고서 세트에 대해 속성 또는 도구 
 1. 기존 Adobe Analytics 도구를 만들거나 편집합니다.
 1. 기존 Adobe Analytics 도구가 존재하지 않는 경우 **[!UICONTROL Add a Tool]** 단추를 클릭합니다.
 도구에 대해 다음 매개 변수를 설정합니다.
-* 으로 설정합니다 **[!UICONTROL Tool Type]****[!UICONTROL Adobe Analytics]**.
+* 으로 설정합니다 **[!UICONTROL Tool Type]** **[!UICONTROL Adobe Analytics]**.
 * 활성화 **[!UICONTROL Automatic Configuration]**.
 * 활성화 **[!UICONTROL Authenticate via Marketing Cloud]**.
 1. Livefyre Events로 보고서 세트의 이름을 **[!UICONTROL Report Suites]** 필드에 추가하거나 확인합니다.
@@ -61,14 +61,14 @@ Livefyre 이벤트로 설정한 보고서 세트에 대해 속성 또는 도구 
 >이벤트 기반 규칙 또는 직접 호출 규칙을 사용하지 마십시오.
 
 1. DTM에서 **[!UICONTROL Rules]** 탭을 선택합니다.
-1. **[!UICONTROL Page Load Rules]**을 클릭합니다.
+1. **[!UICONTROL Page Load Rules]** 을 클릭합니다.
 1. **[!UICONTROL Create New Rule]** 단추를 클릭합니다.
 1. 단추를 클릭하여 **[!UICONTROL Conditions]** 섹션을 **[!UICONTROL Plus]** 엽니다.
-1. 규칙을 트리거합니다. 규칙을 비동기식으로 지연하거나 구현하려는 경우 유형을 선택하거나 **[!UICONTROL DOM Ready]****[!UICONTROL Onload]** 트리거합니다.
+1. 규칙을 트리거합니다. 규칙을 비동기식으로 지연하거나 구현하려는 경우 유형을 선택하거나 **[!UICONTROL DOM Ready]** **[!UICONTROL Onload]** 트리거합니다.
 1. (선택 사항) Livefyre 앱을 표시하는 페이지를 제한하는 추가 매개 변수를 추가합니다. 추가 구성 옵션에 대한 자세한 내용은 [DTM](https://marketing.adobe.com/resources/help/en_US/dtm/c_overview.html)를 참조하십시오.
-1. 아래에서 **[!UICONTROL Javascript/ Third Party Tags]****[!UICONTROL Non-sequential]** 탭을 클릭한 다음을 클릭합니다 **[!UICONTROL Add New Script]**.
+1. 아래에서 **[!UICONTROL Javascript/ Third Party Tags]** **[!UICONTROL Non-sequential]** 탭을 클릭한 다음을 클릭합니다 **[!UICONTROL Add New Script]**.
 1. 스크립트 **[!UICONTROL Sequential HTML]** 유형으로 선택합니다.
-1. 다음 스크립트를 코드 편집기에 추가하고 **[!UICONTROL Save Code]**를 클릭합니다.
+1. 다음 스크립트를 코드 편집기에 추가하고 **[!UICONTROL Save Code]** 를 클릭합니다.
 다음 스크립트는 Livefyre JavaScript 로드 후 `livefyre_analytics` 직접 호출 규칙을 호출합니다. 다음 스크립트 예제는 400 ms가 페이지에 `livefyre.analytics` 있는지 확인하기 위해 확인합니다. 페이지가 로드되면 Livefyre. Analytics가 추적 정보를 전송합니다.
 
 ```
@@ -88,8 +88,8 @@ function pollForAnalytics() {
 setTimeout(pollForAnalytics, 400);
 ```
 
-1. **[!UICONTROL Save Code]**을 클릭합니다.
-1. **[!UICONTROL Save Rule]**을 클릭합니다.
+1. **[!UICONTROL Save Code]** 을 클릭합니다.
+1. **[!UICONTROL Save Rule]** 을 클릭합니다.
 
 ## 5 단계: 직접 호출 규칙을 만들어 Livefyre에 대한 Adobe Analytics 매핑 구성 만들기 {#section_gvp_b1g_pdb}
 

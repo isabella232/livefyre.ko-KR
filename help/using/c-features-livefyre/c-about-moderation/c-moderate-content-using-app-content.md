@@ -60,6 +60,6 @@ Sidenotes 콘텐츠 중재는 위에서 설명한 대로 일괄 변경 사항과
 
 ## Livefyre 사용자 중재 {#section_grw_mqm_zz}
 
-Livefyre 사용자가 풀다운 메뉴를 열 수 있는 사용자 이름 위로 마우스를 가져가면 해당 사용자가 자신의 목록을 **[!UICONTROL Ban the User]**보거나, 가져오거나 **[!UICONTROL More Info]**, 볼 **[!UICONTROL Comments]**수 있습니다. 이 메뉴를 클릭하면 스튜디오 **[!UICONTROL Users]** 페이지에서 사용자의 정보 카드가 열립니다.
+Livefyre 사용자가 풀다운 메뉴를 열 수 있는 사용자 이름 위로 마우스를 가져가면 해당 사용자가 자신의 목록을 **[!UICONTROL Ban the User]** 보거나, 가져오거나 **[!UICONTROL More Info]**, 볼 **[!UICONTROL Comments]** 수 있습니다. 이 메뉴를 클릭하면 스튜디오 **[!UICONTROL Users]** 페이지에서 사용자의 정보 카드가 열립니다.
 
 페이지에서 사용자를 중재하는 방법에 대한 자세한 내용은 **[!UICONTROL Users]** 사용자 modq [조정을 참조하십시오](/help/using/c-features-livefyre/c-about-moderation/t-moderate-users-modq.md#t_moderate_users_modq).

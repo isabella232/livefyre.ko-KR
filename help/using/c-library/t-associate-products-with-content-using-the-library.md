@@ -24,6 +24,6 @@ source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
    >
    >폴더에 저장된 콘텐트의 이미지는 제품과 연결만 할 수 있습니다. 이미지에 제품을 연결하려면 이미지에 대한 권한이 있어야 합니다.
 
-1. 에서를 클릭합니다 **[!UICONTROL Products]****[!UICONTROL Bulk Actions Menu]**.
+1. 에서를 클릭합니다 **[!UICONTROL Products]** **[!UICONTROL Bulk Actions Menu]**.
 1. 콘텐트와 **[!UICONTROL Product Folder]** 연결할 제품이 포함된을 클릭합니다.
 1. 하나 이상의 제품 옆에 있는 확인란을 클릭하여 콘텐츠와 연결한 다음을 클릭하여 **[!UICONTROL Add]** 연결을 저장합니다.

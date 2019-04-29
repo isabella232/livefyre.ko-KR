@@ -18,8 +18,8 @@ source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 **[!UICONTROL Tweets]** 표시:
 
-* **[!UICONTROL Author information]**(작성자 이름 및 사용자 이름, 해당 회사의 게시물 수, 팔로잉 및 팔로우어 수, 해당 위치 및 웹사이트 (사용 가능한 경우), Twitter 계정이 생성된 날짜 및 Twitter 프로필에 대한 링크를 포함합니다.
-* **[!UICONTROL Content information]**(출처, 만든 날짜, 리트윗 및 좋아요 포함)
+* **[!UICONTROL Author information]** (작성자 이름 및 사용자 이름, 해당 회사의 게시물 수, 팔로잉 및 팔로우어 수, 해당 위치 및 웹사이트 (사용 가능한 경우), Twitter 계정이 생성된 날짜 및 Twitter 프로필에 대한 링크를 포함합니다.
+* **[!UICONTROL Content information]** (출처, 만든 날짜, 리트윗 및 좋아요 포함)
 
 **[!UICONTROL Instagram posts]** 표시:
 

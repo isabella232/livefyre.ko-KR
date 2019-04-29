@@ -38,7 +38,7 @@ Livefyre Android SDK를 Eclipse에서 프로젝트에 추가하려면 다음을 
 1. streamhub-android-sdk를 찾아보고 선택합니다. 이제 패키지 탐색기에 표시됩니다.
 1. 프로젝트를 마우스 오른쪽 버튼으로 클릭하고 **[!UICONTROL Properties,]** Android 탭을 선택합니다.
 1. 라이브러리 섹션에서 선택한 **[!UICONTROL Add button,]** 다음 라이브러리 목록에서 Streamhub-Android-SDK를 선택합니다.
-1. **[!UICONTROL Apply]****[!UICONTROL OK]**을 클릭합니다.
+1. **[!UICONTROL Apply]** **[!UICONTROL OK]** 을 클릭합니다.
 
 ## Android Studio {#section_vpw_klv_zz}
 
@@ -46,13 +46,13 @@ Livefyre Android SDK를 Android Studio에서 프로젝트에 추가하려면 다
 
 1. Github에서 [최신 streamhub-Android-SDK](https://github.com/Livefyre/StreamHub-Android-SDK) 를 이용할 수 있습니다.
 1. 기존 프로젝트를 시작하거나 새로운 프로젝트를 만듭니다.
-1. 프로젝트를 마우스 오른쪽 버튼으로 클릭하고 **[!UICONTROL Open Module Settings]**선택합니다.
+1. 프로젝트를 마우스 오른쪽 버튼으로 클릭하고 **[!UICONTROL Open Module Settings]** 선택합니다.
 1. 창의 왼쪽 위 모퉁이에 있는 **[!UICONTROL +]** 단추를 선택합니다.
 1. Select **[!UICONTROL Import Existing Project.]** (New Version of Android Studio, you can find **[!UICONTROL Import Existing Project]** under **[!UICONTROL More Modules]**.)
 
 1. streamhub-android-sdk를 찾아보고 선택합니다.
 
-Android Studio는 SDK를 Gradle 버전으로 전환할 것을 요청할 수 있습니다. 이러한 경우 [ **[!UICONTROL next]** 다음 **[!UICONTROL finish]**] 를 선택합니다.
+Android Studio는 SDK를 Gradle 버전으로 전환할 것을 요청할 수 있습니다. 이러한 경우 [ **[!UICONTROL next]** 다음 **[!UICONTROL finish]** ] 를 선택합니다.
 
 프로젝트 **폴더 > 앱 폴더 > Build. gradle** 파일 종속성으로 이동하여 종속성을 추가합니다.
 

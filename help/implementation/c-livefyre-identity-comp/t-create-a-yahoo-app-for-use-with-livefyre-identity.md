@@ -23,9 +23,9 @@ Yahoo! 사용자가 Yahoo! 로그인을 참조하십시오.
 Yahoo! Livefyre ID 사용 앱:
 
 1. [https://developer.yahoo.com/apps/](https://developer.yahoo.com/apps/)로 이동하여 Yahoo! Livefyre ID에 사용할 기존 앱을 새로 만들거나 기존 앱을 선택합니다.
-1. **[!UICONTROL Application Type: Web Application]**Select.
-1. Enter **[!UICONTROL Callback Domain:]**`https://identity.livefyre.com`
-1. **[!UICONTROL API Permissions: Profiles (Social Directory)]****[!UICONTROL Read Public]**AND를 선택합니다.
+1. **[!UICONTROL Application Type: Web Application]** Select.
+1. Enter **[!UICONTROL Callback Domain:]** `https://identity.livefyre.com`
+1. **[!UICONTROL API Permissions: Profiles (Social Directory)]** **[!UICONTROL Read Public]** AND를 선택합니다.
 
    완료되면, Yahoo의 앱 세부 정보 페이지는 앱의 클라이언트 ID (소비자 키) 와 클라이언트 암호 (소비자 암호) 를 스튜디오의 통합 설정 페이지에 사용할 수 있도록 나열합니다.
 

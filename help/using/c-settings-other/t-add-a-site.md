@@ -24,4 +24,4 @@ Studio에서 최대 1,200 개의 사이트를 추가하고 표시할 수 있습�
 
    이 패널에는 선택한 네트워크에 포함된 모든 사이트가 나열됩니다.
 
-1. 제공된 필드에 **[!UICONTROL Name]** AND **[!UICONTROL URL]** 를 입력하고를 **[!UICONTROL Add Site]**클릭합니다.
+1. 제공된 필드에 **[!UICONTROL Name]** AND **[!UICONTROL URL]** 를 입력하고를 **[!UICONTROL Add Site]** 클릭합니다.

@@ -29,7 +29,7 @@ source-git-commit: 0c5420fcb3ba2e12375e92d4574d0a6dff310869
 
 사용자 태그를 계정에 추가하여 태그가 지정된 사용자를 보다 손쉽게 검색하고 태그가 지정된 사용자의 컨텐츠를 사이트에 있는 다른 사람의 스타일을 세련되게 구별할 수 있습니다.
 
-사용자 태그를 사용하여 사이트의 다른 컨텐츠와 다른 방식으로 사용자 컨텐츠에 스타일을 지정하는 방법에 대한 자세한 내용은 **[!UICONTROL App Customizations > Style User Group Content]**을 참조하십시오.
+사용자 태그를 사용하여 사이트의 다른 컨텐츠와 다른 방식으로 사용자 컨텐츠에 스타일을 지정하는 방법에 대한 자세한 내용은 **[!UICONTROL App Customizations > Style User Group Content]** 을 참조하십시오.
 
 >[!NOTE]
 >
@@ -45,7 +45,7 @@ source-git-commit: 0c5420fcb3ba2e12375e92d4574d0a6dff310869
 
 이제 컨텐츠가 Bozo'D 이므로 금지한 사용자가 부적절한 컨텐츠를 계속 게시할 수 있지만 나머지 커뮤니티에서는 더 이상 표시되지 않습니다.
 
-자세한 내용은 **[!UICONTROL Studio > App Content > Bozo Content]**을 참조하십시오.
+자세한 내용은 **[!UICONTROL Studio > App Content > Bozo Content]** 을 참조하십시오.
 
 ## 화이트 리스트 사용자 {#section_kr4_ptp_vz}
 

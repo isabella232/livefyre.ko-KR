@@ -25,13 +25,13 @@ Linkedin 로그인을 활성화하려면 Livefyre에 다음과 같은 linkedin �
 Livefyre ID와 함께 사용할 linkedin 앱을 만들려면:
 
 1. https://www.linkedin.com/secure/developer로 이동한 다음 Linkedin 계정에 로그인하여 새 앱을 만들거나 Livefyre ID에 사용할 기존 앱을 선택합니다.
-1. **[!UICONTROL Create Application]**을 클릭합니다.
+1. **[!UICONTROL Create Application]** 을 클릭합니다.
 1. 양식을 작성하여 애플리케이션을 만듭니다.
-1. 에서 **[!UICONTROL Default Application Permissions]****[!UICONTROL r_basicprofile]** 및 **[!UICONTROL r_emailaddress]** 앱 권한을 활성화합니다.
+1. 에서 **[!UICONTROL Default Application Permissions]** **[!UICONTROL r_basicprofile]** 및 **[!UICONTROL r_emailaddress]** 앱 권한을 활성화합니다.
 1. AS를 **[!UICONTROL OAuth 2.0 Authorized Redirect URL]** 입력합니다 `https://identity.livefyre.com/{network-name}.fyre.co/api/v1.0/public/profile/social/complete/linkedin_fyre`.
 1. 앱을 저장합니다.
-1. 에서 **[!UICONTROL Livefyre > Integration Settings > Livefyre Identity > LinkedIn]****[!UICONTROL Enable LinkedIn Login]** 전환 스위치를 **[!UICONTROL On]**전환합니다.
+1. 에서 **[!UICONTROL Livefyre > Integration Settings > Livefyre Identity > LinkedIn]** **[!UICONTROL Enable LinkedIn Login]** 전환 스위치를 **[!UICONTROL On]** 전환합니다.
 1. Linkedin 클라이언트 ID 및 linkedin 클라이언트 암호를 입력합니다.
-1. **[!UICONTROL Save Settings]**을 클릭합니다.
+1. **[!UICONTROL Save Settings]** 을 클릭합니다.
 
 완료되면, Linkedin의 앱 세부 정보 페이지는 앱의 API 키 (소비자 키) 와 API 암호 (소비자 암호) 를 스튜디오의 통합 설정 페이지에 사용할 수 있도록 나열합니다.

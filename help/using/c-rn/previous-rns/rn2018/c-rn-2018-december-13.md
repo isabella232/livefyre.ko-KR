@@ -29,7 +29,7 @@ source-git-commit: 6d0f9feb17ca65391242e95651a89d734d297cb2
 * 7 일마다 Instagram 비즈니스 계정당 최대 30 개의 고유한 해시 태그를 검색할 수 있습니다.
 
 * Livefyre는 위치 기반의 필터를 사용하여 Instagram 스트림 규칙을 삭제하여 오류를 방지합니다.
-* **[!UICONTROL Business User Search]**: 입력 작성자가 Instagram 게시물을 검색합니다.
+* **[!UICONTROL Business User Search]** : 입력 작성자가 Instagram 게시물을 검색합니다.
 
    >[!NOTE]
    >
@@ -37,7 +37,7 @@ source-git-commit: 6d0f9feb17ca65391242e95651a89d734d297cb2
 
 * 이제 다음 기능을 사용하여 라이브러리에서 해시태그로 Instagram를 검색할 수 있습니다.
 
-   * **[!UICONTROL Top Tags Search]**: 특정 해시태그가 지정된 가장 인기 있는 미디어를 검색합니다. 상단 태그는 여기에 설명된 기준에 따라 결정됩니다. [](https://developers.facebook.com/docs/instagram-api/reference/hashtag/top-media)
-   * **[!UICONTROL Recent Tags Search]**: 해시 태그가 있는 가장 최근 게시물을 검색합니다.
+   * **[!UICONTROL Top Tags Search]** : 특정 해시태그가 지정된 가장 인기 있는 미디어를 검색합니다. 상단 태그는 여기에 설명된 기준에 따라 결정됩니다. [](https://developers.facebook.com/docs/instagram-api/reference/hashtag/top-media)
+   * **[!UICONTROL Recent Tags Search]** : 해시 태그가 있는 가장 최근 게시물을 검색합니다.
 
 업데이트된 Instagram 기능에 대한 자세한 내용은 여기에 [해당 기능을 설명하는 웨비나의 비디오를](https://youtu.be/wRkGc3obaOA)참조하십시오.

@@ -27,18 +27,18 @@ Livefyre ID와 함께 사용할 Facebook 앱을 만들려면:
 1. [https://developers.facebook.com/apps](https://developers.facebook.com/apps)로 이동합니다.
 1. Facebook 개발자 계정으로 로그인합니다.
 1. Livefyre ID에 사용할 기존 앱을 클릭하거나 **[!UICONTROL Add New App]** 선택합니다.
-1. **[!UICONTROL Settings]****[!UICONTROL Basic]**을 클릭합니다. **[!UICONTROL Contact Email]** 주소 **[!UICONTROL Display Name]**, **[!UICONTROL Privacy Policy URL]**및을 입력합니다 **[!UICONTROL Terms of Service URL]**.
-1. 옆에 있는 더하기 기호 ( **[!UICONTROL +]**) 를 **[!UICONTROL Products]**클릭합니다.
-1. **[!UICONTROL Set Up]****[!UICONTROL Facebook Login]**아래를 클릭합니다.
+1. **[!UICONTROL Settings]** **[!UICONTROL Basic]** 을 클릭합니다. **[!UICONTROL Contact Email]** 주소 **[!UICONTROL Display Name]**, **[!UICONTROL Privacy Policy URL]** 및을 입력합니다 **[!UICONTROL Terms of Service URL]**.
+1. 옆에 있는 더하기 기호 ( **[!UICONTROL +]** ) 를 **[!UICONTROL Products]** 클릭합니다.
+1. **[!UICONTROL Set Up]** **[!UICONTROL Facebook Login]** 아래를 클릭합니다.
 1. 다음을 클릭하여 **[!UICONTROL Settings]** 설정합니다.
 
-   * 으로 설정합니다 **[!UICONTROL Client OAuth Login]****[!UICONTROL Yes]**.
-   * 으로 설정합니다 **[!UICONTROL Web OAuth Login]****[!UICONTROL Yes]**.
-   * 으로 설정합니다 **[!UICONTROL Use Strict Mode for Redirect URIs]****[!UICONTROL Yes]**.
-   * 으로 설정합니다 **[!UICONTROL Enforce HTTPS for Web OAuth Login]****[!UICONTROL Yes]**.
-   * 아래에서 **[!UICONTROL Valid OAuth redirect URLs]**URL를 추가합니다 `https://identity.livefyre.com/{networkName}/api/v1.0/public/profile/social/complete/facebook_fyre` (여기서 `{networkName}` livefyre가 제공하는 네트워크 이름).
+   * 으로 설정합니다 **[!UICONTROL Client OAuth Login]** **[!UICONTROL Yes]**.
+   * 으로 설정합니다 **[!UICONTROL Web OAuth Login]** **[!UICONTROL Yes]**.
+   * 으로 설정합니다 **[!UICONTROL Use Strict Mode for Redirect URIs]** **[!UICONTROL Yes]**.
+   * 으로 설정합니다 **[!UICONTROL Enforce HTTPS for Web OAuth Login]** **[!UICONTROL Yes]**.
+   * 아래에서 **[!UICONTROL Valid OAuth redirect URLs]** URL를 추가합니다 `https://identity.livefyre.com/{networkName}/api/v1.0/public/profile/social/complete/facebook_fyre` (여기서 `{networkName}` livefyre가 제공하는 네트워크 이름).
 
-1. **[!UICONTROL App Review]**Under:
+1. **[!UICONTROL App Review]** Under:
 
    * 앱을 공개하십시오.
    * **[!UICONTROL Approved Items]** for **[!UICONTROL Login Permissions]** include `email`, `public_profile`and `user_friends`.

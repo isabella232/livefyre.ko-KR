@@ -84,7 +84,7 @@ MODQ 창의 왼쪽 상단에 있는을 클릭하여 **[!UICONTROL Filter]** 나�
 
 **[!UICONTROL Items]** AND **[!UICONTROL Streams Premoderation]** 탭에서 다양한 필터 옵션을 사용할 수 있습니다.
 
-다음 옵션을 **[!UICONTROL Items]** 두 가지 모두에서 modq에 사용할 수 **[!UICONTROL Streams Premoderation]**있습니다.
+다음 옵션을 **[!UICONTROL Items]** 두 가지 모두에서 modq에 사용할 수 **[!UICONTROL Streams Premoderation]** 있습니다.
 
 * **[!UICONTROL App]**. 앱별로 결과를 필터링하려면 검색 앱 필드를 사용하십시오. 여러 앱이 선택될 수 있습니다.
 * **[!UICONTROL System Flags]**. 스팸, 비속어, 안전 및 중재 규칙과 같은 규칙으로 컨텐츠를 필터링합니다.
@@ -98,17 +98,17 @@ MODQ 창의 왼쪽 상단에 있는을 클릭하여 **[!UICONTROL Filter]** 나�
 * **[!UICONTROL Rights Requests.]** 확인란을 클릭하여 권한이 부여된 컨텐츠만 표시합니다.
 * **[!UICONTROL Entered the queue.]** 컨텐츠를 MODQ로 전송된 시간 프레임으로 필터링합니다. 컨텐츠가 MODQ로 전송된 시간은 콘텐츠가 앱에 게시된 시간이 아닐 수 있습니다.
 
-아래의 MODQ에 대해 다음 옵션을 사용할 **[!UICONTROL Streams Premoderation]**수 있습니다.
+아래의 MODQ에 대해 다음 옵션을 사용할 **[!UICONTROL Streams Premoderation]** 수 있습니다.
 
 * **[!UICONTROL Social Source]** 컨텐츠가 시작된 소셜 소스별로 컨텐트를 필터링합니다. 예를 들어 소셜 소스에는 Twitter, Instagram, Facebook 및 RSS가 포함됩니다.
 
-아래의 MODQ에 대해 다음 옵션을 사용할 **[!UICONTROL Items]**수 있습니다.
+아래의 MODQ에 대해 다음 옵션을 사용할 **[!UICONTROL Items]** 수 있습니다.
 
 **[!UICONTROL Moderation Recommendations]**. 자동화된 중재 권장 사항으로 지정된 권장 사항으로 컨텐츠를 필터링합니다.
 
 다음 이미지는 MODQ에서 중재 권장 사항이 표시되는 모습을 보여줍니다. ![](assets/mod_reco1.png)
 
-중재 권장 사항은 **[!UICONTROL Network Settings > Moderation]** 및 **[!UICONTROL Network Settings > ModQ]**에 설정된 컨텐츠를 위해 제공됩니다.
+중재 권장 사항은 **[!UICONTROL Network Settings > Moderation]** 및 **[!UICONTROL Network Settings > ModQ]** 에 설정된 컨텐츠를 위해 제공됩니다.
 
 ## MODQ에서 사용할 수 있는 작업 {#section_h4g_wrn_z1b}
 
@@ -144,11 +144,11 @@ MODQ에서 각 컨텐츠로 수행할 작업을 결정할 수 있습니다.
 
 설정 섹션을 사용하여 컨텐츠가 트윗으로 표시되면 사용할 수 있는 옵션을 선택합니다.
 
-* ****[!UICONTROL Confirm Trash]**** 컨텐츠를 휴지통으로 설정할 때 중재자가 자신의 작업을 확인하도록 하려면 이 옵션을 활성화합니다. 활성화할 경우 컨텐츠 선택은 **[!UICONTROL Trash]** A **[!UICONTROL Reason for Moderation]**를 요구하는 대화 상자를 표시하고 A를 입력할 **[!UICONTROL Note]** 수 있는 필드를 제공합니다.
+* ****[!UICONTROL Confirm Trash]** ** 컨텐츠를 휴지통으로 설정할 때 중재자가 자신의 작업을 확인하도록 하려면 이 옵션을 활성화합니다. 활성화할 경우 컨텐츠 선택은 **[!UICONTROL Trash]** A **[!UICONTROL Reason for Moderation]** 를 요구하는 대화 상자를 표시하고 A를 입력할 **[!UICONTROL Note]** 수 있는 필드를 제공합니다.
 
    이 설정은 네트워크 수준에서 사용할 수 **[!UICONTROL only]** 있으며, 네트워크 아래에 있는 모든 사이트에 적용됩니다.
 
-* ****[!UICONTROL Hide Replies]**** 상위 댓글이 트래싱되거나 보조 상태일 때 자동으로 답글을 보내려면 이 옵션을 활성화합니다.
+* ****[!UICONTROL Hide Replies]** ** 상위 댓글이 트래싱되거나 보조 상태일 때 자동으로 답글을 보내려면 이 옵션을 활성화합니다.
 
 ## MODQ에서 사용자 상태 변경 {#section_tmw_lg1_z1b}
 

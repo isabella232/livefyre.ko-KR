@@ -21,4 +21,4 @@ source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 1. **[!UICONTROL View Details]** for an asset.
 1. 대화 상자에서 **[!UICONTROL Publish]** 확인란을 **[!UICONTROL Advanced Options]** 선택합니다.
 1. 항목을 게시할 앱을 선택합니다.
-1. **[!UICONTROL Let’s do it]**을 클릭합니다.
+1. **[!UICONTROL Let’s do it]** 을 클릭합니다.

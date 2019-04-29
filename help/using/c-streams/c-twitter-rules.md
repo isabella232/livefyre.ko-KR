@@ -17,7 +17,7 @@ Twitter에서 컨텐츠를 가져오는 스트림 규칙을 만들 수 있습니
 
 해시 태그, 키워드, @ 언급 또는 작성자를 기반으로 Twitter 규칙을 만듭니다.
 
-규칙을 추가하면 **[!UICONTROL Words]****[!UICONTROL Username]** 두 항목이 모두 포함된 컨텐츠가 반환됩니다.
+규칙을 추가하면 **[!UICONTROL Words]** **[!UICONTROL Username]** 두 항목이 모두 포함된 컨텐츠가 반환됩니다.
 
 >[!NOTE]
 >
@@ -34,7 +34,7 @@ Twitter 피드에서 앱 또는 폴더로 컨텐츠를 가져오는 Twitter 규�
    * Twitter **[!UICONTROL Hashtags]** 스트림에서 포함하거나 제외하려면 Enter 키를 누릅니다. **[!UICONTROL Contains any of these words]** 와 **[!UICONTROL Does not contain any of these words]** 필드 모두에 대한 값을 지정하면 첫 번째 필드에 해시 태그가 들어 있고 두 번째 필드에 해시 태그가 들어 있지 않은 트윗이 반환됩니다. 단일 필드에 여러 값을 입력할 수 있습니다. 스트림에서는 값이 들어 있는 결과를 반환합니다.
 
 * **[!UICONTROL Usernames]**
-   * 스트림을 입력하거나 **[!UICONTROL @mentions]****[!UICONTROL authors]** 스트림에서 제외하거나 제외합니다. 확인란을 사용하여 선택한 **[!UICONTROL Retweets]** 작성자의 **[!UICONTROL replies]** 포함 여부도 정의할 수 있습니다.
+   * 스트림을 입력하거나 **[!UICONTROL @mentions]** **[!UICONTROL authors]** 스트림에서 제외하거나 제외합니다. 확인란을 사용하여 선택한 **[!UICONTROL Retweets]** 작성자의 **[!UICONTROL replies]** 포함 여부도 정의할 수 있습니다.
    >[!NOTE]
    >
    >귀하는 작성자를 포함하거나 제외할 수 있습니다. 이러한 두 필드를 하나의 Twitter 규칙으로 결합할 수는 없습니다.
@@ -48,14 +48,14 @@ Twitter 피드에서 앱 또는 폴더로 컨텐츠를 가져오는 Twitter 규�
    >두 필드 모두 입력 위치의 중심에서 거리가 계산됩니다.
 
    * 둘 이상의 위치와 반경을 추가할 수 있습니다. 상자에서 위치 이름 옆에 있는 X를 클릭하여 위치를 삭제할 수 있습니다.
-   * **[!UICONTROL Is near this location]** 및 **[!UICONTROL Is not near this location]** 필드를 결합하여 **[!UICONTROL Is near this location]****[!UICONTROL Is not near this location]** 필드의 위치에 있는 위치에 있는 컨텐츠를 가져올 수 있습니다.
+   * **[!UICONTROL Is near this location]** 및 **[!UICONTROL Is not near this location]** 필드를 결합하여 **[!UICONTROL Is near this location]** **[!UICONTROL Is not near this location]** 필드의 위치에 있는 위치에 있는 컨텐츠를 가져올 수 있습니다.
 
 
 * **[!UICONTROL Additional Filters]**
    * 추가 필터를 사용하여 Twitter 규칙을 더욱 세밀하게 조정할 수 있습니다. 다음을 사용할지 여부를 정의합니다.
       * 타깃팅된 **[!UICONTROL Replies]** 트윗에 포함 (스트림이 고속 처리되는 경우 이 기능은 자동으로 비활성화됩니다.)
       * 트윗 포함 **[!UICONTROL Verified Twitter accounts only.]**
-      * , **[!UICONTROL All Content]**또는 **[!UICONTROL Vines Only]**, 또는 **[!UICONTROL Images Only.]**
+      * , **[!UICONTROL All Content]** 또는 **[!UICONTROL Vines Only]**, 또는 **[!UICONTROL Images Only.]**
       * 선택한 **[!UICONTROL Minimum number of followers]** (모두, 100, 500, 1000, 10,000 또는 100,000) 계정이 있는 트윗만 포함합니다.
 
 모든 스트림 규칙에 대한 추가 스트림 규칙 옵션은 모든 스트림 규칙에 [대한 스트림 규칙 옵션을 참조하십시오](../c-streams/c-stream-rule-options-for-all-stream-rules.md#c_stream_rule_options_for_all_stream_rules).

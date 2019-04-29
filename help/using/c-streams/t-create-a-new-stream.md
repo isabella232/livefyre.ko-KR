@@ -17,7 +17,7 @@ Livefyre에서 새 스트림을 만들어 앱 또는 폴더에 콘텐츠를 추�
 
 1. 새 스트림을 만들려면 **[!UICONTROL Streams > Create Stream.]**
 1. A를 입력합니다 **[!UICONTROL Stream Name]**.
-1. **[!UICONTROL Stream Destination]**A: **[!UICONTROL App]** 또는 **[!UICONTROL Folder]** 스트림의 대상을 선택합니다.
+1. **[!UICONTROL Stream Destination]** A: **[!UICONTROL App]** 또는 **[!UICONTROL Folder]** 스트림의 대상을 선택합니다.
 
    * [게시] 를 클릭하면 스트림에 포함된 모든 콘텐트를 선택한 앱에 푸시할 앱을 선택합니다.
    * 스트림에 포함된 모든 컨텐츠를 선택한 폴더에 지속적으로 푸시할 폴더를 선택합니다.

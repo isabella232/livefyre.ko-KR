@@ -23,7 +23,7 @@ source-git-commit: 8bdb537b38d78dba033d6671b710c2a61934d6b2
 
 * 부울 및 정확한 구문 검색을 하나의 스트림 규칙에 결합할 수 있습니다. 예를 들어 각 문구를 한 번에 하나씩 입력하여 *케이크*, *레시피*및 *"케이크 레시피"* 를 검색할 수 있습니다.
 
-**[!UICONTROL Additional Filters]**:
+**[!UICONTROL Additional Filters]** :
 
 * **[!UICONTROL Media]**. 다음 중 하나를 선택합니다.
 
@@ -38,7 +38,7 @@ source-git-commit: 8bdb537b38d78dba033d6671b710c2a61934d6b2
 
    * **[!UICONTROL On]**. 모든 들어오는 규칙 컨텐츠를 중재합니다. modq의 스트림 섹션에서 미리 중재된 컨텐츠를 볼 수 있습니다. **[!UICONTROL On]** 앱 설정에서 설정을 무시합니다.
    * **[!UICONTROL Off]**. 들어오는 규칙 컨텐츠를 미리 중재하지 마십시오. **[!UICONTROL Off]** 앱 설정에서 설정을 무시합니다.
-   * **[!UICONTROL Inherited (Off)]**. 사이트의 사전 중재 설정을 사용합니다 (아래 **[!UICONTROL Site Settings]**).
+   * **[!UICONTROL Inherited (Off)]**. 사이트의 사전 중재 설정을 사용합니다 (아래 **[!UICONTROL Site Settings]** ).
 
 * **[!UICONTROL SAFE Rules]**. 다음 중 하나를 선택합니다.
    * **[!UICONTROL Apply SAFE Rules]**. 이 스트림에 모든 보호 규칙을 적용합니다.

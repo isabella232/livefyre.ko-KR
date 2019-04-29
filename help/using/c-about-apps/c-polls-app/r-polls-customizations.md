@@ -21,7 +21,7 @@ source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
    만들려는 투표 유형을 선택합니다. **[!UICONTROL Single image]** 투표 질문에 대한 이미지를 추가할 수 있습니다. **[!UICONTROL Multiple image]** 투표 응답에 이미지를 추가할 수 있습니다. **[!UICONTROL Text only]** 이미지 없이 투표를 만듭니다.
 
-* **[!UICONTROL Question]***required*
+* **[!UICONTROL Question]** *required*
 
    투표에 대해 표시할 질문을 입력합니다.
 
@@ -37,7 +37,7 @@ source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
    활성화되어 있으면 사용자가 공유할 수 있는 링크가 투표에 포함됩니다.
 
-* **[!UICONTROL Link]***선택 사항*
+* **[!UICONTROL Link]** *선택 사항*
 
    투표에 표시할 링크입니다.
 
@@ -49,7 +49,7 @@ source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
    활성화되어 있으면 뷰어에서 투표 결과를 볼 수 있습니다. 비활성화된 경우 투표를 완료한 후 투표자는 "감사" 화면만 보게 됩니다.
 
-* **[!UICONTROL Disclaimer]***선택 사항*
+* **[!UICONTROL Disclaimer]** *선택 사항*
 
    투표에 표시할 선택적 부인.
 

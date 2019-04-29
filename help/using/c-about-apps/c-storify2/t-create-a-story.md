@@ -15,8 +15,8 @@ source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 새로운 Storify 2 스토리를 만들 수 있습니다.
 
-1. **[!UICONTROL New App]**을 클릭합니다.
-1. **[!UICONTROL Storify 2]**을 클릭합니다.
-1. **[!UICONTROL App Title]**을 입력합니다.
+1. **[!UICONTROL New App]** 을 클릭합니다.
+1. **[!UICONTROL Storify 2]** 을 클릭합니다.
+1. **[!UICONTROL App Title]** 을 입력합니다.
 1. A를 선택합니다 **[!UICONTROL Site]**.
-1. **[!UICONTROL Create]**을 클릭합니다.
+1. **[!UICONTROL Create]** 을 클릭합니다.

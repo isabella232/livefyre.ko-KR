@@ -18,7 +18,7 @@ source-git-commit: 09011bac06f4a1c39836455f9d16654952184962
 
 보류 중인 컨텐츠를 중재하려면 **[!UICONTROL Pending]** 단추 위에 마우스를 놓으면 됩니다.
 
-**[!UICONTROL Pending]** 단추가 변경되고 주석을 거부하거나 ( **[!UICONTROL x]**) 를 승인 ( **[!UICONTROL ✓]**) 할지 여부를 선택할 수 있습니다.
+**[!UICONTROL Pending]** 단추가 변경되고 주석을 거부하거나 ( **[!UICONTROL x]** ) 를 승인 ( **[!UICONTROL ✓]** ) 할지 여부를 선택할 수 있습니다.
 
 마우스를 댓글 공간에 놓으면 다음 중재 옵션이 표시됩니다.
 

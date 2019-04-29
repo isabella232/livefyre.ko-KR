@@ -21,4 +21,4 @@ source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 1. 폴더를 열고 Twitter 또는 Instagram에서 저장한 컨텐츠를 클릭합니다. 컨텐츠 부분에 있는 아이콘을 보고 컨텐츠가 어디에서 시작되었는지 확인할 수 있습니다. 예를 들어 Twitter의 콘텐츠 조각에는 Twitter 로고가 있습니다.
 1. 컨텐츠 카드 위로 마우스를 가져가면 표시되는 줄임표 아이콘을 클릭합니다 **[!UICONTROL More Options]**.
 1. 창을 **[!UICONTROL Rights]** 열려면 **[!UICONTROL Rights options]** 을 클릭합니다.
-1. **[!UICONTROL Manually Grant Rights]**을 클릭합니다.
+1. **[!UICONTROL Manually Grant Rights]** 을 클릭합니다.

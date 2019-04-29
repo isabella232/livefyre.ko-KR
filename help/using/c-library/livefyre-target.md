@@ -23,7 +23,7 @@ Livefyre와 Adobe Target의 통합을 통해 Livefyre 앱을 Target 오퍼 라�
 
 1. IMS 계정 통합을 통해 Target에 연결할 사용자 계정을 선택합니다.
 
-1. **[!UICONTROL Connect]**을 클릭합니다.
+1. **[!UICONTROL Connect]** 을 클릭합니다.
 
 1. IMS 자격 증명을 입력합니다.
 
@@ -41,7 +41,7 @@ Livefyre Studio에서 만든 앱을 Adobe Target와 바로 공유할 수 있습�
 
 1. Adobe Target에 공유할 앱을 선택합니다.
 
-1. **[!UICONTROL Publish]**을 클릭합니다.
+1. **[!UICONTROL Publish]** 을 클릭합니다.
 
 1. [게시 설정] 에서 Adobe Target 스위치를 클릭합니다.
 
@@ -51,6 +51,6 @@ Livefyre Studio에서 만든 앱을 Adobe Target와 바로 공유할 수 있습�
 
 ![](assets/livefyre-target-publish.png)
 
-1. **[!UICONTROL Publish]**을 클릭합니다.
+1. **[!UICONTROL Publish]** 을 클릭합니다.
 
 이제 Target 오퍼 라이브러리에서 Livefyre 앱을 사용할 수 있습니다. 앱 게시에 대한 자세한 내용은 대상 [설명서의 컨텐츠](/help/using/c-library/t-publish-content.md) 및 [오퍼](https://marketing.adobe.com/resources/help/en_US/target/target/c_manage_content.html) 게시를 참조하십시오.
