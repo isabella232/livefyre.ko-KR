@@ -1,13 +1,11 @@
 ---
-description: 수동 워크플로우를 사용하여 해시 태그, URL 또는 위치 기반의 Instagram 검색 또는 스트림에서 취득한 Instagram
-  에셋을 재활용할 수 있는 권한을 요청할 수 있습니다.
-seo-description: 수동 워크플로우를 사용하여 해시 태그, URL 또는 위치 기반의 Instagram 검색 또는 스트림에서 취득한 Instagram
-  에셋을 재활용할 수 있는 권한을 요청할 수 있습니다.
+description: 수동 워크플로우를 사용하여 해시 태그, URL 또는 위치 기반의 Instagram 검색 또는 스트림에서 취득한 Instagram 에셋을 재활용할 수 있는 권한을 요청할 수 있습니다.
+seo-description: 수동 워크플로우를 사용하여 해시 태그, URL 또는 위치 기반의 Instagram 검색 또는 스트림에서 취득한 Instagram 에셋을 재활용할 수 있는 권한을 요청할 수 있습니다.
 seo-title: Instagram 권한 요청 수동 전송
 title: Instagram 권한 요청 수동 전송
 uuid: C 07 B 3 F 6 F-C 14 C -4 E 62-B 18 B -25934 EBE 45 BF
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 4952830655e904cfba7d2dd98338c7fda02c4250
 
 ---
 
@@ -20,7 +18,7 @@ source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
 
 * Instagram Social 계정 추가를 참조하십시오. Social 계정을 구성하는 방법에 대한 자세한 내용은 Social 계정 [추가를](../c-users-creating-accounts-with-studio-access/t-configure-social-accout-instagram/t-configure-social-accout-instagram.md#t_configure_social_accout_instagram)참조하십시오. 수동 또는 부분적으로 자동화된 권한 요청을 전송하려면 Instagram 비즈니스 계정을 설정해야 합니다. Instagram 계정에 대한 자세한 내용은 Instagram 계정 [정보를 참조하십시오.](../c-users-creating-accounts-with-studio-access/t-configure-social-accout-instagram/c-about-instagram-accounts.md#c_about_instagram_accounts)
 
-* 권한 관리를 설정합니다. Rights Management 설정 방법에 대한 자세한 내용은 권한 [요청을](../c-how-requesting-rights-works/c-how-requesting-rights-works.md#c_how_requesting_rights_works)참조하십시오.
+* 권한 관리를 설정합니다. Rights Management 설정 방법에 대한 자세한 내용은 권한 [요청을](../c-how-requesting-rights-works/c-how-requesting-rights-works.md)참조하십시오.
 
 Instagram 컨텐츠에 대한 수동 권한 요청을 보내려면:
 
