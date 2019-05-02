@@ -3,7 +3,7 @@ product: livefyre
 audience: 최종 사용자
 user-guide-title: Experience Manager Livefyre 사용 안내서
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 4952830655e904cfba7d2dd98338c7fda02c4250
 
 ---
 
@@ -208,6 +208,7 @@ source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
    + [권한 관리 설정](c-how-requesting-rights-works/t-set-up-rights-management.md)
    + [Twitter 권한 요청 보내기](c-how-requesting-rights-works/t-send-a-rights-request-to-own-a-digital-asset.md)
    + [부분적으로 자동화된 Instagram 권한 요청 전송](c-how-requesting-rights-works/c-send-an-instagram-rights-request-from-the-library.md)
+   + [Instagram 권한 요청 수동 전송](c-how-requesting-rights-works/c-send-instagram-manual-rights-request.md)
    + [권한 활동 내역 보기](c-how-requesting-rights-works/c-view-rights-activity-history.md)
    + [자산 라이브러리의 보류 중인 권한 요청으로 콘텐트 관리](c-how-requesting-rights-works/t-manage-content-with-pending-rights-request.md)
    + [자산 라이브러리의 자산에 대한 권한을 수동으로 부여 또는 취소](c-how-requesting-rights-works/t-manually-grant-the-rights-for-one-or-more-assets.md)
@@ -251,6 +252,7 @@ source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
       + [개인 정보 요청 FAQ](c-settings-other/c-gdpr-compliance/c-privacy-request-faqs.md)
       + [개인 정보 요청 만들기](c-settings-other/c-gdpr-compliance/c-privacy-requests.md)
       + [개인 정보 보고서 보기](c-settings-other/c-gdpr-compliance/c-view-a-privacy-report.md)
+      + [Userprivacyoptout](c-settings-other/c-gdpr-compliance/c-userprivacyoptout.md)
 + 릴리스 노트 {#release-notes}
    + [최신 릴리스 노트](c-rn/c-rn.md)
    + 릴리스 노트 2019 {#rn2019}
