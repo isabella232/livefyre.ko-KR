@@ -3,7 +3,7 @@ product: livefyre
 audience: 최종 사용자
 user-guide-title: Experience Manager Livefyre 구현 안내서
 translation-type: tm+mt
-source-git-commit: 097321964ff078bac83c4674100f8c62a8f3a1af
+source-git-commit: 4952830655e904cfba7d2dd98338c7fda02c4250
 
 ---
 
@@ -111,6 +111,7 @@ source-git-commit: 097321964ff078bac83c4674100f8c62a8f3a1af
       + [Sidenotes 사용자 정의 스타일](c-app-integrations/c-sidenotes-integration/r-custom-styles.md)
       + [Sidenotes 사용자 정의 문자열](c-app-integrations/c-sidenotes-integration/r-custom-strings.md)
       + [Sidenotes 구현](c-app-integrations/c-sidenotes-integration/r-sidenotes-implementation.md)
+      + [Updateanchors 메서드](c-app-integrations/c-sidenotes-integration/update-anchors-method.md)
    + [map](c-app-integrations/c-map-integration.md)
    + [미디어 담벼락](c-app-integrations/c-media-wall-integration.md)
    + [트렌딩](c-app-integrations/c-trending-integration.md)
