@@ -4,7 +4,7 @@ seo-description: Adobe Livefyre에 대한 최신 릴리스 노트입니다.
 seo-title: Adobe Livefyre에 대한 최신 릴리스 노트
 title: Livefyre에 대한 최신 릴리스 노트
 translation-type: tm+mt
-source-git-commit: 5fce2796795e855504cfbaf18328704484d89fa6
+source-git-commit: 9500a4ac5d3cdaeb5909c06d406b006108d39fee
 
 ---
 
@@ -15,7 +15,7 @@ source-git-commit: 5fce2796795e855504cfbaf18328704484d89fa6
 
 >[!NOTE]
 >
->Livefyre는 2019 년 4 월 11 일에 Adobe 보안 표준을 준수하면서 TLS 1.1 (및 이전 버전) 를 지원할 예정입니다. 통합 문제가 발생하는 경우 prioritysupport@livefyre.com로 문의하십시오. 최종 HTTP 사용 중단 날짜는 향후 릴리스 노트를 참조하십시오.
+>Livefyre는 5 월 23 일에 프로덕션 환경에서 HTTP (포트 80) 를 비활성화합니다. 그러면 Adobe 보안 표준을 준수하는 보안 업데이트가 완료됩니다. 통합 문제가 발생하는 경우 [prioritysupport@livefyre.com](mailto:prioritysupport@livefyre.com) 로 문의하십시오.
 
 ##  개선 사항
 
@@ -24,4 +24,4 @@ source-git-commit: 5fce2796795e855504cfbaf18328704484d89fa6
 
 ## 버그 수정
 
-* MODQ의 "정의되지 않은" Instagram 게시물을 제거할 수 없는 문제가 해결되었습니다.
+* MODQ의 &quot;정의되지 않은&quot; Instagram 게시물을 제거할 수 없는 문제가 해결되었습니다.
