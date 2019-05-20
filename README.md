@@ -1,11 +1,12 @@
 ---
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 9bcc55b92463eb9d71076f2349d5756ba94fad13
 translation-type: tm+mt
 
 ---
 # 기여자 문서
 
-Adobe는 문서 팀뿐만 아니라 Adobe 커뮤니티 커뮤니티의 기부를 환영합니다.
+Adobe는 설명서 팀 외부 직원뿐만 아니라 커뮤니티 기여를 환영합니다.
+
 
 ## Adobe 오픈소스 행동 수칙
 
@@ -19,13 +20,13 @@ Adobe는 문서 팀뿐만 아니라 Adobe 커뮤니티 커뮤니티의 기부를
 
 ### 부분 변경 사항
 
-마음 안에서 사소한 업데이트를 증여하는 경우 아티클을 방문하여 아티클의 Github 소스로 이동하는 아티클의 **편집** 링크를 클릭합니다. 그런 다음 Github UI를 사용하여 업데이트를 만들면 됩니다. 자세한 내용은 일반 [Adobe Docs Contributor Guide](https://docs.adobe.com/content/help/en/contributor/contributor-guide/introduction.html) 를 참조하십시오.
+부분 업데이트에 선의로 기여하려는 경우 문서를 방문하여 문서 내의 **편집** 링크를 클릭하면 문서에 해당하는 GitHub 소스로 이동하게 됩니다. 그런 다음 Github UI를 사용하여 업데이트를 만듭니다. 자세한 내용은 일반 [Adobe Docs Contributor Guide](https://docs.adobe.com/content/help/en/contributor/contributor-guide/introduction.html) 를 참조하십시오.
 
 이 REPO의 설명서 및 코드 샘플에 대해 사용자가 제출하는 부분 수정 또는 설명은 Adobe 사용 약관의 적용을 받습니다.
 
 ### 커뮤니티 멤버의 주요 변경 사항 또는 새로운 문서
 
-Adobe 커뮤니티에 소속되어 있고 새로운 아티클을 만들거나 주요 변경 사항을 제출하려는 경우 Git 리포지토리의 문제 탭을 사용하여 설명서 팀과 대화를 시작할 수 있습니다. 플랜에 동의하면 직원과 함께 공공 및 비공개 보관소의 컨텐츠를 결합하여 새로운 컨텐츠를 제공할 수 있습니다.
+Adobe 커뮤니티에 소속되어 있고 새로운 문서를 만들거나 주요 변경 사항을 제출하려는 경우 Git 리포지토리에서 [문제] 탭을 사용하여 문제를 제출하면 설명서 팀과 대화를 시작할 수 있습니다. 플랜에 동의하면 직원과 협력하여 공개 및 비공개 리포지토리에서 작업을 결합하여 새로운 콘텐츠를 제공할 수 있습니다.
 
 <!--
 If you submit a pull request with significant changes to documentation and code examples, you'll see a message in the pull request asking you to submit an online contribution license agreement (CLA). We need you to complete the online form before we can review your pull request.
