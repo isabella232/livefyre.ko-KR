@@ -5,7 +5,7 @@ seo-title: 디바이스 및 브라우저 지원
 title: 디바이스 및 브라우저 지원
 uuid: 338 F 78 B 2-051 D -4831-A 0 B 9-E 987 F 92660 CE
 translation-type: tm+mt
-source-git-commit: fc4a7e50b936211a6e7c338715b410e221f0b5f7
+source-git-commit: 28a7b0c1d5d71635941ecbd7693ad0427dac9893
 
 ---
 
@@ -21,7 +21,7 @@ Livefyre는 다음 디바이스, 운영 체제 및 브라우저를 지원합니�
 | **데스크탑 브라우저** |  |  |  |  |
 | Chrome | ✓ | ✓ | ✓ | ✓ |
 | Edge | ✓ | ✓ | ✓ | ✓ |
-| IE 11 | ✓ | ✓ | x | ✓ |
+| IE 11 | limited | limited | limited | limited |
 | Firefox 14 + | ✓ | ✓ | ✓ | ✓ |
 | Safari 7. x | ✓ | ✓ | ✓ | ✓ |
 |  |  |  |  |  |
