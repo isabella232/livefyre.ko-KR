@@ -5,7 +5,7 @@ seo-title: 아바타
 title: 아바타
 uuid: BF 20 F 3 BC -3 DCC -4 E 16-A 629-3380 D 1 A 7 A 3 F 2
 translation-type: tm+mt
-source-git-commit: 09011bac06f4a1c39836455f9d16654952184962
+source-git-commit: 7dc3ac6725a27460cecfa6051549da85370ca053
 
 ---
 
@@ -29,15 +29,6 @@ Avatars는 Livefyre에서 비동기식으로 로드됩니다. 사용자가 응�
 ## Gravatars {#section_mqh_p1f_wy}
 
 Livefyre는 Gravatars 사용을 지원합니다. 사용자에게 사용자 프로필의 일부로 사용자 정의 아바타가 없는 경우 Livefyre는 해당 사용자를 위한 Gravatar를 확인합니다. Gravatar가 없는 경우 기본 아바타가 사용됩니다.
-
-Livefyre wordpress 플러그인을 사용하여 주석이 포함된 경우 다음 조건이 충족되는 경우 사용자의 Gravatar가 사용됩니다.
-
-* Gravatar가 wordpress 관리 패널에서 활성화되었으며,
-* 사용자에게 Gravatar 계정이 있고,
-* 사용자 지정 아바타가 제공되지 않습니다.
-
-자세한 내용은 Wordpress Gravatar 설명서를 참조하십시오.
-
 
 
 이 기능을 사용하는 앱:
