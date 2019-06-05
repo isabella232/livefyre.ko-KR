@@ -6,14 +6,27 @@ solution: Experience Manager
 title: 공지 사항
 uuid: C 05963 DB -4 D 96-494 E-BDB 3-DA 3570 A 14 DFE
 translation-type: tm+mt
-source-git-commit: 2e2c1a018e5ec58a3649bc27679d53390ffcc8ca
+source-git-commit: df47087c69f2bdc8d97226d2013db80703f2e091
 
 ---
 
 
 # 공지 사항{#announcements}
 
-Livefyre 및 Livefyre Studio에 대한 공지 사항 2018 년 11 월 15 일 현재 상태.
+Livefyre 및 Livefyre Studio에 대한 공지 사항 2019 년 6 월 5 일 현재.
+
+## 2019 년 6 월 5 일
+
+Facebook는 일반적으로 가능한 한 변경 사항을 상세하게 통보 받은 반면, Livefyre에서 Facebook 및 Instagram 컨텐츠에 대한 액세스를 비활성화할 수 있는 신속한 결정을 어제 내렸습니다. 이러한 변경 사항으로 인해 Facebook 또는 Instagram 컨텐츠를 스트리밍하거나 검색 또는 공유할 수 없습니다. 이 변경 사항에 대해 알려드릴 수 없습니다.
+
+현재 Facebook 및 Instagram 컨텐츠에 액세스할 수 있는 방법이 있습니다.
+
+* 웹 사이트에 이미 게시된 컨텐츠는 영향을 받지 않습니다.
+* Streams 폴더에 이미 있는 컨텐츠는 여전히
+
+Adobe는 Facebook와 긴밀한 협력 관계를 통해 이 기능을 복구하고 있으며, 곧 해결책이 있기를 기대합니다. 감사합니다. 질문에 답변해 드리겠습니다. 귀하의 인내심과 파트너십에 대한 지속적인 감사를 드리고자 합니다.
+
+
 
 ## 2018 년 11 월 15 일 {#section_yx3_hnp_5fb}
 
@@ -43,7 +56,7 @@ Instagram API와 관련된 기능 상태에 대한 최신 업데이트를 참조
 
    5 월 24 일, Instagram의 사용 권한 요청 워크플로우에서 수동 솔루션을 제공했습니다. Adobe는 권한 요청에 대한 응답을 자동으로 모니터링하고 활동 내역을 업데이트하는 기능을 복원합니다. Adobe는 이 기능을 나중에 사용할 수 있을 것으로 예상하고 있으며 라이브되는 즉시 알려드릴 것입니다.
 
-## 2018년 5월 24일 {#section_xbk_wvd_ydb}
+## 2018 년 5 월 24 일 {#section_xbk_wvd_ydb}
 
 이제 Instagram 컨텐츠에 대한 사용 권한 요청 워크플로우에 대한 두 가지 업데이트 중 일부를 사용할 수 있습니다. 이제 앱 컨텐츠 및 라이브러리에서 Livefyre Studio의 권한 요청 메시지를 복사하여 승인을 받으려는 정확한 Instagram 게시물에 붙여넣을 수 있습니다. MODQ에서 수행할 수 있는 기능은 향후 릴리스에서 제공됩니다. 2018 년 6 월 14 일까지 Adobe는 권한 요청에 대한 응답을 자동으로 모니터링하고 활동 내역을 업데이트하는 기능을 복원합니다.
 
@@ -57,13 +70,13 @@ Livefyre에서 다음 Instagram 기능을 실행할 수 있는 기능을 다시 
 * 각 컨텐츠의 세부 사항 보기
 * MODQ의 새로운 Instagram 컨텐츠에 대한 중재 작업 수행
 
-## 2018 년 5 월 7 일 {#section_dms_ypz_wdb}
+## 2018년 5월 7일 {#section_dms_ypz_wdb}
 
 모든 Livefyre 고객에게
 
 2018 년 5 월 3 일 목요일, Facebook는 개인 개인 정보와 사용자의 데이터를 보호하기 위해 타사 파트너가 사용하는 많은 Instagram API를 더 이상 사용하지 않습니다.
 
-Livefyre 시스템에 미치는 영향을 분석해 주셔서 감사합니다. The following overview clarifies which Livefyre ability to work seamless to work seamless and which capabilities, and how and when we we we we'll address the changes.
+Livefyre 시스템에 미치는 영향을 분석해 주셔서 감사합니다. The following overview clarifies which Livefyre ability to work seamless to work seamless and which capabilities, and how and when we we we we&#39;ll address the changes.
 
 우선 대부분의 Livefyre의 Instagram 기능은 영향을 받지 않습니다. Instagram 컨텐츠는 해시 태그 및 위치별로 스트리밍될 수 있으며 폴더 및 Livefyre 시각화 앱에 게시됩니다. Twitter, Facebook, YouTube, Tumblr, RSS 및 이메일과 같은 모든 기타 소스에 대한 스트리밍 컨텐츠—변경되지 않은 상태로 유지됩니다.
 
