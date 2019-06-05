@@ -1,12 +1,12 @@
 ---
-description: null
-seo-description: null
+description: 'null'
+seo-description: 'null'
 seo-title: SSL 실행
 solution: Experience Manager
 title: SSL 실행
 uuid: E 64 AF 8 C 2-3 AB 6-4034-B 385-0 E 552 D 828 C 6 E
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: 7dc3ac6725a27460cecfa6051549da85370ca053
 
 ---
 
@@ -19,7 +19,7 @@ source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 다음과 같은 혜택을 제공하는 Livefyre 고객에게 영향을 줄 수 있습니다.
 
-* CRM, CMS, Wordpress 또는 기타 클라이언트에서 서버 간 호출.
+* CRM, CMS, wordpress 또는 기타 클라이언트에서 서버 간 호출.
 * 모바일 통합 (Android 및 iOS 앱)
 * 맞춤형 애플리케이션 또는 맞춤형 코드
 
@@ -27,12 +27,12 @@ source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 1. 모든 Livefyre 고객은 다음을 포함한 모든 트래픽에 대해 HTTPS를 통해 모든 API와 통신해야 합니다.
 
-   * 서버 통합 (CRM, CMS, Wordpress 등)
+   * 서버 통합 (CRM, CMS, wordpress 등)
    * 모바일 통합 (Android 및 iOS 앱)
    * 사용자 정의 애플리케이션 (Streamhub SDK 또는 직접 코딩됨).
 
 1. 서버 및 모바일 HTTP 클라이언트에서 TLS 1.2를 지원해야 함
-1. 호스트 이름을에서 `{*}.<network>.fyre.co``<network>.{*}.fyre.co`로 변경합니다. 예를 들어 호스트 이름이 `example.network.fyre.co``network.`example. fyre. co "로 변경됩니다. 예를 들면 다음과 같습니다.
+1. 호스트 이름을에서 `{*}.<network>.fyre.co``<network>.{*}.fyre.co`로 변경합니다. 예를 들어 호스트 이름이 `example.network.fyre.co``network.`example. fyre. co &quot;로 변경됩니다. 예를 들면 다음과 같습니다.
 
    * `bootstrap.<network_name>.fyre.co` to `<network_name>.bootstrap.fyre.co`
 
