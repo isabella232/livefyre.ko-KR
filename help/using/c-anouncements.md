@@ -6,7 +6,7 @@ solution: Experience Manager
 title: 공지 사항
 uuid: C 05963 DB -4 D 96-494 E-BDB 3-DA 3570 A 14 DFE
 translation-type: tm+mt
-source-git-commit: ee7c27508aac1dbd5466e600d1e1eb09f465c9ed
+source-git-commit: 8624bacfaf584f305e6bbfc444653d179fdd34dc
 
 ---
 
@@ -17,7 +17,7 @@ Livefyre 및 Livefyre Studio에 대한 공지 사항 2019 년 6 월 5 일 현재
 
 ## 2019 년 6 월 5 일
 
-Facebook는 일반적으로 가능한 한 변경 사항을 상세하게 통보 받은 반면, Livefyre에서 Facebook 및 Instagram 컨텐츠에 대한 액세스를 비활성화할 수 있는 신속한 결정을 어제 내렸습니다. 이러한 변경 사항으로 인해 Facebook 또는 Instagram 컨텐츠를 스트리밍하거나 검색 또는 공유할 수 없습니다. 이 변경 사항에 대한 도움을 드리기 위해 진심으로 사과드립니다.
+Facebook는 일반적으로 가능한 한 변경 사항을 상세하게 통보 받은 반면, Livefyre에서 Facebook 및 Instagram 컨텐츠에 대한 액세스를 비활성화할 수 있는 신속한 결정을 어제 내렸습니다. 이러한 변경 사항으로 인해 Facebook 또는 Instagram 컨텐츠를 스트리밍하거나 검색 또는 공유할 수 없습니다. 이 변경 사항에 대한 도움을 드리지 못해서 진심으로 죄송합니다.
 
 현재 Facebook 및 Instagram 컨텐츠에 액세스할 수 있는 방법이 있습니다.
 
