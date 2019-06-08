@@ -6,7 +6,7 @@ solution: Experience Manager
 title: 공지 사항
 uuid: C 05963 DB -4 D 96-494 E-BDB 3-DA 3570 A 14 DFE
 translation-type: tm+mt
-source-git-commit: 8624bacfaf584f305e6bbfc444653d179fdd34dc
+source-git-commit: 1319d79718960b112f7c711b5afabfa04dc2a5c0
 
 ---
 
@@ -14,6 +14,18 @@ source-git-commit: 8624bacfaf584f305e6bbfc444653d179fdd34dc
 # 공지 사항{#announcements}
 
 Livefyre 및 Livefyre Studio에 대한 공지 사항 2019 년 6 월 5 일 현재.
+
+## 2019 년 6 월 7 일
+
+Instagram 스트림과 검색이 Livefyre에서 복구되었음을 보고하게 되어 기쁘게 생각합니다. Instagram 컨텐츠에 대한 소셜 검색을 다시 시작하고 스트리밍 Instagram 콘텐츠를 폴더 및 앱으로 다시 시작할 수 있습니다. 스트리밍 콘텐츠를 다시 시작하려면 다음 단계를 수행해야 합니다.
+* Livefyre에 로그인
+* Instagram 비즈니스 계정에 연결된 액세스 토큰을 재인증하고 새로 고치려면 설정 설정
+* 컨텐츠의 스트리밍을 다시 시작하려면 1 ~ 2 시간 정도 기다리십시오.
+* 문제가 발생하면 지원 문의
+
+Facebook 스트림은 아직 복원되지 않았지만, Facebook와 적극적으로 협력하여 이 기능을 복구하고, 더 많은 것을 알고 있는 즉시 업데이트할 것입니다.
+
+예상치 못한 서비스 중단으로 인해 기다려 주셔서 감사합니다.
 
 ## 2019 년 6 월 5 일
 
