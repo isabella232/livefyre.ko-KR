@@ -6,14 +6,18 @@ solution: Experience Manager
 title: 공지 사항
 uuid: C 05963 DB -4 D 96-494 E-BDB 3-DA 3570 A 14 DFE
 translation-type: tm+mt
-source-git-commit: 1319d79718960b112f7c711b5afabfa04dc2a5c0
+source-git-commit: 087a40bf77c3b630acb661b58ffa8cfdedc0aec0
 
 ---
 
 
 # 공지 사항{#announcements}
 
-Livefyre 및 Livefyre Studio에 대한 공지 사항 2019 년 6 월 5 일 현재.
+## 2019 년 6 월 11 일
+
+Facebook Fanpage 컨텐츠가 Livefyre의 폴더 및 앱에 스트리밍을 재개했음을 알려 드립니다. 이 컨텐츠의 흐름을 활성화하는 데 필요한 작업은 없습니다.
+
+예상치 못한 중단 시 귀하의 깊은 배려에 깊은 감사의 말씀을 드립니다.
 
 ## 2019 년 6 월 7 일
 
