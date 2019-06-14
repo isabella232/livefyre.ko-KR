@@ -6,7 +6,7 @@ solution: Experience Manager
 title: 요청 구조 가져오기
 uuid: bf 6 b 9 e 45-d 08 a -48 e 6-acc 6-e 4 fa 56428 d 25
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: cf447db2cb3498fcb01b511848faeee4d1e48481
 
 ---
 
@@ -40,4 +40,3 @@ https://example.yoursite.com/some_path/?id={id}&lftoken={UserAuthToken}
    * 가 `lftoken` 없거나 유효성 검사가 실패한 경우 종단점을 사용하여 프로필 정보에 응답하지 마십시오. 대신, 403 (금지) 상태 코드로 응답하고 응답 본문을 사용하지 않습니다.
 
 1. `userAuthToken` 사용자 ID «system» 와 함께 사용자에 대한 Livefyre `buildUserAuthToken` 메서드로 생성됩니다. 이 사용자는 모든 새 네트워크에 대해 처음 만든 사용자입니다.
-1. 페이지를 테스트하려면 [풀](https://livefyre-p4p-wizard.herokuapp.com/home) 테스터용 Ping를 사용하여 모든 것이 예상대로 작동하는지 확인합니다.
