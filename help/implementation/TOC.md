@@ -3,7 +3,7 @@ product: livefyre
 audience: 최종 사용자
 user-guide-title: Experience Manager Livefyre 구현 안내서
 translation-type: tm+mt
-source-git-commit: 4952830655e904cfba7d2dd98338c7fda02c4250
+source-git-commit: f3e4942cab98960259ddf6d2f4fd878e74599d9f
 
 ---
 
@@ -47,7 +47,6 @@ source-git-commit: 4952830655e904cfba7d2dd98338c7fda02c4250
    + Livefyre ID와 소셜 앱 사용 {#use-social-apps-with-livefyre-identity}
       + [소셜 앱 제작](c-livefyre-identity-comp/t-create-your-social-apps.md)
       + [Livefyre ID와 함께 사용할 Facebook 앱 만들기](c-livefyre-identity-comp/t-create-a-facebook-app-for-use-with-livefyre-identity.md)
-      + [Livefyre ID와 함께 사용할 Google 프로젝트 만들기](c-livefyre-identity-comp/t-create-a-google-project-for-use-with-livefyre-identity.md)
       + [Livefyre ID와 함께 사용할 Twitter 앱 만들기](c-livefyre-identity-comp/t-create-a-twitter-app-for-use-with-livefyre-identity.md)
       + [Yahoo! Livefyre ID와 함께 사용할 수 있는 앱](c-livefyre-identity-comp/t-create-a-yahoo-app-for-use-with-livefyre-identity.md)
       + [Livefyre ID와 함께 사용할 Microsoft Live Identity 앱 만들기](c-livefyre-identity-comp/t-create-a-microsoft-live-id-app-for-use-with-livefyre-identity.md)
