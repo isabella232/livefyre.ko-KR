@@ -3,7 +3,7 @@ product: livefyre
 audience: 최종 사용자
 user-guide-title: Experience Manager Livefyre 구현 안내서
 translation-type: tm+mt
-source-git-commit: f3e4942cab98960259ddf6d2f4fd878e74599d9f
+source-git-commit: d2a3bad7f0009d04be0e17802d17409f16c1b779
 
 ---
 
@@ -13,8 +13,8 @@ source-git-commit: f3e4942cab98960259ddf6d2f4fd878e74599d9f
 + [Livefyre 구현 안내서](home.md)
 + 시작하기 {#getting-started}
    + [Livefyre 통합 시작하기](c-getting-started/c-getting-started.md)
-   + 구현 프로세스 {#implementation-process}
-      + [구현 프로세스](c-getting-started/c-implementation-process/c-implementation-process.md)
+   + 구현 과정 {#implementation-process}
+      + [구현 과정](c-getting-started/c-implementation-process/c-implementation-process.md)
       + [앱 통합 유형](c-getting-started/c-implementation-process/c-app-integration-types.md)
       + [앱 구현](c-getting-started/designer-app-implementation.md)
       + [타사 통합을 통해 Livefyre 구현](c-app-integrations/implement-livefyre-3rd-party.md)
@@ -96,10 +96,9 @@ source-git-commit: f3e4942cab98960259ddf6d2f4fd878e74599d9f
 + [livefyre. js](c-livefyre.js.md)
 + [Livefyre 토큰 만들기 C #](c-creating-livefyre-tokens-c-.md)
 + 앱 통합 {#app-integrations}
-   + [채팅](c-app-integrations/c-app-integratios-chat.md)
-   + 댓글 {#comments}
+   + [대화](c-app-integrations/c-app-integratios-chat.md)
+   + 설명 {#comments}
       + [댓글](c-app-integrations/c-comments-integration/c-comments-integration.md)
-      + [댓글의 광고](c-app-integrations/c-comments-integration/c-ads-in-comments-integration.md)
    + [라이브 블로그](c-app-integrations/c-live-blog-integration.md)
    + [평가](c-app-integrations/c-reviews-integration.md)
    + Sidenotes {#sidenotes}
@@ -111,7 +110,7 @@ source-git-commit: f3e4942cab98960259ddf6d2f4fd878e74599d9f
       + [Sidenotes 사용자 정의 문자열](c-app-integrations/c-sidenotes-integration/r-custom-strings.md)
       + [Sidenotes 구현](c-app-integrations/c-sidenotes-integration/r-sidenotes-implementation.md)
       + [Updateanchors 메서드](c-app-integrations/c-sidenotes-integration/update-anchors-method.md)
-   + [map](c-app-integrations/c-map-integration.md)
+   + [맵](c-app-integrations/c-map-integration.md)
    + [미디어 담벼락](c-app-integrations/c-media-wall-integration.md)
    + [트렌딩](c-app-integrations/c-trending-integration.md)
 + 앱 맞춤화 {#app-customizations}
