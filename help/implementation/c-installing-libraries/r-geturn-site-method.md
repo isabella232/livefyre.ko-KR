@@ -1,21 +1,21 @@
 ---
-description: 이 메서드는 이 사이트에 대한 URN를 반환합니다.
-seo-description: 이 메서드는 이 사이트에 대한 URN를 반환합니다.
-seo-title: Geturn 사이트 메서드
+description: 이 메서드는 이 사이트의 URN을 반환합니다.
+seo-description: 이 메서드는 이 사이트의 URN을 반환합니다.
+seo-title: getUrn 사이트 메서드
 solution: Experience Manager
-title: Geturn 사이트 메서드
-uuid: 231 C 915 C -6288-43 E 6-86 E 0-B 8 D 09 A 08 C 4 D 3
+title: getUrn 사이트 메서드
+uuid: 231c915c-6288-43e6-86e0-b8d09a08c4d3
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 
 
-# Geturn 사이트 메서드{#geturn-site-method}
+# getUrn 사이트 메서드{#geturn-site-method}
 
-이 메서드는 이 사이트에 대한 URN를 반환합니다.
+이 메서드는 이 사이트의 URN을 반환합니다.
 
-## Java 예제 {#section_nyl_ycs_rz}
+## Java 예 {#section_nyl_ycs_rz}
 
 사용:
 
@@ -29,7 +29,7 @@ site.getUrn();
 "urn:livefyre:network=`example.fyre.co`:site=1" 
 ```
 
-## Nodejs 예제 {#section_xkd_gds_rz}
+## NodeJS 예 {#section_xkd_gds_rz}
 
 ```
 site.getUrn(); 
@@ -53,7 +53,7 @@ $site->getUrn();
 "urn:livefyre:network=`example.fyre.co`:site=1" 
 ```
 
-## Python 예제 {#section_dwg_gds_rz}
+## Python 예 {#section_dwg_gds_rz}
 
 ```
 site.urn 
