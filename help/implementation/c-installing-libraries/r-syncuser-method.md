@@ -1,25 +1,25 @@
 ---
-description: Livefyre가 이전에 설정된 사용자 동기화 URL에서 사용자 정보를 가져오도록 알려줍니다. 부울 값을 반환합니다.
-seo-description: Livefyre가 이전에 설정된 사용자 동기화 URL에서 사용자 정보를 가져오도록 알려줍니다. 부울 값을 반환합니다.
-seo-title: Syncuser 네트워크 방법
+description: 이전에 설정한 사용자 동기화 URL에서 사용자 정보를 가져오도록 Livefyre에 알려줍니다. 부울 값을 반환합니다.
+seo-description: 이전에 설정한 사용자 동기화 URL에서 사용자 정보를 가져오도록 Livefyre에 알려줍니다. 부울 값을 반환합니다.
+seo-title: syncUser 네트워크 메서드
 solution: Experience Manager
-title: Syncuser 네트워크 방법
-uuid: 2 AFFB 03 D -3907-4 B 01-9 A 64-02 BA 1 B 06 DA 14
+title: syncUser 네트워크 메서드
+uuid: 2affb03d-3907-4b01-9a64-02ba1b06da14
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 
 
-# Syncuser 네트워크 방법{#syncuser-network-method}
+# syncUser 네트워크 메서드{#syncuser-network-method}
 
-Livefyre가 이전에 설정된 사용자 동기화 URL에서 사용자 정보를 가져오도록 알려줍니다. 부울 값을 반환합니다.
+이전에 설정한 사용자 동기화 URL에서 사용자 정보를 가져오도록 Livefyre에 알려줍니다. 부울 값을 반환합니다.
 
-| 변수 | type | 설명 |
+| 변수 | 유형 | 설명 |
 |--- |--- |--- |
-| userid | 문자열 | Livefyre와 동기화할 사용자 ID. 이 메서드를 호출하기 전에 Livefyre와 동기화된 URL 이 설정되어 있어야 합니다. |
+| userId | 문자열 | Livefyre와 동기화할 사용자 ID입니다. 이 메서드를 호출하려면 먼저 Livefyre와 사용자 동기화 URL이 설정되어 있어야 합니다. |
 
-## Java 예제 {#section_nyl_ycs_rz}
+## Java 예 {#section_nyl_ycs_rz}
 
 ```
 network.syncUser(userId); 
@@ -31,7 +31,7 @@ network.syncUser(userId);
 true
 ```
 
-## Nodejs 예제 {#section_xkd_gds_rz}
+## NodeJS 예 {#section_xkd_gds_rz}
 
 ```
 network.syncUser(userId); 
@@ -55,7 +55,7 @@ $network->syncUser(userId);
 true
 ```
 
-## Python 예제 {#section_dwg_gds_rz}
+## Python 예 {#section_dwg_gds_rz}
 
 ```
 network.sync_user(userId) 
