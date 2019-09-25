@@ -1,25 +1,25 @@
 ---
-description: Livefyre에 네트워크의 사용자 동기화 URL를 업데이트하도록 알려줍니다. 부울 값을 반환합니다.
-seo-description: Livefyre에 네트워크의 사용자 동기화 URL를 업데이트하도록 알려줍니다. 부울 값을 반환합니다.
-seo-title: Setusersyncurl 네트워크 메서드
+description: Livefyre에 네트워크의 사용자 동기화 URL을 제공된 URL로 업데이트하라는 메시지가 표시됩니다. 부울 값을 반환합니다.
+seo-description: Livefyre에 네트워크의 사용자 동기화 URL을 제공된 URL로 업데이트하라는 메시지가 표시됩니다. 부울 값을 반환합니다.
+seo-title: setUserSyncUrl 네트워크 메서드
 solution: Experience Manager
-title: Setusersyncurl 네트워크 메서드
-uuid: cd 067 e 90-a 2 da -4 e 3 d -8 e 60-7 eabfd 86 fc 7 f
+title: setUserSyncUrl 네트워크 메서드
+uuid: cd067e90-a2da-4e3d-8e60-7eabfd86fc7f
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 
 
-# Setusersyncurl 네트워크 메서드{#setusersyncurl-network-method}
+# setUserSyncUrl 네트워크 메서드{#setusersyncurl-network-method}
 
-Livefyre에 네트워크의 사용자 동기화 URL를 업데이트하도록 알려줍니다. 부울 값을 반환합니다.
+Livefyre에 네트워크의 사용자 동기화 URL을 제공된 URL로 업데이트하라는 메시지가 표시됩니다. 부울 값을 반환합니다.
 
-| 변수 | type | 설명 |
+| 변수 | 유형 | 설명 |
 |--- |--- |--- |
-| Urltemplate | 문자열 | 사용자 ID 동기화를 위해 Livefyre에 등록할 URL 입니다. "`{id}`» 가 제공된 URL 문자열의 일부가 되어야 합니다. |
+| urlTemplate | 문자열 | 사용자 ID를 동기화하기 위해 Livefyre에 등록할 URL입니다. "`{id}`"가 제공된 URL 문자열의 일부가 되어야 합니다. |
 
-## Java 예제 {#section_nyl_ycs_rz}
+## Java 예 {#section_nyl_ycs_rz}
 
 ```
 network.setUserSyncUrl(urlTemplate); 
@@ -31,7 +31,7 @@ network.setUserSyncUrl(urlTemplate);
 true
 ```
 
-## Nodejs 예제 {#section_xkd_gds_rz}
+## NodeJS 예 {#section_xkd_gds_rz}
 
 ```
 network.setUserSyncUrl(urlTemplate); 
@@ -55,7 +55,7 @@ $network->setUserSyncUrl(urlTemplate);
 true
 ```
 
-## Python 예제 {#section_dwg_gds_rz}
+## Python 예 {#section_dwg_gds_rz}
 
 ```
 network.set_user_sync_url(urlTemplate) 
