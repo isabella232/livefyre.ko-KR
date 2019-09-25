@@ -1,21 +1,21 @@
 ---
-description: . js 구현을 사용하여 Sidenotes를 구현합니다.
-seo-description: . js 구현을 사용하여 Sidenotes를 구현합니다.
-seo-title: Sidenotes 구현
+description: .js 구현을 사용하여 사이드노트를 구현합니다.
+seo-description: .js 구현을 사용하여 사이드노트를 구현합니다.
+seo-title: 사이드노트 구현
 solution: Experience Manager
-title: Sidenotes 구현
-uuid: AA 13852 E-E 2 B 0-4 A 86-97 CD-D 08 AB 5 E 2 CFAB
+title: 사이드노트 구현
+uuid: aa13852e-e2b0-4a86-97cd-d08ab5e2cfab
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 
 
-# Sidenotes 구현{#sidenotes-implementation}
+# 사이드노트 구현{#sidenotes-implementation}
 
 ## 방주 구현(.js 구현 사용)
 
-이 기능을 구현하려면 Javascript 구성 개체로 재정의할 문자열의 1-1 개체 매핑을 전달합니다. 필드를 제공하지 않으면 기본 텍스트가 사용됩니다.
+이 기능을 구현하려면 재정의할 문자열의 1-1 개체 매핑을 Javascript 구성 개체에 전달합니다. 필드를 제공하지 않으면 기본 텍스트가 사용됩니다.
 
 ### 예
 
