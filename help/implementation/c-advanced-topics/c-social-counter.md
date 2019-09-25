@@ -1,10 +1,10 @@
 ---
-description: 선별된 소셜 항목의 수를 카운트합니다.
-seo-description: 선별된 소셜 항목의 수를 카운트합니다.
+description: 조정된 소셜 항목 수를 카운트합니다.
+seo-description: 조정된 소셜 항목 수를 카운트합니다.
 seo-title: 소셜 카운터
 solution: Experience Manager
 title: 소셜 카운터
-uuid: fa 9 aa 1 a 8-6 a 04-4 bc 1-9 bfe-e 42 c 1250 fd 48
+uuid: fa9aa1a8-6a04-4bc1-9bfe-e42c1250fd48
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
@@ -13,9 +13,9 @@ source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 # 소셜 카운터{#social-counter}
 
-선별된 소셜 항목의 수를 카운트합니다. 사용 가능한 끝점에 대한 전체 목록은 Livefyre [API 참조](https://api.livefyre.com/docs) 섹션을 참조하십시오.
+조정된 소셜 항목 수를 카운트합니다. 사용 가능한 끝점의 전체 목록을 보려면 Livefyre API [참조 섹션을](https://api.livefyre.com/docs) 참조하십시오.
 
-Social 카운터 API는 일정 기간 동안 주어진 컬렉션에서 일치하는 조정 규칙에 대한 카운트를 반환합니다.
+Social 카운터 API는 일정 기간 동안 특정 컬렉션의 일치하는 조정 규칙에 대한 카운트를 반환합니다.
 
 >[!NOTE]
 >
@@ -25,7 +25,7 @@ Social 카운터 API는 일정 기간 동안 주어진 컬렉션에서 일치하
 
 * 리소스
 * 규칙 유형
-* response
+* 응답
 
 ## 리소스 {#section_p2s_2hc_11b}
 
@@ -33,30 +33,30 @@ Social 카운터 API는 일정 기간 동안 주어진 컬렉션에서 일치하
 GET https://{networkName}.bootstrap.fyre.co/api/v3.0/stats.collections.curate/{query}.json
 ```
 
-* **Networkname:** Livefyre가 네트워크 이름을 제공했습니다. 예를 들면 다음과 같습니다. *Labs* `labs.fyre.co`의
-* **쿼리:** URL-safe base 64의 모든 사이트 해시 해시, 집필 ID, 개수 정보를 가져와야 하는 규칙 유형 (사전 인코딩됨)
+* **** networkName:Livefyre에서 네트워크 이름을 제공했습니다. 예: *labs* in `labs.fyre.co`the
+* **** 쿼리:모든 사이트, 아티클 ID, 카운트 정보를 가져오기 위한 규칙 유형 튜플의 url-safe base64 인코딩 해시(사전 인코딩)
 
    ```
    {site ID}:{article ID};{rule-type},  {article ID};{rule-type}|{site ID}:{article ID};{rule-type}
    ```
 
    >[!NOTE]
-   >Query is limited to 10 site, article ID, rule-type tuples. 이전 예에는 3 개의 자습서가 포함되어 있습니다.
+   >쿼리는 10개 사이트, 아티클 ID, 규칙 유형 튜플로 제한됩니다. 이전 예에는 3개의 튜플이 포함됩니다.
 
-* **From**`(optional)` 는 그래프에 상대적 또는 절대 기간을 지정합니다. [시작] 는 [시작] 를 지정하고, [생략] 는 24 시간 전에 지정합니다.
-* **그래프에 상대적 또는 절대 기간을** `(optional)` 지정할 때까지, [시작] 를 지정하고 [현재 시간] (현재) 이 생략된 경우 기본값을 지정합니다.
+* **from** `(optional)` specify the relative or absolute time period to graph;에서 는 생략하면 시작 및 기본값을 24시간 전에 지정합니다.
+* **를** 사용하여 `(optional)` 그래프의 상대 또는 절대 기간을 지정합니다.until은 생략된 경우 현재 시간(현재 시간)으로 시작 및 기본값을 지정합니다.
 
 ### 상대적 시간
 
-| 약어 | unit |
+| 약자 | 단위 |
 |---|---|
 | s | 초 |
-| min | minutes |
-| h | hours |
-| d | 일 수 |
+| min | 분 |
+| h | 시간 |
+| d | 일 |
 | w | 주 |
-| mon | 30 일 (월) |
-| y | 365 일 (연도) |
+| mon | 30일(월) |
+| y | 365일(년) |
 
 예:
 
@@ -66,15 +66,15 @@ https://labs-t402.bootstrap.fyre.co/api/v3.0/stats.collections.curate/MTIzNDU2On
 
 ## 절대 시간 {#section_xqr_jgc_11b}
 
-형식: hh: mm_ yyyymmdd
+형식:HH:MM_YYYMMDD
 
-| 약어 | 의미 |
+| 약자 | 의미 |
 |---|---|
-| HH | 시간 (24 시간 형식) |
-| MM | minutes |
-| YYYY | 4 자리 연도 |
+| HH | 시간(24시간 클록 형식) |
+| MM | 분 |
+| YYYY | 4자리 연도 |
 | MM | 월 |
-| DD | day |
+| DD | 일 |
 
 예:
 
@@ -84,19 +84,19 @@ https://labs-t402.bootstrap.fyre.co/api/v3.0/stats.collections.curate/MTIzNDU2On
 
 ## 규칙 유형 {#section_v53_xqb_11b}
 
-| value | type |
+| 값 | 유형 |
 |---|---|
 | 2 | Twitter |
 
 예:
 
-For obtain counts over the last minute for site `123456` and article ID `some-article-id` and rule-type `2`, for example: `123456:some-article-id;2:`
+사이트 `123456` 및 아티클 ID `some-article-id` 및 규칙 유형에 대한 마지막 분 동안의 카운트를 가져오려면 `2`다음을 수행하십시오. `123456:some-article-id;2:`
 
 ```
 curl -XGET "https://labs-t402.bootstrap.fyre.co/api/v3.0/stats.collections.curate/MTIzNDU2OnNvbWUtYXJ0aWNsZS1pZDsy.json&from=-1min" 
 ```
 
-답변 예:
+응답 예:
 
 ```
 { 
