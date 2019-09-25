@@ -1,20 +1,20 @@
 ---
-description: Livefyre. require는 Auth가 Janrain 백플레인 버스를 수신할 수 있도록 하는 플러그인을 제공합니다.
-seo-description: Livefyre. require는 Auth가 Janrain 백플레인 버스를 수신할 수 있도록 하는 플러그인을 제공합니다.
-seo-title: Authdelegate를 사용하여 Janrain에 Livefyre 연결
-title: Authdelegate를 사용하여 Janrain에 Livefyre 연결
-uuid: 9 D 56 E 3 F 4-960 A -4108-AAB 5-2795 B 0 E 71 C 88
+description: Livefyre.require는 Janrain 후면판 버스를 수신할 수 있는 인증을 활성화하는 플러그인을 제공합니다.
+seo-description: Livefyre.require는 Janrain 후면판 버스를 수신할 수 있는 인증을 활성화하는 플러그인을 제공합니다.
+seo-title: AuthDelegate를 사용하여 Janrain과 Livefyre 연결
+title: AuthDelegate를 사용하여 Janrain과 Livefyre 연결
+uuid: 9d56e3f4-960a-4108-aab5-2795b0e71c88
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 
 
-# Authdelegate를 사용하여 Janrain에 Livefyre 연결{#connecting-janrain-to-livefyre-using-authdelegate}
+# AuthDelegate를 사용하여 Janrain과 Livefyre 연결{#connecting-janrain-to-livefyre-using-authdelegate}
 
-Livefyre. require는 Auth가 Janrain 백플레인 버스를 수신할 수 있도록 하는 플러그인을 제공합니다.
+Livefyre.require는 Janrain 후면판 버스를 수신할 수 있는 인증을 활성화하는 플러그인을 제공합니다.
 
-백플레인 채널에서 ID/로그인 메시지가 브로드캐스트되면 사용자의 Livefyre 인증 토큰을 통해 auth. authenticate () 가 호출됩니다. 여전히 Authdelegate를 구현해야 합니다.
+후면판 채널에서 ID/로그인 메시지가 브로드캐스트되면 사용자의 Livefyre 인증 토큰으로 auth.authenticate()가 호출됩니다. 여전히 AuthDelegate를 구현해야 합니다.
 
 ```
 Livefyre.require(['auth', 'backplane-auth-plugin#0'], function(auth, backplanePluginFactory) { 
@@ -29,19 +29,19 @@ Livefyre.require(['auth', 'backplane-auth-plugin#0'], function(auth, backplanePl
 
 >[!NOTE]
 >
->window. backplane 개체는 Livefyre Backplane 플러그인과 함께 auth. plugin를 호출하기 전에 페이지에서 정의해야 합니다. 백플레인 개체가 사용 가능한지 확인하려면 Onready 콜백에서 Livefyre 인스턴스화 코드를 호출합니다. 다른 애플리케이션이 백플레인 개체를 사용할 수 있는 시기를 결정하려면 Janrain 담당자에게 문의하십시오.
+>window.후면판 개체는 Livefyre 후면판 플러그인으로 auth.plugin을 호출하기 전에 페이지에 정의해야 합니다. 후면판 개체를 사용할 수 있는지 확인하려면 onReady 콜백에서 Livefyre 인스턴스화 코드를 호출합니다. 다른 응용 프로그램에서 후면판 개체를 사용할 수 있는 시기를 확인하려면 Janain 담당자에게 문의하십시오.
 
-다음은 인증 위임자가 Janrain Capture 통합을 찾는 방법의 몇 가지 예입니다.
+다음은 인증 위임이 Janrain Capture 통합을 찾는 방법의 몇 가지 예입니다.
 
 >[!NOTE]
 >
->인증 위임은 Janrain 인스턴스에 따라 다릅니다.
+>Janrain 인스턴스에 따라 인증 위임이 달라집니다.
 
 <!--Hannah: Mystery stray bullet found here. Please check against source. -Bob -->
 
-* 인증 대리인의 로그인 메서드에 전달된 콜백
-* Janrain Capture 변수에 대한 참조입니다.
-* : 백플레인 객체에 대한 참조입니다.
+* 인증 위임의 로그인 메서드에 전달된 콜백
+* Janrain 캡처 변수에 대한 참조입니다.
+* :후면판 개체에 대한 참조입니다.
 
 ```
 /** 
@@ -76,9 +76,9 @@ authDelegate.login = function(finishLogin) {
 
 로그아웃
 
-* **Finishlogout:** 인증 대리인의 로그인 메서드에 전달된 콜백.
+* **** finishLogout:인증 위임의 로그인 메서드에 전달된 콜백입니다.
 
-* **window. backplane:** 백플레인 객체에 대한 참조입니다.
+* **** window.후면판:후면판 개체에 대한 참조입니다.
 
 ```
 /** 
@@ -96,7 +96,7 @@ authDelegate.logout = function(finishLogout) {
 
 프로필 편집
 
-사용자가 방문하려는 사이트의 모든 부분으로 링크하여 자신의 프로필 페이지를 볼 수 있습니다. 이 예제는 전달된 작성자 개체를 출력합니다.
+이 링크는 사용자가 자신의 프로필 페이지를 보기 위해 방문하려는 사이트의 어느 부분이든지 링크할 수 있습니다. 이 예는 전달된 작성자 개체만 출력합니다.
 
 ```
 /** 
@@ -110,7 +110,7 @@ authDelegate.editProfile = function(user) {
 
 프로필 보기
 
-프로필 편집처럼, 이 작업은 현재 로그인한 사용자와 다른 사용자의 페이지로 링크해야 합니다. 그러나 이 방법은 제대로 구현될 수 있습니다. 이 예에서는 author 매개 변수를 콘솔에 기록합니다.
+프로필 편집과 같이, 현재 로그인한 사용자와 다른 사용자의 페이지에 링크해야 합니다. 원하는 대로 구현할 수 있습니다. 이 예에서는 작성자 매개 변수를 콘솔에 간단하게 기록합니다.
 
 ```
 /** 
