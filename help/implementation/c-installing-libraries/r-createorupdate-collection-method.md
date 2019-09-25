@@ -1,27 +1,27 @@
 ---
-description: Livefyre를 사용하여 이 컬렉션을 만들거나 업데이트합니다. 이 컬렉션 개체를 반환합니다.
-seo-description: Livefyre를 사용하여 이 컬렉션을 만들거나 업데이트합니다. 이 컬렉션 개체를 반환합니다.
-seo-title: Createorupdate Collection 메서드
+description: Livefyre를 사용하여 이 컬렉션을 만들거나 업데이트하려고 시도합니다. 이 컬렉션 개체를 반환합니다.
+seo-description: Livefyre를 사용하여 이 컬렉션을 만들거나 업데이트하려고 시도합니다. 이 컬렉션 개체를 반환합니다.
+seo-title: createOrUpdate 컬렉션 메서드
 solution: Experience Manager
-title: Createorupdate Collection 메서드
-uuid: 1 fff 82 d 3-4 b 05-46 a 0-95 ca -3 eb 4 a 6256 cf 8
+title: createOrUpdate 컬렉션 메서드
+uuid: 1fff82d3-4b05-46a0-95ca-3eb4a6256cf8
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 
 
-# Createorupdate Collection 메서드{#createorupdate-collection-method}
+# createOrUpdate 컬렉션 메서드{#createorupdate-collection-method}
 
-Livefyre를 사용하여 이 컬렉션을 만들거나 업데이트합니다. 이 컬렉션 개체를 반환합니다.
+Livefyre를 사용하여 이 컬렉션을 만들거나 업데이트하려고 시도합니다. 이 컬렉션 개체를 반환합니다.
 
-## Java 예제 {#section_nyl_ycs_rz}
+## Java 예 {#section_nyl_ycs_rz}
 
 ```
 collection.createOrUpdate(); 
 ```
 
-## Nodejs 예제 {#section_xkd_gds_rz}
+## NodeJS 예 {#section_xkd_gds_rz}
 
 ```
 collection.createOrUpdate(callback); 
@@ -33,7 +33,7 @@ collection.createOrUpdate(callback);
 $collection->createOrUpdate();
 ```
 
-## Python 예제 {#section_dwg_gds_rz}
+## Python 예 {#section_dwg_gds_rz}
 
 ```
 collection.create_or_update() 
