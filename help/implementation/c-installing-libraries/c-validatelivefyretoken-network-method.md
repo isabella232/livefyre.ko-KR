@@ -1,25 +1,25 @@
 ---
-description: Livefyre 토큰이 이 네트워크에 대해 여전히 유효한지 여부를 확인합니다. 부울 값을 반환합니다.
-seo-description: Livefyre 토큰이 이 네트워크에 대해 여전히 유효한지 여부를 확인합니다. 부울 값을 반환합니다.
-seo-title: Validatelivefyretoken 네트워크 메서드
+description: Livefyre 토큰이 이 네트워크에 여전히 유효한지 확인합니다. 부울 값을 반환합니다.
+seo-description: Livefyre 토큰이 이 네트워크에 여전히 유효한지 확인합니다. 부울 값을 반환합니다.
+seo-title: validateLivefyreToken 네트워크 메서드
 solution: Experience Manager
-title: Validatelivefyretoken 네트워크 메서드
-uuid: 2 bac 11 de-d 6 c 4-419 f -9 c 7 b -92 cfb 541 d 07 e
+title: validateLivefyreToken 네트워크 메서드
+uuid: 2bac11de-d6c4-419f-9c7b-92cfb541d07e
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 
 
-# Validatelivefyretoken 네트워크 메서드{#validatelivefyretoken-network-method}
+# validateLivefyreToken 네트워크 메서드{#validatelivefyretoken-network-method}
 
-Livefyre 토큰이 이 네트워크에 대해 여전히 유효한지 여부를 확인합니다. 부울 값을 반환합니다.
+Livefyre 토큰이 이 네트워크에 여전히 유효한지 확인합니다. 부울 값을 반환합니다.
 
-| 변수 | type | 설명 |
+| 변수 | 유형 | 설명 |
 |---|---|---|
-| *`lfToken`* | 문자열 | 유효성을 검사할 Livefyre 토큰. |
+| *`lfToken`* | 문자열 | 유효성을 검사할 Livefyre 토큰입니다. |
 
-## Java 예제 {#section_nyl_ycs_rz}
+## Java 예 {#section_nyl_ycs_rz}
 
 ```
 network.validateLivefyreToken(lfToken); 
@@ -31,7 +31,7 @@ network.validateLivefyreToken(lfToken);
 true 
 ```
 
-## Nodejs 예제 {#section_xkd_gds_rz}
+## NodeJS 예 {#section_xkd_gds_rz}
 
 ```
 network.validateLivefyreToken(lfToken); 
@@ -55,7 +55,7 @@ $network->validateLivefyreToken(lfToken);
 true 
 ```
 
-## Python 예제 {#section_dwg_gds_rz}
+## Python 예 {#section_dwg_gds_rz}
 
 ```
 network.validate_livefyre_token(lfToken) 
