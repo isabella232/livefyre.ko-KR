@@ -1,21 +1,21 @@
 ---
-description: 댓글 앱을 임베드하면 핵심 앱을 임베드하는 프로세스가 따릅니다.
-seo-description: 댓글 앱을 임베드하면 핵심 앱을 임베드하는 프로세스가 따릅니다.
-seo-title: 주석 앱 포함
+description: 댓글 앱 포함은 핵심 앱을 임베드하는 프로세스를 따릅니다.
+seo-description: 댓글 앱 포함은 핵심 앱을 임베드하는 프로세스를 따릅니다.
+seo-title: 댓글 앱 포함
 solution: Experience Manager
-title: 주석 앱 포함
-uuid: E 4982 AD 3-CAB 1-4805-A 55 C -594 CCA 3 B 7203
+title: 댓글 앱 포함
+uuid: e4982ad3-cab1-4805-a55c-594cca3b7203
 translation-type: tm+mt
 source-git-commit: 268dc91369d346a254b7120706264eb91da8257e
 
 ---
 
 
-# 주석 앱 포함{#embed-a-comments-app}
+# 댓글 앱 포함{#embed-a-comments-app}
 
-댓글 앱을 임베드하면 핵심 앱을 임베드하는 프로세스가 따릅니다.
+댓글 앱 포함은 핵심 앱을 임베드하는 프로세스를 따릅니다.
 
-댓글 앱을 임베드하면 앱 [임베드에 설명된 핵심 앱 임베드에 대한 프로세스가 따릅니다.](/help/implementation/c-getting-started/c-implementation-process/c-using-livefyre.js-to-create-customize-and-use-apps-on-your-site.md)
+댓글 앱 포함은 앱 포함에 설명된 핵심 앱을 [임베드하는 프로세스를 따릅니다.](/help/implementation/c-getting-started/c-implementation-process/c-using-livefyre.js-to-create-customize-and-use-apps-on-your-site.md)
 
 ## 예
 
@@ -54,7 +54,7 @@ source-git-commit: 268dc91369d346a254b7120706264eb91da8257e
 </html>
 ```
 
-Building collectionmeta section에 명시된 대로 collectionmeta는 인코딩된 JSON 개체입니다. 위의 예에서 JSON 개체는 JWT 인코딩하기 전에 다음 형식을 사용합니다.
+Building CollectionMeta 섹션에 설명된 대로 CollectionMeta는 인코딩된 JSON 개체입니다. 위의 예에서 JSON 개체는 JWT로 인코딩되기 전에 다음 형식을 사용합니다.
 
 ```
 { 
