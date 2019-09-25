@@ -1,10 +1,10 @@
 ---
-description: 라이브러리 사용에 대한 몇 가지 예.
-seo-description: 라이브러리 사용에 대한 몇 가지 예.
+description: 라이브러리 사용에 대한 몇 가지 예입니다.
+seo-description: 라이브러리 사용에 대한 몇 가지 예입니다.
 seo-title: 예
 solution: Experience Manager
 title: 예
-uuid: 94 E 38 DAB -6234-43 A 2-A 840-13 A 87 F 0237 F 1
+uuid: 94e38dab-6234-43a2-a840-13a87f0237f1
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
@@ -13,9 +13,9 @@ source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 # 예{#examples}
 
-라이브러리 사용에 대한 몇 가지 예.
+라이브러리 사용에 대한 몇 가지 예입니다.
 
-## Java 예제 {#section_nyl_ycs_rz}
+## Java 예 {#section_nyl_ycs_rz}
 
 ```
 package com.example; 
@@ -103,7 +103,7 @@ public static void main(String...args) {
 }
 ```
 
-## Nodejs 예제 {#section_xkd_gds_rz}
+## NodeJS 예 {#section_xkd_gds_rz}
 
 ```
 var Livefyre = require('./lib/livefyre');
@@ -280,7 +280,7 @@ class LivefyreExample {
 }
 ```
 
-## Python 예제 {#section_dwg_gds_rz}
+## Python 예 {#section_dwg_gds_rz}
 
 ```
 from livefyre import Livefyre 
