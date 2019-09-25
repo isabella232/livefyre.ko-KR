@@ -1,10 +1,10 @@
 ---
-description: Livefyre 앱에 맞춤형 액션을 추가할 수 있습니다.
-seo-description: Livefyre 앱에 맞춤형 액션을 추가할 수 있습니다.
+description: Livefyre 앱에 사용자 정의 동작을 추가합니다.
+seo-description: Livefyre 앱에 사용자 정의 동작을 추가합니다.
 seo-title: 사용자 정의 단추 추가
 solution: Experience Manager
 title: 사용자 정의 단추 추가
-uuid: 27 d 24 c 21-d 83 f -49 df -9 b 3 f -15 d 7 abbd 2 bd 7
+uuid: 27d24c21-d8 파섹
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
@@ -13,13 +13,13 @@ source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 # 사용자 정의 단추 추가{#add-custom-buttons}
 
-Livefyre 앱에 맞춤형 액션을 추가할 수 있습니다.
+Livefyre 앱에 사용자 정의 동작을 추가합니다.
 
-Livefyre를 사용하면 컨텐츠의 기존 작업 단추 (예 **[!UICONTROL Share]** : 및 **[!UICONTROL Flag]** ) 옆에 사용자 정의 단추를 추가할 수 있습니다.
+Livefyre를 사용하면 컨텐츠 일부에서 기존 작업 단추(예: **[!UICONTROL Share]**&#x200B;및 **[!UICONTROL Flag]**) 옆에 사용자 정의 단추를 추가할 수 있습니다.
 
-mobile 인수를 사용하여 단추가 모바일 장치에 표시되는지 여부를 정의합니다.
+모바일 인수를 사용하여 단추를 모바일 장치에 표시할지 여부를 정의합니다.
 
-예를 들어 모바일 장치 인터페이스에 대한 사용자 정의 작업 단추를 추가하려면 다음을 수행하십시오.
+예를 들어 모바일 장치 인터페이스에 대한 사용자 정의 작업 단추를 추가하려면:
 
 ```
 var convConfig = {...}; // Should have siteId, articleId, etc. 
@@ -39,8 +39,8 @@ convConfig.actionButtons = [
 fyre.conv.load(networkConfig, [convConfig]);
 ```
 
-1. 추가할 각 버튼에 대해 설명하는 객체 배열을 포함하여 Actionbuttons 라는 convconfig 개체에서 추가 인수를 전달합니다.
+1. 추가하려는 각 단추를 설명하는 개체 배열을 포함하는 actionButtons라는 ConnectConfig 개체에 추가 인수를 전달합니다.
 1. 각 단추에 대해 표시할 텍스트의 키를 정의합니다.
-1. 각 단추에 대해 클릭 이벤트에서 호출할 콜백을 추가합니다.
+1. 각 단추에 대한 클릭 이벤트에 대해 호출할 콜백을 추가합니다.
 
-콜백은 두 개의 키가 있는 객체로 호출됩니다. `authorId` `contentId`And.
+콜백은 두 개의 키가 있는 개체와 함께 호출됩니다. `authorId` 및 `contentId`Adobe
