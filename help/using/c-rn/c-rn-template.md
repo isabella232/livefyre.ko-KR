@@ -1,19 +1,19 @@
 ---
-description: < 날짜 > 릴리스에 대한 릴리스 노트입니다.
-seo-description: < 날짜 > 릴리스에 대한 릴리스 노트입니다.
+description: <DATE> 릴리스에 대한 릴리스 노트입니다.
+seo-description: <DATE> 릴리스에 대한 릴리스 노트입니다.
 seo-title: 릴리스 노트
 solution: Experience Manager
 title: 릴리스 노트
-uuid: 34 E 64943-DEA 6-46 AC -9 FCC -8 FEBEAB 6 AA 42
+uuid: 34e64943-dea6-46ac-9fcc-8febeab6aa42
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: a314ad0bbc845c2f9e1a37d89137110e766529b4
 
 ---
 
 
 # 릴리스 노트{#release-notes}
 
-릴리스 노트를 `<DATE>` 참조하십시오.
+릴리스 노트를 참조하십시오. `<DATE>`
 
 <!--- remove the carets and the quotes and fill in with actual values--->
 
