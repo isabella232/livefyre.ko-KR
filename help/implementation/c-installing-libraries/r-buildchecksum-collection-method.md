@@ -1,21 +1,21 @@
 ---
 description: 이 컬렉션에 대한 체크섬을 반환합니다.
 seo-description: 이 컬렉션에 대한 체크섬을 반환합니다.
-seo-title: Buildchecksum 컬렉션 메서드
+seo-title: buildChecksum Collection 메서드
 solution: Experience Manager
-title: Buildchecksum 컬렉션 메서드
-uuid: 692 E 8 E 13-6218-4 E 38-ABC 8-7 CF 49 bebde 9 C
+title: buildChecksum Collection 메서드
+uuid: 692e8e13-6218-4e38-abc8-7cf49bebde9c
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 
 
-# Buildchecksum 컬렉션 메서드{#buildchecksum-collection-method}
+# buildChecksum Collection 메서드{#buildchecksum-collection-method}
 
 이 컬렉션에 대한 체크섬을 반환합니다.
 
-## Java 예제 {#section_nyl_ycs_rz}
+## Java 예 {#section_nyl_ycs_rz}
 
 ```
 collection.buildChecksum(); 
@@ -27,7 +27,7 @@ collection.buildChecksum();
 6e2e4faf7b95f896260fe695eafb34ba 
 ```
 
-## Nodejs 예제 {#section_xkd_gds_rz}
+## NodeJS 예 {#section_xkd_gds_rz}
 
 ```
 collection.buildChecksum(); 
@@ -51,7 +51,7 @@ $collection->buildChecksum();
 6e2e4faf7b95f896260fe695eafb34ba 
 ```
 
-## Python 예제 {#section_dwg_gds_rz}
+## Python 예 {#section_dwg_gds_rz}
 
 ```
 collection.build_checksum() 
