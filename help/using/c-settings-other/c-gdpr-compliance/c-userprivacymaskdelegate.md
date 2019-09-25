@@ -1,27 +1,27 @@
 ---
-description: 을 사용하여 비디오 마스크에 표시되는 경고 텍스트를 변경할 수 있습니다.
-seo-description: 을 사용하여 비디오 마스크에 표시되는 경고 텍스트를 변경할 수 있습니다.
-seo-title: Userprivacymaskdelegate
+description: 를 사용하여 비디오 마스크에 표시되는 경고 텍스트를 변경할 수 있습니다.
+seo-description: 를 사용하여 비디오 마스크에 표시되는 경고 텍스트를 변경할 수 있습니다.
+seo-title: userPrivacyMaskDelegate
 solution: Experience Manager
-title: Userprivacymaskdelegate
-uuid: 8 E 5 A 2750-BF 45-4 E 70-A 5 F 9-37 F 5 E 7 C 61 F 8 E
+title: userPrivacyMaskDelegate
+uuid: 8e5a2750-bf45-4e70-a5f9-37f5e7c61f8e
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 9e01dd4515c01154e3566a39b367b8efa4ec082a
 
 ---
 
 
-# Userprivacymaskdelegate{#userprivacymaskdelegate}
+# userPrivacyMaskDelegate{#userprivacymaskdelegate}
 
-을 사용하여 비디오 마스크에 표시되는 경고 텍스트를 변경할 수 있습니다.
+를 사용하여 비디오 마스크에 표시되는 경고 텍스트를 변경할 수 있습니다.
 
-GDPR 규정을 준수하는 텍스트입니다. 소스에서 프록시를 지원하지 않으면 사용자가 비디오를 클릭해서 해당 소스에서 잠재적 추적을 승인하지 않는 한 Livefyre는 이 텍스트와 마스크를 표시합니다.
+이 텍스트는 GDPR 규정을 준수하기 위해 존재합니다. 소스가 프록시를 지원하지 않는 경우 사용자가 비디오를 클릭하고 해당 소스에서 잠재적 추적을 승인하지 않는 한 Livefyre는 이 텍스트와 마스크를 컨텐츠에 표시합니다.
 
-사용하지 않으면 다음과 같은 `userPrivacyMaskDelegate`기본 텍스트가 표시됩니다.
+사용하지 않는 `userPrivacyMaskDelegate`경우 다음 기본 텍스트가 표시됩니다.
 
-이후에 `userPrivacyMaskDelegate` 추가합니다 `userPrivacyOptOut`. Livefyre의 모든 개인정보 보호 플래그를 하나의 Livefyre 개체의 일부로 한 번에 추가할 수 있습니다.
+이후 `userPrivacyMaskDelegate` 추가를 `userPrivacyOptOut`참조하십시오. 모든 Livefyre 개인정보 보호 플래그를 한 Livefyre 개체의 일부로 한 번에 추가할 수 있습니다.
 
-`userPrivacyMaskDelegate`다음은 사용 방법의 예입니다.
+다음은 사용 방법에 대한 `userPrivacyMaskDelegate`예입니다.
 
 ```
 userPrivacyMaskDelegate: function () { 
