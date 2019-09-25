@@ -1,10 +1,10 @@
 ---
-description: 사용자가 다양한 소셜 네트워크로 컨텐츠를 공유할 수 있는 자격 증명을 설정합니다.
-seo-description: 사용자가 다양한 소셜 네트워크로 컨텐츠를 공유할 수 있는 자격 증명을 설정합니다.
+description: 사용자가 다양한 소셜 네트워크에 컨텐츠를 공유할 수 있도록 하는 자격 증명을 설정합니다.
+seo-description: 사용자가 다양한 소셜 네트워크에 컨텐츠를 공유할 수 있도록 하는 자격 증명을 설정합니다.
 seo-title: 소셜 공유 활성화
 solution: Experience Manager
 title: 소셜 공유 활성화
-uuid: f 584 a 0 ae -46 c 7-48 c 1-aea 4-36 da 9 f 1 e 259 b
+uuid: f584a0ae-46c7-48c1-aea4-36da9f1e259b
 translation-type: tm+mt
 source-git-commit: d77b633b9892e3ea4aaec860317887f1fdf66830
 
@@ -13,53 +13,53 @@ source-git-commit: d77b633b9892e3ea4aaec860317887f1fdf66830
 
 # 소셜 공유 활성화 {#enabling-social-sharing}
 
-사용자가 다양한 소셜 네트워크로 컨텐츠를 공유할 수 있는 자격 증명을 설정합니다.
+사용자가 다양한 소셜 네트워크에 컨텐츠를 공유할 수 있도록 하는 자격 증명을 설정합니다.
 
-사용자가 소셜 미디어 사이트에서 컨텐츠를 공유하고, Livefyre의 소셜 공유 기능을 구현하고, OAuth 시스템을 만들어 이러한 사이트에 적절한 인증을 제공할 수 있도록 합니다. Livefyre는 이 시스템을 사용하여 소셜 미디어를 통해 컨텐츠를 공유하도록 선택할 때 사용자를 대신합니다.
+사용자가 소셜 미디어 사이트에서 컨텐츠를 공유할 수 있도록 하려면 Livefyre의 소셜 공유 기능을 구현하고 OAuth 시스템을 만들어 이러한 사이트에 적합한 인증을 제공합니다. 이 시스템을 통해 Livefyre는 사용자가 소셜 미디어를 통해 컨텐츠를 공유하도록 선택할 때 사용자를 대신하여 작동합니다.
 
 >[!NOTE]
 >
->공급자마다 OAuth 요구 사항이 다릅니다. 귀하의 OAuth 구현과 관련된 정보를 얻으려면 귀하의 제공업체와 상의하십시오.
+>서로 다른 공급자는 OAuth 요구 사항이 다릅니다. OAuth 구현과 관련된 정보를 얻으려면 해당 공급자와 문의하십시오.
 
 ## 필수 소셜 자격 증명 {#section_gff_cjm_b1b}
 
-사용자 정의 사용자 ID 시스템을 사용하는 경우 사용자가 Livefyre 앱에서 Twitter, Facebook 또는 linkedin로 공유할 수 있도록 Social 자격 증명을 제공해야 합니다.
+사용자 정의 사용자 ID 시스템을 사용하는 경우 사용자가 Livefyre 앱에서 Twitter, Facebook 또는 LinkedIn에 공유할 수 있도록 소셜 자격 증명을 제공해야 합니다.
 
 >[!NOTE]
 >
->Janrain Engage를 사용하는 고객은 고객의 참여를 유도하고 API 키를 연계하기만 하면 됩니다.
+>Janrain Engage를 사용하는 고객은 자신의 Engage 도메인 및 Engage API 키만 제공해야 합니다.
 
 관리 콘솔의 통합 설정 패널을 사용하여 다음 소셜 자격 증명을 입력하거나 업데이트합니다.
 
 ### 필수 자격 증명:
 
 * **Facebook** 클라이언트 ID 클라이언트 암호 OAuth 프록시 리디렉션
-* **Linkedin** API Key API secret
-* **Twitter** Access Token Access Token Secret API Key API Secret
+* **LinkedIn** API 키 API 암호
+* **Twitter** 액세스 토큰 액세스 토큰 비밀 API 키 API 암호
 
 ## Twitter {#section_qp5_1yl_b1b}
 
-Twitter 자격 증명은 Twitter 앱 대시보드에서 사용할 수 있습니다. 이 자격 증명을 찾으려면:
+Twitter 자격 증명은 Twitter 앱 대시보드에서 사용할 수 있습니다. 이러한 자격 증명을 찾으려면
 
-* [Twitter 앱 개발 페이지를](https://dev.twitter.com/apps) 앱 소유자로 열고 애플리케이션을 찾은 다음 제목을 클릭합니다.
-* «액세스 토큰» 로 스크롤 다운하고 «액세스 토큰» 및 «액세스 토큰 암호 액세스» 에서 값을 가져옵니다. »
+* Twitter [의 앱 개발](https://dev.twitter.com/apps) 페이지를 앱 소유자로 열고 애플리케이션을 찾은 다음 제목을 클릭합니다.
+* "Your access token"으로 스크롤하여 "Access token" 및 "Access token secret"에서 값을 가져옵니다.
 
 귀하는 다음을 수행해야 합니다.
 
-* Twitter 앱의 콜백 URL 필드에 대한 값을 입력합니다. 이 필드는 간단한 자리 표시자가 될 수 있지만 비워 둘 수는 없습니다.
-* 응용 프로그램 유형을 **읽기** 및 **쓰기** 액세스 권한을 갖도록 설정합니다.
-* Twitter 앱 웹 사이트 URL 이 Livefyre 코어 앱과 동일한 호스트 도메인에 있는지 확인합니다.
+* Twitter 앱의 콜백 URL 필드에 값을 입력합니다. 이 필드는 단순 자리 표시자일 수 있지만 비워 둘 수 없습니다.
+* 응용 프로그램 유형을 **읽기** 및 **쓰기** 액세스 권한 모두로 설정합니다.
+* Twitter 앱 웹 사이트 URL이 Livefyre 코어 앱과 동일한 호스트 도메인에 있는지 확인합니다.
 
 >[!NOTE]
 >
->Twitter 컨텐츠를 표시하는 모든 애플리케이션은 디스플레이 요구 사항을 따라야 합니다. 자세한 내용은 [Twitter 디스플레이 지침을](https://dev.twitter.com/terms/display-requirements) 참조하십시오.
+>Twitter 컨텐츠를 표시하는 모든 애플리케이션은 해당 디스플레이 요구 사항을 준수해야 합니다. 자세한 내용은 [Twitter](https://dev.twitter.com/terms/display-requirements) 표시 지침을 참조하십시오.
 
-## Linkedin {#section_lfz_zxl_b1b}
+## LinkedIn {#section_lfz_zxl_b1b}
 
-Linkedin 자격 증명은 linkedin 애플리케이션의 API Keys의 OAuth Keys 섹션에서 사용할 수 있습니다.
+LinkedIn 자격 증명은 LinkedIn 응용 프로그램 API 키의 OAuth 키 섹션에서 사용할 수 있습니다.
 
-* Linkedin의 개발자 페이지 [https://developer.linkedin.com/에서 계정에 로그인합니다](https://developer.linkedin.com/).
-* 오른쪽 상단의 이름 위에 마우스를 놓고 드롭다운 메뉴에서 API 키를 선택합니다.
+* LinkedIn 개발자 페이지 https://developer.linkedin.com/에서 계정에 [로그인합니다](https://developer.linkedin.com/).
+* 오른쪽 상단에서 이름을 가리키고 드롭다운 메뉴에서 API 키를 선택합니다.
 * 애플리케이션 제목을 클릭합니다.
 * OAuth 키 섹션에서 API 키 및 비밀 키 값 가져오기
 
@@ -67,18 +67,18 @@ Linkedin 자격 증명은 linkedin 애플리케이션의 API Keys의 OAuth Keys 
 
 Facebook 자격 증명은 개발자 앱 페이지에서 사용할 수 있습니다.
 
-* [Facebook의 개발자 앱 페이지를](https://developers.facebook.com/apps) 앱 소유자로 열고 애플리케이션을 찾은 다음 제목을 클릭합니다.
-* 앱 ID 및 앱 암호 값을 확인합니다. 앱 비밀의 경우 표시 단추를 클릭하여 표시할 수 있습니다.
+* Facebook [의 개발자 앱](https://developers.facebook.com/apps) 페이지를 앱 소유자로 열고 애플리케이션을 찾은 다음 제목을 클릭합니다.
+* 앱 ID 및 앱 암호 값을 선택합니다. 앱 비밀의 경우 표시 단추를 클릭하여 표시해야 할 수 있습니다.
 
-Facebook로 공유하려면 Facebook 요청을 수행하고 Facebook에서 [요구하는 도메인 관행을 따르도록 리디렉션 페이지를 설정해야](https://developers.facebook.com/docs/reference/dialogs/oauth/)합니다. Facebook에서 해당 요청이 합법적인 출처의 요청인지 확인할 수 있도록 페이지가 도메인에서 호스팅되어야 합니다.
+Facebook에 공유하려면 리디렉션 페이지를 설정하여 Facebook에 필요한 도메인 방침을 준수해야 [합니다](https://developers.facebook.com/docs/reference/dialogs/oauth/). 페이지가 도메인에 호스팅되어야 Facebook이 요청이 올바른 소스에서 왔는지를 확인할 수 있습니다.
 
 ### Facebook 리디렉션
 
 호스팅된 페이지에는 다음 코드가 포함되어야 합니다.
 
-### Ruby
+### 루비
 
-이것은 Ruby와 레일을 사용하여 Facebook OAuth 리디렉션을 수행하는 예입니다.
+이것은 Ruby 및 Rails를 사용하여 Facebook OAuth 리디렉션을 수행하는 예입니다.
 
 ```ruby
 require "base64" 
@@ -115,7 +115,7 @@ end
 
 ### Python
 
-이것은 Python와 Django를 사용하여 Facebook OAuth 리디렉션을 수행하는 예입니다.
+Python 및 Dango를 사용하여 Facebook OAuth 리디렉션을 수행하는 예입니다.
 
 ```python
 import base64, re 
@@ -155,9 +155,9 @@ def handle_lfoauth(request):
     return HttpResponseRedirect(rdir)
 ```
 
-### Nodejs
+### NodeJS
 
-이것은 Nodejs와 sail/express를 사용하여 Facebook OAuth 리디렉션을 수행하는 예입니다.
+이것은 NodeJS 및 Sail/Express를 사용하여 Facebook OAuth 리디렉션을 수행하는 예입니다.
 
 ```nodejs
 /* 
@@ -202,7 +202,7 @@ module.exports = {
 
 ### Java
 
-이것은 Java 및 Spring 컨트롤러가 Facebook OAuth 리디렉션을 수행하는 예입니다.
+Java 및 스프링 컨트롤러를 사용하여 Facebook OAuth 리디렉션을 수행하는 예입니다.
 
 ```java
 /* 
@@ -329,9 +329,9 @@ if (isset($_GET['lfoauth'])) {
 ?>
 ```
 
-## " 게시물 "공급자 구성 {#section_rdk_dpl_b1b}
+## "게시물" 공급자 구성 {#section_rdk_dpl_b1b}
 
-기본적으로 Facebook, linkedin 및 Twitter "게시 대상" 단추가 Livefyre 핵심 애플리케이션에 표시됩니다. Livefyre 앱을 임베드할 때 표시되는 공급자를 구성하려면 posttobuttons 매개 변수를 사용하십시오.
+기본적으로 Facebook, LinkedIn 및 Twitter "게시물" 단추는 Livefyre 코어 응용 프로그램에 표시됩니다. postToButtons 매개 변수를 사용하여 Livefyre 앱을 포함할 때 표시할 공급자를 구성합니다.
 
 ```
 var convConfig = {}; // Ignoring other options for this example 
@@ -339,8 +339,8 @@ convConfig.postToButtons = ['tw', 'fb', 'li']; // Or any subset of these
 fyre.conv.load(networkConfig, [convConfig], function() {}); 
 ```
 
-`postToButtons` 는 다음 옵션의 하위 세트가 있는 배열입니다.
+`postToButtons` 은 다음 옵션 중 어떤 부분이든 포함된 배열입니다.
 
-* TW: Twitter
-* FB: Facebook
-* LI: Linkedin
+* tw:Twitter
+* fb:Facebook
+* li:LinkedIn
