@@ -1,10 +1,10 @@
 ---
-description: Livefyre. js를 사용하여 날짜 및 타임스탬프를 사용자 정의할 수 있습니다.
-seo-description: Livefyre. js를 사용하여 날짜 및 타임스탬프를 사용자 정의할 수 있습니다.
+description: Livefyre.js를 사용하여 날짜 및 타임스탬프를 사용자 정의합니다.
+seo-description: Livefyre.js를 사용하여 날짜 및 타임스탬프를 사용자 정의합니다.
 seo-title: 날짜 및 타임스탬프 사용자 정의
 solution: Experience Manager
 title: 날짜 및 타임스탬프 사용자 정의
-uuid: 632 EA 405-56 B 7-4664-8 D 2 B -0 DD 0 A 7611 BD 8
+uuid: 632ea405-56b7-4664-8d2b-0dd0a7611bd8
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
@@ -13,27 +13,27 @@ source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 # 날짜 및 타임스탬프 사용자 정의{#customize-the-date-and-time-stamp}
 
-Livefyre. js를 사용하여 날짜 및 타임스탬프를 사용자 정의할 수 있습니다.
+Livefyre.js를 사용하여 날짜 및 타임스탬프를 사용자 정의합니다.
 
-Livefyre 앱은 아래에 설명된 대로 날짜 형식을 지정하는 datetimeformat 옵션 매개 변수를 제공합니다.
+Livefyre Apps는 아래 설명된 대로 날짜 형식을 지정할 수 있는 옵션 매개 변수 datetimeFormat을 제공합니다.
 
 * [용어](#c_date_time_stamp/section_xsk_jn4_xz)
 * [서식 지정](#c_date_time_stamp/section_ynx_gn4_xz)
-* [심볼 지정](#c_date_time_stamp/section_inq_2n4_xz)
+* [기호 지정](#c_date_time_stamp/section_inq_2n4_xz)
 
 ## 용어 {#section_xsk_jn4_xz}
 
-* **절대 타임스탬프는** 정확하고 특정 시간으로 정의됩니다 (예: 2012 년 1 월 1 일 오후 12:00 시).
-* **상대적 타임스탬프는** 일반 및 덜 정확한 시간 (예: 25 초 전, 14 분 전, 1 일 전, 1 년 전 등) 로 정의됩니다.
+* **절대 타임스탬프는** 정확하고 특정 시간(예: 2012년 1월 1일 12:00pm)으로 정의됩니다.
+* **상대 타임스탬프는** 일반적이고 덜 정밀한 시간(예: 25초 전, 14분 전, 1일 전, 1년 전 등)으로 정의됩니다.
 
 ## 서식 지정 {#section_ynx_gn4_xz}
 
-인수가 제공되지 않으면 Datetimeformat 매개 변수에 다음과 같은 기본 비헤이비어가 적용됩니다.
+datetimeFormat 매개 변수는 인수를 지정하지 않을 때 다음과 같은 기본 동작을 가집니다.
 
-* Datetime 형식: MMMM D YYYY (2012 년 1 월 8 일)
-* 절대적 시간 (상대적 타임스탬프가 절대 타임스탬프가 될 때까지 14 일) 까지 20160 분 (14 일)
+* 날짜/시간 형식:MMMM d yyyy(2012년 1월 8일)
+* 상대 타임스탬프가 절대 타임스탬프가 될 때까지 20160분(14일)
 
-Datetimeformat 매개 변수는 가능한 세 가지 인수 유형을 수용합니다. datetime, format 및 string.
+datetimeFormat 매개 변수는 세 가지 가능한 인수 유형을 허용합니다.datetime, format 및 string.
 
 ```
 // Example 1 (Datetime format string)  
@@ -48,7 +48,7 @@ var convConfig = {
 var conv = fyre.conv.load(networkConfig, [convConfig]);
 ```
 
-Absoluteformat 및/또는 minutesuntilabeastetime를 지정하는 개체. 값이 -1 인 Minutesuntilabsolutetime는 시간 절대 시간을 즉시 만듭니다.
+absoluteFormat 및/또는 minutesUntilAbsoluteTime을 지정하는 개체입니다. 값이 -1인 minutesUntilAbsoluteTime은 시간을 절대 시간으로 즉시 만듭니다.
 
 ```
 // Example 2 (Object)  
@@ -66,7 +66,7 @@ var convConfig = {
 var conv = fyre.conv.load(networkConfig, [convConfig]);
 ```
 
-date 객체를 인수로 사용하고 표시할 datetime 문자열을 반환하는 함수
+Date 객체로 가져와서 표시할 datetime 문자열을 반환하는 함수입니다.
 
 ```
 // Example 3 (Function accepting a Date object, returning a datetime string to display) 
@@ -83,9 +83,9 @@ var convConfig = {
 var conv = fyre.conv.load(networkConfig, [convConfig]);
 ```
 
-## 심볼 지정 {#section_inq_2n4_xz}
+## 기호 지정 {#section_inq_2n4_xz}
 
-JS의 일반적인 사용을 약간 수정하여 JDK, ICU 및 CLDR에 정의된 패턴 사양을 따르는 datetime 서식 지정 함수 자세한 내용은 [Google Closure 라이브러리 설명서를](https://developers.google.com/closure/library/docs/overview)참조하십시오.
+JDK, ICU 및 CLDR에 정의된 패턴 사양에 따른 datetime 서식 함수를 사용하고, JS에서 일반적인 사용을 약간 수정할 수 있습니다. 자세한 내용은 Google Closure [라이브러리 설명서를 참조하십시오](https://developers.google.com/closure/library/docs/overview).
 
 ```
   Symbol Meaning Presentation        Example 
@@ -119,14 +119,14 @@ JS의 일반적인 사용을 약간 수정하여 JDK, ICU 및 CLDR에 정의된 
   ''       single quote            (Literal)           'o''clock'
 ```
 
-' *' 로 표시된 항목은 아직 지원되지 않습니다.
+'*'로 표시된 항목은 아직 지원되지 않습니다.
 
-' #' 로 표시된 항목은 Java와 다르게 작동합니다.
+'#'로 표시된 항목은 Java와 다르게 작동합니다.
 
-패턴 글자 수에 따라 형식이 결정됩니다.
+패턴 글자의 개수는 형식을 결정합니다.
 
-* **텍스트:** 4 이상, 전체 양식을 사용하십시오. 4 미만의 경우 간단한 또는 약어 양식을 사용합니다. (예: " EEEE "는" 월요일 "을 생성하며," EEE "는" MON "을 생성합니다.
-* **숫자:** 최소 자릿수. 이 금액에 짧은 숫자가 0로 추가됩니다 (예: " m "이" 6 "을 생성하는 경우" MM "은" 06 "을 생성합니다. 년은 특별히 처리됩니다. 즉,' Y'의 개수가 2 이면 연도를 2 자리로 잘립니다. (예: «YYYY» 가 «1997» 를 생성하는 경우 «YY» 는 «97» 를 생성합니다.) 다른 필드와 달리 분수 초는 오른쪽에 0 이 추가됩니다.
-* **텍스트 및 번호:** 3 이상, 텍스트를 사용합니다. 3 미만, 숫자를 사용합니다. (예: " M "은" 1 "을," MM "은" 01 "을," MMM "은" Jan "을," MMMM "은" 1 월 "을 생성합니다.
+* **** 텍스트:4 이상, 전체 양식을 사용하십시오. 4개 미만이면 짧은 양식이나 약어를 사용합니다. (예:"EEE"는 "월요일", "EEE"는 "월"을 생성합니다.)
+* **** 번호:최소 자릿수입니다. 이 양만큼 짧은 숫자는 0으로 채워집니다(예:"m"이 "6"을 생성하는 경우 "mm"은 "06"을 생성합니다.) 특히 올해.즉, 'y'의 개수가 2이면 연도는 2자리로 잘립니다. (예:"yyyy"가 "1997"을 생성하는 경우 "yy"는 "97"을 생성합니다.) 다른 필드와 달리, 분수 초는 0으로 오른쪽에 채워져 있습니다.
+* **** 텍스트 및 번호:3 이상 텍스트를 사용하십시오. 3개 미만, 사용 번호 (예:"M"은 "1", "MM"은 "01"을, "MMM"은 "Jan"을, "MMMM"은 "Jan"을 생성합니다.)
 
-패턴의'a'범위에 속하지 않는 [모든 문자. 'z'] 와 ['a '. 'z'] 는 인용된 텍스트로 처리됩니다. 예를 들면 다음과 같은 문자가 있습니다. ','. ',',' #' 및 ' @' 는 결과 시간 텍스트에 나타나며, 작은 따옴표 내에 받아들여지지 않습니다.
+'a'의 범위에 속하지 않는 패턴의 [모든 문자..'z'] and ['A'.'Z는] 인용 텍스트로 처리됩니다. 예를 들어 ':', '.', ', '#' 및 '@'와 같은 문자는 단일 인용 부호 내에 적용되지 않더라도 결과 시간 텍스트에 표시됩니다.
