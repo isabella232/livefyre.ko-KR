@@ -1,25 +1,25 @@
 ---
-description: 이 메서드는 이 네트워크의 사용자에 대한 URN를 반환합니다.
-seo-description: 이 메서드는 이 네트워크의 사용자에 대한 URN를 반환합니다.
-seo-title: Geturnforuser 네트워크 메서드
+description: 이 메서드는 이 네트워크 사용자의 URN을 반환합니다.
+seo-description: 이 메서드는 이 네트워크 사용자의 URN을 반환합니다.
+seo-title: getUrnForUser 네트워크 메서드
 solution: Experience Manager
-title: Geturnforuser 네트워크 메서드
-uuid: B 70 B 8 B 0 F -2 B 3 A -4 A 1 D -90 D 0-93 A 97 A 137 AD 4
+title: getUrnForUser 네트워크 메서드
+uuid: b70b8b0f-2b3a-4a1d-90d0-93a97a137ad4
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 
 
-# Geturnforuser 네트워크 메서드{#geturnforuser-network-method}
+# getUrnForUser 네트워크 메서드{#geturnforuser-network-method}
 
-이 메서드는 이 네트워크의 사용자에 대한 URN를 반환합니다.
+이 메서드는 이 네트워크 사용자의 URN을 반환합니다.
 
-| 변수 | type | 설명 |
+| 변수 | 유형 | 설명 |
 |--- |--- |--- |
-| userid | 문자열 | urn에 사용할 userid. |
+| userId | 문자열 | URN에 사용할 userId입니다. |
 
-## Java 예제 {#section_nyl_ycs_rz}
+## Java 예 {#section_nyl_ycs_rz}
 
 ```
 network.getUrnForUser(userId);
@@ -31,7 +31,7 @@ network.getUrnForUser(userId);
 "urn:livefyre:network=`example.fyre.co`:user=tester" 
 ```
 
-## Nodejs 예제 {#section_xkd_gds_rz}
+## NodeJS 예 {#section_xkd_gds_rz}
 
 ```
 network.getUrnForUser(userId);
@@ -55,7 +55,7 @@ $network->getUrnForUser(userId);
 "urn:livefyre:network=`example.fyre.co`:user=tester" 
 ```
 
-## Python 예제 {#section_dwg_gds_rz}
+## Python 예 {#section_dwg_gds_rz}
 
 ```
 network.get_urn_for_user(userId) 
