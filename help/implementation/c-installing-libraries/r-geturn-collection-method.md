@@ -1,23 +1,21 @@
 ---
-description: 이 메서드는 이 컬렉션에 대한 URN를 반환합니다. 이 메서드를 실행하기 전에 Createorupdate () 를 실행해야
-  합니다.
-seo-description: 이 메서드는 이 컬렉션에 대한 URN를 반환합니다. 이 메서드를 실행하기 전에 Createorupdate () 를 실행해야
-  합니다.
-seo-title: Geturn 컬렉션 메서드
+description: 이 메서드는 이 컬렉션에 대한 URN을 반환합니다. 이 메서드를 실행하기 전에 createOrUpdate()를 실행해야 합니다.
+seo-description: 이 메서드는 이 컬렉션에 대한 URN을 반환합니다. 이 메서드를 실행하기 전에 createOrUpdate()를 실행해야 합니다.
+seo-title: getUrn 컬렉션 메서드
 solution: Experience Manager
-title: Geturn 컬렉션 메서드
-uuid: 2 F 4 D 7796-2 AE 5-4 B 74-A 958-40825 C 6 BFF 16
+title: getUrn 컬렉션 메서드
+uuid: 2f4d7796-2ae5-4b74-a958-40825c6bff16
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 
 
-# Geturn 컬렉션 메서드{#geturn-collection-method}
+# getUrn 컬렉션 메서드{#geturn-collection-method}
 
-이 메서드는 이 컬렉션에 대한 URN를 반환합니다. 이 메서드를 실행하기 전에 Createorupdate () 를 실행해야 합니다.
+이 메서드는 이 컬렉션에 대한 URN을 반환합니다. 이 메서드를 실행하기 전에 createOrUpdate()를 실행해야 합니다.
 
-## Java 예제 {#section_nyl_ycs_rz}
+## Java 예 {#section_nyl_ycs_rz}
 
 ```
 collection.getUrn(); 
@@ -29,7 +27,7 @@ collection.getUrn();
 "urn:livefyre:network=`example.fyre.co`:site=1:collection=1" 
 ```
 
-## Nodejs 예제 {#section_xkd_gds_rz}
+## NodeJS 예 {#section_xkd_gds_rz}
 
 ```
 collection.getUrn(); 
@@ -53,7 +51,7 @@ $collection->getUrn();
 "urn:livefyre:network=`example.fyre.co`:site=1:collection=1" 
 ```
 
-## Python 예제 {#section_dwg_gds_rz}
+## Python 예 {#section_dwg_gds_rz}
 
 ```
 collection.urn() 
