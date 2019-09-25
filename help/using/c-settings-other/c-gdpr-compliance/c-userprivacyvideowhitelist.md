@@ -1,28 +1,28 @@
 ---
-description: 을 사용하여 비디오 도메인을 허용 목록에 추가할 수 있습니다.
-seo-description: 을 사용하여 비디오 도메인을 허용 목록에 추가할 수 있습니다.
-seo-title: Userprivacyvideowhitelist
+description: 를 사용하여 비디오 도메인을 허용 목록에 추가할 수 있습니다.
+seo-description: 를 사용하여 비디오 도메인을 허용 목록에 추가할 수 있습니다.
+seo-title: userPrivacyVideoWhitelist
 solution: Experience Manager
-title: Userprivacyvideowhitelist
-uuid: adfead 18-b 73 b -4 ac 4-97 a 0-d 39 f 528 b 7606
+title: userPrivacyVideoWhitelist
+uuid: adfead18-b73b-4ac4-97a0-d39f528b7606
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 
 
-# Userprivacyvideowhitelist{#userprivacyvideowhitelist}
+# userPrivacyVideoWhitelist{#userprivacyvideowhitelist}
 
-Livefyre 시각화 앱에 표시되는 비디오의 일부로 사용자 정의 비디오 및 플레이어를 사용하는 경우 비디오 도메인을 화이트리스트에 추가할 수 있습니다. 비디오 도메인을 화이트리스트하면 사용자 정의 비디오 및 플레이어에 사용할 비디오 마스크가 제거됩니다.
+사용자 정의 비디오 및 플레이어를 Livefyre 시각화 앱에 표시되는 비디오의 일부로 사용하는 경우 비디오 도메인을 허용 목록에 추가할 수 있습니다. 비디오 도메인을 허용 목록에 추가하면 사용자 정의 비디오 및 플레이어에 대한 비디오 마스크가 제거됩니다.
 
 >[!NOTE]
 >
->특정 경로를 사용하여 안전한 비디오만 화이트리스트에 포함됩니다. 광범위한 경로 (예: sampledomain.com) 를 사용하면 안전하지 않은 비디오를 화이트리스트에 추가할 수 있습니다.
+>특정 경로를 사용하여 안전한 비디오만 허용 목록에 표시됩니다. 넓은 경로(예: sampleddomain.com)를 배치하면 안전하지 않은 비디오를 허용 목록에 추가할 수 있습니다.
 
-* 이후에 `userPrivacyVideoWhitelist` 추가합니다 `userPrivacyOptOut`. Livefyre의 모든 개인정보 보호 플래그를 하나의 Livefyre 개체의 일부로 한 번에 추가할 수 있습니다.
+* 이후 `userPrivacyVideoWhitelist` 추가를 `userPrivacyOptOut`참조하십시오. 모든 Livefyre 개인정보 보호 플래그를 한 Livefyre 개체의 일부로 한 번에 추가할 수 있습니다.
 * `userPrivacyVideoWhitelist` 소셜 미디어에서 포함되지 않은 컨텐츠에만 적용됩니다.
 
-다음 예에서는 `sampledomain.com/cdn/videos` 경로의 앱에 표시되는 비디오가 화이트리스트에 포함됩니다.
+다음 예제에서는 `sampledomain.com/cdn/videos` 경로를 사용하여 앱에 표시되는 비디오가 허용 목록에 표시됩니다.
 
 ```
 userPrivacyVideoWhitelist: ["sampledomain.com/cdn/videos"]
