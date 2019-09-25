@@ -1,21 +1,21 @@
 ---
-description: 이 메서드는 이 네트워크의 URN를 반환합니다.
-seo-description: 이 메서드는 이 네트워크의 URN를 반환합니다.
-seo-title: Geturn 네트워크 메서드
+description: 이 메서드는 이 네트워크의 URN을 반환합니다.
+seo-description: 이 메서드는 이 네트워크의 URN을 반환합니다.
+seo-title: getUrn 네트워크 메서드
 solution: Experience Manager
-title: Geturn 네트워크 메서드
-uuid: E 525 BC 54-D 4 DF -490 F-BD 6 A-F 524 F 7 EFF 211
+title: getUrn 네트워크 메서드
+uuid: e525bc54-d4df-49 파섹
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 
 
-# Geturn 네트워크 메서드{#geturn-network-method}
+# getUrn 네트워크 메서드{#geturn-network-method}
 
-이 메서드는 이 네트워크의 URN를 반환합니다.
+이 메서드는 이 네트워크의 URN을 반환합니다.
 
-## Java 예제 {#section_nyl_ycs_rz}
+## Java 예 {#section_nyl_ycs_rz}
 
 ```
 network.getUrn(); 
@@ -27,7 +27,7 @@ network.getUrn();
 "urn:livefyre:network=`example.fyre.co`" 
 ```
 
-## Nodejs 예제 {#section_xkd_gds_rz}
+## NodeJS 예 {#section_xkd_gds_rz}
 
 ```
 network.getUrn(); 
@@ -51,7 +51,7 @@ $network->getUrn();
 "urn:livefyre:network=`example.fyre.co`" 
 ```
 
-## Python 예제 {#section_dwg_gds_rz}
+## Python 예 {#section_dwg_gds_rz}
 
 ```
 network.urn 
