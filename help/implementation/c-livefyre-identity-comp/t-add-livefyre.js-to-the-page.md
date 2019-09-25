@@ -1,26 +1,26 @@
 ---
-description: Livefyre. js는 사이트의 앱에 대한 인증을 제공하는 작은 기본 라이브러리입니다.
-seo-description: Livefyre. js는 사이트의 앱에 대한 인증을 제공하는 작은 기본 라이브러리입니다.
-seo-title: livefyre. js를 페이지에 추가
-title: livefyre. js를 페이지에 추가
-uuid: FE 52446 E -4911-4160-A 68 C -7413 E 9 BC 6222
+description: Livefyre.js는 사이트의 앱에 대한 인증을 제공하는 작은 기본 라이브러리입니다.
+seo-description: Livefyre.js는 사이트의 앱에 대한 인증을 제공하는 작은 기본 라이브러리입니다.
+seo-title: 페이지에 Livefyre.js 추가
+title: 페이지에 Livefyre.js 추가
+uuid: fe52446e-4911-4160-a68c-7413e9bc6222
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 
 
-# livefyre. js를 페이지에 추가{#add-livefyre-js-to-the-page}
+# 페이지에 Livefyre.js 추가{#add-livefyre-js-to-the-page}
 
-Livefyre. js는 사이트의 앱에 대한 인증을 제공하는 작은 기본 라이브러리입니다.
+Livefyre.js는 사이트의 앱에 대한 인증을 제공하는 작은 기본 라이브러리입니다.
 
 인증을 활성화하려면:
 
-1. livefyre. js를 웹 페이지 또는 웹 사이트 템플릿의 `<head>` 요소에 추가합니다.
-1. 다음 중 하나를 페이지에 추가합니다.
+1. 웹 페이지 또는 웹 사이트 템플릿의 `<head>` 요소에 Livefyre.js를 추가합니다.
+1. 페이지에 다음 중 하나를 추가합니다.
 
-   * `globalwindow.Livefyre` 변수
-   * `Livefyre.require` On-Demand 방식으로 다른 Livefyre 패키지를 로드하려면
+   * `globalwindow.Livefyre` 변수에 설정된 ID
+   * `Livefyre.require` to load other Livefyre packages on demand
 
       ```
       <script src="//cdn.livefyre.com/Livefyre.js"></script>
