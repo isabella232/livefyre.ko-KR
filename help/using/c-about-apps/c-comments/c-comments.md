@@ -1,23 +1,23 @@
 ---
-description: 앱에 실시간 주석을 임베드할 수 있습니다.
-seo-description: 앱에 실시간 주석을 임베드할 수 있습니다.
-seo-title: 댓글
+description: 앱에 실시간 주석을 포함합니다.
+seo-description: 앱에 실시간 주석을 포함합니다.
+seo-title: 설명
 solution: Experience Manager
-title: 댓글
-uuid: F 409 D 04 A -2 ECC -42 FD -9 D 45-C 723 AAFAD 116
+title: 설명
+uuid: f409d04a-2ecc-42fd-9d45-c723aafad116
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 
 
-# 댓글{#comments}
+# 설명{#comments}
 
-앱에 실시간 주석을 임베드할 수 있습니다.
+앱에 실시간 주석을 포함합니다.
 
-댓글은 기본 댓글을 실시간 대화로 대체합니다. Adobe의 소셜 통합 기능을 사용하면 Twitter 및 Facebook에서 게시물에 대한 모든 대화를 간편하게 캡처하고 사용자의 친구를 대화로 끌어들일 수 있습니다.
+댓글은 기본 주석을 실시간 대화로 대체합니다. Adobe의 소셜 통합 기능을 사용하면 Twitter 및 Facebook에서 게시물에 대한 모든 대화를 손쉽게 캡처하고 사용자의 친구를 대화에 끌어들일 수 있습니다.
 
-Mashable는 댓글을 사용하여 토론에 대한 사용자 참여도를 높입니다. 리치 미디어 업로드, 소셜 공유, 리스너 카운트, SSO (Single Sign-On) 도움말 등 다양한 기능을 사용하여 대화에 손쉽게 기여할 수 있습니다.
+매쉬블은 댓글을 사용하여 토론에 대한 사용자 참여를 높입니다. 리치 미디어 업로드, 소셜 공유, 리스너 카운트 및 SSO(Single Sign-On) 도움말을 비롯한 다양한 기능을 사용하여 대화에 쉽고 재미있게 참여할 수 있습니다.
 
 ![](assets/CommentsMashable.png)
 
