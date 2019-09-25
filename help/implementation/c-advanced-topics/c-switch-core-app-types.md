@@ -1,10 +1,10 @@
 ---
-description: 한 대화 앱 유형에서 다른 유형으로 변경하는 방법을 알아봅니다.
-seo-description: 한 대화 앱 유형에서 다른 유형으로 변경하는 방법을 알아봅니다.
+description: 대화 앱 유형에서 다른 앱으로 변경하는 방법을 알아봅니다.
+seo-description: 대화 앱 유형에서 다른 앱으로 변경하는 방법을 알아봅니다.
 seo-title: 핵심 앱 유형 전환
 solution: Experience Manager
 title: 핵심 앱 유형 전환
-uuid: 442 A 517 C -3809-46 C 5-BB 5 F -8668 A 29 DC 3 E 8
+uuid: 442a517c-3809-46c5-bb5f-8668a29dc3e8
 translation-type: tm+mt
 source-git-commit: fcee9dc152e7f8284e64248fdcc5bf81d39618ff
 
@@ -13,11 +13,11 @@ source-git-commit: fcee9dc152e7f8284e64248fdcc5bf81d39618ff
 
 # 핵심 앱 유형 전환{#switch-core-app-types}
 
-한 대화 앱 유형에서 다른 유형으로 변경하는 방법을 알아봅니다.
+대화 앱 유형에서 다른 앱으로 변경하는 방법을 알아봅니다.
 
-Lifefyre를 사용하면 `collectionMeta` 데이터의 일부 설정을 변경하면 Livefyre 핵심 애플리케이션 유형의 컬렉션 (주석, 라이브 블로그 또는 채팅) 를 변경할 수 있습니다.
+Livefyre를 사용하면 `collectionMeta` 데이터의 일부 설정을 변경하여 컬렉션 유형을 다른 Livefyre 핵심 응용 프로그램 유형(댓글, 라이브 블로그 또는 채팅)으로 변경할 수 있습니다.
 
-특정 유형의 앱을 구현하려면 `collectionMeta` 개체에 새 필드를 추가합니다. 댓글은 기본값이므로 원하는 앱인 경우 이러한 업데이트를 할 필요가 없습니다. 컬렉션을 만든 후 다른 앱을 변경하려면 앱 초기화 중 체크섬 값을 전달합니다. 토큰 설명서에서 체크포인트 값 만들기에 대한 자세한 `collectionMeta` 내용을 참조하십시오.
+특정 유형의 앱을 구현하려면 `collectionMeta` 개체에 새 필드를 추가하십시오. 댓글은 기본값이므로 원하는 앱인 경우 이러한 업데이트를 수행할 필요가 없습니다. 컬렉션을 만든 후 다른 앱으로 변경하려면 앱 초기화 동안 체크섬 값을 전달합니다. 토큰 문서에서 체크섬 값 생성에 대한 자세한 내용을 `collectionMeta` 참조하십시오.
 
 ## 라이브 블로그 {#section_kvj_3jj_11b}
 
@@ -51,7 +51,7 @@ $convConfig = array(
 );
 ```
 
-### Python 예제
+### Python 예
 
 ```
 from livefyre import Livefyre 
@@ -142,7 +142,7 @@ $convConfig = array(
 );
 ```
 
-### Python 예제
+### Python 예
 
 ```
 from livefyre import Livefyre 
@@ -202,7 +202,7 @@ conv_config = {
 }
 ```
 
-## 채팅 {#section_dqm_w3j_11b}
+## 대화 {#section_dqm_w3j_11b}
 
 ### PHP
 
@@ -234,7 +234,7 @@ $convConfig = array(
 );
 ```
 
-### Python 예제
+### Python 예
 
 ```
 from livefyre import Livefyre 
