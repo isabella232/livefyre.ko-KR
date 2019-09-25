@@ -1,27 +1,27 @@
 ---
-description: 코어 애플리케이션과 유사한 프로세스를 수행하여 Sidenotes 앱을 통합합니다.
-seo-description: 코어 애플리케이션과 유사한 프로세스를 수행하여 Sidenotes 앱을 통합합니다.
-seo-title: Sidenotes 통합
+description: 핵심 애플리케이션과 유사한 프로세스를 수행하여 Sidecnotes 앱을 통합합니다.
+seo-description: 핵심 애플리케이션과 유사한 프로세스를 수행하여 Sidecnotes 앱을 통합합니다.
+seo-title: 사이드노트 통합
 solution: Experience Manager
-title: Sidenotes 통합
-uuid: 4 AA 14 ADA -402 A -482 D-B 43 E -96 F 37 AFA 6 C 53
+title: 사이드노트 통합
+uuid: 4aa14ada-402a-482d-b43e-9 파섹
 translation-type: tm+mt
 source-git-commit: fcee9dc152e7f8284e64248fdcc5bf81d39618ff
 
 ---
 
 
-# Sidenotes 통합{#sidenotes-integration}
+# 사이드노트 통합{#sidenotes-integration}
 
-코어 애플리케이션과 유사한 프로세스를 수행하여 Sidenotes 앱을 통합합니다.
+핵심 애플리케이션과 유사한 프로세스를 수행하여 Sidecnotes 앱을 통합합니다.
 
-일반적인 규칙으로, 핵심 애플리케이션 통합이 완료된 경우 `collectionMeta` , 개체를 생성하기 위해 작성된 코드는 Sidenotes에 재사용할 수 있습니다.
+일반적으로 핵심 애플리케이션 통합이 완료되면 객체를 생성하기 위해 작성된 코드가 `collectionMeta` Sidenotes에 대해 다시 사용될 수 있습니다.
 
-(선택 사항) 필드에 Sidenotes로 작성된 대리자를 제공하여 기존 `auth``auth``fyre.conv` 대리자를 재활용할 `authDelegate` 수도 있습니다.
+(선택 사항) `auth` 필드에서 Sidenotes로 만든 `auth` 위임을 `fyre.conv` `authDelegate` 제공하여 기존 위임자를 재사용할 수도 있습니다.
 
 >[!NOTE]
 >
->Sidenotes를 사용하면 생성자의 다른 부분에서 별도로 전달하는 것이 아니라, 단일 개체에 `network`포함 `siteId``articleId` 및 포함할 수 있습니다.
+>사이드노트를 사용하면 생성자의 다른 부분에 별도로 전달하는 대신 `network`단일 개체에 `siteId`포함하거나 `articleId` 포함할 수 있습니다.
 
 ```
 <!DOCTYPE html> 
@@ -53,7 +53,7 @@ Livefyre.require(['sidenotes#1', 'auth'], function (Sidenotes, Auth) {
 </html>
 ```
 
-작성 `collectionMeta` 섹션에 명시된 대로 `collectionMeta` 인코딩된 JSON 개체입니다. 위의 예에서 JSON 개체는 JWT 인코딩하기 전에 다음 형식을 사용합니다.
+빌드 `collectionMeta` 섹션에 명시된 대로 `collectionMeta` 인코딩된 JSON 개체입니다. 위의 예에서 JSON 개체는 JWT로 인코딩되기 전에 다음 형식을 사용합니다.
 
 ```
 { 
@@ -69,7 +69,7 @@ Livefyre.require(['sidenotes#1', 'auth'], function (Sidenotes, Auth) {
 
 ## 모바일 설정
 
-Sidenotes는 모바일 장치에서 사용하도록 최적화되었습니다. Livefyre 앱의 모바일 버전에서 최상의 결과를 얻으려면 [사용자 확장 가능] 옵션을 [아니요] 로 설정하십시오. 예를 들면 다음과 같습니다.
+사이드노트는 모바일 장치에서 사용하도록 최적화되었습니다. 모바일 버전의 Livefyre 앱을 사용하여 최상의 결과를 얻으려면 사용자 확장 가능 옵션을 no로 설정하십시오. 예:
 
 ```
 <meta name="viewport" content="width=device-width, user-scalable=no">
