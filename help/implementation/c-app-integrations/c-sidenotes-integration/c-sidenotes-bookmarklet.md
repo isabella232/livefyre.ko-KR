@@ -1,21 +1,21 @@
 ---
-description: Sidenotes는 기존 페이지에서 (거의) 로드될 수 있습니다.
-seo-description: Sidenotes는 기존 페이지에서 (거의) 로드될 수 있습니다.
-seo-title: Sidenotes 북마클릿
-title: Sidenotes 북마클릿
-uuid: B 6 F 6263 E -85 B 1-4 E 49-BA 3 C -7 F 12746 A 4 F 59
+description: 사이드노트를 (거의) 기존 페이지에 로드할 수 있습니다.
+seo-description: 사이드노트를 (거의) 기존 페이지에 로드할 수 있습니다.
+seo-title: 사이드노트 북마클릿
+title: 사이드노트 북마클릿
+uuid: b6f6263e-85b1-4e49-ba3c-7f12746a4f59
 translation-type: tm+mt
-source-git-commit: 566ea2587f101202045488e9f4edf73ece100293
+source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 
 
-# Sidenotes 북마클릿{#sidenotes-bookmarklet}
+# 사이드노트 북마클릿{#sidenotes-bookmarklet}
 
-Sidenotes는 기존 페이지에서 (거의) 로드될 수 있습니다.
+사이드노트를 (거의) 기존 페이지에 로드할 수 있습니다.
 
-데모 Sidenotes는 아래의 북마클릿을 사용합니다.
+데모를 위해 Sidenotes는 아래 북마클릿을 사용합니다.
 
-Sidenotes 북마클릿
+사이드노트 북마클릿
 
-북마클릿을 책갈피로 복사한 다음 링크를 클릭하여 Sidenotes를 로드하면 됩니다. 현재 페이지에서 Sidenotes를 장식하는 데 사용할 선택기를 입력하라는 메시지가 표시됩니다.
+북마클릿을 책갈피에 복사한 다음 링크를 클릭하여 사이드노트를 로드합니다. 현재 페이지에서 사이드노트를 장식하는 데 사용할 선택기를 입력하라는 메시지가 표시됩니다.
