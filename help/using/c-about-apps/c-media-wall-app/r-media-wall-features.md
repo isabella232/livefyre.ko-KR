@@ -1,25 +1,25 @@
 ---
-description: 미디어 담벼락 앱은 사이트에 대해 이러한 기능을 제공합니다.
-seo-description: 미디어 담벼락 앱은 사이트에 대해 이러한 기능을 제공합니다.
-seo-title: 미디어 담벼락 기능
+description: Media Wall 앱은 사이트에 대해 이러한 기능을 제공합니다.
+seo-description: Media Wall 앱은 사이트에 대해 이러한 기능을 제공합니다.
+seo-title: Media Wall 기능
 solution: Experience Manager
-title: 미디어 담벼락 기능
-uuid: 2 F 2 E 22 B 4-DE 10-48 EE -8 F 3 D -0 FD 88 FEB 8 ABE
+title: Media Wall 기능
+uuid: 2f2e22b4-de10-48ee-8f3d-0fd88feb8abe
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 ---
 
 
-# 미디어 담벼락 기능{#media-wall-features}
+# Media Wall 기능{#media-wall-features}
 
-미디어 담벼락 앱은 사이트에 대해 이러한 기능을 제공합니다.
+Media Wall 앱은 사이트에 대해 이러한 기능을 제공합니다.
 
 
 
-* 컨텐츠가 게시된 날짜를 기반으로 순서대로 표시됩니다 (컨텐츠가 만들어진 날짜는 아님).
-* Livefyre와 소셜 미디어 컨텐츠를 하나의 디스플레이로 결합합니다.
-* 사용자가 컨텐츠를 좋아하는 경우 미디어 담벼락에 텍스트 또는 사진을 바로 추가할 수 있습니다.
-* 사용자가 Twitter 및 Facebook와 컨텐츠를 공유할 수 있습니다. 공유된 Permalink는 미디어 담벼락에 있는 컨텐츠로 다시 클릭하는 사용자를 리디렉션합니다.
-* 특별 컨텐츠에 대한 특수 스타일링을 만들 수 있습니다.
+* 컨텐츠가 게시된 날짜(컨텐츠가 생성된 날짜가 아님)를 기준으로 컨텐츠를 표시합니다.
+* Livefyre 및 소셜 미디어 컨텐츠를 하나의 디스플레이로 결합합니다.
+* 사용자가 컨텐츠를 좋아하거나 텍스트 또는 사진을 미디어 담벼락에 직접 추가할 수 있습니다.
+* 사용자가 Twitter 및 Facebook에 컨텐츠를 공유할 수 있도록 해줍니다. 공유 미리 보기는 클릭하는 사람을 미디어 담벼락의 컨텐츠 조각으로 리디렉션합니다.
+* 주요 컨텐츠에 대한 특수 스타일을 만들 수 있습니다.
 
