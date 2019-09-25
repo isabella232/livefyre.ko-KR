@@ -1,17 +1,17 @@
 ---
 description: Livefyre 라이브러리를 사용하여 체크섬을 만듭니다.
 seo-description: Livefyre 라이브러리를 사용하여 체크섬을 만듭니다.
-seo-title: 체크포인트 만들기
+seo-title: 체크섬 만들기
 solution: Livefyre
-title: 체크포인트 만들기
-uuid: 2 dddedaa -7 a 6 d -434 a -8 db 8-dc 179935 f 810
+title: 체크섬 만들기
+uuid: 2dddaa-7a6d-434a-8db8-dc179935f810
 translation-type: tm+mt
 source-git-commit: 6545445016517af1f1bbb071761d773ba5a9a597
 
 ---
 
 
-# 체크포인트 만들기 {#creating-a-checksum}
+# 체크섬 만들기 {#creating-a-checksum}
 
 Livefyre 라이브러리를 사용하여 체크섬을 만듭니다.
 
@@ -31,7 +31,7 @@ collection.getData().setTags("tags");
 String collectionMetaToken = collection.buildCollectionMetaToken();
 ```
 
-## Nodejs {#section_hnx_jqj_tz}
+## NodeJS {#section_hnx_jqj_tz}
 
 ```
 var livefyre = require('livefyre'); 
@@ -68,7 +68,7 @@ collection.data.tags = 'tags'
 collection_meta_token = collection.build_collection_meta_token()
 ```
 
-## Ruby {#section_a3y_ypj_tz}
+## 루비 {#section_a3y_ypj_tz}
 
 ```
 require 'livefyre' 
