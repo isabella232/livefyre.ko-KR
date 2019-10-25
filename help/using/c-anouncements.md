@@ -6,12 +6,18 @@ solution: Experience Manager
 title: 공지
 uuid: c05963db-4d96-494e-bdb3-da3570a14dfe
 translation-type: tm+mt
-source-git-commit: 087a40bf77c3b630acb661b58ffa8cfdedc0aec0
+source-git-commit: 82fde64518079ba1f08f4676449ec0e087ca1f36
 
 ---
 
 
 # 공지{#announcements}
+
+## 2019년 10월 25일
+
+2019년 9월 4일, Facebook은 Livefyre 워크플로우에서 Facebook 컨텐츠를 검색하거나 스트리밍하는 기능을 중단시킨 특정 권한 및 기능에 대한 액세스를 예기치 않게 제거했습니다. 앱에 publish_pages, user_friends 또는 페이지 공개 콘텐츠에 대한 액세스 권한이 필요한 경우 기존 앱 검토 프로세스를 통해 요청하십시오. Adobe는 공식적으로 이러한 권한에 대한 액세스를 복원했으며 Facebook의 승인을 기다리고 있습니다. 승인이 내려지면 즉시 Adobe는 귀하에게 통지하고 컨텐츠는 다시 사용할 수 있습니다.
+
+웹 사이트에 이미 게시된 컨텐츠는 영향을 받지 않습니다.
 
 ## 2019년 6월 11일
 
