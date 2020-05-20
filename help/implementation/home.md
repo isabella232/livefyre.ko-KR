@@ -4,16 +4,19 @@ solution: Experience Manager
 title: Livefyre 구현 도움말
 uuid: ccdede9b-88d3-4e6e-9105-662e984002d5
 translation-type: tm+mt
-source-git-commit: bf49abcfe0d29a1fa332161179d37ea14e7efb09
+source-git-commit: 3664bc1c51d2b372c358385127a1ca9c2f0cfef8
+workflow-type: tm+mt
+source-wordcount: '91'
+ht-degree: 6%
 
 ---
 
 
-# Experience Manager Livefyre 구현 안내서 {#livefyre-help}
+# Livefyre 구현 안내서 {#livefyre-help}
 
-개발자 툴을 사용하여 웹 사이트에서 Livefyre Studio 및 Livefyre 앱을 구현하여 사용자 경험을 맞춤화할 수 있습니다.
+개발자 도구를 사용하여 웹 사이트에서 Livefyre 스튜디오 및 Livefyre 앱을 구현하여 사용자 경험을 맞춤화할 수 있습니다.
 
-Livefyre Studio에서 Livefyre Studio 및 Livefyre 앱을 사용하는 방법에 대한 자세한 내용은 Adobe Experience [*Manager Livefyre 사용 안내서를 참조하십시오*](/help/using/home.md).
+Livefyre 스튜디오에서 Livefyre Studio 및 Livefyre 앱을 사용하는 방법에 대한 자세한 내용은 [*Adobe Experience Manager Livefyre 사용 안내서를 참조하십시오&#x200B;*](/help/using/home.md).
 
 ## 인기 있는 항목
 
@@ -25,7 +28,7 @@ Livefyre Studio에서 Livefyre Studio 및 Livefyre 앱을 사용하는 방법에
 
 * [개발자 도구를 사용하여 주석 통합](/help/implementation/c-app-integrations/c-comments-integration/c-comments-integration.md)
 
-* [개발자 도구를 사용하여 앱 통합](/help/implementation/c-getting-started/c-implementation-process/c-implementation-process.md)
+* [개발자 도구를 사용한 앱 통합](/help/implementation/c-getting-started/c-implementation-process/c-implementation-process.md)
 
 * [Analytics 도구에서 Livefyre 사용](/help/implementation/livefyre-analytics/livefyre-analytics.md)
 
