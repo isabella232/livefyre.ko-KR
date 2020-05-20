@@ -1,14 +1,17 @@
 ---
 product: livefyre
-audience: 최종 사용자
-user-guide-title: Experience Manager Livefyre 사용 안내서
+audience: end-user
+user-guide-title: Livefyre 설명서
 translation-type: tm+mt
-source-git-commit: 685989c827db6d14a6f56d1595f9272b83cf2348
+source-git-commit: 3664bc1c51d2b372c358385127a1ca9c2f0cfef8
+workflow-type: tm+mt
+source-wordcount: '843'
+ht-degree: 5%
 
 ---
 
 
-# Experience Manager Livefyre 사용 안내서 {#using}
+# Livefyre 설명서 {#using}
 
 + [Livefyre 도움말](home.md)
 + [공지](c-anouncements.md)
@@ -25,34 +28,34 @@ source-git-commit: 685989c827db6d14a6f56d1595f9272b83cf2348
    + 대화 {#chat}
       + [대화](c-about-apps/c-chat-app/c-chat-app.md)
       + [채팅 기능](c-about-apps/c-chat-app/r-chat-features.md)
-      + [채팅 사용자 정의](c-about-apps/c-chat-app/r-customize-chat.md)
+      + [채팅 사용자 지정](c-about-apps/c-chat-app/r-customize-chat.md)
    + 설명 {#comments}
       + [댓글](c-about-apps/c-comments/c-comments.md)
-      + [주석 기능](c-about-apps/c-comments/r-comments-features.md)
-      + [주석 사용자 정의](c-about-apps/c-comments/r-comments-customizations.md)
+      + [댓글 기능](c-about-apps/c-comments/r-comments-features.md)
+      + [댓글 사용자 지정](c-about-apps/c-comments/r-comments-customizations.md)
    + 기능 카드 {#featurecard}
       + [기능 카드](c-about-apps/c-feature-card-app/c-feature-card-app.md)
       + [기능 카드 사용자 정의](c-about-apps/c-feature-card-app/r-feature-card-customizations.md)
    + 필름스트립 {#filmstrip}
       + [필름스트립](c-about-apps/c-filmstrip-app/c-filmstrip-app.md)
       + [필름스트립 기능](c-about-apps/c-filmstrip-app/c-filmstrip-features.md)
-      + [필름스트립 사용자 정의](c-about-apps/c-filmstrip-app/c-filmstrip-customizations.md)
+      + [필름스트립 사용자 지정](c-about-apps/c-filmstrip-app/c-filmstrip-customizations.md)
    + 라이브 블로그 {#liveblog}
       + [라이브 블로그](c-about-apps/c-liveblog-app/c-liveblog-app.md)
       + [라이브 블로그 기능](c-about-apps/c-liveblog-app/r-live-blog-features.md)
       + [라이브 블로그 사용자 정의](c-about-apps/c-liveblog-app/r-live-blog-customizations.md)
    + 맵 {#map}
       + [맵](c-about-apps/c-map-app/c-map-app.md)
-      + [맵 기능](c-about-apps/c-map-app/r-map-features.md)
-      + [사용자 지정 매핑](c-about-apps/c-map-app/r-map-customizations.md)
-   + Media Wall {#mediawall}
-      + [Media Wall](c-about-apps/c-media-wall-app/c-media-wall-app.md)
-      + [Media Wall 기능](c-about-apps/c-media-wall-app/r-media-wall-features.md)
+      + [기능 매핑](c-about-apps/c-map-app/r-map-features.md)
+      + [맵 사용자 지정](c-about-apps/c-map-app/r-map-customizations.md)
+   + 미디어 벽 {#mediawall}
+      + [미디어 벽](c-about-apps/c-media-wall-app/c-media-wall-app.md)
+      + [미디어 벽 기능](c-about-apps/c-media-wall-app/r-media-wall-features.md)
       + [미디어 벽 사용자 지정](c-about-apps/c-media-wall-app/r-media-wall-customizations.md)
    + 모자이크 {#mosaic}
       + [모자이크](c-about-apps/c-mosaic-app/c-mosaic-app.md)
       + [모자이크 기능](c-about-apps/c-mosaic-app/r-mosaic-features.md)
-      + [Mosaic Customization](c-about-apps/c-mosaic-app/c-mosaic-customizations.md)
+      + [Mosaic 사용자 정의](c-about-apps/c-mosaic-app/c-mosaic-customizations.md)
    + 투표 {#polls}
       + [투표](c-about-apps/c-polls-app/c-polls-app.md)
       + [댓글 또는 라이브 블로그 앱에 투표 추가](c-about-apps/c-polls-app/t-integrate-poll-site.md)
@@ -66,11 +69,11 @@ source-git-commit: 685989c827db6d14a6f56d1595f9272b83cf2348
       + [사이드노트](c-about-apps/c-sidenotes-app/c-sidenotes-app.md)
       + [사이드노트 기능](c-about-apps/c-sidenotes-app/r-sidenotes-features.md)
       + [사이드노트 사용자 지정](c-about-apps/c-sidenotes-app/r-sidenotes-customizations.md)
-      + [사이드노트에 대한 우수 사례](c-about-apps/c-sidenotes-app/c-best-practices-for-sidenotes.md)
+      + [사이드 노트에 대한 우수 사례](c-about-apps/c-sidenotes-app/c-best-practices-for-sidenotes.md)
    + Storify 2 {#storify2}
       + [Storify 2](c-about-apps/c-storify2/c-storify2.md)
       + [구성 옵션](c-about-apps/c-storify2/c-configuration-options.md)
-      + [설정 저장](c-about-apps/c-storify2/c-storify-settings.md)
+      + [저장소 설정](c-about-apps/c-storify2/c-storify-settings.md)
       + [Storify 2에서 Google AMP 사용](c-about-apps/c-storify2/t-use-google-amp-with-storify-2.md)
       + [스토리 만들기](c-about-apps/c-storify2/t-create-a-story.md)
       + [소셜 컨텐츠 추가](c-about-apps/c-storify2/t-add-social-content.md)
@@ -78,9 +81,9 @@ source-git-commit: 685989c827db6d14a6f56d1595f9272b83cf2348
       + [스토리 미리 보기](c-about-apps/c-storify2/t-preview-a-story.md)
       + [스토리 게시](c-about-apps/c-storify2/t-publish-a-story.md)
       + [검토 내역](c-about-apps/c-storify2/t-review-storify2-history.md)
-      + [동일한 스토리에서 여러 편집기를 사용한 작업](c-about-apps/c-storify2/t-working-with-multiple-editors-on-same-story.md)
-      + [Streams를 사용하여 스토리에 소셜 컨텐츠 추가](c-about-apps/c-storify2/t-use-streams-to-add-social-content.md)
-      + [게시물을 저장소에 고정 2](c-about-apps/c-storify2/t-pin-posts-to-storify2.md)
+      + [동일한 스토리에서 여러 명의 편집자와 작업](c-about-apps/c-storify2/t-working-with-multiple-editors-on-same-story.md)
+      + [스트림을 사용하여 스토리에 소셜 컨텐츠 추가](c-about-apps/c-storify2/t-use-streams-to-add-social-content.md)
+      + [저장소 2에 게시물 고정](c-about-apps/c-storify2/t-pin-posts-to-storify2.md)
       + 탐색 안내서 {#navigation-guide}
          + [탐색 안내서](c-about-apps/c-storify2/c-navigation-guide.md)
          + [Storify 2에 내비게이션 가이드 추가](c-about-apps/c-storify2/t-add-navigation-guide-to-storify2.md)
@@ -88,7 +91,7 @@ source-git-commit: 685989c827db6d14a6f56d1595f9272b83cf2348
          + [탐색 안내서에 게시물 추가](c-about-apps/c-storify2/t-add-posts-to-the-navigation-guide.md)
          + [탐색 안내서에서 게시물 수 설정](c-about-apps/c-storify2/t-set-the-number-of-posts-nav-guide.md)
          + [내비게이션 가이드 고정](c-about-apps/c-storify2/t-make-nav-guide-sticky.md)
-         + [탐색 안내서 이동](c-about-apps/c-storify2/t-move-navigation-guide.md)
+         + [내비게이션 가이드 이동](c-about-apps/c-storify2/t-move-navigation-guide.md)
    + 트렌딩 {#trending}
       + [트렌딩](c-about-apps/c-trending-app/c-trending-app.md)
       + [트렌드 기능](c-about-apps/c-trending-app/r-trending-features.md)
@@ -108,21 +111,21 @@ source-git-commit: 685989c827db6d14a6f56d1595f9272b83cf2348
    + 컬렉션 및 콘텐츠 태그 {#collection-content-tags}
       + [컬렉션 및 콘텐츠 태그](c-features-livefyre/c-content-collection-tags/c-content-collection-tags.md)
       + [컬렉션 변경](c-features-livefyre/c-content-collection-tags/c-change-collection.md)
-      + [컬렉션 또는 컨텐츠 태그별 검색 필터링](c-features-livefyre/c-content-collection-tags/t-filter-search-by-tag.md)
-      + [컨텐츠 태그로 검색 필터링](c-features-livefyre/c-content-collection-tags/t-filter-search-by-content-tag.md)
+      + [컬렉션 또는 콘텐츠 태그별로 검색 필터링](c-features-livefyre/c-content-collection-tags/t-filter-search-by-tag.md)
+      + [컨텐츠 태그별 검색 필터링](c-features-livefyre/c-content-collection-tags/t-filter-search-by-content-tag.md)
       + [Embedly 통합](c-features-livefyre/c-content-collection-tags/c-embedly-integration.md)
       + [주요 컨텐츠](c-features-livefyre/c-content-collection-tags/c-featured-content.md)
       + [기능 컨텐츠](c-features-livefyre/c-content-collection-tags/t-feature-content.md)
       + [Studio에서 기능할 컨텐츠 선택](c-features-livefyre/c-content-collection-tags/t-select-content-to-feature-from-studio.md)
       + [앱에서 기능할 콘텐츠 선택](c-features-livefyre/c-content-collection-tags/t-select-content-to-feature.md)
       + [Studio에서 콘텐츠 제공 활성화](c-features-livefyre/c-content-collection-tags/t-enable-featuring-content-in-studio.md)
-      + [Permalinks](c-features-livefyre/c-content-collection-tags/c-permalinks.md)
+      + [페르말링크](c-features-livefyre/c-content-collection-tags/c-permalinks.md)
    + 사용자 지정 HTML {#custom-html}
       + [사용자 지정 HTML](c-features-livefyre/c-custom-html/c-custom-html.md)
-      + [주석에 사용자 정의 HTML 포함](c-features-livefyre/c-custom-html/t-embed-custom-html.md)
+      + [주석에 사용자 지정 HTML 포함](c-features-livefyre/c-custom-html/t-embed-custom-html.md)
       + [댓글에 투표 포함](c-features-livefyre/c-custom-html/t-embed-polls-in-comments.md)
       + [Studio에서 사용자 정의 HTML 주석 보기](c-features-livefyre/c-custom-html/t-view-custom-html-comments-in-studio.md)
-   + [관리 기능](c-features-livefyre/c-enagement-features.md)
+   + [참여 기능](c-features-livefyre/c-enagement-features.md)
    + [리스너 수](c-features-livefyre/c-listener-count.md)
    + [기타 기능](c-features-livefyre/c-miscellaneous-features.md)
    + 중재 및 필터링 {#moderation-filtering}
@@ -132,16 +135,16 @@ source-git-commit: 685989c827db6d14a6f56d1595f9272b83cf2348
       + [비속어 필터 사용](c-features-livefyre/c-about-moderation/c-profanity-filter.md)
       + [사용자 중재](c-features-livefyre/c-about-moderation/t-moderate-users-modq.md)
       + [ModQ를 사용하여 컨텐츠 중재](c-features-livefyre/c-about-moderation/c-modq.md)
-      + [앱에 다시 숨겨진 항목 추가](c-features-livefyre/c-about-moderation/t-add-trashed-item-back-into-app.md)
+      + [패싱된 항목을 앱에 다시 추가](c-features-livefyre/c-about-moderation/t-add-trashed-item-back-into-app.md)
       + [ModQ 키보드 단축키](c-features-livefyre/c-about-moderation/r-modq-keyboard-shortcuts.md)
       + [스트림의 콘텐츠 중재](c-features-livefyre/c-about-moderation/c-moderate-inline.md)
       + [앱 콘텐츠를 사용하여 콘텐츠 중재](c-features-livefyre/c-about-moderation/c-moderate-content-using-app-content.md)
-      + [SAFE 규칙](c-features-livefyre/c-about-moderation/c-moderation.md)
+      + [SAFE Rules](c-features-livefyre/c-about-moderation/c-moderation.md)
    + 알림 기능 {#notifications-features}
       + [주석 알림 기능](c-features-livefyre/c-notifications-features/c-comment-notifier.md)
       + [이메일 알림](c-features-livefyre/c-notifications-features/c-email-notifications.md)
       + [네트워크 이메일 설정](c-features-livefyre/c-notifications-features/t-set-up-network-email.md)
-   + [사이트 내 기여도 기능](c-features-livefyre/c-on-site-contribution-features.md)
+   + [온사이트 기여도 기능](c-features-livefyre/c-on-site-contribution-features.md)
    + [참조 추적](c-features-livefyre/c-referral-tracking.md)
    + 스마트 태그 {#smart-tags}
       + [스마트 태그](c-features-livefyre/c-smart-tags/c-smart-tags.md)
@@ -176,7 +179,7 @@ source-git-commit: 685989c827db6d14a6f56d1595f9272b83cf2348
       + [라이브러리에서 저장된 에셋 검색](c-library/c-assets/t-search-for-assets.md)
       + [사진 업로드](c-features-livefyre/c-content-behavior-features/t-upload-photos.md)
    + [URL로 검색](c-library/c-searching-for-content.md)
-   + [YouTube 컨텐츠 검색](c-library/t-search-for-youtube-content.md)
+   + [YouTube 콘텐츠 검색](c-library/t-search-for-youtube-content.md)
    + [Twitter 컨텐츠 검색](c-streams/c-youtube-rules/t-search-for-twitter-content.md)
    + [Instagram 컨텐츠 검색](c-library/t-search-for-content.md)
    + [콘텐트 세부 사항 보기](c-library/c-view-content-details.md)
@@ -184,8 +187,8 @@ source-git-commit: 685989c827db6d14a6f56d1595f9272b83cf2348
    + [라이브러리를 사용하여 제품과 컨텐츠 연결](c-library/t-associate-products-with-content-using-the-library.md)
    + [콘텐츠 게시](c-library/t-publish-content.md)
    + [앱 콘텐츠 탭](c-library/c-app-content.md)
-   + [Adobe Experience Manager Livefyre와 Hootsuite 함께 사용](c-library/c-hootsuite-livefyre.md)
-   + [Adobe Target에서 Adobe Experience Manager Livefyre 사용](c-library/livefyre-target.md)
+   + [Hootsuite와 함께 Adobe Experience Manager Livefyre 사용](c-library/c-hootsuite-livefyre.md)
+   + [Adobe Target과 함께 Adobe Experience Manager Livefyre 사용](c-library/livefyre-target.md)
    + [Adobe Launch Livefyre 익스텐션 사용](c-library/launch-extension.md)
 + 스트림 {#streams}
    + [스트림](c-streams/c-streams.md)
@@ -200,7 +203,7 @@ source-git-commit: 685989c827db6d14a6f56d1595f9272b83cf2348
    + [RSS 규칙](c-streams/c-rss-rules-streams.md)
    + [Tumblr 규칙](c-streams/c-tumblr-rules.md)
    + [Twitter 규칙](c-streams/c-twitter-rules.md)
-   + [트윗 조정 및 빈도](c-streams/c-throttling-and-frequency-of-tweets.md)
+   + [트윗 제한 및 빈도](c-streams/c-throttling-and-frequency-of-tweets.md)
    + [YouTube 규칙](c-streams/c-youtube-rules/c-youtube-rules.md)
 + 권한 요청 {#rights-requests}
    + [권한 요청](c-how-requesting-rights-works/c-how-requesting-rights-works.md)
@@ -210,10 +213,10 @@ source-git-commit: 685989c827db6d14a6f56d1595f9272b83cf2348
    + [부분적으로 자동화된 Instagram 권한 요청 보내기](c-how-requesting-rights-works/c-send-an-instagram-rights-request-from-the-library.md)
    + [수동으로 Instagram 권한 요청 보내기](c-how-requesting-rights-works/c-send-instagram-manual-rights-request.md)
    + [권한 활동 내역 보기](c-how-requesting-rights-works/c-view-rights-activity-history.md)
-   + [자산 라이브러리의 보류 중인 권한 요청을 사용하여 콘텐트 관리](c-how-requesting-rights-works/t-manage-content-with-pending-rights-request.md)
-   + [자산 라이브러리에서 자산에 대한 수동으로 권한 부여 또는 해지](c-how-requesting-rights-works/t-manually-grant-the-rights-for-one-or-more-assets.md)
-+ 사용자:Studio 및 Livefyre 네트워크 사용자 관리 {#users-managing}
-   + [사용자:Studio 및 Livefyre 네트워크 사용자 관리](c-users/c-users.md)
+   + [자산 라이브러리의 보류 중인 권한 요청으로 콘텐츠 관리](c-how-requesting-rights-works/t-manage-content-with-pending-rights-request.md)
+   + [자산 라이브러리에서 자산에 대한 권한 수동 부여 또는 취소](c-how-requesting-rights-works/t-manually-grant-the-rights-for-one-or-more-assets.md)
++ 사용자: Studio 및 Livefyre 네트워크 사용자 관리 {#users-managing}
+   + [사용자: Studio 및 Livefyre 네트워크 사용자 관리](c-users/c-users.md)
    + [사용자 검색](c-users/t-search-for-users.md)
    + [계정 세부 사항 보기](c-users/c-viewing-account-details.md)
    + [사용자 금지](c-users/t-ban-a-user.md)
@@ -221,29 +224,29 @@ source-git-commit: 685989c827db6d14a6f56d1595f9272b83cf2348
    + [사용자 계정 연결](c-users/t-link-user-accounts.md)
    + [네트워크 전환 사용자](c-users/c-users-switching-networks.md)
    + [사용자 동기화](c-users/t-set-up-user-sync.md)
-+ 사용자:사용자 계정 만들기 {#users-creating-accounts}
-   + [사용자:사용자 계정 만들기](c-users-creating-accounts-with-studio-access/c-users-creating-accounts-with-studio-access.md)
++ 사용자: 사용자 계정 만들기 {#users-creating-accounts}
+   + [사용자: 사용자 계정 만들기](c-users-creating-accounts-with-studio-access/c-users-creating-accounts-with-studio-access.md)
    + [Studio 계정 만들기에 사용자 초대](c-users-creating-accounts-with-studio-access/t-invite-a-user-to-create-a-studio-account.md)
-   + [스튜디오 계정 만들기에 초대 수락](c-users-creating-accounts-with-studio-access/t-accept-an-invitation-to-create-a-studio-account.md)
+   + [스튜디오 계정 만들기의 초대 수락](c-users-creating-accounts-with-studio-access/t-accept-an-invitation-to-create-a-studio-account.md)
    + [Studio에 로그인](c-users-creating-accounts-with-studio-access/t-log-into-studio.md)
    + [사용자에 대한 스튜디오 권한 관리](c-users-creating-accounts-with-studio-access/t-manage-studio-permissions-for-users.md)
    + [사용자 역할 및 권한](c-users-creating-accounts-with-studio-access/c-user-types.md)
    + Add a Social Account {#add-social-account}
       + [소셜 계정 추가](c-users-creating-accounts-with-studio-access/t-configure-social-accout-instagram/t-configure-social-accout-instagram.md)
       + [Instagram 계정 정보](c-users-creating-accounts-with-studio-access/t-configure-social-accout-instagram/c-about-instagram-accounts.md)
-      + [Social 계정에 대한 토큰 새로 고침](c-users-creating-accounts-with-studio-access/t-configure-social-accout-instagram/c-refresh-a-token-for-a-social-account.md)
-+ 설정:기타 {#settings-other}
+      + [소셜 계정에 대한 토큰 새로 고침](c-users-creating-accounts-with-studio-access/t-configure-social-accout-instagram/c-refresh-a-token-for-a-social-account.md)
++ 설정: 기타 {#settings-other}
    + [자격 증명 설정](c-settings-other/t-set-up-credentials.md)
    + [네트워크에 사이트 추가](c-settings-other/t-add-a-site.md)
-   + 번역 세트 {#translation-sets}
-      + [번역 세트](c-settings-other/c-translation-sets/c-translation-sets.md)
-      + [번역 세트 만들기 및 수정](c-settings-other/c-translation-sets/t-create-modify-translation-sets.md)
+   + 변환 세트 {#translation-sets}
+      + [변환 세트](c-settings-other/c-translation-sets/c-translation-sets.md)
+      + [변환 세트 생성 및 수정](c-settings-other/c-translation-sets/t-create-modify-translation-sets.md)
       + [네트워크에 변환 세트 적용](c-settings-other/c-translation-sets/t-apply-a-translation-set-to-a-network.md)
-      + [사이트에 번역 세트 적용](c-settings-other/c-translation-sets/t-apply-a-translation-set-to-a-site.md)
+      + [사이트에 변환 세트 적용](c-settings-other/c-translation-sets/t-apply-a-translation-set-to-a-site.md)
       + [번역 세트 삭제](c-settings-other/c-translation-sets/t-delete-a-translation-set.md)
       + [문자열 현지화](c-settings-other/c-translation-sets/c-localize-strings.md)
       + [텍스트 문자열 검토](c-settings-other/c-translation-sets/c-review-text-strings.md)
-      + [사이드노트 텍스트 문자열](c-settings-other/c-translation-sets/c-sidenotes-text-strings.md)
+      + [텍스트 문자열 사이드노트](c-settings-other/c-translation-sets/c-sidenotes-text-strings.md)
    + SSL 적용 {#ssl-enforcement}
       + [SSL 적용](c-settings-other/c-ssl-enforcement/c-ssl-enforcement.md)
       + [SSL 검사 목록](c-settings-other/c-ssl-enforcement/c-ssl-checklist.md)
