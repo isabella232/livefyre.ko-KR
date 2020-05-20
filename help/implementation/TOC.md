@@ -1,14 +1,17 @@
 ---
 product: livefyre
-audience: 최종 사용자
-user-guide-title: Experience Manager Livefyre 구현 안내서
+audience: end-user
+user-guide-title: Livefyre 구현 안내서
 translation-type: tm+mt
-source-git-commit: d2a3bad7f0009d04be0e17802d17409f16c1b779
+source-git-commit: 3664bc1c51d2b372c358385127a1ca9c2f0cfef8
+workflow-type: tm+mt
+source-wordcount: '543'
+ht-degree: 4%
 
 ---
 
 
-# Experience Manager Livefyre 구현 안내서 {#implementation}
+# Livefyre 구현 안내서 {#implementation}
 
 + [Livefyre 구현 안내서](home.md)
 + 시작하기 {#getting-started}
@@ -21,7 +24,7 @@ source-git-commit: d2a3bad7f0009d04be0e17802d17409f16c1b779
       + [아키텍처](c-getting-started/c-implementation-process/c-architecture.md)
       + [앱 포함](c-getting-started/c-implementation-process/c-using-livefyre.js-to-create-customize-and-use-apps-on-your-site.md)
       + [Livefyre.js를 사용하여 앱에 인증 추가](c-getting-started/c-implementation-process/c-add-authetication-to-an-app-using-livefyre.js.md)
-      + [서버 측 토큰 작성](c-getting-started/c-implementation-process/c-build-server-side-tokens.md)
+      + [서버 측 토큰 빌드](c-getting-started/c-implementation-process/c-build-server-side-tokens.md)
       + [CollectionMeta 토큰](c-getting-started/c-implementation-process/c-collectionmeta-tokent.md)
       + [사용자 인증 토큰](c-getting-started/c-implementation-process/c-user-auth-token.md)
       + [CollectionMeta 토큰을 사용하여 컬렉션 만들기](t-create-a-collectionmeta-token.md)
@@ -35,28 +38,28 @@ source-git-commit: d2a3bad7f0009d04be0e17802d17409f16c1b779
       + [SSO 구현](t-about-identity-integration/c-implementing-sso/c-implementing-sso.md)
       + [디버깅 인증 위임](t-about-identity-integration/c-implementing-sso/c-debugging-auth.md)
    + Livefyre와 동기화 {#sync-ping-for-pull}
-      + [Ping for Pull을 사용하여 Livefyre와 동기화](t-about-identity-integration/t-sync-with-livefyre-using-ping-for-pull/t-sync-with-livefyre-using-ping-for-pull.md)
+      + [Pull용 Ping을 사용하여 Livefyre와 동기화](t-about-identity-integration/t-sync-with-livefyre-using-ping-for-pull/t-sync-with-livefyre-using-ping-for-pull.md)
       + [풀 끝점 만들기](t-about-identity-integration/t-sync-with-livefyre-using-ping-for-pull/t-build-the-pull-endpoint.md)
       + [Studio에 끝점 등록](t-about-identity-integration/t-sync-with-livefyre-using-ping-for-pull/c-register-the-endpoint-with-studio.md)
       + [Ping 구축](t-about-identity-integration/t-sync-with-livefyre-using-ping-for-pull/t-build-the-ping.md)
-      + [요청 구조 가져오기](t-about-identity-integration/t-sync-with-livefyre-using-ping-for-pull/t-pull-request-structure.md)
-      + [풀 응답에 대한 Ping 작성](t-about-identity-integration/t-sync-with-livefyre-using-ping-for-pull/c-build-the-ping-for-pull-response.md)
-+ Livefyre Identity {#livefyre-identity}
-   + [Livefyre Identity](c-livefyre-identity-comp/c-livefyre-identity-comp.md)
+      + [끌어오기 요청 구조](t-about-identity-integration/t-sync-with-livefyre-using-ping-for-pull/t-pull-request-structure.md)
+      + [풀 응답에 대한 Ping 빌드](t-about-identity-integration/t-sync-with-livefyre-using-ping-for-pull/c-build-the-ping-for-pull-response.md)
++ Livefyre ID {#livefyre-identity}
+   + [Livefyre ID](c-livefyre-identity-comp/c-livefyre-identity-comp.md)
    + [Livefyre ID 활성화](c-livefyre-identity-comp/t-enable-livefyre-identity.md)
-   + Livefyre Id와 함께 소셜 앱 사용 {#use-social-apps-with-livefyre-identity}
+   + Livefyre ID와 함께 소셜 앱 사용 {#use-social-apps-with-livefyre-identity}
       + [소셜 앱 만들기](c-livefyre-identity-comp/t-create-your-social-apps.md)
       + [Livefyre ID와 함께 사용할 Facebook 앱 만들기](c-livefyre-identity-comp/t-create-a-facebook-app-for-use-with-livefyre-identity.md)
       + [Livefyre ID와 함께 사용할 Twitter 앱 만들기](c-livefyre-identity-comp/t-create-a-twitter-app-for-use-with-livefyre-identity.md)
       + [Yahoo! 만들기 Livefyre ID와 함께 사용할 앱](c-livefyre-identity-comp/t-create-a-yahoo-app-for-use-with-livefyre-identity.md)
-      + [Livefyre ID와 함께 사용할 Microsoft Live Id 앱 만들기](c-livefyre-identity-comp/t-create-a-microsoft-live-id-app-for-use-with-livefyre-identity.md)
-      + [Livefyre Id와 함께 사용할 LinkedIn 앱 만들기](c-livefyre-identity-comp/t-create-a-linkedin-app-for-use-with-livefyre-identity.md)
-      + [Livefyre Identity와 함께 사용할 GitHub ID 앱 만들기](c-livefyre-identity-comp/c-create-a-github-identity.md)
+      + [Livefyre ID와 함께 사용할 Microsoft Live ID 앱 만들기](c-livefyre-identity-comp/t-create-a-microsoft-live-id-app-for-use-with-livefyre-identity.md)
+      + [Livefyre ID와 함께 사용할 LinkedIn 앱 만들기](c-livefyre-identity-comp/t-create-a-linkedin-app-for-use-with-livefyre-identity.md)
+      + [Livefyre ID와 함께 사용할 GitHub ID 앱 만들기](c-livefyre-identity-comp/c-create-a-github-identity.md)
       + [Studio를 사용하여 소셜 앱을 Livefyre 구현에 연결](c-livefyre-identity-comp/t-using-studio-to-connect-your-social-apps-to-your-livefyre-implementation.md)
    + [페이지에 Livefyre.js 추가](c-livefyre-identity-comp/t-add-livefyre.js-to-the-page.md)
    + [Livefyre ID 초기화](c-livefyre-identity-comp/t-initialize-livefyre-identity.md)
    + [Livefyre ID용 이메일](c-livefyre-identity-comp/c-emails-for-livefyre-identity.md)
-   + [잔레인 캡처/후면판](c-livefyre-identity-comp/c-janrain-capture-backplane-comp.md)
+   + [재레인 캡처/후면판](c-livefyre-identity-comp/c-janrain-capture-backplane-comp.md)
    + 설치 {#installation}
       + [라이브러리 설치](c-installing-libraries/c-installing-libraries.md)
       + [클래스 및 메서드](c-installing-libraries/c-methods-livefyre.md)
@@ -70,7 +73,7 @@ source-git-commit: d2a3bad7f0009d04be0e17802d17409f16c1b779
       + [getUrn 네트워크 메서드](c-installing-libraries/r-geturn-method.md)
       + [getUrnForUser 네트워크 메서드](c-installing-libraries/r-geturnforuser-method.md)
       + [getNetworkName 네트워크 메서드](c-installing-libraries/r-getnetworkname-method.md)
-      + [getSite 네트워크 메서드](c-installing-libraries/r-getsite-method.md)
+      + [getSite Network 메서드](c-installing-libraries/r-getsite-method.md)
       + [네트워크 클래스 메서드](c-installing-libraries/c-network-class-methods.md)
       + [컬렉션 클래스 메서드](c-installing-libraries/c-collection-methods.md)
       + [createOrUpdate 컬렉션 메서드](c-installing-libraries/r-createorupdate-collection-method.md)
@@ -111,20 +114,20 @@ source-git-commit: d2a3bad7f0009d04be0e17802d17409f16c1b779
       + [사이드노트 구현](c-app-integrations/c-sidenotes-integration/r-sidenotes-implementation.md)
       + [updateAnchors 메서드](c-app-integrations/c-sidenotes-integration/update-anchors-method.md)
    + [맵](c-app-integrations/c-map-integration.md)
-   + [Media Wall](c-app-integrations/c-media-wall-integration.md)
+   + [미디어 벽](c-app-integrations/c-media-wall-integration.md)
    + [트렌딩](c-app-integrations/c-trending-integration.md)
 + 앱 맞춤화 {#app-customizations}
    + [앱 맞춤화](c-app-customizations/c-app-customizations.md)
    + [표시 옵션 변경](c-app-customizations/c-change-display-options.md)
    + [CSS 클래스](c-app-customizations/c-css-classes.md)
    + [CSS 클래스 저장](c-app-customizations/c-storify-css-classes.md)
-   + [번역 세트](c-app-customizations/c-translation-sets.md)
+   + [변환 세트](c-app-customizations/c-translation-sets.md)
    + [Livefyre 로고 이동](c-app-customizations/c-move-the-livefyre-logo.md)
    + [미디어 제한](c-app-customizations/c-restrict-media.md)
    + [앱 요소 숨기기](c-app-customizations/c-hide-app-elements.md)
    + [Mention 아이콘 변경](c-app-customizations/c-change-mention-icon.md)
    + [컨텐츠 강조 표시](c-app-customizations/c-highlight-content.md)
-   + [날짜 및 타임스탬프 사용자 정의](c-app-customizations/c-date-time-stamp.md)
+   + [날짜 및 타임스탬프 사용자 지정](c-app-customizations/c-date-time-stamp.md)
    + 기능 컨텐츠 {#feature-content}
       + [기능 컨텐츠](c-app-customizations/t-feature-content.md)
       + [Studio에서 콘텐츠 제공 활성화](c-app-customizations/t-enable-featuring-content-in-studio.md)
@@ -133,13 +136,13 @@ source-git-commit: d2a3bad7f0009d04be0e17802d17409f16c1b779
       + [CSS를 사용하여 주요 컨텐츠 스타일 지정](c-app-customizations/c-use-css-to-style-featured-content.md)
       + [기능 API](c-app-customizations/c-feature-apis.md)
    + [AuthDelegate를 사용하여 Janrain과 Livefyre 연결](c-app-customizations/c-connecting-janrain-to-livefyre-using-authdelegate.md)
-   + [주요 API 파섹](c-app-customizations/c-aggregated-featured-content-using-the-featured-apis.md)
+   + [주요 API를 사용한 취합 주요 컨텐츠](c-app-customizations/c-aggregated-featured-content-using-the-featured-apis.md)
    + 콘텐츠 스타일 지정 {#style-content}
       + [사용자 그룹 컨텐츠 스타일 지정](c-app-customizations/c-style-user-group-content.md)
       + [그룹에 사용자 추가](c-app-customizations/c-adding-users-to-groups.md)
-   + 사용자 정의 스타일 적용 {#apply-custom-styles}
-      + [사용자 정의 스타일 적용](c-app-customizations/c-applying-custom-styles-.md)
-      + [사용자 정의 단추 추가](c-app-customizations/t-add-custom-buttons.md)
+   + 사용자 지정 스타일 적용 {#apply-custom-styles}
+      + [사용자 지정 스타일 적용](c-app-customizations/c-applying-custom-styles-.md)
+      + [사용자 지정 단추 추가](c-app-customizations/t-add-custom-buttons.md)
    + Javascript 이벤트 {#javascript-events}
       + [JavaScript 이벤트 정의 및 예제](c-app-customizations/c-javascript-events.md)
       + [시각화 앱에 대한 Javascript 이벤트](c-app-customizations/c-javascript-events-for-visualization-apps.md)
@@ -165,4 +168,4 @@ source-git-commit: d2a3bad7f0009d04be0e17802d17409f16c1b779
    + [여러 컬렉션](c-advanced-topics/c-multiple-collections.md)
    + [핵심 앱 유형 전환](c-advanced-topics/c-switch-core-app-types.md)
    + [소셜 카운터](c-advanced-topics/c-social-counter.md)
-   + [Livefyre 앱과 Bootsrap 및 Stream API 사용](c-advanced-topics/bootstrap-stream-api.md)
+   + [Livefyre 앱과 함께 부트스트랩 및 스트림 API 사용](c-advanced-topics/bootstrap-stream-api.md)
