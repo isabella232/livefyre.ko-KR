@@ -3,7 +3,7 @@ product: livefyre
 audience: end-user
 user-guide-title: Livefyre 설명서
 translation-type: tm+mt
-source-git-commit: 3664bc1c51d2b372c358385127a1ca9c2f0cfef8
+source-git-commit: 52f59cd15f315aa93be198f6eb586f008c18a384
 workflow-type: tm+mt
 source-wordcount: '843'
 ht-degree: 5%
@@ -220,7 +220,7 @@ ht-degree: 5%
    + [사용자 검색](c-users/t-search-for-users.md)
    + [계정 세부 사항 보기](c-users/c-viewing-account-details.md)
    + [사용자 금지](c-users/t-ban-a-user.md)
-   + [사용자 허용 목록](c-users/t-whitelist-a-user.md)
+   + [사용자 허용 목록](c-users/allow-list-a-user.md)
    + [사용자 계정 연결](c-users/t-link-user-accounts.md)
    + [네트워크 전환 사용자](c-users/c-users-switching-networks.md)
    + [사용자 동기화](c-users/t-set-up-user-sync.md)
