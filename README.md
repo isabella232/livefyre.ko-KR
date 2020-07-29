@@ -1,8 +1,8 @@
 ---
-source-git-commit: 4990e04d913b95ab903b358c78bf4263f4eb6a7f
+source-git-commit: 06ed2854bc5905e963c5dbf6c6b04725670796ec
 workflow-type: tm+mt
 translation-type: tm+mt
-source-wordcount: '438'
+source-wordcount: '435'
 ht-degree: 6%
 
 ---
@@ -58,5 +58,3 @@ Adobe Experience Cloud 솔루션 제품 팀의 기술 저작, 프로그램 관�
 
 * **작성자에게 보낸 변경 내용**: 작성자에게 보류 중인 끌어오기 요청에 대한 알림을 받았습니다.
 * **즉시 병합**: 당사의 풀 요청 검토 팀이 검토할 준비가 되었습니다.
-
-웹 후크 테스트 - 무시
