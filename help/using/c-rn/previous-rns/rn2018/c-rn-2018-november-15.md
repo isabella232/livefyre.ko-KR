@@ -6,7 +6,10 @@ solution: Experience Manager
 title: 릴리스 노트
 uuid: 34e64943-dea6-46ac-9fcc-8febeab6aa42
 translation-type: tm+mt
-source-git-commit: 573e815799fbae2c2c4f1d98a01ea0ae04108a34
+source-git-commit: efb031b58f01ec69c8297a808998d25a0015f102
+workflow-type: tm+mt
+source-wordcount: '371'
+ht-degree: 7%
 
 ---
 
@@ -33,7 +36,7 @@ source-git-commit: 573e815799fbae2c2c4f1d98a01ea0ae04108a34
 
 Instagram 계정에 대한 권한을 요청하는 방법에 대한 자세한 내용은 Instagram 권한 [요청 수동](/help/using/c-how-requesting-rights-works/c-send-instagram-manual-rights-request.md) 보내기 및 [부분적으로 자동화된 Instagram 권한 요청 보내기를 참조하십시오](/help/using/c-how-requesting-rights-works/c-send-an-instagram-rights-request-from-the-library.md).
 
-* **Adobe Target 통합.** Adobe Target과의 통합을 통해 Livefyre 앱을 Adobe Target 오퍼 라이브러리에 직접 공유할 수 있습니다. Adobe Target에서 Livefyre 사용에 대한 자세한 내용은 [Target 설명서를 참조하십시오](hhttps://docs.adobe.com/content/help/en/livefyre/using/library/livefyre-target.html).
+* **Adobe Target 통합.** Livefyre 앱을 Adobe Target 오퍼 라이브러리에 직접 공유할 수 있는 Adobe Target와의 통합을 추가했습니다. Adobe Target과 Livefyre 사용에 대한 자세한 내용은 [Target 설명서를 참조하십시오](hhttps://docs.adobe.com/content/help/en/livefyre/using/library/livefyre-target.html).
 
 ## 문제 {#section_ehw_ndt_wcb}
 
@@ -43,15 +46,15 @@ Instagram 계정에 대한 권한을 요청하는 방법에 대한 자세한 내
 
 | 문제 유형 | 구성 요소 | 릴리스 노트 |
 |--- |--- |--- |
-| 문제 | AppService: Livefyre ID | 클릭하는 문제가 [해결되었습니다. UICONTROL Reset to Default] 가 [스튜디오] > [통합 설정] > [Livefyre ID]의 로그인 모달에서 로고를 기본 이미지로 재설정하지 않았습니다. |
+| 문제 | AppService:Livefyre ID | [스튜디오] > [통합 설정] > [Livefyre ID]에서 [로그인 양식] 아래의 로고를 클릭해도 기본 이미지가 재설정되지 [!UICONTROL Reset to Default] 않는 문제가 해결되었습니다. |
 | 문제 | 라이브러리 | 라이브러리에 업로드된 후 자산 세부 정보로 본 비디오가 올바로 표시되지 않던 문제를 수정했습니다. |
 | 문제 | 스트림 | 제품이 스트림 규칙에 표시되지 않던 문제를 수정했습니다. |
 | 문제 | 스트림 | 스트림 규칙에 제품 태그를 사용할 수 없던 문제를 수정했습니다. |
 | 개선 사항 | 스튜디오 | Livefyre 스튜디오에서 제품 ID가 표시되지 않는 문제가 해결되었습니다. |
-| 문제 | 스튜디오: ModQ | 삭제된 콘텐츠가 삭제된 후에도 ModQ에 표시되는 문제가 해결되었습니다. |
+| 문제 | 스튜디오:ModQ | 삭제된 콘텐츠가 삭제된 후에도 ModQ에 표시되는 문제가 해결되었습니다. |
 
 ### UAT 릴리스
 
 | **문제 유형** | **구성 요소** | **릴리스 노트** |
 |---|---|---|
-| 문제 | 소셜 구성 요소: 회전판 | 공유 링크가 IE11 및 Mozilla Firefox에서 예상대로 URL을 복사하고 응답하지 않는 문제가 해결되었습니다. |
+| 문제 | 소셜 구성 요소:회전판 | 공유 링크가 IE11 및 Mozilla Firefox에서 예상대로 URL을 복사하고 응답하지 않는 문제가 해결되었습니다. |
