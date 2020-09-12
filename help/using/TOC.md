@@ -1,9 +1,9 @@
 ---
 product: livefyre
 audience: end-user
-user-guide-title: Livefyre 설명서
+user-guide-title: Livefyre 가이드
 translation-type: tm+mt
-source-git-commit: 52f59cd15f315aa93be198f6eb586f008c18a384
+source-git-commit: c8f274185f642c528ec684373c63b80cee8fab35
 workflow-type: tm+mt
 source-wordcount: '843'
 ht-degree: 5%
@@ -11,7 +11,7 @@ ht-degree: 5%
 ---
 
 
-# Livefyre 설명서 {#using}
+# Livefyre 가이드 {#using}
 
 + [Livefyre 도움말](home.md)
 + [공지](c-anouncements.md)
@@ -188,8 +188,8 @@ ht-degree: 5%
    + [콘텐츠 게시](c-library/t-publish-content.md)
    + [앱 콘텐츠 탭](c-library/c-app-content.md)
    + [Hootsuite와 함께 Adobe Experience Manager Livefyre 사용](c-library/c-hootsuite-livefyre.md)
-   + [Adobe Target과 함께 Adobe Experience Manager Livefyre 사용](c-library/livefyre-target.md)
-   + [Adobe Launch Livefyre 익스텐션 사용](c-library/launch-extension.md)
+   + [Adobe Experience Manager Livefyre와 Adobe Target 사용](c-library/livefyre-target.md)
+   + [Adobe 실행 Livefyre 익스텐션 사용](c-library/launch-extension.md)
 + 스트림 {#streams}
    + [스트림](c-streams/c-streams.md)
    + [새 스트림 만들기](c-streams/t-create-a-new-stream.md)
@@ -208,15 +208,15 @@ ht-degree: 5%
 + 권한 요청 {#rights-requests}
    + [권한 요청](c-how-requesting-rights-works/c-how-requesting-rights-works.md)
    + [권한 요청 관리](c-how-requesting-rights-works/c-managing-rights-requests.md)
-   + [권한 관리 설정](c-how-requesting-rights-works/t-set-up-rights-management.md)
+   + [Rights Management 설정](c-how-requesting-rights-works/t-set-up-rights-management.md)
    + [Twitter 권한 요청 보내기](c-how-requesting-rights-works/t-send-a-rights-request-to-own-a-digital-asset.md)
    + [부분적으로 자동화된 Instagram 권한 요청 보내기](c-how-requesting-rights-works/c-send-an-instagram-rights-request-from-the-library.md)
    + [수동으로 Instagram 권한 요청 보내기](c-how-requesting-rights-works/c-send-instagram-manual-rights-request.md)
    + [권한 활동 내역 보기](c-how-requesting-rights-works/c-view-rights-activity-history.md)
    + [자산 라이브러리의 보류 중인 권한 요청으로 콘텐츠 관리](c-how-requesting-rights-works/t-manage-content-with-pending-rights-request.md)
    + [자산 라이브러리에서 자산에 대한 권한 수동 부여 또는 취소](c-how-requesting-rights-works/t-manually-grant-the-rights-for-one-or-more-assets.md)
-+ 사용자: Studio 및 Livefyre 네트워크 사용자 관리 {#users-managing}
-   + [사용자: Studio 및 Livefyre 네트워크 사용자 관리](c-users/c-users.md)
++ 사용자:Studio 및 Livefyre 네트워크 사용자 관리 {#users-managing}
+   + [사용자:Studio 및 Livefyre 네트워크 사용자 관리](c-users/c-users.md)
    + [사용자 검색](c-users/t-search-for-users.md)
    + [계정 세부 사항 보기](c-users/c-viewing-account-details.md)
    + [사용자 금지](c-users/t-ban-a-user.md)
@@ -224,8 +224,8 @@ ht-degree: 5%
    + [사용자 계정 연결](c-users/t-link-user-accounts.md)
    + [네트워크 전환 사용자](c-users/c-users-switching-networks.md)
    + [사용자 동기화](c-users/t-set-up-user-sync.md)
-+ 사용자: 사용자 계정 만들기 {#users-creating-accounts}
-   + [사용자: 사용자 계정 만들기](c-users-creating-accounts-with-studio-access/c-users-creating-accounts-with-studio-access.md)
++ 사용자:사용자 계정 만들기 {#users-creating-accounts}
+   + [사용자:사용자 계정 만들기](c-users-creating-accounts-with-studio-access/c-users-creating-accounts-with-studio-access.md)
    + [Studio 계정 만들기에 사용자 초대](c-users-creating-accounts-with-studio-access/t-invite-a-user-to-create-a-studio-account.md)
    + [스튜디오 계정 만들기의 초대 수락](c-users-creating-accounts-with-studio-access/t-accept-an-invitation-to-create-a-studio-account.md)
    + [Studio에 로그인](c-users-creating-accounts-with-studio-access/t-log-into-studio.md)
@@ -235,7 +235,7 @@ ht-degree: 5%
       + [소셜 계정 추가](c-users-creating-accounts-with-studio-access/t-configure-social-accout-instagram/t-configure-social-accout-instagram.md)
       + [Instagram 계정 정보](c-users-creating-accounts-with-studio-access/t-configure-social-accout-instagram/c-about-instagram-accounts.md)
       + [소셜 계정에 대한 토큰 새로 고침](c-users-creating-accounts-with-studio-access/t-configure-social-accout-instagram/c-refresh-a-token-for-a-social-account.md)
-+ 설정: 기타 {#settings-other}
++ 설정:기타 {#settings-other}
    + [자격 증명 설정](c-settings-other/t-set-up-credentials.md)
    + [네트워크에 사이트 추가](c-settings-other/t-add-a-site.md)
    + 변환 세트 {#translation-sets}
