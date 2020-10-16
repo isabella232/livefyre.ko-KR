@@ -6,12 +6,15 @@ solution: Experience Manager
 title: Livefyre 분석 이벤트
 uuid: 4eb5a196-ca33-40f8-a96d-ed46469223de
 translation-type: tm+mt
-source-git-commit: 573e815799fbae2c2c4f1d98a01ea0ae04108a34
+source-git-commit: 5dc11c42a9f8bf3fa088f3245e21b6942d4865fe
+workflow-type: tm+mt
+source-wordcount: '542'
+ht-degree: 4%
 
 ---
 
 
-# Livefyre 분석 이벤트 {#livefyre-analytics-events}
+# Livefyre 분석 이벤트
 
 ## 이벤트 개체 정의 {#section_dh1_yhn_pdb}
 
@@ -53,10 +56,10 @@ source-git-commit: 573e815799fbae2c2c4f1d98a01ea0ae04108a34
 | 초기화 | 하나 이상의 Livefyre 앱이 포함된 페이지를 로드할 때 |
 | 로드 | 사용자 보기에 상관없이 페이지에 앱을 로드할 때마다 |
 | 보기 | 앱이 뷰포트에 처음 입장한 경우. |
-| 게시물 | 사용자가 언제든지 다음 항목을 포함한 댓글이나 컨텐츠를 게시합니다. 상위 게시물, 답글, 검토, 미디어 담벼락 업로드 |
+| 게시물 | 사용자가 언제든지 다음 항목을 포함한 댓글이나 컨텐츠를 게시합니다.최상위 게시물, 답글, 검토, 미디어 담벼락 업로드 |
 | 게시됨 | 게시물이 성공했을 때 |
 | Twitter_Reply | 사용자가 Twitter에서 회신할 때마다 |
-| Twitter_Like | 컨텐츠가 공유된 위치: 리트윗 |
+| Twitter_Like | 컨텐츠가 공유된 위치:리트윗 |
 | Livefyre_Like | 앱에서 언제든지 livefyre와 같은 기능을 사용할 수 있습니다. |
 | Livefyre_Unlike | 사용자가 언제든지 |
 | ShareOnPost | 사용자가 컨텐츠를 게시하고 게시물에서 공유 기능을 사용할 때 |
@@ -76,7 +79,7 @@ source-git-commit: 573e815799fbae2c2c4f1d98a01ea0ae04108a34
 | UnfollowCollection | 대화가 미준수 |
 | 요청자세히 | 사용자가 앱에 더 많은 콘텐츠를 로드할 때마다(빠른 속도 필요) |
 | ModalView | 사용자가 언제든지 클릭하여 모달에서 컨텐츠 보기 |
-| TwitterRetweetClick | 컨텐츠가 공유된 위치: 리트윗 |
+| TwitterRetweetClick | 컨텐츠가 공유된 위치:리트윗 |
 | PostButtonClick | 사용자가 게시물을 클릭할 때(&quot;무슨 일이십니까?&quot;) 버튼 |
 | 로그인 | 사용자가 로그인한 시간 |
 | 로그아웃 | 사용자가 로그아웃할 때마다 |
