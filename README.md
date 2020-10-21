@@ -1,15 +1,18 @@
 ---
-source-git-commit: 06ed2854bc5905e963c5dbf6c6b04725670796ec
+source-git-commit: cdc5645b1bc3f2e9cf47329063635e20ec5c2e5e
 workflow-type: tm+mt
 translation-type: tm+mt
-source-wordcount: '435'
+source-wordcount: '517'
 ht-degree: 6%
 
 ---
 # Contribute 아티클
 
-Adobe 커뮤니티뿐만 아니라 설명서 팀 외부의 Adobe 직원으로부터 지원을 받을 수 있습니다.
+| EXL-PR | EXL | 미리 보기 | 활성화 | 게시됨 | 도움말 |
+|--- |--- |--- |--- |--- |--- |
+| [![빌드 상태](https://docs.ci.corp.adobe.com/view/exl-pr/job/livefyre.en_pr-exl/badge/icon)](https://docs.ci.corp.adobe.com/view/exl-pr/job/livefyre.en_pr-exl/lastBuild/) | [![빌드 상태](https://docs.ci.corp.adobe.com/view/exl-pr/job/livefyre.en_exl/lastBuild/badge/icon)](https://docs.ci.corp.adobe.com/view/exl-pr/job/livefyre.en_exl/lastBuild/lastBuild) | [미리 보기 URL](https://experienceleague.corp.adobe.com/docs/livefyre/using/home.html?lang=en) | [activate-exl](https://docs.ci.corp.adobe.com/job/activate-exl/build/) | [라이브 URL](https://experienceleague.adobe.com/docs/livefyre/using/home.html?lang=en) | [Authoring 안내서](https://experienceleague.adobe.com/docs/authoring-guide-exl/using/home.html?lang=en) |
 
+Adobe 커뮤니티뿐만 아니라 설명서 팀 외부의 Adobe 직원으로부터 지원을 받을 수 있습니다.
 
 ## Adobe 오픈 소스 행동수칙
 
@@ -56,5 +59,5 @@ Adobe Experience Cloud 솔루션 제품 팀의 기술 저작, 프로그램 관�
 
 공용 보관소에서는 끌어오기 요청 워크플로우를 관리하고 끌어오기 요청의 진행 상황을 알려주는 데 도움이 되도록 자동 레이블이 지정됩니다.
 
-* **작성자에게 보낸 변경 내용**: 작성자에게 보류 중인 끌어오기 요청에 대한 알림을 받았습니다.
-* **즉시 병합**: 당사의 풀 요청 검토 팀이 검토할 준비가 되었습니다.
+* **작성자에게 보낸 변경 내용**:작성자에게 보류 중인 끌어오기 요청에 대한 알림을 받았습니다.
+* **즉시 병합**:당사의 풀 요청 검토 팀이 검토할 준비가 되었습니다.
