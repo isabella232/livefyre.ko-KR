@@ -2,11 +2,13 @@
 description: Livefyre 라이브러리를 사용하여 체크섬을 만듭니다.
 seo-description: Livefyre 라이브러리를 사용하여 체크섬을 만듭니다.
 seo-title: 체크섬 만들기
-solution: Livefyre
 title: 체크섬 만들기
-uuid: 2dddaa-7a6d-434a-8db8-dc179935f810
+uuid: 2dddedaa-7a6d-434a-8db8-dc179935f810
 translation-type: tm+mt
-source-git-commit: 6545445016517af1f1bbb071761d773ba5a9a597
+source-git-commit: deae9c7c98fa0417f1ed553239da630817c13f02
+workflow-type: tm+mt
+source-wordcount: '35'
+ht-degree: 5%
 
 ---
 
