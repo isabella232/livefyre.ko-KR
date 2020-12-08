@@ -1,16 +1,12 @@
 ---
-source-git-commit: cdc5645b1bc3f2e9cf47329063635e20ec5c2e5e
+source-git-commit: 59f12a4dde987614e412838161bb5e8f6613630b
 workflow-type: tm+mt
 translation-type: tm+mt
-source-wordcount: '517'
+source-wordcount: '435'
 ht-degree: 6%
 
 ---
 # Contribute 아티클
-
-| EXL-PR | EXL | 미리 보기 | 활성화 | 게시됨 | 도움말 |
-|--- |--- |--- |--- |--- |--- |
-| [![빌드 상태](https://docs.ci.corp.adobe.com/view/exl-pr/job/livefyre.en_pr-exl/badge/icon)](https://docs.ci.corp.adobe.com/view/exl-pr/job/livefyre.en_pr-exl/lastBuild/) | [![빌드 상태](https://docs.ci.corp.adobe.com/view/exl-pr/job/livefyre.en_exl/lastBuild/badge/icon)](https://docs.ci.corp.adobe.com/view/exl-pr/job/livefyre.en_exl/lastBuild/lastBuild) | [미리 보기 URL](https://experienceleague.corp.adobe.com/docs/livefyre/using/home.html?lang=en) | [activate-exl](https://docs.ci.corp.adobe.com/job/activate-exl/build/) | [라이브 URL](https://experienceleague.adobe.com/docs/livefyre/using/home.html?lang=en) | [Authoring 안내서](https://experienceleague.adobe.com/docs/authoring-guide-exl/using/home.html?lang=en) |
 
 Adobe 커뮤니티뿐만 아니라 설명서 팀 외부의 Adobe 직원으로부터 지원을 받을 수 있습니다.
 
