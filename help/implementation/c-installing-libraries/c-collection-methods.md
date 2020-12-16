@@ -7,6 +7,9 @@ title: 컬렉션 클래스 메서드
 uuid: fd3163c6-981f-44b3-a7ba-6b4e85b0830d
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+workflow-type: tm+mt
+source-wordcount: '118'
+ht-degree: 1%
 
 ---
 
@@ -19,8 +22,8 @@ source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 * [createOrUpdate 컬렉션 메서드](#r_createorupdate_collection_method)
 * [buildCollectionMetaToken 컬렉션 메서드](#r_buildcollectionmetatoken_collection_method)
-* [buildChecksum Collection 메서드](#r_buildchecksum_collection_method)
-* [getCollectionContent Collection 메서드](#t_getcollectioncontent_collection_method)
+* [buildChecksum 컬렉션 메서드](#r_buildchecksum_collection_method)
+* [getCollectionContent 컬렉션 메서드](#t_getcollectioncontent_collection_method)
 * [getUrn 컬렉션 메서드](#r_geturn_collection_method)
 
 이러한 각 메서드는 다음 코드 유형에 사용할 수 있습니다.
@@ -28,6 +31,6 @@ source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 * Java
 * NodeJS
 * PHP
-* Python
+* 파이톤
 * 루비
 
