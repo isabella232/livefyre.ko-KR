@@ -1,23 +1,26 @@
 ---
-description: Livefyre는 4개의 주요 API를 제공하므로 입력 네트워크, 사이트 또는 컬렉션에 대한 50개의 최근 주요 컨텐츠 항목 또는 입력 컬렉션 맨 위에 있는 2개의 주요 컨텐츠를 검색할 수 있습니다.
-seo-description: Livefyre는 4개의 주요 API를 제공하므로 입력 네트워크, 사이트 또는 컬렉션에 대한 50개의 최근 주요 컨텐츠 항목 또는 입력 컬렉션 맨 위에 있는 2개의 주요 컨텐츠를 검색할 수 있습니다.
-seo-title: 주요 API 파섹
+description: Livefyre는 4개의 주요 API를 제공하므로 입력 네트워크, 사이트 또는 컬렉션에 대한 50개의 최근 주요 콘텐츠 항목이나 입력 컬렉션 맨 위에 있는 2개의 주요 콘텐츠 요소를 검색할 수 있습니다.
+seo-description: Livefyre는 4개의 주요 API를 제공하므로 입력 네트워크, 사이트 또는 컬렉션에 대한 50개의 최근 주요 콘텐츠 항목이나 입력 컬렉션 맨 위에 있는 2개의 주요 콘텐츠 요소를 검색할 수 있습니다.
+seo-title: 주요 API를 사용하여 주요 컨텐츠 취합
 solution: Experience Manager
-title: 주요 API 파섹
+title: 주요 API를 사용하여 주요 컨텐츠 취합
 uuid: e9c9ff26-37b6-4328-af85-aa550e7ffdfd
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+workflow-type: tm+mt
+source-wordcount: '243'
+ht-degree: 1%
 
 ---
 
 
-# 주요 API 파섹{#aggregated-featured-content-using-the-featured-apis}
+# 주요 API{#aggregated-featured-content-using-the-featured-apis}를 사용하여 주요 컨텐츠 집계됨
 
-Livefyre는 4개의 주요 API를 제공하므로 입력 네트워크, 사이트 또는 컬렉션에 대한 50개의 최근 주요 컨텐츠 항목 또는 입력 컬렉션 맨 위에 있는 2개의 주요 컨텐츠를 검색할 수 있습니다.
+Livefyre는 4개의 주요 API를 제공하므로 입력 네트워크, 사이트 또는 컬렉션에 대한 50개의 최근 주요 콘텐츠 항목이나 입력 컬렉션 맨 위에 있는 2개의 주요 콘텐츠 요소를 검색할 수 있습니다.
 
 ## 주요(네트워크) {#section_cgm_1nw_xz}
 
-입력 네트워크에 대한 가장 최근 50개의 주요 컨텐츠(및 해당 작성자)를 검색합니다. (페이징을 사용하여 최신 50개가 아닌 모든 컨텐츠를 반환합니다.)
+입력 네트워크에 대한 50개의 주요 컨텐츠(및 해당 작성자)를 검색합니다. (가장 최근 50개만이 아니라 모든 컨텐트를 반환하려면 페이징을 사용합니다.)
 
 **리소스**
 
@@ -151,9 +154,9 @@ GET https://{networkName}.bootstrap.fyre.co/bs3/v3.1/{network}/featured
 }
 ```
 
-## 주요(사이트) {#section_lq5_ymw_xz}
+## 특별(사이트) {#section_lq5_ymw_xz}
 
-입력 사이트에 대해 가장 최근 50개의 주요 컨텐츠(및 해당 작성자)를 반환합니다. (페이징을 사용하여 최신 50개가 아닌 모든 컨텐츠를 반환합니다.)
+입력 사이트에 대한 특집 컨텐트(및 해당 작성자)의 최근 50개를 반환합니다. (가장 최근 50개만이 아니라 모든 컨텐트를 반환하려면 페이징을 사용합니다.)
 
 **리소스**
 
@@ -253,9 +256,9 @@ GET https://{networkName}.bootstrap.fyre.co/bs3/v3.1/{network}/{siteId}/featured
 }
 ```
 
-## 주요(컬렉션) {#section_kgc_xmw_xz}
+## 특별(컬렉션) {#section_kgc_xmw_xz}
 
-입력 컬렉션에 대한 50개의 주요 콘텐츠(및 해당 작성자)를 반환합니다. (페이징을 사용하여 최신 50개가 아닌 모든 컨텐츠를 반환합니다.)
+입력 컬렉션에 대한 50개의 주요 콘텐츠(및 해당 작성자)를 반환합니다. (가장 최근 50개만이 아니라 모든 컨텐트를 반환하려면 페이징을 사용합니다.)
 
 **리소스**
 
@@ -357,7 +360,7 @@ GET https://{networkName}.bootstrap.fyre.co/bs3/v3.1/{network}/{siteId}/{b64arti
 
 ## 주요(헤드) {#section_n4b_lmw_xz}
 
-입력 컬렉션에 대한 가장 최근 두 개의 주요 컨텐츠를 반환합니다.
+입력 컬렉션에 대한 최근 2개의 주요 콘텐츠 조각을 반환합니다.
 
 **리소스**
 
