@@ -1,25 +1,28 @@
 ---
 description: 대화 앱(예를 들어 댓글, 채팅, 라이브 블로그, 검토 및 방주)에 JavaScript를 바인딩할 수 있는 이벤트.
 seo-description: 대화 앱(예를 들어 댓글, 채팅, 라이브 블로그, 검토 및 방주)에 JavaScript를 바인딩할 수 있는 이벤트.
-seo-title: JavaScript 이벤트 정의 및 예제
+seo-title: JavaScript 이벤트 정의 및 예
 solution: Experience Manager
-title: JavaScript 이벤트 정의 및 예제
-uuid: 61da2e-8fcd-482d-93df-c946f0475277
+title: JavaScript 이벤트 정의 및 예
+uuid: 61da2e2e-8fcd-482d-93df-c946f0475277
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+workflow-type: tm+mt
+source-wordcount: '401'
+ht-degree: 15%
 
 ---
 
 
-# JavaScript 이벤트 정의 및 예제{#javascript-events-definitions-and-examples}
+# JavaScript 이벤트 정의 및 예{#javascript-events-definitions-and-examples}
 
 대화 앱(예를 들어 댓글, 채팅, 라이브 블로그, 검토 및 방주)에 JavaScript를 바인딩할 수 있는 이벤트.
 
 Livefyre는 Livefyre 앱의 사용자 활동을 추적하는 JavaScript 이벤트를 제공합니다. 예를 들어 사용자가 Twitter 또는 Facebook에 컨텐츠를 좋아하거나 공유할 때 또는 새 컨텐츠가 게시될 때 페이지를 업데이트할 수 있습니다.
 
-또한 Livefyre를 사용하면 타사 분석 통합(Adobe Analytics JS, Google Analytics, 다이내믹 태그 관리 등)에 이벤트를 추가하여 앱 이벤트를 추적할 수 있습니다. 자세한 내용은 타사 통합 관리자와 협력하여 올바른 이벤트를 제공합니다.
+또한 Livefyre를 사용하면 타사 분석 통합(Adobe Analytics JS, Google Analytics, 다이내믹 태그 관리 등)에 이벤트를 추가하여 앱 이벤트를 추적할 수 있습니다. 자세한 내용은 제3자 통합 관리자와 함께 올바른 이벤트를 제공합니다.
 
-이러한 이벤트에 바인딩하려면 페이지에서 앱을 인스턴스화할 때 다음 코드를 페이지에 추가하십시오. 이벤트 이름 대체 `{eventName}`:
+이러한 이벤트에 바인딩하려면 페이지에 앱을 인스턴스화할 때 다음 코드를 페이지에 추가하십시오. 이벤트 이름을 `{eventName}`으로 바꿉니다.
 
 ```
 Livefyre.require(['fyre.conv#3'], function(Conv) { 
@@ -33,15 +36,15 @@ Livefyre.require(['fyre.conv#3'], function(Conv) {
 
 >[!NOTE]
 >
->데이터 개체는 모든 이벤트 핸들러에 대해 제공됩니다. 데이터 개체의 예는 각 이벤트를 따릅니다.
+>데이터 객체는 모든 이벤트 핸들러에 대해 제공됩니다. 각 이벤트 다음에 나오는 데이터 개체의 예입니다.
 
-## commentPosted {#section_qfr_51p_xz}
+## commentPosed {#section_qfr_51p_xz}
 
 사용자가 댓글을 게시했습니다.
 
 * null의 상위는 새 주석입니다.
-* [없음]의 상위 항목은 편집된 주석입니다.
-* 상위의 수는 응답의 상위 ID입니다.
+* 없음의 상위는 편집된 주석입니다.
+* 상위 숫자는 응답의 상위 ID입니다.
 
 ```
 data = { 
@@ -56,7 +59,7 @@ data = {
 } 
 ```
 
-## commentFlagged {#section_szy_s1p_xz}
+## comment플래그 지정됨 {#section_szy_s1p_xz}
 
 사용자가 댓글에 플래그를 지정했습니다.
 
@@ -82,7 +85,7 @@ data = {
 
 ## commentShared {#section_nqb_31p_xz}
 
-사용자가 스트림에서 댓글을 공유했습니다. (이 이벤트는 사용자가 주석 편집기에서 공유할 때 발생하지 않습니다.) 이 이벤트는 [공유] 단추를 클릭하면 트리거됩니다.
+사용자가 스트림에서 댓글을 공유했습니다. (사용자가 주석 편집기에서 공유할 때는 이 이벤트가 발생하지 않습니다.) 이 이벤트는 [공유] 단추를 클릭하면 트리거됩니다.
 
 ```
 data = { 
@@ -94,7 +97,7 @@ data = {
 
 ## commentCountUpdated {#section_qdq_f1p_xz}
 
-이 대화에서 표시되는 주석의 총 수가 변경되었습니다(증가하거나 감소됨).
+이 대화에 표시되는 총 댓글 수가 변경되었습니다(증가하거나 감소됨).
 
 ```
 data: 34 // The total number of visible comments in the conversation (integer). 
@@ -120,7 +123,7 @@ data = {
 
 데이터가 정의되지 않았습니다.
 
-## socialEmotion {#section_a1w_tz4_xz}
+## socialMention {#section_a1w_tz4_xz}
 
 사용자가 댓글에 @mention을 포함했습니다. 다음 배열을 반환합니다.
 
@@ -134,7 +137,7 @@ data = {
 } 
 ```
 
-## commentFeatures
+## commentFeatured
 
 중재자 사용자가 댓글을 달았습니다. 다음 배열을 반환합니다.
 
@@ -169,9 +172,9 @@ data = {
 }
 ```
 
-## userUnfollowed {#section_wm1_gz4_xz}
+## userUnfollow {#section_wm1_gz4_xz}
 
-사용자가 [언팔로우] **단추를** 클릭하면 true를 반환하고, 콘텐츠가 스트림에 게시되면 false를 반환합니다.
+사용자가 **Unfollow** 단추를 클릭하면 true를 반환하고 내용이 스트림에 게시되면 false를 반환합니다.
 
 ```
 data = { 
