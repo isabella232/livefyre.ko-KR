@@ -18,7 +18,7 @@ ht-degree: 4%
 
 ## 이벤트 개체 정의 {#section_dh1_yhn_pdb}
 
-다음 코드는 페이지의 analytics 처리기에서 받은 이벤트 개체의 필드를 정의합니다.
+다음 코드는 페이지의 분석 핸들러가 수신한 이벤트 객체의 필드를 정의합니다.
 
 ```
 {
@@ -47,40 +47,40 @@ ht-degree: 4%
 
 ## Livefyre 분석 이벤트 및 eVar {#section_u3k_tft_mcb}
 
-보고서 세트 관리자를 사용하여 보고서에서 사용할 사용자 지정 이벤트에 매핑하는 다음의 Livefyre 이벤트입니다. Adobe Analytics의 보고서 세트에 대한 자세한 내용은 [보고서 세트 관리자를 참조하십시오](https://docs.adobe.com/content/help/en/analytics/admin/manage-report-suites/report-suites-admin.html). 보고서 세트 관리자에서 Livefyre 이벤트를 사용하는 방법에 대한 자세한 내용은 을 참조하십시오 [](../livefyre-analytics/c-use-livefyre-with-adobe-analytics.md#section_iks_kgd_4cb).
+보고서 세트 관리자를 사용하는 보고서에서 사용할 사용자 지정 이벤트에 매핑하는 다음 Livefyre 이벤트입니다. Adobe Analytics의 보고서 세트에 대한 자세한 내용은 [보고서 세트 관리자](https://docs.adobe.com/content/help/en/analytics/admin/manage-report-suites/report-suites-admin.html)를 참조하십시오. 보고서 세트 관리자에서 Livefyre 이벤트를 사용하는 방법에 대한 자세한 내용은 [](../livefyre-analytics/c-use-livefyre-with-adobe-analytics.md#section_iks_kgd_4cb)을(를) 참조하십시오.
 
 ## Livefyre 분석 이벤트
 
 | 이벤트 | 설명 |
 |---|---|
 | 초기화 | 하나 이상의 Livefyre 앱이 포함된 페이지를 로드할 때 |
-| 로드 | 사용자 보기에 상관없이 페이지에 앱을 로드할 때마다 |
-| 보기 | 앱이 뷰포트에 처음 입장한 경우. |
-| 게시물 | 사용자가 언제든지 다음 항목을 포함한 댓글이나 컨텐츠를 게시합니다.최상위 게시물, 답글, 검토, 미디어 담벼락 업로드 |
+| 로드 | 사용자 보기에 상관없이 앱에서 페이지를 로드할 때마다 |
+| 보기 | 앱이 뷰포트에 처음 입력했을 때. |
+| 게시물 | 사용자가 언제든지 ex를 비롯한 댓글 또는 컨텐츠 일부를 게시할 수 있습니다.최상위 게시물, 답글, 검토, 미디어 담벼락 업로드 |
 | 게시됨 | 게시물이 성공했을 때 |
-| Twitter_Reply | 사용자가 Twitter에서 회신할 때마다 |
+| Twitter_Reply | Twitter에서 사용자가 응답할 때마다 |
 | Twitter_Like | 컨텐츠가 공유된 위치:리트윗 |
-| Livefyre_Like | 앱에서 언제든지 livefyre와 같은 기능을 사용할 수 있습니다. |
+| Livefyre_Like | livefyre와 유사한 기능이 앱에서 언제든지 사용 |
 | Livefyre_Unlike | 사용자가 언제든지 |
-| ShareOnPost | 사용자가 컨텐츠를 게시하고 게시물에서 공유 기능을 사용할 때 |
-| ShareButtonClick | 사용자가 언제든지 댓글에 있는 공유 단추를 클릭하면 |
+| ShareOnPost | 사용자가 컨텐츠를 게시하고 게시물에서 공유 기능을 사용할 때마다 |
+| ShareButtonClick | 사용자가 언제든지 댓글에 있는 공유 버튼을 클릭하면 |
 | ShareTwitter | Twitter에 공유를 클릭할 때 |
 | ShareFacebook | Facebook에 공유를 클릭할 때 |
-| ShareURL | URL로 공유 텍스트 영역을 선택/복사할 때. |
+| ShareURL | URL에 공유 텍스트 영역이 선택/복사되면 |
 | 답글 확장 | 사용자가 + 또는 확장 링크를 클릭하여 최상위 게시물의 모든 답글을 볼 때 |
 | 답글 축소 | 사용자가 - 또는 축소 링크를 클릭하여 최상위 게시물의 모든 답글을 볼 때 |
-| 플래그Click | 사용자가 언제든지 플래그 지정 양식을 엽니다. |
-| FlagSpam | 사용자가 컨텐츠에 스팸으로 플래그를 지정하는 경우 |
-| 플래그 반대 | 사용자가 내용에 동의하지 않으면 |
-| FlagOffensive | 사용자가 컨텐츠를 모욕적인 것으로 플래그를 지정하면 |
-| FlagOffTopic | 사용자가 컨텐츠를 주제가 아닌 항목으로 플래그를 지정한 경우 |
-| 플래그 취소 | 플래그를 제출할 때 사용자가 X를 클릭하거나 &quot;취소&quot;를 클릭할 때마다 |
-| FollowCollection | 언제든지 대화 후(&quot;관심 있는 사람&quot;이 검토) |
-| UnfollowCollection | 대화가 미준수 |
-| 요청자세히 | 사용자가 앱에 더 많은 콘텐츠를 로드할 때마다(빠른 속도 필요) |
-| ModalView | 사용자가 언제든지 클릭하여 모달에서 컨텐츠 보기 |
+| FlagClick | 사용자가 언제든지 플래그 양식 |
+| FlagSpam | 사용자가 컨텐트에 스팸으로 플래그를 지정하는 경우 |
+| 플래그 반대 | 사용자가 내용에 동의하지 않는다고 플래그를 지정하는 경우 |
+| FlagOffensive | 사용자가 컨텐츠를 불쾌하게 플래그를 지정할 때 |
+| FlagOffTopic | 사용자가 컨텐츠를 다른 항목으로 플래그를 지정하는 경우 |
+| 플래그 취소 | 플래그를 제출할 때 언제든지 X를 클릭하거나 &quot;취소&quot;를 클릭할 수 있습니다. |
+| FollowCollection | 언제든지 대화 후(&quot;관심 있음&quot; 검토) |
+| UnfollowCollection | 대화가 미행 상태일 때 |
+| 요청 자세히 | 사용자가 앱에 더 많은 콘텐츠를 로드할 때마다(빠른 속도를 위해 필요) |
+| ModalView | 사용자가 모달에서 컨텐츠를 보기 위해 클릭하면 언제든지 |
 | TwitterRetweetClick | 컨텐츠가 공유된 위치:리트윗 |
-| PostButtonClick | 사용자가 게시물을 클릭할 때(&quot;무슨 일이십니까?&quot;) 버튼 |
+| PostButtonClick | 사용자가 게시물을 클릭하면(&quot;무슨 생각을 하십니까?&quot;) 버튼 |
 | 로그인 | 사용자가 로그인한 시간 |
 | 로그아웃 | 사용자가 로그아웃할 때마다 |
 
@@ -98,9 +98,9 @@ ht-degree: 4%
 
 ## 추가 정보 {#section_b3d_4yl_pdb}
 
-이 페이지에서 설명한 항목에 대한 자세한 내용은 다음을 참조하십시오.
+이 페이지에서 설명하는 항목에 대한 자세한 내용은 다음을 참조하십시오.
 
-* [보고서 세트](https://docs.adobe.com/content/help/en/analytics/admin/manage-report-suites/report-suites-admin.html)[관리자 DTM](https://docs.adobe.com/content/help/en/livefyre/using/apps/filmstrip/c-filmstrip-app.html)
+* [보고서 세트 ](https://docs.adobe.com/content/help/en/analytics/admin/manage-report-suites/report-suites-admin.html)[관리자DTM](https://docs.adobe.com/content/help/en/livefyre/using/apps/filmstrip/c-filmstrip-app.html)
 
 * [규칙](https://docs.adobe.com/content/help/en/dtm/using/resources/rules/create-rules.html)
 * [Livefyre.js](/help/implementation/c-livefyre.js.md)
