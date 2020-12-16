@@ -1,12 +1,15 @@
 ---
 description: Livefyre 사이드노트에 대한 텍스트 문자열 사용자 정의
 seo-description: Livefyre 사이드노트에 대한 텍스트 문자열 사용자 정의
-seo-title: 사이드노트 텍스트 문자열
+seo-title: 텍스트 문자열 사이드노트
 solution: Experience Manager
-title: 사이드노트 텍스트 문자열
+title: 텍스트 문자열 사이드노트
 uuid: a3735237-e55d-4bc0-b88d-8a323980ee09
 translation-type: tm+mt
 source-git-commit: 0c5420fcb3ba2e12375e92d4574d0a6dff310869
+workflow-type: tm+mt
+source-wordcount: '501'
+ht-degree: 12%
 
 ---
 
@@ -15,9 +18,16 @@ source-git-commit: 0c5420fcb3ba2e12375e92d4574d0a6dff310869
 
 Livefyre 사이드노트에 대한 텍스트 문자열 사용자 정의
 
-이 페이지에서는 Sidenotes 앱에서 사용자 지정에 사용할 수 있는 모든 문자열을 나열하고 설명합니다. 핵심 Livefyre 앱에 사용할 수 있는 문자열에 대한 자세한 내용은 문자열 사용자 지정을 참조하십시오.
+이 페이지에서는 Sidecotes 앱의 사용자 지정에 사용할 수 있는 모든 문자열을 나열하고 설명합니다. 핵심 Livefyre 앱에 사용할 수 있는 문자열에 대한 자세한 내용은 문자열 사용자 지정을 참조하십시오.
 
-구현AuthStream InfoAuthor/컨텐츠 정보사용자 작업 게시물 기능중재자 인터페이스오류
+구현
+인증
+스트림 정보
+작성자/컨텐츠 정보
+사용자 작업
+게시 함수
+중재자 인터페이스
+오류
 
 ## 구현 {#section_wp2_ql4_xz}
 
@@ -39,7 +49,7 @@ networkConfig["strings"] = customStrings; fyre.conv.load(
 
 ## 인증 {#section_pqf_3l4_xz}
 
-인증 프로세스와 인증된 사용자 메뉴에서 사용할 수 있는 문자열.
+인증 프로세스 및 인증된 사용자 메뉴에서 사용할 수 있는 문자열.
 
 | 요소 | 키 | 기본 텍스트 |
 |---|---|---|
@@ -52,31 +62,31 @@ networkConfig["strings"] = customStrings; fyre.conv.load(
 
 ## 스트림 정보 {#section_wpy_gl4_xz}
 
-콘텐츠 스트림 정보 및 표시에 사용할 수 있는 문자열
+콘텐츠 스트림 정보 및 표시에 사용할 수 있는 문자열.
 
 | 요소 | 키 | 기본 텍스트 |
 |---|---|---|
-| 정보 메뉴 옵션 | menuInfoCopyright | (C) Livefyre, Inc. 2014 |
+| 정보 메뉴 옵션 | menuInfoCopyright | © Livefyre, Inc. 2014 |
 |  | menuInfoHelp | 도움말 |
-|  | menuInfoLivefyreLink | Livefyre.com 방문 |
+|  | menuInfoLivefyreLink | Livefyre.com으로 이동 |
 
-## 작성자/컨텐츠 정보 {#section_dhb_gl4_xz}
+## 작성자 / 콘텐트 정보 {#section_dhb_gl4_xz}
 
 작성자 및 개별 컨텐츠 정보에 사용할 수 있는 검색입니다.
 
 | 요소 | 키 | 기본 텍스트 |
 |---|---|---|
-|  | commentAdvertiserTag | Mod |
+|  | commentConsorizerTag | Mod |
 |  | commentPendingTag | 대기 중 |
 |  | commentReadMoreLink | 자세히 보기 |
 |  | commentReplyLink | 답글 {number}개 보기 |
-|  | commentReplyLinkSing | 회신 보기 |
+|  | commentReplyLinkSing | 회신 참조 |
 |  | commentVoteCount | 투표 |
-|  | comment 파섹 | 개의 투표 |
+|  | commentVoteCountSing | 개의 투표 |
 |  | datetimeMinutePrefix | m |
 |  | datetimeMonths | 배열. 기본값 =`[‘January’, ‘February’, ‘March’, ‘April’, ‘May’, ‘June’, ‘July’, ‘August’, ‘September’, ‘October’, ‘November’, ‘December’]` |
-|  | 질문 설명 | 이제 문장, 단락, 이미지 및 따옴표에 직접 주석을 읽고 쓸 수 있습니다.<br><br><span class="&rdquo;lf-highlight-text&rdquo;">텍스트를</span> 강조 표시하고 <span class="&rdquo;fycon-write&rdquo;"></span> 아이콘을 클릭하거나 각 단락 끝에 있는 <span class="&rdquo;fycon-action-view&rdquo;"></span> 아이콘을 클릭합니다. |
-|  | questionMockText | "친숙한" 것은 "친숙하다" 라는 이유로 잘 알려져 있지 않다. |
+|  | questionExpliction | 이제 문장, 단락, 이미지 및 인용문에 직접 주석을 읽고 쓸 수 있습니다.<br><br><span class="&rdquo;lf-highlight-text&rdquo;">텍스트</span> 를 강조 표시하고  <span class="&rdquo;fycon-write&rdquo;"></span> 아이콘을 클릭하거나 각 단락 끝 <span class="&rdquo;fycon-action-view&rdquo;"></span> 에 있는 아이콘을 클릭합니다. |
+|  | questionMockText | &quot;친숙한&quot; 것은 &quot;친숙하다&quot; 라는 이유로 잘 알려져 있지 않다. |
 |  | questionTitle | 사이드노트란? |
 
 ## 사용자 작업 {#section_qxd_fl4_xz}
@@ -90,17 +100,17 @@ networkConfig["strings"] = customStrings; fyre.conv.load(
 | 공유 메뉴 옵션 | menuShareOptionFacebook | Facebook |
 |  | menuShareOptionTwitter | Twitter |
 |  | menuShareTitle | 공유 |
-| 플래그 메뉴 옵션 | menuFlagOptionDissuse | 반대 |
+| 플래그 메뉴 옵션 | menuFlagOptionUnagree | 반대 |
 |  | menuFlagOptionOffensive | 공격 |
 |  | menuFlagOptionOffTopic | 주제 해제 |
 |  | menuFlagOptionSpam | 스팸 |
-|  | menuFlagTitle | 플래그 지정... |
-|  | facebookShareCaption | "{title}"의 사이드노트 |
+|  | menuFlagTitle | 플래그... |
+|  | facebookShareCaption | &quot;{title}&quot;의 사이드노트 |
 | 모바일 사용자 옵션 | sliderCommentTally | / |
 |  | sliderInviteRead | 읽음 |
 |  | sliderInviteWrite | 쓰기 |
 |  | sliderLoading | 로드 중… |
-|  | sliderWriteText | 어떻게 생각해? 눌러서 씁니다. |
+|  | sliderWriteText | 어떻게 생각해? 을 눌러 작성합니다. |
 
 ## 게시물 함수 {#section_xzf_2l4_xz}
 
@@ -117,7 +127,7 @@ networkConfig["strings"] = customStrings; fyre.conv.load(
 |  | editorPostBtnMobile | 게시물 |
 |  | editorPublishing | 게시 중… |
 |  | editorReplyBtn | 회신 게시 |
-|  | editorReplyTitle | 답글 쓰기 |
+|  | editorReplyTitle | 회신 쓰기 |
 |  | editorTitle | 사이드노트 쓰기 |
 |  | emptyImageBlockTxt | 어떻게 생각해? |
 |  | emptyTextBlockTxt | + |
@@ -131,7 +141,7 @@ networkConfig["strings"] = customStrings; fyre.conv.load(
 |  | menuEtcOptionEdit | 편집 |
 |  | menuEtcOptionFlag | 플래그 |
 |  | menuEtcOptionShare | 공유 |
-|  | menuEtcPostedAt | {date}에 게시됨 |
+|  | menuEtcPostedAt | {date}에 게시 |
 |  | menuEtcTitle | 자세히 |
 
 ## 중재자 인터페이스 {#section_o5f_dl4_xz}
@@ -142,16 +152,16 @@ networkConfig["strings"] = customStrings; fyre.conv.load(
 |---|---|---|
 | 자세히 메뉴의 확인 메시지 | notificationApproved | 승인됨 |
 |  | notificationDeleted | 삭제됨 |
-|  | notificationFlagged | 플래그 지정됨 |
+|  | notification플래그 지정됨 | 플래그 지정됨 |
 
 ## 오류 {#section_gtk_cl4_xz}
 
-일반 오류 메시지에 사용할 수 있는 문자열.
+일반 오류 메시지에 사용할 수 있는 문자열입니다.
 
 | 요소 | 키 | 기본 텍스트 |
 |---|---|---|
-|  | errorConnection | 아.. 당신은 사이가 좋지 않은 것 같아요 |
-|  | errorDuplicate | 저희도 마음에 드는데 두 번 게시할 수는 없습니다 |
+|  | errorConnection | 아.. 당신은 사이가 좋지 않은 것 같아요. |
+|  | errorDuplicate | 당신의 메모도 마음에 드는데, 두 번 게시할 수는 없습니다. |
 |  | errorGeneral | 오류가 발생했습니다. 다시 시도하십시오. |
-|  | errorServer | 서버에 문제가 발생했습니다. 다시 시도하시겠습니까? |
+|  | errorServer | 서버에 문제가 발생했습니다. 다시 한번 해 보시겠습니까? |
 
