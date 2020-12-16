@@ -7,6 +7,9 @@ title: 기타 기능
 uuid: 76ac2102-622d-48d3-8b1d-6ca6c90c806a
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+workflow-type: tm+mt
+source-wordcount: '77'
+ht-degree: 0%
 
 ---
 
@@ -17,7 +20,7 @@ Livefyre는 사이트 방문자의 데이터를 추적하고 소셜 미디어 �
 
 ## 스트림 컨텐츠 트렌드 {#section_w5y_kx4_h1b}
 
-최종 사용자는 사이트 내에서 가장 활성화된 컬렉션의 목록을 볼 수 있습니다.
+최종 사용자는 사이트 내에서 가장 활성화된 컬렉션 목록을 볼 수 있습니다.
 
 이 기능을 사용하는 앱:
 
