@@ -7,6 +7,9 @@ title: Livefyre 로고 이동
 uuid: 807304ae-6070-4505-87db-169a925f714c
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+workflow-type: tm+mt
+source-wordcount: '81'
+ht-degree: 0%
 
 ---
 
@@ -17,7 +20,7 @@ source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 Livefyre와의 계약에 따라 허용되는 경우 Livefyre 로고를 콘텐츠 스트림 맨 위에서 맨 아래로 이동할 수 있습니다.
 
-예를 들어 다음 HTML을 Livefyre 앱이 포함된 요소 바로 다음에 페이지에 추가합니다.
+예를 들어 Livefyre 앱이 포함된 요소 바로 다음에 있는 다음 HTML을 페이지에 추가합니다.
 
 ```
 <div id="powered_by_livefyre_new"><a href="https://livefyre.com" target="_blank">Powered by Livefyre</a></div>
