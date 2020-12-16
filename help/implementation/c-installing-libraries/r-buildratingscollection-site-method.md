@@ -1,24 +1,27 @@
 ---
-description: 등급 유형으로 인스턴스화된 Collection 개체를 반환합니다. 컬렉션 개체에서 create_or_update()를 실행하여 빌드 프로세스를 완료합니다.
-seo-description: 등급 유형으로 인스턴스화된 Collection 개체를 반환합니다. 컬렉션 개체에서 create_or_update()를 실행하여 빌드 프로세스를 완료합니다.
+description: 등급 유형으로 인스턴스화된 컬렉션 개체를 반환합니다. 컬렉션 개체에서 create_or_update()를 실행하여 빌드 프로세스를 완료합니다.
+seo-description: 등급 유형으로 인스턴스화된 컬렉션 개체를 반환합니다. 컬렉션 개체에서 create_or_update()를 실행하여 빌드 프로세스를 완료합니다.
 seo-title: buildRatingsCollection 사이트 메서드
 title: buildRatingsCollection 사이트 메서드
 uuid: 5eea2ba3-48e1-4cd2-aa73-ea81788af1df
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+workflow-type: tm+mt
+source-wordcount: '119'
+ht-degree: 6%
 
 ---
 
 
 # buildRatingsCollection 사이트 메서드{#buildratingscollection-site-method}
 
-등급 유형으로 인스턴스화된 Collection 개체를 반환합니다. 컬렉션 개체에서 create_or_update()를 실행하여 빌드 프로세스를 완료합니다.
+등급 유형으로 인스턴스화된 컬렉션 개체를 반환합니다. 컬렉션 개체에서 create_or_update()를 실행하여 빌드 프로세스를 완료합니다.
 
 | 변수 | 유형 | 설명 |
 |--- |--- |--- |
 | title | 문자열 | 컬렉션의 제목입니다. |
-| articleId | 문자열 | 사이트 내 컬렉션을 식별하기 위해 선택한 고유 아티클 ID. |
-| url | 문자열 | 이 컬렉션에 대한 기본 절대 URL입니다. |
+| articleId | 문자열 | 사이트 내 컬렉션을 식별하기 위해 선택한 고유한 아티클 ID. |
+| url | 문자열 | 이 컬렉션에 대한 기본 절대 URL. |
 
 ## Java 예 {#section_nyl_ycs_rz}
 
@@ -44,7 +47,7 @@ $collection = site->buildRatingsCollection(title, articleId, url);
 collection = site.build_ratings_collection(title, articleId, url) 
 ```
 
-## Ruby 예 {#section_enh_gds_rz}
+## 루비의 예 {#section_enh_gds_rz}
 
 ```
 collection = site.build_ratings_collection(title, articleId, url) 
