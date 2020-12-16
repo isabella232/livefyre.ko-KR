@@ -1,33 +1,36 @@
 ---
-description: 참조 트래픽에서 페이지로 돌아가는 클릭 수를 추적합니다.
-seo-description: 참조 트래픽에서 페이지로 돌아가는 클릭 수를 추적합니다.
+description: 참조 트래픽에서 페이지로의 클릭을 추적합니다.
+seo-description: 참조 트래픽에서 페이지로의 클릭을 추적합니다.
 seo-title: 참조 추적
 solution: Experience Manager
 title: 참조 추적
 uuid: 5206cc16-9671-4b3d-a013-be1a3e8c029d
 translation-type: tm+mt
 source-git-commit: bd989c97ae5cf06a5ac3deec215f865b0fe95d16
+workflow-type: tm+mt
+source-wordcount: '238'
+ht-degree: 2%
 
 ---
 
 
 # 참조 추적{#referral-tracking}
 
-참조 트래픽에서 페이지로 돌아가는 클릭 수를 추적합니다.
+참조 트래픽에서 페이지로의 클릭을 추적합니다.
 
-Livefyre는 댓글이 소셜 네트워크에 게시되거나 공유될 때 URL에 참조 변수를 추가하고 Livefyre 이메일에 포함된 링크도 추가합니다. 이 변수를 사용하여 Livefyre 앱에서 소셜 또는 소유한 속성에 대한 참조 트래픽을 추적할 수 있습니다.
+소셜 네트워크에 댓글이 게시되거나 공유될 때, 그리고 Livefyre 이메일에 포함된 링크용 참조 변수를 URL에 추가합니다. 이 변수를 사용하여 Livefyre 앱에서 소셜 또는 소유한 속성에 대한 참조 트래픽을 추적할 수 있습니다.
 
 Livefyre 앱을 사용하면 참조 트래픽으로 인한 데이터 스트림을 추적할 수 있으므로 사이트의 트래픽을 분석할 수 있습니다.
 
 ## Livefyre 참조 트래픽 추적 {#section_nsy_qp4_xz}
 
-Livefyre 소셜 네트워크 및 이메일의 참조 트래픽은 페이지의 URL에서 쿼리 문자열 매개 변수를 검사하고 페이지에 코드를 구현하여 분석 공급자를 통해 추적할 수 있습니다. Livefyre는 댓글이 소셜 네트워크에 게시되거나 공유될 때 URL에 대한 참조 링크를 추가하고 Livefyre 이메일에 포함된 링크도 추가합니다.
+소셜 네트워크의 Livefyre 참조 트래픽 및 이메일은 페이지의 URL에서 쿼리 문자열 매개 변수를 검사하고 페이지에 코드를 구현하여 분석 공급자를 통해 이것을 추적함으로써 추적할 수 있습니다. 댓글이 소셜 네트워크에 게시되거나 공유될 때, 그리고 Livefyre 이메일에 포함된 링크용 URL에 대한 참조 링크가 추가됩니다.
 
 ## 구현 예 {#section_xvs_x44_xz}
 
-트래픽이 StreamHub 기반 알림에서 온 경우, 이메일, facebook, twitter, linkedin 또는 permalink 값을 갖는 hubRefSrc 쿼리 문자열 매개 변수가 있게 됩니다. hubRefSrc 매개 변수 이름은 Livefyre 배달 팀이 네트워크 수준에서 구성할 수 있습니다.
+트래픽이 StreamHub 기반 알림에서 온 경우 이메일, facebook, twitter, linkedin 또는 permalink 값을 갖는 hubRefSrc 쿼리 문자열 매개 변수가 있습니다. hubRefSrc 매개 변수 이름은 Livefyre 배달 팀이 네트워크 수준에서 구성할 수 있습니다.
 
-분석 플랫폼과 통합하려면 페이지가 로드될 때 hubRefSrc를 찾고 트래픽이 있을 경우 이를 기록해야 합니다.
+분석 플랫폼과 통합하려면 페이지가 로드될 때 hubRefSrc를 검색하고 트래픽이 있을 경우 이를 기록해야 합니다.
 
 예:
 
