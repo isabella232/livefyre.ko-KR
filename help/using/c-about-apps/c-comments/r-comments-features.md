@@ -7,6 +7,9 @@ title: 주석 기능
 uuid: ec00fcc9-1b5e-4d0b-b1da-95f9f26b4cc1
 translation-type: tm+mt
 source-git-commit: 09011bac06f4a1c39836455f9d16654952184962
+workflow-type: tm+mt
+source-wordcount: '122'
+ht-degree: 7%
 
 ---
 
@@ -22,7 +25,7 @@ source-git-commit: 09011bac06f4a1c39836455f9d16654952184962
 * [사용자 정의 단추](/help/using/c-features-livefyre/c-enagement-features.md#section_jdv_vcm_d1b)
 * [날짜 타임스탬프](/help/using/c-features-livefyre/c-styling-features/c-date-and-timestamp.md)
 * [사용자 지정 HTML](/help/using/c-features-livefyre/c-custom-html/c-custom-html.md#c_custom_html)
-* [사용자 지정 텍스트 문자열](/help/using/c-features-livefyre/c-custom-text-strings.md#c_custom_text_strings)
+* [사용자 정의 텍스트 문자열](/help/using/c-features-livefyre/c-custom-text-strings.md#c_custom_text_strings)
 * [날짜 및 타임스탬프](/help/using/c-features-livefyre/c-styling-features/c-date-and-timestamp.md#c_date_and_timestamp)
 * [이메일 알림](/help/using/c-features-livefyre/c-notifications-features/c-email-notifications.md#c_email_notifications)
 * [Embedly 통합](/help/using/c-features-livefyre/c-content-collection-tags/c-embedly-integration.md#c_embedly_integration)
@@ -37,20 +40,20 @@ source-git-commit: 09011bac06f4a1c39836455f9d16654952184962
 * [미디어 확장](/help/using/c-features-livefyre/c-enagement-features.md#section_pmq_ycm_d1b)
 * [인라인 중재](/help/using/c-features-livefyre/c-about-moderation/c-moderate-inline.md#c_moderate_inline)
 * [ModQ](/help/using/c-features-livefyre/c-about-moderation/c-modq.md#c_modq)
-* [큐 댓글](/help/using/c-features-livefyre/c-content-behavior-features/c-content-behavior-features.md#section_p21_bbm_d1b)
+* [큐 주석](/help/using/c-features-livefyre/c-content-behavior-features/c-content-behavior-features.md#section_p21_bbm_d1b)
 * [참조 추적](/help/using/c-features-livefyre/c-referral-tracking.md#c_referral_tracking)
 * [Permalinks](/help/using/c-features-livefyre/c-content-collection-tags/c-permalinks.md#c_permalinks)
 * [페이지 매김](/help/using/c-features-livefyre/c-content-behavior-features/c-content-behavior-features.md#section_mb5_lzl_d1b)
 * [사진 업로드](/help/using/c-features-livefyre/c-content-behavior-features/c-photo-upload.md#c_photo_upload)
-* [안전](/help/using/c-features-livefyre/c-about-moderation/c-moderation.md#c_moderation)
+* [SAFE](/help/using/c-features-livefyre/c-about-moderation/c-moderation.md#c_moderation)
 * [소셜 공유](/help/using/c-features-livefyre/c-social-sharing/c-social-sharing.md#c_social_sharing)
-* [실시간 스트리밍](/help/using/c-features-livefyre/c-content-behavior-features/c-content-behavior-features.md#section_emd_syl_d1b)
+* [스트리밍 실시간](/help/using/c-features-livefyre/c-content-behavior-features/c-content-behavior-features.md#section_emd_syl_d1b)
 * [스타일 지정 기능](/help/using/c-features-livefyre/c-styling-features/c-styling-features.md#c_styling_features)
 * [텍스트 업로드](/help/using/c-features-livefyre/c-on-site-contribution-features.md#section_pwy_m2s_d1b)
 * [주석 스로틀](/help/using/c-features-livefyre/c-content-behavior-features/c-content-behavior-features.md#section_d5c_2bm_d1b)
-* [상위 댓글](/help/using/c-features-livefyre/c-sort-features-composite/c-top-comments.md#c_top_comments)
+* [상위 주석](/help/using/c-features-livefyre/c-sort-features-composite/c-top-comments.md#c_top_comments)
 * [번역 세트](/help/using/c-settings-other/c-translation-sets/c-translation-sets.md#c_translation_sets)
-* [Twitter 동작 단추](/help/using/c-features-livefyre/c-enagement-features.md#section_uzm_ldm_d1b)
+* [Twitter 작업 단추](/help/using/c-features-livefyre/c-enagement-features.md#section_uzm_ldm_d1b)
 * [사용자 배지](/help/using/c-features-livefyre/c-styling-features/c-user-badges.md#c_user_badges)
 * [사용자 게시물](/help/using/c-features-livefyre/c-content-behavior-features/c-user-posts.md#c_user_posts)
 
