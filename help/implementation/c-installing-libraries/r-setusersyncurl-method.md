@@ -7,6 +7,9 @@ title: setUserSyncUrl 네트워크 메서드
 uuid: cd067e90-a2da-4e3d-8e60-7eabfd86fc7f
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+workflow-type: tm+mt
+source-wordcount: '101'
+ht-degree: 3%
 
 ---
 
@@ -17,7 +20,7 @@ Livefyre에 네트워크의 사용자 동기화 URL을 제공된 URL로 업데�
 
 | 변수 | 유형 | 설명 |
 |--- |--- |--- |
-| urlTemplate | 문자열 | 사용자 ID를 동기화하기 위해 Livefyre에 등록할 URL입니다. "`{id}`"가 제공된 URL 문자열의 일부가 되어야 합니다. |
+| urlTemplate | 문자열 | 사용자 ID를 동기화하기 위해 Livefyre에 등록할 URL입니다. 제공된 URL 문자열에 &quot;`{id}`&quot;이(가) 포함되어야 합니다. |
 
 ## Java 예 {#section_nyl_ycs_rz}
 
@@ -67,7 +70,7 @@ network.set_user_sync_url(urlTemplate)
 True
 ```
 
-## Ruby 예 {#section_enh_gds_rz}
+## 루비의 예 {#section_enh_gds_rz}
 
 ```
 network.set_user_sync_url(urlTemplate) 
