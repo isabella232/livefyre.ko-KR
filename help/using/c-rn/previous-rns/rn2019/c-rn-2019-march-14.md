@@ -1,12 +1,15 @@
 ---
-description: 2019년 3월 14일 Livefyre 릴리스의 릴리스 노트입니다.
-seo-description: 2019년 3월 14일 Livefyre 릴리스의 릴리스 노트입니다.
+description: 2019년 3월 14일 릴리스에 대한 릴리스 노트입니다.
+seo-description: 2019년 3월 14일 릴리스에 대한 릴리스 노트입니다.
 seo-title: 릴리스 노트
 solution: Experience Manager
-title: Livefyre 릴리스 노트(2019년 3월 14일)
+title: 2019년 3월 14일자 Livefyre 릴리스 노트
 uuid: 34e64943-dea6-46ac-9fcc-8febeab6aa42
 translation-type: tm+mt
 source-git-commit: 9246343b64915af07feb8952060c1e3af5aada56
+workflow-type: tm+mt
+source-wordcount: '165'
+ht-degree: 9%
 
 ---
 
@@ -19,14 +22,14 @@ source-git-commit: 9246343b64915af07feb8952060c1e3af5aada56
 
 ## 향상된 기능
 
-* Instagram 기본 포함 클릭유도문안 및 상거래(제품) 지원을 구현했습니다.
-* Instagram의 사용 중단 문제를 해결하기 위해 Instagram Native Embed를 렌더링하기 위해 애플리케이션에 대한 컨텐츠 세부 사항이 수정되었습니다.
+* Instagram 기본 포함 클릭 유도 문안 및 상거래(제품) 지원을 구현했습니다.
+* Instagram의 사용 중단 문제를 해결하기 위해 Instagram 기본 포함 항목을 렌더링하도록 애플리케이션에 대한 컨텐츠 세부 사항을 수정했습니다.
 
 
 ## 버그 수정
 
-* 고급 모달에서 비활성화된 Twitter 권한 요청 계정을 선택할 수 있는 문제를 수정했습니다.
-* 특정 상황에서 미디어 담벼락에 정의되지 않은 HTML 태그가 있는 문제가 해결되었습니다.
-* 일부 상황에서 Instagram 소셜 검색에 비디오/이미지를 찾을 수 없음 메시지가 잘못 표시되는 문제가 해결되었습니다.
-* 미디어 벽 및 모바일의 Instagram 및 Facebook 앨범이 동일한 이미지를 여러 번 표시하던 문제가 해결되었습니다.
+* 비활성화된 Twitter 권한 요청 계정을 고급 모달에서 선택할 수 있는 문제를 수정했습니다.
+* 미디어 담벼락에 특정 상황에서 정의되지 않은 HTML 태그가 있는 문제가 해결되었습니다.
+* 일부 상황에서 Instagram 소셜 검색이 비디오/이미지를 찾을 수 없음 메시지를 잘못 표시하던 문제를 수정했습니다.
+* 미디어 벽과 모사스의 Instagram 및 Facebook 앨범이 동일한 이미지를 여러 번 표시하던 문제가 해결되었습니다.
 존재하지 않는 계정이 권한 요청 드롭다운에 표시되는 문제를 해결했습니다.
