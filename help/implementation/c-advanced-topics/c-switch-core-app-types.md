@@ -7,6 +7,9 @@ title: 핵심 앱 유형 전환
 uuid: 442a517c-3809-46c5-bb5f-8668a29dc3e8
 translation-type: tm+mt
 source-git-commit: fcee9dc152e7f8284e64248fdcc5bf81d39618ff
+workflow-type: tm+mt
+source-wordcount: '156'
+ht-degree: 1%
 
 ---
 
@@ -15,9 +18,9 @@ source-git-commit: fcee9dc152e7f8284e64248fdcc5bf81d39618ff
 
 대화 앱 유형에서 다른 앱으로 변경하는 방법을 알아봅니다.
 
-Livefyre를 사용하면 `collectionMeta` 데이터의 일부 설정을 변경하여 컬렉션 유형을 다른 Livefyre 핵심 응용 프로그램 유형(댓글, 라이브 블로그 또는 채팅)으로 변경할 수 있습니다.
+Lifyre는 `collectionMeta` 데이터의 일부 설정을 간단히 변경하여 한 Livefyre 핵심 응용 프로그램 유형의 컬렉션을 다른 유형(댓글, 라이브 블로그 또는 채팅)으로 변경할 수 있습니다.
 
-특정 유형의 앱을 구현하려면 `collectionMeta` 개체에 새 필드를 추가하십시오. 댓글은 기본값이므로 원하는 앱인 경우 이러한 업데이트를 수행할 필요가 없습니다. 컬렉션을 만든 후 다른 앱으로 변경하려면 앱 초기화 동안 체크섬 값을 전달합니다. 토큰 문서에서 체크섬 값 생성에 대한 자세한 내용을 `collectionMeta` 참조하십시오.
+특정 유형의 앱을 구현하려면 `collectionMeta` 개체에 새 필드를 추가하십시오. 댓글은 기본값이므로 원하는 앱인 경우 이러한 업데이트를 할 필요가 없습니다. 컬렉션을 만든 후 다른 앱으로 변경하려면 앱 초기화 동안 체크섬 값을 전달합니다. `collectionMeta` 토큰 문서에서 체크섬 값을 만드는 방법에 대한 자세한 내용을 참조하십시오.
 
 ## 라이브 블로그 {#section_kvj_3jj_11b}
 
@@ -81,7 +84,7 @@ conv_config = dict(
 )
 ```
 
-### Ruby 예
+### 루비 예
 
 ```
 require 'livefyre'  
@@ -172,7 +175,7 @@ conv_config = dict(
 )
 ```
 
-### Ruby 예
+### 루비 예
 
 ```
 require 'livefyre' 
@@ -263,7 +266,7 @@ conv_config = dict( "el" = "targetElement",
 )
 ```
 
-### Ruby 예
+### 루비 예
 
 ```
 require 'livefyre' 
