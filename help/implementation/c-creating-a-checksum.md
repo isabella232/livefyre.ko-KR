@@ -13,7 +13,7 @@ ht-degree: 5%
 ---
 
 
-# 체크섬 만들기 {#creating-a-checksum}
+# 체크섬 {#creating-a-checksum} 만들기
 
 Livefyre 라이브러리를 사용하여 체크섬을 만듭니다.
 
@@ -70,7 +70,7 @@ collection.data.tags = 'tags'
 collection_meta_token = collection.build_collection_meta_token()
 ```
 
-## 루비 {#section_a3y_ypj_tz}
+## Ruby {#section_a3y_ypj_tz}
 
 ```
 require 'livefyre' 
