@@ -1,17 +1,20 @@
 ---
 description: Livefyre에서 JSONObject로 컬렉션 정보를 검색합니다.
 seo-description: Livefyre에서 JSONObject로 컬렉션 정보를 검색합니다.
-seo-title: getCollectionContent Collection 메서드
+seo-title: getCollectionContent 컬렉션 메서드
 solution: Experience Manager
-title: getCollectionContent Collection 메서드
+title: getCollectionContent 컬렉션 메서드
 uuid: 270dcea5-4de5-4d3b-a751-79e6b9c4fd93
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+workflow-type: tm+mt
+source-wordcount: '43'
+ht-degree: 0%
 
 ---
 
 
-# getCollectionContent Collection 메서드{#getcollectioncontent-collection-method}
+# getCollectionContent 컬렉션 메서드{#getcollectioncontent-collection-method}
 
 Livefyre에서 JSONObject로 컬렉션 정보를 검색합니다.
 
@@ -39,7 +42,7 @@ $collection->getCollectionContent();
 collection.get_collection_content() 
 ```
 
-## Ruby 예 {#section_enh_gds_rz}
+## 루비의 예 {#section_enh_gds_rz}
 
 ```
 collection.get_collection_content 
