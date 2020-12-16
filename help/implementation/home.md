@@ -14,9 +14,9 @@ ht-degree: 6%
 
 # Livefyre 구현 안내서 {#livefyre-help}
 
-개발자 도구를 사용하여 웹 사이트에서 Livefyre 스튜디오 및 Livefyre 앱을 구현하여 사용자 경험을 맞춤화할 수 있습니다.
+개발자 도구를 사용하여 사용자 경험을 맞춤화할 수 있으므로 웹 사이트에서 Livefyre 스튜디오 및 Livefyre 앱을 구현할 수 있습니다.
 
-Livefyre 스튜디오에서 Livefyre Studio 및 Livefyre 앱을 사용하는 방법에 대한 자세한 내용은 [*Adobe Experience Manager Livefyre 사용 안내서를 참조하십시오&#x200B;*](/help/using/home.md).
+Livefyre 스튜디오에서 Livefyre Studio 및 Livefyre 앱을 사용하는 방법에 대한 자세한 내용은 [*Adobe Experience Manager Livefyre 사용자 안내서*](/help/using/home.md)&#x200B;를 참조하십시오.
 
 ## 인기 있는 항목
 
@@ -28,7 +28,7 @@ Livefyre 스튜디오에서 Livefyre Studio 및 Livefyre 앱을 사용하는 방
 
 * [개발자 도구를 사용하여 주석 통합](/help/implementation/c-app-integrations/c-comments-integration/c-comments-integration.md)
 
-* [개발자 도구를 사용한 앱 통합](/help/implementation/c-getting-started/c-implementation-process/c-implementation-process.md)
+* [개발자 도구를 사용하여 앱 통합](/help/implementation/c-getting-started/c-implementation-process/c-implementation-process.md)
 
 * [Analytics 도구에서 Livefyre 사용](/help/implementation/livefyre-analytics/livefyre-analytics.md)
 
