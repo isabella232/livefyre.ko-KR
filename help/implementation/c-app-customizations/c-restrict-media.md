@@ -7,6 +7,9 @@ title: 미디어 제한
 uuid: c470c985-d221-4f39-8bd4-4e44ec14db95
 translation-type: tm+mt
 source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+workflow-type: tm+mt
+source-wordcount: '110'
+ht-degree: 0%
 
 ---
 
@@ -19,9 +22,9 @@ source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
 
 >[!NOTE]
 >
->Livefyre와 Embeddly를 함께 사용하여 미디어 통합 자세한 내용은 컨텐츠 통합 &gt; 내장 통합을 참조하십시오. 링크 확장 또는 출처에 대한 질문은 기술 계정 관리자에게 문의하십시오.
+>미디어 통합을 위한 Livefyre 파트너 자세한 내용은 컨텐츠 통합 > 포함된 통합을 참조하십시오. 링크 확장 또는 출처에 대한 질문이 있는 경우 기술 계정 관리자에게 문의하십시오.
 
-이 예제에서는 YouTube 및 Vimeo가 댓글 스트림에서 포함된 내용을 차단합니다.
+다음 예제에서는 YouTube 및 Vimeo가 댓글 스트림에서 포함된 내용을 차단합니다.
 
 ```
 var attachmentDelegate = function(embedObj) { 
