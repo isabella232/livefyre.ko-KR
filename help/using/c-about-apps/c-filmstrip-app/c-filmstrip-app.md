@@ -1,14 +1,14 @@
 ---
-description: 필름스트립은 카메라의 필름 스트립과 유사한 사용자 생성 컨텐츠를 다이내믹한 단일 가로 스트립으로 보여주는 시각화 앱입니다.
+description: '전체 가이드를 통해 필름스트립 앱에 대한 자세한 내용을 살펴보십시오. 시각화 앱은 복고풍 카메라 필름 스트립의 이미지를 보여줍니다. 팁기본을 참고하세요. '
 seo-description: 필름스트립은 카메라의 필름 스트립과 유사한 사용자 생성 컨텐츠를 다이내믹한 단일 가로 스트립으로 보여주는 시각화 앱입니다.
 seo-title: 필름스트립
 solution: Experience Manager
-title: 필름스트립
+title: 필름스트립 앱 안내서
 uuid: 2e3cb6f4-15db-4509-8a5b-a651511cdbd6
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: 2584041dd080c08ee769bd897e55157ec05ce8b6
 workflow-type: tm+mt
-source-wordcount: '814'
+source-wordcount: '821'
 ht-degree: 1%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 1%
 
 필름스트립은 카메라의 필름 스트립과 유사한 사용자 생성 컨텐츠를 다이내믹한 단일 가로 스트립으로 보여주는 시각화 앱입니다.
 
-## 필름스트립 정보 {#section_tng_slj_yy}
+## 필름스트립 {#section_tng_slj_yy} 사용 방법 알아보기
 
 제품 페이지 또는 거래 웹 사이트와 같은 전자 상거래 시나리오에서 UGC와 함께 필름스트립을 사용할 수 있습니다. 최종 사용자는 측면 화살표를 클릭하여 사용 가능한 컨텐츠를 왼쪽에서 오른쪽으로 스크롤하여 필름스트립으로 이동할 수 있습니다. 새 컨텐츠는 앱에 들어올 때 왼쪽에 표시됩니다. 새로 스트리밍한 UGC에 &quot;a0/>새로 만들기&#x200B;*&quot;라는 레이블이 추가되는지 여부를 선택하여 사이트 방문자가 새로운 컨텐츠를 빠르게 식별할 수 있도록 할 수 있습니다.*
 
