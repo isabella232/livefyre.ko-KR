@@ -1,16 +1,14 @@
 ---
-seo-title: 교육 비디오 액세스
-solution: Experience Manager
 title: 교육 비디오 액세스
-uuid: 64438e2f-dd51-4c10-98ff-e1b62db1b0ca
+description: 교육 비디오 액세스
+exl-id: 99aab49f-0ec1-43d2-b8f3-6c0e4f382132
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
 source-wordcount: '75'
 ht-degree: 0%
 
 ---
-
 
 # 교육 비디오 액세스{#access-training-videos}
 
@@ -24,4 +22,3 @@ Livefyre 교육 비디오에 액세스하려면:
    * Adobe Experience Manager Livefyre에서 에셋을 사용하여 작업
 
 1. 원하는 비디오를 클릭하여 튜토리얼에 액세스합니다.
-
