@@ -1,22 +1,18 @@
 ---
-description: Instagram에서 콘텐츠를 선별하려면 지침에 따라 최적의 방법을 사용해야 합니다.
-seo-description: Instagram에서 콘텐츠를 선별하려면 지침에 따라 최적의 방법을 사용해야 합니다.
-seo-title: Instagram 컨텐츠 지침
-solution: Experience Manager
+description: instagram에서 컨텐츠를 처리할 때는 해당 지침에 따라야 합니다.
 title: Instagram 컨텐츠 지침
-uuid: 4c5ba96b-a242-407f-aa36-3a4e431832b8
+exl-id: 74ef8556-8f65-4406-871c-5b9f1887ec9c
 translation-type: tm+mt
-source-git-commit: 6978f0f36b5698c9c599c1828edea67703423397
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '315'
+source-wordcount: '299'
 ht-degree: 0%
 
 ---
 
-
 # Instagram 콘텐츠 지침{#instagram-content-guidelines}
 
-Instagram에서 콘텐츠를 선별하려면 지침에 따라 최적의 방법을 사용해야 합니다.
+instagram에서 컨텐츠를 처리할 때는 해당 지침에 따라야 합니다.
 
 **[!UICONTROL By Author]** 필드를 사용하여 다른 특정 Instagram 비즈니스 계정에서 Instagram 스트림을 만들려면 *Instagram 비즈니스 계정*&#x200B;을 구성해야 합니다. **[!UICONTROL By Author]** 필드에서 식별한 사용자 계정은 비즈니스 계정이어야 합니다.
 
@@ -25,7 +21,7 @@ Livefyre에서 Instagram 비즈니스 계정을 설정하는 방법에 대한 �
 Instagram은 플랫폼에서 컨텐츠를 가져오는 데 다음 규칙을 적용합니다.
 
 * 콘텐트는 사용자가 소유하며, 사용자는 콘텐트를 사용할 수 있도록 권한을 부여해야 합니다
-* 7일마다 Instagram 비즈니스 계정당 최대 30개의 고유한 해시 태그를 검색할 수 있습니다.
+* 7일마다 Instagram 비즈니스 계정당 최대 30개의 고유한 해시 태그를 검색합니다.
 
 Livefyre는 다음 지침을 따라 검색 기능과 효과를 극대화할 것을 권장합니다.
 
@@ -36,9 +32,9 @@ Livefyre는 다음 지침을 따라 검색 기능과 효과를 극대화할 것�
 * 둘 이상의 네트워크에서 비즈니스 계정을 사용하지 마십시오.
 * 사용 중인 해시 태그 수를 줄이기 위해 활성 스트림의 우선 순위를 지정하고 사용하지 않는 스트림을 삭제합니다.
 
-다른 브랜드와 마찬가지로 Instagram에도 브랜드 에셋을 사용하기 위한 요구 사항이 있습니다. 예를 들어, 사진은 다음과 같이 해야 합니다.
+다른 브랜드와 마찬가지로 instagram에도 브랜드 에셋 사용에 대한 요구 사항이 있습니다. 예를 들어, 사진은 다음과 같이 해야 합니다.
 
-* Instagram 및 컨텐츠 소유자에게 속성을 제공합니다.
+* instagram 및 컨텐츠 소유자에 대한 속성을 제공합니다.
 * 다른 네트워크의 미디어와 함께 표시될 경우 다른 소셜 미디어 컨텐츠와 명확하게 차별화됩니다.
 
 자세한 내용은 Instagram 문서를 참조하십시오.[Instagram 브랜드 자산 사용](https://help.instagram.com/304689166306603).
