@@ -1,18 +1,14 @@
 ---
 description: 채팅 앱을 사용자 정의하여 내용을 스레드되지 않은 채팅의 연속적인 스트림으로 표시할 수 있으므로 시청자는 라이브 이벤트 또는 공지 사항에 대해 실시간 대화를 할 수 있습니다.
-seo-description: 채팅 앱을 사용자 정의하여 내용을 스레드되지 않은 채팅의 연속적인 스트림으로 표시할 수 있으므로 시청자는 라이브 이벤트 또는 공지 사항에 대해 실시간 대화를 할 수 있습니다.
-seo-title: 채팅 사용자 지정
-solution: Experience Manager
 title: 채팅 사용자 지정
-uuid: eac7be2f-2dcd-4a6b-ac84-e5e650af82e0
+exl-id: da6a3d41-426a-4734-a3e7-951cbe9e9988
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '259'
+source-wordcount: '231'
 ht-degree: 0%
 
 ---
-
 
 # 채팅 사용자 지정{#chat-customizations}
 
@@ -48,7 +44,7 @@ ht-degree: 0%
 
 * **[!UICONTROL Users may share comments]**
 
-   활성화된 경우 사용자는 Twitter, Facebook 또는 LinkedIn에 게시된 댓글을 공유할 수 있습니다. 공유 활성화에 대한 자세한 내용은 설정 > 통합 설정 > 소셜 공유를 참조하십시오.
+   활성화된 경우 사용자는 Twitter, Facebook 또는 LinkedIn에 게시된 주석을 공유할 수 있습니다. 공유 활성화에 대한 자세한 내용은 설정 > 통합 설정 > 소셜 공유를 참조하십시오.
 
 * **[!UICONTROL Additional sort option]**
 
@@ -59,4 +55,3 @@ ht-degree: 0%
 * **[!UICONTROL Style]** 및  **[!UICONTROL Config]** 옵션  **[!UICONTROL App Designer]**&#x200B;사용 **[!UICONTROL App Designer]**&#x200B;의 모든 앱에 대한 표준 **[!UICONTROL Style]** 및 **[!UICONTROL Config]** 옵션에 대한 자세한 내용은 앱 맞춤화를 참조하십시오.
 
 * 통합 툴. 통합 도구를 사용하여 채팅을 사용자 지정하는 방법에 대한 자세한 내용은 채팅을 참조하십시오.
-
