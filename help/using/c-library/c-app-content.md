@@ -1,18 +1,14 @@
 ---
 description: Livefyre 네트워크에서 콘텐츠 관리
-seo-description: Livefyre 네트워크에서 콘텐츠 관리
-seo-title: 앱 콘텐츠 탭
-solution: Experience Manager
 title: 앱 콘텐츠 탭
-uuid: 65b23085-2b79-4a6f-96c9-44b421805312
+exl-id: 8b3e5281-59ba-4321-8fee-4160ab7a5d5e
 translation-type: tm+mt
-source-git-commit: 0c5420fcb3ba2e12375e92d4574d0a6dff310869
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '1118'
+source-wordcount: '1109'
 ht-degree: 0%
 
 ---
-
 
 # 앱 콘텐츠 탭{#app-content-tab}
 
@@ -150,4 +146,3 @@ Livefyre 검색 필드는 일부 일치 항목을 포착하기 위해 단어(또
 
 * 주요 컨텐츠는 플래그를 지정할 수 없습니다.
 * 원할 경우 삭제할 수는 있지만 사용자가 기능을 수행한 후에는 컨텐츠를 편집할 수 없습니다. 중재자는 주요 컨텐츠를 편집할 수 있습니다.
-
