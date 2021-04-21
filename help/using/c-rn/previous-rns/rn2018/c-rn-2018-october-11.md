@@ -1,18 +1,14 @@
 ---
 description: 2018년 10월 11일 릴리스에 대한 릴리스 노트입니다.
-seo-description: 2018년 10월 11일 릴리스에 대한 릴리스 노트입니다.
-seo-title: 2018년 10월 11일
-solution: Experience Manager
 title: 2018년 10월 11일
-uuid: 8f08b2d1-295f-4b6a-82ef-74d21f15f784
+exl-id: f7f2ef09-78c2-4939-94c2-6c187c0c7092
 translation-type: tm+mt
-source-git-commit: 35feb87bb82d1f298496717a65f1972cf4e71104
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '213'
+source-wordcount: '206'
 ht-degree: 9%
 
 ---
-
 
 # 2018년 10월 11일{#october}
 
@@ -36,7 +32,7 @@ ht-degree: 9%
 | 개선 사항 | API | 컬렉션에 저장된 오디오 파일에 대한 &quot;오디오&quot; 레이블이 추가되었습니다. |
 | 버그 | 라이브러리/검색 | 소셜 검색에서 드래그하여 놓을 때 Twitter 자산이 특정 폴더에 저장되지 않는 문제가 해결되었습니다. |
 | 버그 | 라이브러리/검색 | 자산 세부 사항, 라이브러리 및 게시된 앱에 대해 유효한 IG 비즈니스 계정을 사용할 때 이미지가 표시되지 않는 문제가 해결되었습니다. |
-| 버그 | 스트림 | YouTube 스트림 규칙을 저장할 수 없는 문제를 해결했습니다. |
+| 버그 | 스트림 | YouTube 스트림 규칙을 저장할 수 없는 문제를 수정했습니다. |
 
 ## UAT 릴리스 {#section_EE91B0C9313E45C5B4CBD59CFBCCFCFE}
 
@@ -45,4 +41,3 @@ ht-degree: 9%
 | **문제 유형** | **구성 요소** | **릴리스 노트** |
 |---|---|---|
 | 버그 | AEM | Livefyre를 통해 AEM Assets으로 가져온 트윗에 링크가 끊어진 문제가 수정되었습니다. |
-
