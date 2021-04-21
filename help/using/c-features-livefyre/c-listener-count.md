@@ -1,18 +1,14 @@
 ---
 description: 리스너 수는 페이지에 있는 앱의 사이트 방문자 수를 추적하고 이 수를 표시하는 카운터입니다.
-seo-description: 리스너 수는 페이지에 있는 앱의 사이트 방문자 수를 추적하고 이 수를 표시하는 카운터입니다.
-seo-title: 리스너 수
-solution: Experience Manager
 title: 리스너 수
-uuid: fdd7cfe4-ae69-4d31-baa2-8978368fc3e8
+exl-id: a07e83c2-7465-42ec-9d24-821aac5ab74b
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '316'
+source-wordcount: '292'
 ht-degree: 1%
 
 ---
-
 
 # 리스너 수{#listener-count}
 
@@ -48,4 +44,3 @@ Livefyre 리스너 수에는 지정된 시간에 페이지에 능동적으로 �
 * [댓글](/help/using/c-about-apps/c-comments/c-comments.md)
 * [평가](../c-about-apps/c-reviews-app/c-reviews-app.md#c_reviews_app)
 * [Storify 2](../c-about-apps/c-storify2/c-storify2.md#c_storify2)
-
