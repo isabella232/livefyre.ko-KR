@@ -1,17 +1,14 @@
 ---
 description: Livefyre를 AEM 통합에 통합할 수 있습니다.
-seo-description: Livefyre를 AEM 통합에 통합할 수 있습니다.
-seo-title: AEM과 Livefyre 통합
 title: AEM과 Livefyre 통합
-uuid: 59e34327-abad-43cd-99a4-be151c7a8e25
+exl-id: 868caa6d-10b5-4fd5-8a69-916d4439cc7f
 translation-type: tm+mt
-source-git-commit: 5bf937c8cb1a9ca12216ee1884142b8787ff063e
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '44'
+source-wordcount: '34'
 ht-degree: 0%
 
 ---
-
 
 # AEM {#integrating-livefyre-with-aem}과 Livefyre 통합
 
