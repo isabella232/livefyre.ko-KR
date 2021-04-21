@@ -1,18 +1,14 @@
 ---
 description: 맞춤형 스타일을 사용하여 주요 컨텐츠를 강조 표시할 수 있습니다.
-seo-description: 맞춤형 스타일을 사용하여 주요 컨텐츠를 강조 표시할 수 있습니다.
-seo-title: 기능 컨텐츠
-solution: Experience Manager
 title: 기능 컨텐츠
-uuid: 0e347703-f119-4778-9609-2d6500844d6e
+exl-id: e11d7d1c-b249-4bb0-84c3-04f9f19f120e
 translation-type: tm+mt
-source-git-commit: 09011bac06f4a1c39836455f9d16654952184962
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '202'
+source-wordcount: '193'
 ht-degree: 0%
 
 ---
-
 
 # 기능 내용{#feature-content}
 
@@ -40,4 +36,3 @@ ht-degree: 0%
    * [주요(사이트)](/help/implementation/c-app-customizations/c-aggregated-featured-content-using-the-featured-apis.md#section_lq5_ymw_xz)
    * [주요 기능(컬렉션)](/help/implementation/c-app-customizations/c-aggregated-featured-content-using-the-featured-apis.md#section_kgc_xmw_xz)
    * [주요(헤드)](/help/implementation/c-app-customizations/c-aggregated-featured-content-using-the-featured-apis.md#section_n4b_lmw_xz)
-
