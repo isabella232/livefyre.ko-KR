@@ -1,26 +1,22 @@
 ---
-description: YouTube 규칙에서 콘텐츠를 가져오는 스트림 규칙을 만들 수 있습니다.
-seo-description: YouTube 규칙에서 콘텐츠를 가져오는 스트림 규칙을 만들 수 있습니다.
-seo-title: YouTube 규칙
-solution: Experience Manager
+description: YouTube 규칙에서 컨텐츠를 가져오는 스트림 규칙을 만들 수 있습니다.
 title: YouTube 규칙
-uuid: ec6a3780-7119-45c3-8ab2-fb0f9803d161
+exl-id: 720a6fc6-d5de-4c78-a14e-51bced6e8dda
 translation-type: tm+mt
-source-git-commit: 30aa5cce5e7567208362cc35caeb7b7260c42f3b
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '226'
+source-wordcount: '213'
 ht-degree: 0%
 
 ---
 
-
 # YouTube 규칙 {#youtube-rules}
 
-YouTube 규칙에서 콘텐츠를 가져오는 스트림 규칙을 만들 수 있습니다.
+YouTube 규칙에서 컨텐츠를 가져오는 스트림 규칙을 만들 수 있습니다.
 
 사용자, 채널 또는 재생 목록을 기반으로 YouTube 규칙을 만듭니다.
 
-YouTube의 콘텐츠를 앱 또는 폴더로 가져올 YouTube 규칙을 만들려면 다음을 기준으로 필터링할 수 있습니다.
+YouTube 규칙을 만들어 YouTube의 콘텐츠를 앱 또는 폴더로 가져오려면 다음을 기준으로 필터링할 수 있습니다.
 
 * **[!UICONTROL User]**
    * 스트림에 사용자의 비디오를 포함할 **[!UICONTROL User]**&#x200B;의 별칭 문자열을 입력합니다.
