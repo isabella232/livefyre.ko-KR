@@ -1,18 +1,14 @@
 ---
 description: Livefyre는 4개의 주요 API를 제공하므로 입력 네트워크, 사이트 또는 컬렉션에 대한 50개의 최근 주요 콘텐츠 항목이나 입력 컬렉션 맨 위에 있는 2개의 주요 콘텐츠 요소를 검색할 수 있습니다.
-seo-description: Livefyre는 4개의 주요 API를 제공하므로 입력 네트워크, 사이트 또는 컬렉션에 대한 50개의 최근 주요 콘텐츠 항목이나 입력 컬렉션 맨 위에 있는 2개의 주요 콘텐츠 요소를 검색할 수 있습니다.
-seo-title: 주요 API를 사용하여 주요 컨텐츠 취합
-solution: Experience Manager
 title: 주요 API를 사용하여 주요 컨텐츠 취합
-uuid: e9c9ff26-37b6-4328-af85-aa550e7ffdfd
+exl-id: 19f146bf-f406-4667-8ed9-7c7fb3672c05
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '243'
-ht-degree: 1%
+source-wordcount: '200'
+ht-degree: 2%
 
 ---
-
 
 # 주요 API{#aggregated-featured-content-using-the-featured-apis}를 사용하여 주요 컨텐츠 집계됨
 
@@ -466,4 +462,3 @@ GET https://{networkName}.bootstrap.fyre.co/bs3/{network}/{siteId}/{b64articleId
    } 
 }
 ```
-
