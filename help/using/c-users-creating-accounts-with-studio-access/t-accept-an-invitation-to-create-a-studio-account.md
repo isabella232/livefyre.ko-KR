@@ -1,18 +1,14 @@
 ---
 description: 사용자가 Livefyre에 액세스하도록 초대되면 사용자는 이메일의 링크를 사용하여 로그인 및 계정을 만듭니다.
-seo-description: 사용자가 Livefyre에 액세스하도록 초대되면 사용자는 이메일의 링크를 사용하여 로그인 및 계정을 만듭니다.
-seo-title: Studio 계정 만들기 초대 수락
-solution: Experience Manager
 title: Studio 계정 만들기 초대 수락
-uuid: 7c3d11a3-9799-43ae-a63c-9ce2cb15782c
+exl-id: 7cea7f1e-ad4a-4a90-bcda-d6cb8a1e9016
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '133'
+source-wordcount: '103'
 ht-degree: 0%
 
 ---
-
 
 # Studio 계정 만들기 초대 수락{#accept-an-invitation-to-create-a-studio-account}
 
