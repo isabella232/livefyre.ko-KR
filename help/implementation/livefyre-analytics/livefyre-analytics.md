@@ -1,18 +1,14 @@
 ---
 description: 사이트의 사용자, 컨텐츠 및 중재자 활동을 분석합니다.
-seo-description: 사이트의 사용자, 컨텐츠 및 중재자 활동을 분석합니다.
-seo-title: Analytics
-solution: Experience Manager
-title: 분석
-uuid: b022aa77-59b9-422a-8d9f-fb9d8a1b0478
+title: Analytics
+exl-id: dc0545ec-2294-44ab-87c4-67eb30c3f787
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '730'
+source-wordcount: '720'
 ht-degree: 1%
 
 ---
-
 
 # Analytics{#analytics}
 
@@ -114,4 +110,3 @@ Livefyre Analytics에서는 대화, 중재 및 사용자 데이터에 대한 대
 사용자 대시보드는 사용자별 사이트 활동을 보여주므로 개별 사용자가 사이트와 상호 작용하는 방법을 분석할 수 있습니다. 이 대시보드를 사용하여 사이트에서 가장 활동적인 사용자를 찾고 가장 인기 있는 사이트 활동을 평가할 수 있습니다.
 
 ![](assets/analytics-users.png)
-
