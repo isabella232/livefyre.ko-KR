@@ -1,18 +1,14 @@
 ---
 description: 국제화 또는 브랜딩을 위해 앱의 모든 텍스트 문자열을 사용자 정의합니다.
-seo-description: 국제화 또는 브랜딩을 위해 앱의 모든 텍스트 문자열을 사용자 정의합니다.
-seo-title: 번역 및 사용자 지정 텍스트 문자열
-solution: Experience Manager
 title: 번역 및 사용자 지정 텍스트 문자열
-uuid: 3c79b8ea-37a0-465d-8fb0-30e13e0cd7f7
+exl-id: 23018217-6bf8-415e-8801-584b0492734b
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '106'
-ht-degree: 10%
+source-wordcount: '90'
+ht-degree: 12%
 
 ---
-
 
 # 번역 및 사용자 지정 텍스트 문자열{#translation-and-custom-text-strings}
 
@@ -36,4 +32,3 @@ ht-degree: 10%
 * [사이드노트](../c-about-apps/c-sidenotes-app/c-sidenotes-app.md#c_sidenotes_app)
 * [트렌딩](../c-about-apps/c-trending-app/c-trending-app.md#c_trending_app)
 * [업로드 버튼](../c-about-apps/c-upload-button-app/c-upload-button-app.md#c_upload_button_app)
-
