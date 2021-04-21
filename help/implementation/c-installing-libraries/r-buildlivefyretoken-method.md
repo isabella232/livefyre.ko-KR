@@ -1,18 +1,14 @@
 ---
 description: 호출된 네트워크의 다른 Livefyre API와 상호 작용하는 데 사용할 수 있는 암호화된 유효한 Livefyre 토큰을 반환합니다.
-seo-description: 호출된 네트워크의 다른 Livefyre API와 상호 작용하는 데 사용할 수 있는 암호화된 유효한 Livefyre 토큰을 반환합니다.
-seo-title: buildLivefyreToken 네트워크 메서드
-solution: Experience Manager
 title: buildLivefyreToken 네트워크 메서드
-uuid: 7c72a05f-669b-4df3-8117-aa4af2f7a179
+exl-id: 2b303606-e8de-41e5-9c01-b41cc7bd8437
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '137'
+source-wordcount: '111'
 ht-degree: 0%
 
 ---
-
 
 # buildLivefyreToken 네트워크 메서드{#buildlivefyretoken-network-method}
 
@@ -81,4 +77,3 @@ network.build_livefyre_token()
 ```
 eyJhbGciOiJIUzI1NiJ9.eyJkb21haW4iOiJ0ZXN0LmZ5cmUuY29tIiwidXNlcl9pZCI6InN5c3RlbSIsImRpc3BsYXlfbmFtZSI6InN5c3RlbSIsImV4cGlyZXMiOjEzOTY2NTUwODN9.33GuJF_ou2O6CCV22Y3PlLUgP2Igy9vAXfmLONkt-Yo 
 ```
-
