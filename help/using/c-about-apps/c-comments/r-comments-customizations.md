@@ -1,18 +1,14 @@
 ---
 description: 주석을 사용자 정의하여 사이트에 실시간 대화를 포함할 수 있습니다.
-seo-description: 주석을 사용자 정의하여 사이트에 실시간 대화를 포함할 수 있습니다.
-seo-title: 주석 사용자 지정
-solution: Experience Manager
 title: 주석 사용자 지정
-uuid: 7ec08aaf-553f-49a2-b237-d4bdcb5714ff
+exl-id: 6a1de42c-4a0f-41c6-ba0d-8cdf0ebfbcea
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '347'
+source-wordcount: '336'
 ht-degree: 0%
 
 ---
-
 
 # 주석 사용자 지정{#comments-customizations}
 
@@ -20,7 +16,7 @@ ht-degree: 0%
 
 
 
-사용 가능한 옵션을 사용하여 사용자가 Twitter, Facebook 및 LinkedIn 간에 컨텐츠를 공유하고 친구를 스트림으로 가져올 수 있습니다.
+사용 가능한 옵션을 사용하여 사용자가 Twitter, Facebook 및 LinkedIn에서 컨텐츠를 공유하고 친구를 스트림으로 가져올 수 있습니다.
 
 * **[!UICONTROL Number of comments to load]**
 
@@ -60,7 +56,7 @@ ht-degree: 0%
 
 * **[!UICONTROL Users may share posts]**
 
-   활성화된 사용자가 게시물을 공유할 수 있습니다. 활성화된 경우 사용자는 게시된 컨텐트를 Twitter, Facebook 또는 LinkedIn에 공유할 수 있습니다. 공유 활성화에 대한 자세한 내용은 설정 > 통합 설정 > 소셜 공유를 참조하십시오.
+   활성화된 사용자가 게시물을 공유할 수 있습니다. 활성화된 경우 사용자는 게시된 컨텐츠를 Twitter, Facebook 또는 LinkedIn에 공유할 수 있습니다. 공유 활성화에 대한 자세한 내용은 설정 > 통합 설정 > 소셜 공유를 참조하십시오.
 
 * **[!UICONTROL Featured content at top of stream]**
 
@@ -79,4 +75,3 @@ ht-degree: 0%
 * **[!UICONTROL Style]** 및  **[!UICONTROL Config]** 옵션  **[!UICONTROL App Designer]**&#x200B;사용 **[!UICONTROL App Designer]**&#x200B;의 모든 앱에 대한 표준 **[!UICONTROL Style]** 및 **[!UICONTROL Config]** 옵션에 대한 자세한 내용은 앱 맞춤화를 참조하십시오.
 
 * **[!UICONTROL Integration tools]** 구문을 사용하는 키-값 쌍으로 전달됩니다. 통합 도구를 사용하여 주석을 사용자 지정하는 방법에 대한 자세한 내용은 주석을 참조하십시오.
-
