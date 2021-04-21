@@ -1,18 +1,14 @@
 ---
 description: 주석 유형으로 인스턴스화된 컬렉션 개체를 반환합니다. 컬렉션 개체에서 createOrUpdate()를 실행하여 빌드 프로세스를 완료합니다.
-seo-description: 주석 유형으로 인스턴스화된 컬렉션 개체를 반환합니다. 컬렉션 개체에서 createOrUpdate()를 실행하여 빌드 프로세스를 완료합니다.
-seo-title: buildCommentsCollection 사이트 메서드
-solution: Experience Manager
 title: buildCommentsCollection 사이트 메서드
-uuid: 0e5c062e-960d-4ab0-ba32-0965731a1571
+exl-id: 9534c25a-fd1c-4a09-92e2-d196ac218ef3
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '113'
-ht-degree: 7%
+source-wordcount: '90'
+ht-degree: 8%
 
 ---
-
 
 # buildCommentsCollection 사이트 메서드{#buildcommentscollection-site-method}
 
