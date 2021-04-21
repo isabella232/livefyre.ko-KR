@@ -1,35 +1,32 @@
 ---
 description: 2017년 2월 9일 릴리스에 대한 릴리스 노트입니다.
-seo-description: 2017년 2월 9일 릴리스에 대한 릴리스 노트입니다.
-seo-title: 2017년 2월 9일
 title: 2017년 2월 9일
-uuid: cbbf10f3-d8ca-4c10-849e-fa7208f987be
+exl-id: 155f8a43-17e5-40b2-ada0-32691f8a34e5
 translation-type: tm+mt
-source-git-commit: 52f59cd15f315aa93be198f6eb586f008c18a384
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '557'
+source-wordcount: '550'
 ht-degree: 5%
 
 ---
-
 
 # 2017년 2월 9일{#february}
 
 2017년 2월 9일 릴리스에 대한 릴리스 노트입니다.
 
-## Twitter {#section_nv4_yry_wy}에 대한 SocialSync
+## twitter {#section_nv4_yry_wy}에 대한 SocialSync
 
-Twitter용 SocialSync는 몇 년 동안 Adobe의 핵심 기능의 일부였습니다. 그러나 Adobe 제품이 개발되어 시간이 지남에 따라 Twitter용 SocialSync는 현재 고객 기반에서 매우 작은 부분에 사용되는 경제적인 기능이 되었습니다. 고객을 위한 Livefyre의 전반적인 경험을 향상시키고 가장 가치 있는 영역에서 개발 리소스를 집중하기 위해 2월 24일에 Twitter용 SocialSync 기능을 중단할 예정입니다. Facebook용 SocialSync는 이 업데이트의 영향을 받지 않습니다. 이 업데이트에 대한 질문이나 우려 사항이 있는 경우 Livefyre CSM에 문의하십시오.
+twitter용 SocialSync는 수년 동안 Adobe의 핵심 기능의 일부였습니다. 그러나 제품이 개발되어 시간이 지남에 따라 성장함에 따라 Twitter용 SocialSync는 현재 고객 기반에서 매우 적은 부분에 사용되는 저가치 기능이 되었습니다. 고객을 위한 Livefyre의 전반적인 경험을 향상시키고 가장 가치 있는 영역에서 개발 리소스를 집중하기 위해 2월 24일에 SocialSync for Twitter 기능을 중단할 예정입니다. facebook용 SocialSync는 이번 업데이트의 영향을 받지 않습니다. 이 업데이트에 대한 질문이나 우려 사항이 있는 경우 Livefyre CSM에 문의하십시오.
 
 ## 프로덕션 릴리스 {#section_r24_1m2_wy}
 
 | 문제 유형 | 구성 요소 | 릴리스 노트 |
 |--- |--- |--- |
-| 버그 | 미디어 벽 | Facebook 비디오가 적절하게 재생되도록 하는 버그를 수정했습니다. |
+| 버그 | 미디어 벽 | facebook 비디오가 적절히 재생되도록 하는 버그를 수정했습니다. |
 | 버그 | ModQ | 이메일 주체가 이메일 스트림 컨텐츠에 표시되지 않던 버그를 수정했습니다. |
 | 버그 | 모자이크 | 사용자가 콘텐츠 카드 간에 탭을 전환할 수 있도록 Mosaic에 액세스 가능성 지원을 추가했습니다. |
 | 버그 | 평가 | 등급 편집 내용이 적절하게 표시되지 않던 버그를 수정했습니다. |
-| 버그 | 소셜 검색 | Twitter 목록 검색 결과에서 더 보기 단추가 잘리던 버그를 수정했습니다. |
+| 버그 | 소셜 검색 | twitter 목록 검색 결과에서 더 보기 단추가 잘리던 버그를 수정했습니다. |
 | 개선 사항 | Storify 2 | 자동 쓰기 무료 컨텐츠 검색을 지원하는 Storify 2가 향상되었습니다. Flickr, Noun Project, Kuler, Pixabay 및 Unsplash에서 무료 카피쓰기 이미지를 검색할 수 있습니다. |
 | 버그 | 스트림 | Tumblr 스트림 규칙이 저장되지 못하게 하는 버그를 수정했습니다. |
 | 버그 | 스트림 | RSS 피드에 대한 컬렉션 JSON에서 잘못된 생성기 ID를 생성하던 버그를 수정했습니다. |
@@ -48,8 +45,7 @@ Twitter용 SocialSync는 몇 년 동안 Adobe의 핵심 기능의 일부였습�
 | 개선 사항 | Storify 2 | 모달 열기를 지원하는 Storify 2를 개선했습니다(이전에는 앱이 페이지의 게시물 위치로 스크롤되었음). Storify 2의 Designer에서 스크롤 및 모달 하이퍼링크 동작 간을 전환할 수 있는 구성을 추가했습니다. Modal permalink 동작이 기본 동작입니다. |
 | 개선 사항 | Storify 2 | Storify 2 Google AMP 통합을 통해 보다 작은 CSS 파일을 생성할 수 있습니다. |
 | 버그 | 스트림 | HTTPS를 통해 사용할 수 있는 이메일 스트림 규칙의 향상된 콘텐츠(이미지 및 비디오) |
-| 버그 | 스트림 | Twitter 스트림 규칙의 맵에서 마일 반경 값에 대한 레이블을 추가했습니다. |
-| 버그 | 스트림 | Facebook 및 Facebook 페이지 스팀 규칙이 여러 미디어 첨부 파일이 있는 게시물을 적절하게 가져오는 버그를 수정했습니다. |
+| 버그 | 스트림 | twitter 스트림 규칙의 맵에서 마일 반경 값에 대한 레이블을 추가했습니다. |
+| 버그 | 스트림 | facebook 및 Facebook 페이지 스팀 규칙이 여러 미디어 첨부 파일이 있는 게시물을 적절하게 가져오는 버그를 수정했습니다. |
 | 버그 | Studio | Studio에서 필터를 사용할 때 여러 &amp;&#39;이(가) URL에 추가되지 않던 버그를 수정했습니다. |
 | 버그 | Studio | Studio 필터의 특정 확인란은 선택 취소할 수 없는 버그를 수정했습니다. |
-
