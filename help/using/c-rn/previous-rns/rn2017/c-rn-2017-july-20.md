@@ -1,17 +1,14 @@
 ---
 description: 2017년 7월 20일 릴리스에 대한 릴리스 노트입니다.
-seo-description: 2017년 7월 20일 릴리스에 대한 릴리스 노트입니다.
-seo-title: 2017년 7월 20일
 title: 2017년 7월 20일
-uuid: 550815a9-a6e2-4e98-b5d6-7f4897373716
+exl-id: 1bf17703-0913-41f0-a897-ba8323992f71
 translation-type: tm+mt
-source-git-commit: 35feb87bb82d1f298496717a65f1972cf4e71104
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '361'
+source-wordcount: '354'
 ht-degree: 7%
 
 ---
-
 
 # 2017년 7월 20일{#july}
 
@@ -21,7 +18,7 @@ ht-degree: 7%
 
 UGC 상거래를 사용하면 Livefyre 앱에서 바로 클릭유도문안 버튼을 추가할 수 있습니다. UGC 상거래에 대한 자세한 내용은 [UGC 상거래](../../../c-features-livefyre/c-ugc-commerce.md#c_ugc_commerce)를 참조하십시오.
 
-## 릴리스 노트 {#section_bjq_3sm_p1b}
+## 릴리스 정보 {#section_bjq_3sm_p1b}
 
 다음 표는 2017년 7월 20일 릴리스의 Production 및 UAT 릴리스 노트입니다.
 
@@ -44,7 +41,6 @@ UGC 상거래를 사용하면 Livefyre 앱에서 바로 클릭유도문안 버�
 | **문제 유형** | **구성 요소** | **릴리스 노트** |
 |---|---|---|
 | 버그 | 회전판 | 캡션이 없는 Instagram Carousel 게시물이 Studio로 가져올 수 없는 버그를 수정했습니다. |
-| 개선 사항 | Storify 2 | Facebook의 기능 사용 중단으로 인해 Storify Search에서 ID별 Facebook 댓글 검색 옵션을 제거했습니다. |
-| 버그 | Storify 2 | Facebook 댓글을 URL로 가져오는 안정성이 개선되어 Storify 2가 나타납니다. |
+| 개선 사항 | Storify 2 | facebook의 기능 사용 중단으로 인해 Storify Search에서 ID별 Facebook 주석 검색 옵션을 제거했습니다. |
+| 버그 | Storify 2 | facebook 주석을 URL로 가져오는 안정성이 개선되어 Storify 2가 생성됩니다. |
 | 버그 | 스트림 | 클릭 시 스트림 규칙 구성 텍스트 상자의 텍스트 알약이 제거되게 하는 버그를 수정했습니다. |
-
