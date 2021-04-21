@@ -1,18 +1,14 @@
 ---
 description: 대화 앱 유형에서 다른 앱으로 변경하는 방법을 알아봅니다.
-seo-description: 대화 앱 유형에서 다른 앱으로 변경하는 방법을 알아봅니다.
-seo-title: 핵심 앱 유형 전환
-solution: Experience Manager
 title: 핵심 앱 유형 전환
-uuid: 442a517c-3809-46c5-bb5f-8668a29dc3e8
+exl-id: f18c97e8-8f39-4831-b907-afd438097e9e
 translation-type: tm+mt
-source-git-commit: fcee9dc152e7f8284e64248fdcc5bf81d39618ff
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '156'
+source-wordcount: '141'
 ht-degree: 1%
 
 ---
-
 
 # 핵심 앱 유형 전환{#switch-core-app-types}
 
