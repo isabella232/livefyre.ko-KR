@@ -1,17 +1,14 @@
 ---
 description: Livefyre 앱 세트에서 지원되는 브라우저 및 장치 목록입니다.
-seo-description: Livefyre 앱 세트에서 지원되는 브라우저 및 장치 목록입니다.
-seo-title: 장치 및 브라우저 지원
 title: 장치 및 브라우저 지원
-uuid: 338f78b2-051d-4831-a0b9-e987f92660ce
+exl-id: 75e424a2-9ef5-4a49-8d0d-7c4bcb865f7b
 translation-type: tm+mt
-source-git-commit: 7d7af443eeffdbb09c2fa58006813c328785ad56
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '149'
-ht-degree: 8%
+source-wordcount: '133'
+ht-degree: 9%
 
 ---
-
 
 # 장치 및 브라우저 지원{#device-and-browser-support}
 
@@ -41,4 +38,3 @@ Livefyre는 다음 디바이스, 운영 체제 및 브라우저를 지원합니�
 >[!NOTE]
 >
 >Microsoft의 지원이 종료되어 Internet Explorer 11 이전의 Internet Explorer 버전에서는 Livefyre가 지원되지 않습니다.
-
