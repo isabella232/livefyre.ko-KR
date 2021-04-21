@@ -1,18 +1,14 @@
 ---
 description: 이 메서드는 fyre.co가 없는 네트워크의 이름을 반환합니다.
-seo-description: 이 메서드는 fyre.co가 없는 네트워크의 이름을 반환합니다.
-seo-title: getNetworkName 네트워크 메서드
-solution: Experience Manager
 title: getNetworkName 네트워크 메서드
-uuid: 3523e5a4-11f4-458d-91e7-a149d3afe5e9
+exl-id: 0c6e1178-ccbe-47b1-8c69-5a4c9a9a748c
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '62'
+source-wordcount: '48'
 ht-degree: 0%
 
 ---
-
 
 # getNetworkName 네트워크 메서드{#getnetworkname-network-method}
 
@@ -77,4 +73,3 @@ network.network_name;
 ```
 "example" 
 ```
-
