@@ -1,17 +1,14 @@
 ---
 description: 소셜 로그인을 활성화하려면 Studio를 사용하여 소셜 앱의 자격 증명을 Livefyre 통합에 추가하고 로그인 양식을 사용자 정의합니다.
-seo-description: 소셜 로그인을 활성화하려면 Studio를 사용하여 소셜 앱의 자격 증명을 Livefyre 통합에 추가하고 로그인 양식을 사용자 정의합니다.
-seo-title: Studio를 사용하여 소셜 앱을 Livefyre 구현에 연결
 title: Studio를 사용하여 소셜 앱을 Livefyre 구현에 연결
-uuid: be14869c-e0df-48cd-a1f3-99eb953dd9ce
+exl-id: 2ccb9737-8c59-4c1d-93d3-61f913b3cdd6
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '617'
-ht-degree: 0%
+source-wordcount: '584'
+ht-degree: 1%
 
 ---
-
 
 # Studio를 사용하여 소셜 앱을 Livefyre 구현에 연결{#using-studio-to-connect-your-social-apps-to-your-livefyre-implementation}
 
@@ -43,15 +40,15 @@ Livefyre 기본 계정을 사용하여 로그인을 활성화하려면:
 1. Livefyre 스튜디오의 **[!UICONTROL Integration Settings]**&#x200B;으로 이동합니다.
 1. **[!UICONTROL Enable Login with Email]** 토글을 **[!UICONTROL On]**&#x200B;으로 전환합니다.
 
-## Facebook 계정을 사용하여 로그인 활성화 {#section_ph3_515_bbb}
+## facebook 계정 {#section_ph3_515_bbb}을(를) 사용하여 로그인 활성화
 
-Facebook 계정을 Livefyre에 연결하여 사용자가 Facebook 로그인을 사용하여 사이트에서 앱과 상호 작용할 수 있도록 합니다.
+facebook 계정을 Livefyre에 연결하면 사용자가 Facebook 로그인을 사용하여 사이트에서 앱과 상호 작용할 수 있습니다.
 
-Facebook 계정을 사용하여 로그인을 활성화하려면:
+facebook 계정을 사용하여 로그인을 활성화하려면:
 
 1. **[!UICONTROL Enable Login with Facebook]** 토글을 **[!UICONTROL ON]**&#x200B;으로 전환합니다.
 
-1. Facebook 앱의 **[!UICONTROL App ID]** 및 **[!UICONTROL App Secret]**&#x200B;을(를) 추가합니다.
+1. facebook 앱의 **[!UICONTROL App ID]** 및 **[!UICONTROL App Secret]**&#x200B;을(를) 추가합니다.
 
    이러한 값은 [https://developers.facebook.com/apps/](https://developers.facebook.com/apps/675503539257343/dashboard/)에서 사용할 수 있는 앱용 Facebook 개발자 대시보드에 나열됩니다.
 
@@ -67,17 +64,17 @@ Google+ 계정을 사용하여 로그인을 활성화하려면:
 
    이러한 값은 [https://console.cloud.google.com/](https://console.cloud.google.com/apis/library)에서 사용할 수 있는 Google Cloud Platform 프로젝트 인터페이스에 표시됩니다. 이 정보를 검색하려면 **[!UICONTROL API Manager > Credentials]**&#x200B;으로 이동하여 프로젝트 이름을 클릭합니다.
 
-## Twitter 계정 {#section_iyz_wb5_bbb}을 사용하여 로그인 활성화
+## twitter 계정 {#section_iyz_wb5_bbb}을(를) 사용하여 로그인 활성화
 
-Twitter 계정을 Livefyre에 연결하여 사용자가 자신의 Twitter 로그인을 사용하여 사이트에서 앱과 상호 작용할 수 있도록 합니다.
+twitter 계정을 Livefyre에 연결하여 사용자가 Twitter 로그인을 사용하여 사이트에서 앱과 상호 작용할 수 있도록 합니다.
 
-Twitter 계정을 사용하여 로그인을 활성화하려면:
+twitter 계정을 사용하여 로그인을 활성화하려면:
 
 1. **[!UICONTROL Enable Login with Twitter]** 토글을 **[!UICONTROL ON]**&#x200B;으로 전환합니다.
 
-1. Twitter 앱의 **[!UICONTROL Consumer Key (API Key)]** 및 **[!UICONTROL Consumer Secret (API Secret)]**&#x200B;을 추가합니다.
+1. twitter 앱의 **[!UICONTROL Consumer Key (API Key)]** 및 **[!UICONTROL Consumer Secret (API Secret)]**&#x200B;을(를) 추가합니다.
 
-   이러한 값은 [https://apps.twitter.com/](https://apps.twitter.com/)에서 사용할 수 있는 Twitter 앱의 **[!UICONTROL Keys and Access Tokens]** 페이지에 나열됩니다.
+   이러한 값은 Twitter 앱의 **[!UICONTROL Keys and Access Tokens]** 페이지에 나열되며 [https://apps.twitter.com/](https://apps.twitter.com/)에서 사용할 수 있습니다.
 
 ## Yahoo!를 사용하여 로그인 활성화 계정 {#section_s1q_3c5_bbb}
 
