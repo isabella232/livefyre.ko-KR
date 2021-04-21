@@ -1,18 +1,14 @@
 ---
 description: 이메일을 통해 콘텐츠를 가져오는 스트림 규칙을 만들 수 있습니다.
-seo-description: 이메일을 통해 콘텐츠를 가져오는 스트림 규칙을 만들 수 있습니다.
-seo-title: 이메일 규칙
-solution: Experience Manager
 title: 이메일 규칙
-uuid: 3cd27d28-b7c0-4cbc-bae3-e2ef7beacba9
+exl-id: 19c586f7-b934-40b5-bc9a-8a8a734e5467
 translation-type: tm+mt
-source-git-commit: 0c5420fcb3ba2e12375e92d4574d0a6dff310869
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '241'
+source-wordcount: '229'
 ht-degree: 0%
 
 ---
-
 
 # 이메일 규칙{#email-rules}
 
