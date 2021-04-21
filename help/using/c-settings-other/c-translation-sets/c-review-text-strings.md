@@ -1,18 +1,14 @@
 ---
 description: Livefyre 검토에 대한 텍스트 문자열 사용자 지정
-seo-description: Livefyre 검토에 대한 텍스트 문자열 사용자 지정
-seo-title: 텍스트 문자열 검토
-solution: Experience Manager
 title: 텍스트 문자열 검토
-uuid: 86251e49-bc73-4eec-9f9b-b4b0a5b42099
+exl-id: 82ced091-d573-4514-9b91-3451a94ed5d3
 translation-type: tm+mt
-source-git-commit: 0c5420fcb3ba2e12375e92d4574d0a6dff310869
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '710'
+source-wordcount: '700'
 ht-degree: 5%
 
 ---
-
 
 # 텍스트 문자열 검토{#review-text-strings}
 
@@ -163,4 +159,3 @@ networkConfig["strings"] = customStrings; fyre.conv.load(
 |  | errorShowMore | 추가 검토를 로드하는 동안 오류가 발생했습니다. |
 |  | errorTitleMaxChars | 죄송합니다. 제목이 너무 깁니다. 편집하고 다시 시도하십시오. |
 |  | errorVotOwnComment | 자신의 검토에 투표할 수 없다 |
-
