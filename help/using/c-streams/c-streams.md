@@ -1,18 +1,14 @@
 ---
 description: 선택한 콘텐츠를 Livefyre 앱 또는 Studio 라이브러리에 파이프합니다.
-seo-description: 선택한 콘텐츠를 Livefyre 앱 또는 Studio 라이브러리에 파이프합니다.
-seo-title: 스트림
-solution: Experience Manager
 title: 스트림
-uuid: 01ea5d33-5ec1-46f4-b724-8431cda443a1
+exl-id: 5abc2e7c-ee5f-4f73-8eb4-8d8a1c8c73a3
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '171'
+source-wordcount: '160'
 ht-degree: 0%
 
 ---
-
 
 # 스트림{#streams}
 
@@ -33,4 +29,3 @@ Streams 인터페이스를 사용하여 Studio에서 선택한 컨텐츠를 Live
 >[!NOTE]
 >
 >스트림이 활성화된 상태에서 만든 콘텐츠는 앱에 표시됩니다. 규칙이 정의되고 스트림이 활성 상태이거나 스트림이 비활성화된 후에 만들어진 컨텐츠는 앱에 표시되지 않습니다.
-
