@@ -1,18 +1,14 @@
 ---
 description: 사용자가 앱과 상호 작용할 수 있도록 사용자 인증을 활성화하려면 인증 패키지를 설치합니다.
-seo-description: 사용자가 앱과 상호 작용할 수 있도록 사용자 인증을 활성화하려면 인증 패키지를 설치합니다.
-seo-title: 인증 패키지
-solution: Experience Manager
 title: 인증 패키지
-uuid: 4eec30cf-66b6-408d-985d-3e23b8b70d01
+exl-id: 639032ee-ed7d-4cb0-83ba-f11d3dc607b6
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '280'
+source-wordcount: '263'
 ht-degree: 1%
 
 ---
-
 
 # 인증 패키지{#authentication-package}
 
@@ -44,4 +40,3 @@ Livefyre.require(['auth'], function (auth) {
 | `.logout(callback)` | 최종 사용자가 외부 방법으로 로그아웃했으며 모든 신뢰 앱은 다음 로그인 전까지 인증 상태를 지워야 한다는 것을 인증 시 알립니다. 이렇게 하면 Auth에서 유지 관리하는 내부 세션이 지워집니다. |
 | `.authenticate(credentials)` | 사용자가 일부 외부 방법으로 인증했으며 최종 사용자에 대해 Livefyre 인증 토큰이 획득되었음을 Auth에 알립니다. Livefyre 토큰으로 쿠키를 설정하거나 사용자를 위한 토큰이 있고 사용자를 명시적으로 로그인하려는 경우 이 옵션을 사용합니다. 예: <br>`auth.authenticate({&nbsp;livefyre:&nbsp;`<br>`'<insert&nbsp;lftoken&nbsp;string&nbsp;for&nbsp;newly&nbsp;logged-in&nbsp;user>'&nbsp;});` |
 | `.delegate(authDelegate)` | 인증(예: 사용자 정의 인증 흐름)의 구현 세부 정보를 사용자가 정의한 객체에 위임할 수 있습니다. Livefyre 앱의 대화형 기능을 활성화하려면 호스트 페이지에서 호출해야 합니다. |
-
