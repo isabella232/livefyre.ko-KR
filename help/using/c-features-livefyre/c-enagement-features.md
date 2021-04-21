@@ -1,18 +1,14 @@
 ---
 description: 사이트 방문자가 컨텐츠를 검색할 때 사이트에 다시 방문하도록 하는 기능을 사용하여 사이트 방문자의 참여를 유도할 수 있습니다.
-seo-description: 사이트 방문자가 컨텐츠를 검색할 때 사이트에 다시 방문하도록 하는 기능을 사용하여 사이트 방문자의 참여를 유도할 수 있습니다.
-seo-title: 참여 기능
-solution: Experience Manager
 title: 참여 기능
-uuid: 5841a183-62c0-40ae-9cef-884bffb7c39b
+exl-id: 2e5554ad-42f8-445f-90f7-e12d320416d0
 translation-type: tm+mt
-source-git-commit: 0c5420fcb3ba2e12375e92d4574d0a6dff310869
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '426'
+source-wordcount: '405'
 ht-degree: 2%
 
 ---
-
 
 # 참여 기능{#enagement-features}
 
@@ -97,4 +93,3 @@ ht-degree: 2%
 >[!NOTE]
 >
 >수동으로 게시된 컨텐트에 대해서만 이메일이 전송되며 SocialSync 또는 Curate를 통해 스트림으로 가져오는 컨텐트에 대해서는 전송되지 않습니다.
-
