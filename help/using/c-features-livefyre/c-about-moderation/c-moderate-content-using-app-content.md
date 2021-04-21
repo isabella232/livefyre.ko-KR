@@ -1,17 +1,14 @@
 ---
 description: 라이브러리의 앱 콘텐츠 탭에서는 앱 전체에 게시된 콘텐츠를 중재할 수 있습니다.
-seo-description: 라이브러리의 앱 콘텐츠 탭에서는 앱 전체에 게시된 콘텐츠를 중재할 수 있습니다.
-seo-title: 앱 콘텐츠를 사용하여 콘텐츠 중재
 title: 앱 콘텐츠를 사용하여 콘텐츠 중재
-uuid: 1c648128-e7ef-4836-afe5-eff52de30e7e
+exl-id: cbcea643-df5f-44d5-ad8c-b057495fd648
 translation-type: tm+mt
-source-git-commit: 09011bac06f4a1c39836455f9d16654952184962
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '465'
+source-wordcount: '444'
 ht-degree: 0%
 
 ---
-
 
 # 앱 콘텐츠{#moderate-content-using-app-content}를 사용하여 콘텐츠 중재
 
