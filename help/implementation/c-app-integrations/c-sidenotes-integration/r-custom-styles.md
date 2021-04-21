@@ -1,17 +1,14 @@
 ---
 description: 사용자 지정 스타일은 Sidecotes 생성자에 삽입된 객체를 통해 적용됩니다.
-seo-description: 사용자 지정 스타일은 Sidecotes 생성자에 삽입된 객체를 통해 적용됩니다.
-seo-title: 사이드노트 사용자 지정 스타일
 title: 사이드노트 사용자 지정 스타일
-uuid: 0f6d7ad6-1f6a-4ed2-b86a-0d03782e591e
+exl-id: 846605b7-a21e-4600-bf17-18841d2ed96d
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '425'
+source-wordcount: '410'
 ht-degree: 0%
 
 ---
-
 
 # 사이드노트 사용자 지정 스타일{#sidenotes-custom-styles}
 
@@ -38,7 +35,7 @@ new Livefyre.Sidenotes({
 | `blockBtn` | &#39;fontColor&#39;, &#39;fontSize&#39;, &#39;left&#39;, &#39;position&#39;, &#39;right&#39;, &#39;top&#39; | &quot;실행(Launcher) 아이콘&quot;이 sidecote로 지정된 요소 옆에 배치됩니다. |
 | `blockBtnActive` | &#39;fontColor&#39;, &#39;fontSize&#39;, &#39;left&#39;, &#39;position&#39;, &#39;right&#39;, &#39;top&#39; | 활성 상태인 경우 시작 아이콘. |
 | `commentAvatar` | &#39;height&#39;, &#39;width&#39; | 상단 메모 왼쪽에 있는 아바타 이미지. |
-| `commentBody` | &#39;fontColor&#39;, &#39;fontFamily&#39;, &#39;fontSize&#39;, &#39;fontWeight&#39;, &#39;lineHeight&#39; | 스레드된 메모의 텍스트 본문. |
+| `commentBody` | &#39;fontColor&#39;, &#39;fontFamily&#39;, &#39;fontSize&#39;, &#39;fontWeight&#39;, &#39;lineHeight&#39; | 스레드된 메모의 텍스트 본문입니다. |
 | `commentDisplayName` | &#39;fontColor&#39;, &#39;fontFamily&#39;, &#39;fontSize&#39;, &#39;fontWeight&#39;, &#39;lineHeight&#39; | 메모를 남긴 사용자의 표시 이름입니다. |
 | `commentDownvote` | &#39;fontColor&#39;, &#39;fontSize&#39; | 메모에 있는 [다운로드] 단추. |
 | `commentReplyExpand` | &#39;backgroundColor&#39;, &#39;borderColor&#39;, &#39;borderWidth&#39;, &#39;fontColor&#39;, &#39;fontFamily&#39;, &#39;fontSize&#39;, &#39;fontWeight&#39;, &#39;lineHeight&#39; | 많은 수의 답글이 있는 스레드 확장 단추. |
@@ -57,4 +54,3 @@ new Livefyre.Sidenotes({
 | `streamPoweredBy` | &#39;backgroundColor&#39;, &#39;borderColor&#39;, &#39;lineHeight&#39; | &quot;Powered by&quot; footer on the popover. |
 | `streamQueueButton` | &#39;backgroundColor&#39;, &#39;borderColor&#39;, &#39;borderWidth&#39;, &#39;fontColor&#39;, &#39;fontFamily&#39;, &#39;fontSize&#39;, &#39;fontWeight&#39;, &#39;lineHeight&#39; | 새 노트가 열린 팝업으로 스트리밍되는 시기를 나타내는 단추입니다. |
 | `userAvatar` | &#39;height&#39;, &#39;width&#39; | 인증된 사용자의 아바타 이미지를 텍스트 영역 편집기의 왼쪽에 표시합니다. |
-
