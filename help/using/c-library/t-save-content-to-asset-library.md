@@ -1,17 +1,14 @@
 ---
 description: 소셜 검색 탭에서 컨텐츠를 저장하여 앱에서 사용할 컨텐츠를 저장합니다.
-seo-description: 소셜 검색 탭에서 컨텐츠를 저장하여 앱에서 사용할 컨텐츠를 저장합니다.
-seo-title: 자산 라이브러리에 콘텐트 저장
 title: 자산 라이브러리에 콘텐트 저장
-uuid: 5f076a55-4358-4ee5-866e-5b6c0199b580
+exl-id: 7a3adf14-2a93-4ef8-912b-b8dc21078337
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '118'
+source-wordcount: '99'
 ht-degree: 0%
 
 ---
-
 
 # 자산 라이브러리에 콘텐트 저장{#save-content-to-asset-library}
 
