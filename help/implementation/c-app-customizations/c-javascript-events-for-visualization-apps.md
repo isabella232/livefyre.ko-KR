@@ -1,18 +1,14 @@
 ---
 description: 시각화 앱(예를 들어 미디어 월)에 Javascript를 바인딩할 수 있는 이벤트.
-seo-description: 시각화 앱(예를 들어 미디어 월)에 Javascript를 바인딩할 수 있는 이벤트.
-seo-title: 시각화 앱에 대한 Javascript 이벤트
-solution: Experience Manager
 title: 시각화 앱에 대한 Javascript 이벤트
-uuid: 0797c384-7e8e-44fc-9738-a10a48d490cc
+exl-id: 93406d36-881d-4f35-a9a6-b42805f47c85
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '554'
+source-wordcount: '533'
 ht-degree: 74%
 
 ---
-
 
 # 시각화 앱에 대한 Javascript 이벤트{#javascript-events-for-visualization-apps}
 
@@ -30,13 +26,13 @@ ht-degree: 74%
 | 게시물 |  | N/A | 해당 없음 | 해당 없음 | 해당 없음 |  | 해당 없음 |
 | 게시됨 |  | 해당 없음 | 해당 없음 | 해당 없음 | 해당 없음 |  | 해당 없음 |
 | Twitter 답글 | X | X |  | X | X | 해당 없음 | X |
-| Twitter 좋아요 | X | X |  | X | X | 해당 없음 | X |
+| 좋아요 twitter | X | X |  | X | X | 해당 없음 | X |
 | 좋아요 LF | X |  | 해당 없음 | 해당 없음 | 해당 없음 | 해당 없음 | 해당 없음 |
 | LF Unlike | X |  | 해당 없음 | 해당 없음 | 해당 없음 | 해당 없음 | 해당 없음 |
 | 게시물에 공유 | 해당 없음 |  | 해당 없음 | 해당 없음 | 해당 없음 | 해당 없음 | 해당 없음 |
 | 공유 단추 | X | X |  | X | X | 해당 없음 | X |
-| Twitter 공유 | X | X |  | X | X | 해당 없음 | X |
-| Facebook 공유 | X | X |  | X | X | 해당 없음 | X |
+| twitter 공유 | X | X |  | X | X | 해당 없음 | X |
+| facebook 공유 | X | X |  | X | X | 해당 없음 | X |
 | URL 공유 | X | X |  | X | X | 해당 없음 | X |
 | 답글 확장 | 해당 없음 | 해당 없음 | 해당 없음 | 해당 없음 | 해당 없음 | 해당 없음 | 해당 없음 |
 | 답글 축소 | 해당 없음 | 해당 없음 | 해당 없음 | 해당 없음 | 해당 없음 | 해당 없음 | 해당 없음 |
