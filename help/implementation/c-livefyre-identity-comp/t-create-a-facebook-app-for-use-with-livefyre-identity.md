@@ -1,32 +1,28 @@
 ---
-description: Facebook과 함께 Livefyre ID를 사용하여 사용자가 Facebook 로그인을 사용하여 사이트에서 앱과 상호 작용할 수 있도록 할 수 있습니다.
-seo-description: Facebook과 함께 Livefyre ID를 사용하여 사용자가 Facebook 로그인을 사용하여 사이트에서 앱과 상호 작용할 수 있도록 할 수 있습니다.
-seo-title: Livefyre ID와 함께 사용할 Facebook 앱 만들기
-solution: Experience Manager
+description: facebook과 함께 Livefyre ID를 사용하여 사용자가 Facebook 로그인을 사용하여 사이트에서 앱과 상호 작용할 수 있도록 할 수 있습니다.
 title: Livefyre ID와 함께 사용할 Facebook 앱 만들기
-uuid: a7f7be4e-8986-4e79-831a-0bb0ae555599
+exl-id: ec320865-6ea3-4f6f-a5f6-31f3d5cbdc93
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '221'
-ht-degree: 0%
+source-wordcount: '190'
+ht-degree: 1%
 
 ---
 
-
 # Livefyre ID와 함께 사용할 Facebook 앱 만들기{#create-a-facebook-app-for-use-with-livefyre-identity}
 
-Facebook과 함께 Livefyre ID를 사용하여 사용자가 Facebook 로그인을 사용하여 사이트에서 앱과 상호 작용할 수 있도록 할 수 있습니다.
+facebook과 함께 Livefyre ID를 사용하여 사용자가 Facebook 로그인을 사용하여 사이트에서 앱과 상호 작용할 수 있도록 할 수 있습니다.
 
-사용자가 Facebook 자격 증명으로 로그인하도록 허용하려면 Livefyre에 다음 Facebook 앱 정보가 필요합니다.
+사용자가 Facebook 자격 증명으로 로그인할 수 있도록 하려면 Livefyre에 다음과 같은 Facebook 앱 정보가 필요합니다.
 
 * 앱 ID
 * 앱 암호
 
-Livefyre ID에 사용할 Facebook 앱을 만들려면:
+Livefyre ID와 함께 사용할 Facebook 앱을 만들려면:
 
 1. [https://developers.facebook.com/apps](https://developers.facebook.com/apps)로 이동합니다.
-1. Facebook 개발자 계정에 로그인합니다.
+1. facebook 개발자 계정에 로그인합니다.
 1. **[!UICONTROL Add New App]**&#x200B;을 클릭하거나 Livefyre ID에 사용할 기존 앱을 선택합니다.
 1. **[!UICONTROL Settings]**&#x200B;을 클릭한 다음 **[!UICONTROL Basic]**&#x200B;을 클릭합니다. **[!UICONTROL Contact Email]** 주소, **[!UICONTROL Display Name]**, **[!UICONTROL Privacy Policy URL]** 및 **[!UICONTROL Terms of Service URL]**&#x200B;을 입력합니다.
 1. **[!UICONTROL Products]** 옆의 더하기 기호( **[!UICONTROL +]**)를 클릭합니다.
