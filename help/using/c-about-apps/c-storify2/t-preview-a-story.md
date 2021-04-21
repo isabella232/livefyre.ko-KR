@@ -1,18 +1,14 @@
 ---
 description: App Designer를 사용하면 응용 프로그램을 여러 전달 형식으로 미리 볼 수 있으며, 사용자 데이터 또는 샘플 데이터가 표시됩니다.
-seo-description: App Designer를 사용하면 응용 프로그램을 여러 전달 형식으로 미리 볼 수 있으며, 사용자 데이터 또는 샘플 데이터가 표시됩니다.
-seo-title: 스토리 미리 보기
-solution: Experience Manager
 title: 스토리 미리 보기
-uuid: 3b5321c3-1fab-4439-86ab-efa2ffc24f41
+exl-id: b86798dc-2b03-456a-9179-7474fd2f19c3
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '224'
+source-wordcount: '200'
 ht-degree: 0%
 
 ---
-
 
 # 스토리 미리 보기{#preview-a-story}
 
