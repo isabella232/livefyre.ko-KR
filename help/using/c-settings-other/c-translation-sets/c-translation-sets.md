@@ -1,18 +1,14 @@
 ---
 description: 번역 세트를 사용하면 앱의 대체 언어를 지정할 수 있습니다.
-seo-description: 번역 세트를 사용하면 앱의 대체 언어를 지정할 수 있습니다.
-seo-title: 번역 세트
-solution: Experience Manager
 title: 번역 세트
-uuid: 88b705e5-57c8-4065-8a41-a73546bd929a
+exl-id: 1de99602-b97e-42e9-8450-39abd4ba2f9b
 translation-type: tm+mt
-source-git-commit: 09011bac06f4a1c39836455f9d16654952184962
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '1347'
+source-wordcount: '1335'
 ht-degree: 7%
 
 ---
-
 
 # 번역 세트{#translation-sets}
 
@@ -332,4 +328,3 @@ networkConfig["strings"] = customStrings; fyre.conv.load(
 |  | errorDuplicate | 당신의 메모도 마음에 드는데, 두 번 게시할 수는 없습니다. |
 |  | errorGeneral | 오류가 발생했습니다. 다시 시도하십시오. |
 |  | errorServer | 서버에 문제가 발생했습니다. 다시 한번 해 보시겠습니까? |
-
