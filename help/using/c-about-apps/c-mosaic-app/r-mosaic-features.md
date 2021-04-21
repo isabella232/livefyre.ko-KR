@@ -1,18 +1,14 @@
 ---
 description: Mosaic App은 사이트에 대해 이러한 기능을 제공합니다.
-seo-description: Mosaic App은 사이트에 대해 이러한 기능을 제공합니다.
-seo-title: 모자이크 기능
-solution: Experience Manager
 title: 모자이크 기능
-uuid: 95129d56-a4c4-42d5-8c68-c5fc159017e6
+exl-id: 75417bcc-5a30-4928-b922-0dfa625d4525
 translation-type: tm+mt
-source-git-commit: 09011bac06f4a1c39836455f9d16654952184962
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '72'
-ht-degree: 2%
+source-wordcount: '61'
+ht-degree: 3%
 
 ---
-
 
 # 모자이크 기능{#mosaic-features}
 
@@ -37,4 +33,3 @@ Mosaic 앱에는 다음 기능이 있습니다.
 * [Twitter 작업 단추](/help/using/c-features-livefyre/c-enagement-features.md#section_uzm_ldm_d1b)
 * [UGC 커머스](/help/using/c-features-livefyre/c-ugc-commerce.md#c_ugc_commerce)
 * [온사이트 기여도 기능](/help/using/c-features-livefyre/c-on-site-contribution-features.md#section_vzs_t2s_d1b)
-
