@@ -1,18 +1,14 @@
 ---
 description: 2018년 8월 9일 릴리스의 릴리스 노트입니다.
-seo-description: 2018년 8월 9일 릴리스의 릴리스 노트입니다.
-seo-title: 2018년 8월 9일
-solution: Experience Manager
 title: 2018년 8월 9일
-uuid: c59ae5ec-9d26-41c4-9a98-cb95c89ee26a
+exl-id: 7b2fb562-33bf-4c34-ab83-5fc34f5d1f4f
 translation-type: tm+mt
-source-git-commit: 35feb87bb82d1f298496717a65f1972cf4e71104
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '476'
+source-wordcount: '469'
 ht-degree: 8%
 
 ---
-
 
 # 2018년 8월 9일{#august}
 
@@ -38,7 +34,7 @@ ht-degree: 8%
 | 버그 | 라이브러리 | 자산이 라이브러리에서 제대로 저장되지 않는 문제가 해결되었습니다. |
 | 버그 | Livefyre ID | 로그인할 때 403 오류가 발생하는 LF ID 문제를 해결했습니다. |
 | 버그 | 소셜 검색 | 사용자가 소셜 검색의 URL 옵션을 사용하여 공개 Facebook 게시물을 검색할 수 없는 문제를 해결했습니다. |
-| 개선 사항 | 소셜 동기화 | 소셜 네트워크가 개인 정보를 변경했으므로 소셜 동기화가 Facebook에서 더 이상 지원되지 않습니다. |
+| 개선 사항 | 소셜 동기화 | 소셜 네트워크가 개인 정보를 변경했으므로 소셜 동기화가 Facebook에 더 이상 지원되지 않습니다. |
 | 개선 사항 | 스트림 | 이제 앱을 삭제하면 해당 앱과 연결된 모든 스트림이 삭제됩니다. |
 | 개선 사항 | Studio | 이제 고객은 배치와 달리 Livefyre 이벤트를 Adobe Analytics으로 개별적으로 전송할 수 있습니다. |
 | 개선 사항 | Studio | 대화에서 표시되는 모달 윈도우 소셜 네트워크용 앱은 이제 Adobe Experience Manager Livefyre 또는 기타 브랜드화된 모달 창이 아닌 소셜 네트워크의 모달 창이 될 것입니다. |
@@ -52,10 +48,9 @@ ht-degree: 8%
 | 버그 | GDPR | 일부 Instagram 비디오에 대해 옵트아웃 메시지가 표시되지 않던 문제를 수정했습니다. |
 | 버그 | 라이브러리 | 권한이 수동으로 부여된 카드가 잘못된 권한 요청 상태를 표시하는 문제를 해결했습니다. |
 | 버그 | 라이브러리 | 자산을 폴더에 저장할 수 없는 문제가 수정되었습니다. |
-| 버그 | 라이브러리/검색 | 소셜 검색의 Instagram에서 URL을 검색하는 기능이 복원되었습니다. |
+| 버그 | 라이브러리/검색 | 소셜 검색에서 Instagram에서 URL을 검색하는 기능이 복원되었습니다. |
 | 버그 | ModQ | ModQ의 추가 정보 메뉴가 예상대로 표시되지 않았던 문제를 수정했습니다. |
 | 버그 | Rights Management | 페이지가 스크롤될 때 ModQ에서 정렬하는 문제가 해결되었습니다. |
 | 버그 | 스트림 | 스테이징 환경에서 스트림을 볼 때 발생하는 문제가 해결되었습니다. |
 | 개선 사항 | 스트림 | SWF(Safe For Work) 및 Not Safe For Work(작업하기에 안전하지 않음) 토글을 Streams로 추가했습니다. |
 | 개선 사항 | Studio | FileStack을 통해 Livefyre Studio 라이브러리에 업로드된 콘텐트에 스마트 태그 기능을 추가했습니다(모든 에셋의 업로드 기능). |
-
