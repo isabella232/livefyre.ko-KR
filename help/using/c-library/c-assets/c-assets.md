@@ -1,18 +1,14 @@
 ---
 description: Livefyre 앱에서 사용할 선택한 콘텐츠를 수집, 구성 및 유지 관리할 수 있습니다.
-seo-description: Livefyre 앱에서 사용할 선택한 콘텐츠를 수집, 구성 및 유지 관리할 수 있습니다.
-seo-title: 자산
-solution: Experience Manager
 title: 자산
-uuid: 21ab781a-3a05-4725-b77d-92decc2d2e1f
+exl-id: 95656df7-5176-4c7f-8971-7a1f1fadbdde
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '136'
-ht-degree: 2%
+source-wordcount: '123'
+ht-degree: 1%
 
 ---
-
 
 # 자산{#assets}
 
