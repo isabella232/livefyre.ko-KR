@@ -1,17 +1,14 @@
 ---
 description: 2017년 9월 28일 릴리스에 대한 릴리스 노트입니다.
-seo-description: 2017년 9월 28일 릴리스에 대한 릴리스 노트입니다.
-seo-title: 2017년 9월 28일
 title: 2017년 9월 28일
-uuid: 496134d2-1c1e-4097-9af2-6ea65efeb8e2
+exl-id: fa572f36-0b6f-4451-8a4e-1437469ce906
 translation-type: tm+mt
-source-git-commit: 35feb87bb82d1f298496717a65f1972cf4e71104
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '105'
+source-wordcount: '98'
 ht-degree: 11%
 
 ---
-
 
 # 2017년 9월 28일{#september}
 
@@ -29,4 +26,3 @@ ht-degree: 11%
 | **문제 유형** | **구성 요소** | **릴리스 노트** |
 |---|---|---|
 | 개선 사항 | 라이브러리 | 고객이 라이브러리에 업로드한 파일은 자동으로 권한이 부여됩니다. 사용자가 앱에서 &quot;권한 부여 필요&quot; 필터를 활성화한 경우 이 기능은 유용합니다. |
-
