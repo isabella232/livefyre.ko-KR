@@ -1,18 +1,14 @@
 ---
 description: 맵 앱의 크기, 폭 및 상호 작용 옵션을 변경합니다.
-seo-description: 맵 앱의 크기, 폭 및 상호 작용 옵션을 변경합니다.
-seo-title: 트렌드 사용자 지정
-solution: Experience Manager
 title: 트렌드 사용자 지정
-uuid: 4dc58d90-8924-4c89-8f2a-650ac6e0538a
+exl-id: 224fc481-0c71-4d56-b73b-adf53451e968
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '206'
+source-wordcount: '193'
 ht-degree: 0%
 
 ---
-
 
 # 트렌드 사용자 지정{#trending-customizations}
 
@@ -32,4 +28,3 @@ ht-degree: 0%
 * **[!UICONTROL Style]** 및  **[!UICONTROL Config]** 옵션  **[!UICONTROL App Designer]**&#x200B;사용 **[!UICONTROL App Designer]**&#x200B;의 모든 앱에 대한 표준 **[!UICONTROL Style]** 및 **[!UICONTROL Config]** 옵션에 대한 자세한 내용은 앱 맞춤화를 참조하십시오.
 
 * 통합 툴. 통합 도구를 사용하여 앱을 사용자 지정하는 방법에 대한 자세한 내용은 트렌드를 참조하십시오.
-
