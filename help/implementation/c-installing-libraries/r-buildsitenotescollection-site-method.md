@@ -1,18 +1,14 @@
 ---
 description: 사이드노트 유형으로 인스턴스화된 컬렉션 개체를 반환합니다. 컬렉션 개체에서 create_or_update()를 실행하여 빌드 프로세스를 완료합니다.
-seo-description: 사이드노트 유형으로 인스턴스화된 컬렉션 개체를 반환합니다. 컬렉션 개체에서 create_or_update()를 실행하여 빌드 프로세스를 완료합니다.
-seo-title: buildSitenotesCollection 사이트 메서드
-solution: Experience Manager
 title: buildSitenotesCollection 사이트 메서드
-uuid: 2bfbc032-4c0c-48d2-8ce6-02460b38bd6c
+exl-id: c722baf2-91d4-4c05-97e1-ea585e91c416
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '119'
-ht-degree: 6%
+source-wordcount: '94'
+ht-degree: 8%
 
 ---
-
 
 # buildSitenotesCollection 사이트 메서드{#buildsitenotescollection-site-method}
 
