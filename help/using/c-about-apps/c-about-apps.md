@@ -1,18 +1,14 @@
 ---
 description: Studio에서는 앱에 대한 간편한 액세스를 제공하므로 단일 페이지에서 맞춤형 앱을 검색, 편집 및 관리할 수 있습니다.
-seo-description: Studio에서는 앱에 대한 간편한 액세스를 제공하므로 단일 페이지에서 맞춤형 앱을 검색, 편집 및 관리할 수 있습니다.
-seo-title: 앱
-solution: Experience Manager
 title: 앱
-uuid: 672db3b6-722a-4eca-97e5-b877b926b5f6
+exl-id: 1f6df4a9-6d2e-4d62-9f1f-8d38f42e78f9
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '180'
+source-wordcount: '159'
 ht-degree: 1%
 
 ---
-
 
 # 앱{#apps}
 
