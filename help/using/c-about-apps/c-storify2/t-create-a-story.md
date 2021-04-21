@@ -1,18 +1,14 @@
 ---
 description: Storify 2 스토리를 새로 만듭니다.
-seo-description: Storify 2 스토리를 새로 만듭니다.
-seo-title: 스토리 만들기
-solution: Experience Manager
 title: 스토리 만들기
-uuid: ab1d9b9a-9081-4ca0-8df4-1cc6d9c9fd81
+exl-id: dc5a1c5f-53a1-43e2-820b-a1817c6fffeb
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '31'
-ht-degree: 9%
+source-wordcount: '23'
+ht-degree: 13%
 
 ---
-
 
 # 스토리 만들기{#create-a-story}
 
