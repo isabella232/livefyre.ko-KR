@@ -1,29 +1,25 @@
 ---
-description: LinkedIn과 함께 Livefyre ID를 사용하여 사용자가 LinkedIn 로그인을 사용하여 사이트에서 앱을 상호 작용할 수 있습니다.
-seo-description: LinkedIn과 함께 Livefyre ID를 사용하여 사용자가 LinkedIn 로그인을 사용하여 사이트에서 앱을 상호 작용할 수 있습니다.
-seo-title: Livefyre ID와 함께 사용할 LinkedIn 앱 만들기
-solution: Experience Manager
+description: LinkedIn과 함께 Livefyre ID를 사용하여 사용자가 LinkedIn 로그인을 사용하여 사이트에서 앱을 상호 작용할 수 있도록 할 수 있습니다.
 title: Livefyre ID와 함께 사용할 LinkedIn 앱 만들기
-uuid: c5112f24-a4e0-4526-afe8-b8f27a3b2854
+exl-id: e77eca6a-1698-414e-994e-1189f780ada1
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '207'
-ht-degree: 0%
+source-wordcount: '177'
+ht-degree: 1%
 
 ---
 
+# Livefyre ID와 함께 사용할 LinkedIn 앱 만들기{#create-a-linkedin-app-for-use-with-livefyre-identity}
 
-# Livefyre ID에 사용할 LinkedIn 앱 만들기{#create-a-linkedin-app-for-use-with-livefyre-identity}
+LinkedIn과 함께 Livefyre ID를 사용하여 사용자가 LinkedIn 로그인을 사용하여 사이트에서 앱을 상호 작용할 수 있도록 할 수 있습니다.
 
-LinkedIn과 함께 Livefyre ID를 사용하여 사용자가 LinkedIn 로그인을 사용하여 사이트에서 앱을 상호 작용할 수 있습니다.
-
-LinkedIn 로그인을 사용하려면 Livefyre에 다음과 같은 LinkedIn 앱 정보가 필요합니다.
+LinkedIn 로그인을 사용하려면 Livefyre에 다음 LinkedIn 앱 정보가 필요합니다.
 
 * 소비자 키(API 키)
 * 소비자 비밀(API 비밀)
 
-Livefyre ID에 사용할 LinkedIn 앱을 만들려면:
+Livefyre ID와 함께 사용할 LinkedIn 앱을 만들려면:
 
 1. https://www.linkedin.com/secure/developer으로 이동하여 LinkedIn 계정에 로그인하여 새 앱을 만들거나 Livefyre ID에 사용할 기존 앱을 선택합니다.
 1. 클릭 **[!UICONTROL Create Application]**.
