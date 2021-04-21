@@ -1,18 +1,14 @@
 ---
 description: Livefyre 토큰이 이 네트워크에 여전히 유효한지 확인합니다. 부울 값을 반환합니다.
-seo-description: Livefyre 토큰이 이 네트워크에 여전히 유효한지 확인합니다. 부울 값을 반환합니다.
-seo-title: validateLivefyreToken 네트워크 메서드
-solution: Experience Manager
 title: validateLivefyreToken 네트워크 메서드
-uuid: 2bac11de-d6c4-419f-9c7b-92cfb541d07e
+exl-id: c311005d-65fa-4f82-b482-8d173d6275cd
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '86'
-ht-degree: 4%
+source-wordcount: '67'
+ht-degree: 5%
 
 ---
-
 
 # validateLivefyreToken 네트워크 메서드{#validatelivefyretoken-network-method}
 
@@ -81,4 +77,3 @@ network.validate_livefyre_token(lfToken)
 ```
 true 
 ```
-
