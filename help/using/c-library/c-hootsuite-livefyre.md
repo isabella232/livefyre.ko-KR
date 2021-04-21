@@ -1,17 +1,14 @@
 ---
 description: Hootsuite 대시보드에서 바로 사용자 생성 콘텐츠를 조정, 관리 및 공유할 수 있는 Livefyre Experience Manager을 Hootsuite와 함께 사용하는 방법을 살펴볼 수 있습니다.
-seo-description: Hootsuite 대시보드에서 바로 사용자 생성 콘텐츠를 조정, 관리 및 공유할 수 있는 Livefyre Experience Manager을 Hootsuite와 함께 사용하는 방법을 살펴볼 수 있습니다.
-seo-title: Hootsuite에서 Adobe Experience Manager Livefyre 사용
 title: Hootsuite에서 Adobe Experience Manager Livefyre 사용
-uuid: ebf2ba17-1622-4bbe-a374-fb325357ef9f
+exl-id: 1ca84c72-95ec-485d-9c8e-ace4487225d6
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '678'
+source-wordcount: '649'
 ht-degree: 1%
 
 ---
-
 
 # Hootsuite{#use-adobe-experience-manager-livefyre-with-hootsuite}에 Adobe Experience Manager Livefyre 사용
 
@@ -96,7 +93,7 @@ Hootsuite 대시보드에서 바로 사용자 생성 콘텐츠를 조정, 관리
 
 ## Experience Manager Livefyre 앱 플러그인 {#task_33C8CEF4F5E44830B970BB3A7AAA2AA6}
 
-자산 라이브러리를 Hootsuite 스트림에 표시할 수 있을 뿐만 아니라 Instagram, Twitter, Facebook 및 YouTube 스트림의 항목을 Experience Manager Livefyre 라이브러리에 저장할 수도 있습니다.
+Hootsuite 스트림에 에셋 라이브러리를 표시할 수 있을 뿐만 아니라 Instagram, Twitter, Facebook 및 YouTube 스트림의 항목을 Experience Manager Livefyre 라이브러리에 저장할 수도 있습니다.
 
 1. 각 항목 하단에 있는 메뉴 아이콘을 클릭합니다.
 
@@ -109,11 +106,11 @@ Hootsuite 대시보드에서 바로 사용자 생성 콘텐츠를 조정, 관리
 
 1. **라이브러리에 저장**&#x200B;을 클릭하면 항목이 선택한 라이브러리에 저장됩니다.
 
-## Experience Manager Livefyre 미디어 라이브러리 구성 요소 {#task_9CA2D5D49F8E463F9EF475BC09C8ACC9}
+## Experience Manager Livefyre Media Library 구성 요소 {#task_9CA2D5D49F8E463F9EF475BC09C8ACC9}
 
 Hootsuite Composer의 미디어 구성 요소를 통해 에셋에 액세스할 수 있습니다.
 
-1. 컴포저의 **미디어** 섹션에서 **미디어 라이브러리 열기** 링크를 클릭합니다.
+1. 컴포저의 **미디어** 섹션에서 **Media Library** 열기 링크를 클릭합니다.
 
    ![](assets/hootsuite-open-media-library.png)
 
