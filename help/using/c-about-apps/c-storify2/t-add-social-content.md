@@ -1,18 +1,14 @@
 ---
 description: Storify 2는 소셜 컨텐츠를 추가할 수 있는 여러 개의 컨텐츠 소스를 제공합니다.
-seo-description: Storify 2는 소셜 컨텐츠를 추가할 수 있는 여러 개의 컨텐츠 소스를 제공합니다.
-seo-title: 소셜 컨텐츠 추가
-solution: Experience Manager
 title: 소셜 컨텐츠 추가
-uuid: 0bd6579e-ac55-4201-a403-4fcb19e8684b
+exl-id: 2277b525-ef0e-4e66-9260-f81898d93bf1
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '134'
+source-wordcount: '122'
 ht-degree: 0%
 
 ---
-
 
 # 소셜 컨텐츠 추가{#add-social-content}
 
@@ -26,7 +22,7 @@ Storify 2는 소셜 컨텐츠를 추가할 수 있는 여러 개의 컨텐츠 �
 
 >[!NOTE]
 >
->Twitter의 검색 API는 가장 최근 7일 콘텐츠만 반환합니다.
+>Twitter 검색 API는 최근 7일 콘텐츠만 반환합니다.
 
 스토리에 컨텐츠를 추가하려면:
 
