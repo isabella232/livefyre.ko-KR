@@ -1,18 +1,14 @@
 ---
-description: 'null'
-seo-description: 'null'
-seo-title: 네트워크에 변환 세트 적용
-solution: Experience Manager
 title: 네트워크에 변환 세트 적용
-uuid: 3d9a2616-3721-4ac5-a039-aefbf57cf269
+description: 네트워크에 변환 세트 적용
+exl-id: 99f1f007-79a7-49da-a466-472346e9503a
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '62'
-ht-degree: 3%
+source-wordcount: '60'
+ht-degree: 0%
 
 ---
-
 
 # 번역 설정을 네트워크에 적용{#apply-a-translation-set-to-a-network}
 
@@ -21,4 +17,3 @@ ht-degree: 3%
 1. 앱 설정을 선택합니다.
 1. 기본 설정 > 번역 세트로 이동합니다.
 1. 드롭다운 메뉴에서 번역 세트를 선택합니다.
-
