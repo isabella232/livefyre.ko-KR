@@ -1,18 +1,14 @@
 ---
 description: 사이트에 앱을 추가하려면 먼저 Livefyre Studio에서 앱을 만들어야 합니다.
-seo-description: 사이트에 앱을 추가하려면 먼저 Livefyre Studio에서 앱을 만들어야 합니다.
-seo-title: 앱 만들기
-solution: Experience Manager
 title: 앱 만들기
-uuid: 8c2c07fb-a951-47d9-b498-4c487ee83a18
+exl-id: 1d87ae99-3529-497c-b533-13f212abeacd
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '1283'
-ht-degree: 1%
+source-wordcount: '1264'
+ht-degree: 0%
 
 ---
-
 
 # 앱 만들기 {#create-an-app}
 
@@ -174,4 +170,3 @@ Livefyre 스튜디오의 앱 목록에서 앱을 삭제할 수 있습니다. Stu
 1. 클릭 **[!UICONTROL Apps]**.
 1. 삭제할 앱 이름의 오른쪽에 있는 줄임표를 클릭합니다.
 1. **[!UICONTROL Delete App]**&#x200B;을 클릭하여 앱을 삭제합니다.
-
