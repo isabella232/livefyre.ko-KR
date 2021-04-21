@@ -1,18 +1,14 @@
 ---
-description: 'null'
-seo-description: 'null'
-seo-title: 필름스트립 사용자 지정
-solution: Experience Manager
 title: 필름스트립 사용자 지정
-uuid: 99f8b697-4aa3-4813-bcac-d0e0bdee252d
+description: 필름스트립 사용자 지정
+exl-id: 2765699f-7adc-4b17-acfb-ef594ff65e89
 translation-type: tm+mt
-source-git-commit: bd989c97ae5cf06a5ac3deec215f865b0fe95d16
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '523'
+source-wordcount: '521'
 ht-degree: 0%
 
 ---
-
 
 # 필름스트립 사용자 지정{#filmstrip-customizations}
 
@@ -54,4 +50,3 @@ ht-degree: 0%
    * **[!UICONTROL Show related content]** 구문을 사용하는 키-값 쌍으로 전달됩니다. 앱에 게시되었지만 다른 제품 ID로 태그가 지정된 컨텐츠를 표시하려면 이 설정을 전환합니다. 앱의 제품별 콘텐츠가 표시되면 Livefyre가 다른 제품의 콘텐츠와 제품과 연관되지 않은 콘텐츠를 표시합니다. Livefyre는 먼저 동일한 제품 ID로 콘텐츠를 우선 배치하고, 다른 제품 ID를 사용하여 앱에 게시된 콘텐츠를 제품 ID가 없는 앱에 게시했습니다.
 
 Livefyre.js를 사용하여 필름스트립을 사용자 지정하는 방법에 대한 자세한 내용은 [필름스트립 옵션](/help/implementation/c-getting-started/c-implementation-process/c-using-livefyre.js-to-create-customize-and-use-apps-on-your-site.md)을 참조하십시오.
-
