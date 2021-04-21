@@ -1,18 +1,14 @@
 ---
-description: 'null'
-seo-description: 'null'
-seo-title: 회전판 현지화
-solution: Experience Manager
 title: 회전판 현지화
-uuid: 168b061d-dc60-4a4a-b6f7-154a3f81dc00
+description: 회전판 현지화
+exl-id: 9ebe390c-be72-4381-b7b9-8c8fb5afe1c9
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '48'
-ht-degree: 8%
+source-wordcount: '46'
+ht-degree: 4%
 
 ---
-
 
 # 회전판 현지화{#localize-a-carousel}
 
@@ -21,4 +17,3 @@ ht-degree: 8%
    * [회전판에 대한 번역 세트 만들기 및 수정](/help/using/c-settings-other/c-translation-sets/t-create-modify-translation-sets.md)
    * [사이트에 번역 세트 적용](/help/using/c-settings-other/c-translation-sets/t-apply-a-translation-set-to-a-site.md)
    * [네트워크에 변환 세트 적용](/help/using/c-settings-other/c-translation-sets/t-apply-a-translation-set-to-a-network.md)
-
