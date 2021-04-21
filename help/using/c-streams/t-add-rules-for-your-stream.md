@@ -1,18 +1,14 @@
 ---
 description: Streams에 규칙을 추가하여 컨텐츠가 이러한 규칙에 따라 앱 또는 폴더를 자동으로 채울 수 있습니다.
-seo-description: Streams에 규칙을 추가하여 컨텐츠가 이러한 규칙에 따라 앱 또는 폴더를 자동으로 채울 수 있습니다.
-seo-title: 스트림에 대한 규칙 추가
-solution: Experience Manager
 title: 스트림에 대한 규칙 추가
-uuid: 7a3fb400-95e4-49f9-ae39-90654df14665
+exl-id: e3fe5785-ddb3-4a6c-ac58-0ec988dda8bf
 translation-type: tm+mt
-source-git-commit: 8bdb537b38d78dba033d6671b710c2a61934d6b2
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '163'
-ht-degree: 10%
+source-wordcount: '140'
+ht-degree: 12%
 
 ---
-
 
 # 스트림 규칙 추가{#add-rules-for-your-stream}
 
