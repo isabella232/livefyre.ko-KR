@@ -1,18 +1,14 @@
 ---
 description: 이 컬렉션에 대한 암호화된 collectionMeta 토큰을 반환합니다.
-seo-description: 이 컬렉션에 대한 암호화된 collectionMeta 토큰을 반환합니다.
-seo-title: buildCollectionMetaToken 컬렉션 메서드
-solution: Experience Manager
 title: buildCollectionMetaToken 컬렉션 메서드
-uuid: 533c68c3-c014-4fc3-8114-a57af0e44d85
+exl-id: 3b95f877-d064-4885-9a73-866cc859ab82
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '53'
+source-wordcount: '42'
 ht-degree: 0%
 
 ---
-
 
 # buildCollectionMetaToken 컬렉션 메서드{#buildcollectionmetatoken-collection-method}
 
@@ -77,4 +73,3 @@ collection.build_collection_meta_token
 ```
 eyJhbGciOiJIUzI1NiJ9.eyJ0aXRsZSI6InRlc3QiLCJ1cmwiOiJodHRwOi8vd3d3LnRlc3QuY29tIiwidGFncyI6InRlc3RUYWdzIiwiYXJ0aWNsZUlkIjoidGVzdElkIiwidHlwZSI6InJldmlld3MifQ.QB5SnOTVrVXo5RhzJeExEHpCZdxSoxnF7D4QIVQCWsA
 ```
-
