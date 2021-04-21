@@ -1,18 +1,14 @@
 ---
 description: 사진은 사용자의 모바일 사진 라이브러리, 컴퓨터 하드 드라이브 또는 소셜 네트워크 계정에서 모든 앱에 직접 업로드할 수 있습니다.
-seo-description: 사진은 사용자의 모바일 사진 라이브러리, 컴퓨터 하드 드라이브 또는 소셜 네트워크 계정에서 모든 앱에 직접 업로드할 수 있습니다.
-seo-title: 사진 업로드
-solution: Experience Manager
 title: 사진 업로드
-uuid: bec7e088-8b19-4839-977d-03fc1cadaeb9
+exl-id: 67edd667-2698-4a84-b36e-85416371dca5
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '193'
+source-wordcount: '170'
 ht-degree: 0%
 
 ---
-
 
 # 사진 업로드{#upload-photos}
 
