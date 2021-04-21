@@ -1,18 +1,14 @@
 ---
 description: Livefyre 기반의 Android 앱 제작
-seo-description: Livefyre 기반의 Android 앱 제작
-seo-title: Android SDK
-solution: Experience Manager
 title: Android SDK
-uuid: 68793fa9-3ea1-4890-b36d-b631f1c6f7de
+exl-id: 54ea6537-5f27-4174-af25-d17257f23e48
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '427'
+source-wordcount: '419'
 ht-degree: 1%
 
 ---
-
 
 # Android SDK{#android-sdk}
 
@@ -84,4 +80,3 @@ StreamHub Android SDK는 Livefyre API 끝점을 요청하는 데 사용할 수 �
 * **StreamClient** 새 콘텐츠, 업데이트됨 및 삭제된 콘텐츠를 검색할 수 있도록 컬렉션용 스트림을 폴링합니다.
 
 * **컬렉션** 의 콘텐츠를 WriteClientPost, 플래그 및 좋아요.
-
