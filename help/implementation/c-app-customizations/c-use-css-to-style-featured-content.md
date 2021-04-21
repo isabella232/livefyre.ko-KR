@@ -1,18 +1,14 @@
 ---
 description: 사용 가능한 CSS 클래스를 사용하여 앱에 있는 다른 콘텐츠와 다른 맞춤형 콘텐츠의 스타일을 지정할 수 있습니다.
-seo-description: 사용 가능한 CSS 클래스를 사용하여 앱에 있는 다른 콘텐츠와 다른 맞춤형 콘텐츠의 스타일을 지정할 수 있습니다.
-seo-title: CSS를 사용하여 주요 컨텐츠의 스타일 지정
-solution: Experience Manager
 title: CSS를 사용하여 주요 컨텐츠의 스타일 지정
-uuid: c4ab648c-d81f-41b9-9773-ef919649cc46
+exl-id: 6829c1b3-407c-45c1-9bed-c78ab8f5b985
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '126'
+source-wordcount: '105'
 ht-degree: 1%
 
 ---
-
 
 # CSS를 사용하여 주요 콘텐츠의 스타일 지정{#use-css-to-style-featured-content}
 
@@ -30,4 +26,3 @@ ht-degree: 1%
 | .fyre-featured-title | 머리글 텍스트입니다. |
 | .fyre-featured-body | 독자의 주요 콘텐트에 대한 컨테이너 div. |
 | .fyre-featured-quote | 각 컨텐츠 항목을 시작하는 견적 아이콘. |
-
