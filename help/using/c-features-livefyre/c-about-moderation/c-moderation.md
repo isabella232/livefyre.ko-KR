@@ -1,17 +1,14 @@
 ---
 description: Livefyre 스팸 및 오용 필터링 엔진(SAFE)은 들어오는 모든 콘텐츠를 분석하는 백그라운드 프로세스이며 모든 Livefyre 고객을 위해 제공됩니다.
-seo-description: Livefyre 스팸 및 오용 필터링 엔진(SAFE)은 들어오는 모든 콘텐츠를 분석하는 백그라운드 프로세스이며 모든 Livefyre 고객을 위해 제공됩니다.
-seo-title: 안전 규칙
 title: 안전 규칙
-uuid: 2f91d0d4-dffe-4651-88af-79bbb96c1b5c
+exl-id: 13cd8df0-c4b7-436e-ba07-64ec67321d6b
 translation-type: tm+mt
-source-git-commit: 09011bac06f4a1c39836455f9d16654952184962
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '885'
+source-wordcount: '859'
 ht-degree: 0%
 
 ---
-
 
 # SAFE 규칙{#safe-rules}
 
@@ -107,4 +104,3 @@ SAFE는 필터링된 컨텐츠에 다음 플래그를 적용하고 Livefyre Stud
 * [사이드노트](/help/using/c-about-apps/c-sidenotes-app/c-sidenotes-app.md#c_sidenotes_app)
 * [Storify 2](/help/using/c-about-apps/c-storify2/c-storify2.md#c_storify2)
 * [업로드 버튼](/help/using/c-about-apps/c-upload-button-app/c-upload-button-app.md#c_upload_button_app)
-
