@@ -1,14 +1,12 @@
 ---
 description: Adobe 시작을 위한 Adobe Livefyre 익스텐션을 구성하는 방법에 대해 학습합니다.
-seo-description: Adobe 시작을 위한 Adobe Livefyre 익스텐션을 구성하는 방법에 대해 학습합니다.
-seo-title: Adobe 시작 Livefyre 확장
 title: Adobe 시작 Livefyre 확장
-uuid: 98108ddb-5710-4331-891b-7e1bbb106059
+exl-id: e594720d-2226-4eb5-b8d0-e86b59bb25a1
 translation-type: tm+mt
-source-git-commit: 155791af94c277e7afdbd51521e00da77169911e
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '142'
-ht-degree: 37%
+source-wordcount: '128'
+ht-degree: 41%
 
 ---
 
