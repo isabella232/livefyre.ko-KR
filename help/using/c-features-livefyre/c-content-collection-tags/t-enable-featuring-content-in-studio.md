@@ -1,18 +1,14 @@
 ---
 description: 콘텐츠를 만들려면 먼저 Studio에서 [주요 주석 활성화] 설정을 활성화해야 합니다.
-seo-description: 콘텐츠를 만들려면 먼저 Studio에서 [주요 주석 활성화] 설정을 활성화해야 합니다.
-seo-title: Studio에서 콘텐츠 제공 활성화
-solution: Experience Manager
 title: Studio에서 콘텐츠 제공 활성화
-uuid: d903a2fd-4173-4dd1-8afb-2f9b2c4468d1
+exl-id: 09f946c1-1cf9-4f64-a5cb-f6f602a3c05e
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '73'
-ht-degree: 2%
+source-wordcount: '54'
+ht-degree: 3%
 
 ---
-
 
 # Studio{#enable-featuring-content-in-studio}에서 콘텐츠 제공 활성화
 
