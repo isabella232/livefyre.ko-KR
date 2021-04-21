@@ -1,18 +1,14 @@
 ---
-description: 'null'
-seo-description: 'null'
-seo-title: Livefyre 분석 이벤트
-solution: Experience Manager
 title: Livefyre 분석 이벤트
-uuid: 4eb5a196-ca33-40f8-a96d-ed46469223de
+description: Livefyre 분석 이벤트
+exl-id: ec32414c-0580-44dc-ae5b-6df0b42c0ec3
 translation-type: tm+mt
-source-git-commit: 5dc11c42a9f8bf3fa088f3245e21b6942d4865fe
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '542'
+source-wordcount: '540'
 ht-degree: 4%
 
 ---
-
 
 # Livefyre 분석 이벤트
 
@@ -58,14 +54,14 @@ ht-degree: 4%
 | 보기 | 앱이 뷰포트에 처음 입력했을 때. |
 | 게시물 | 사용자가 언제든지 ex를 비롯한 댓글 또는 컨텐츠 일부를 게시할 수 있습니다.최상위 게시물, 답글, 검토, 미디어 담벼락 업로드 |
 | 게시됨 | 게시물이 성공했을 때 |
-| Twitter_Reply | Twitter에서 사용자가 응답할 때마다 |
-| Twitter_Like | 컨텐츠가 공유된 위치:리트윗 |
+| Twitter_회신 | 사용자가 Twitter에 응답할 때마다 |
+| Twitter_좋아요 | 컨텐츠가 공유된 위치:리트윗 |
 | Livefyre_Like | livefyre와 유사한 기능이 앱에서 언제든지 사용 |
 | Livefyre_Unlike | 사용자가 언제든지 |
 | ShareOnPost | 사용자가 컨텐츠를 게시하고 게시물에서 공유 기능을 사용할 때마다 |
 | ShareButtonClick | 사용자가 언제든지 댓글에 있는 공유 버튼을 클릭하면 |
-| ShareTwitter | Twitter에 공유를 클릭할 때 |
-| ShareFacebook | Facebook에 공유를 클릭할 때 |
+| ShareTwitter | twitter에 공유를 클릭할 때 |
+| ShareFacebook | facebook에 공유를 클릭할 때 |
 | ShareURL | URL에 공유 텍스트 영역이 선택/복사되면 |
 | 답글 확장 | 사용자가 + 또는 확장 링크를 클릭하여 최상위 게시물의 모든 답글을 볼 때 |
 | 답글 축소 | 사용자가 - 또는 축소 링크를 클릭하여 최상위 게시물의 모든 답글을 볼 때 |
