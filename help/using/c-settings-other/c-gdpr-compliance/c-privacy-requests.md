@@ -1,17 +1,14 @@
 ---
 description: Livefyre에서 개인정보 보호 요청을 만듭니다.
-seo-description: Livefyre에서 개인정보 보호 요청을 만듭니다.
-seo-title: 개인 정보 요청 만들기
 title: 개인 정보 요청 만들기
-uuid: 9fdbd564-0cea-4e4f-bdea-d5b8744fe63a
+exl-id: 117e1edb-becd-45f2-bfe5-12fb19ad01e0
 translation-type: tm+mt
-source-git-commit: 0c5420fcb3ba2e12375e92d4574d0a6dff310869
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '619'
+source-wordcount: '609'
 ht-degree: 0%
 
 ---
-
 
 # 개인 정보 요청 만들기{#create-a-privacy-request}
 
@@ -52,23 +49,23 @@ Livefyre에서 개인정보 보호 요청을 만듭니다.
          * 허용된 값:최대 255자 영숫자 문자열. 이메일 주소가 올바른 입력이 아닙니다.
       * **[!UICONTROL Facebook User]**
 
-         * Facebook에서 제공한 숫자 ID로 계정을 식별합니다. 요청자가 이것을 제공해야 합니다. 숫자 Facebook ID [여기에서 ](https://www.facebook.com/help/1397933243846983?helpref=faq_content)을 찾는 방법에 대한 지침을 찾을 수 있습니다.
+         * facebook에서 제공한 숫자 ID로 계정을 식별합니다. 요청자가 이것을 제공해야 합니다. 숫자 Facebook ID [여기에서 ](https://www.facebook.com/help/1397933243846983?helpref=faq_content)을 찾는 방법에 대한 지침을 찾을 수 있습니다.
          * 허용된 값:6-16자 숫자
       * **[!UICONTROL Instagram User]**
 
-         * Instagram에서 제공한 숫자 ID로 계정을 식별합니다. 요청자가 이것을 제공해야 합니다. 온라인에서 검색하여 Instagram 계정에서 숫자 Instagram ID를 찾는 방법에 대한 지침을 찾을 수 있습니다
+         * instagram에서 제공한 숫자 ID로 계정을 식별합니다. 요청자가 이것을 제공해야 합니다. 온라인으로 검색하여 Instagram 계정에서 숫자 Instagram ID를 찾는 방법에 대한 지침을 찾을 수 있습니다
          * 허용된 값:5-16자 숫자
       * **[!UICONTROL Twitter User]**
 
-         * Twitter에서 제공하는 숫자 ID로 계정을 식별합니다. 개인 정보 변경을 요청하는 사람이 제공해야 합니다. 온라인으로 검색하여 Twitter 계정의 숫자 Twitter ID를 찾는 방법에 대한 지침을 찾을 수 있습니다
+         * twitter에서 제공한 숫자 ID로 계정을 식별합니다. 개인 정보 변경을 요청하는 사람이 제공해야 합니다. 온라인으로 검색하여 Twitter 계정의 숫자 Twitter ID를 찾는 방법에 대한 지침을 찾을 수 있습니다
          * 허용된 값:5-16자 숫자
       * **[!UICONTROL YouTube User]**
 
-         * YouTube에서 제공하는 숫자 ID로 계정을 식별합니다. 개인 정보 변경을 요청하는 사람이 제공해야 합니다. YouTube 계정 [여기](https://support.google.com/youtube/answer/3250431?hl=en)에서 숫자 YouTube ID를 찾는 방법에 대한 지침을 찾을 수 있습니다.
+         * YouTube에서 제공한 숫자 ID로 계정을 식별합니다. 개인 정보 변경을 요청하는 사람이 제공해야 합니다. YouTube 계정 [여기](https://support.google.com/youtube/answer/3250431?hl=en)에서 숫자 YouTube ID를 찾는 방법에 대한 지침을 찾을 수 있습니다.
          * 허용된 값:5-16자 숫자
       * **[!UICONTROL Generic Author]**
 
-         * Livefyre 작성자 ID(JID)로 계정을 식별합니다. RSS, Tumblr 또는 URL을 통해 소스를 받는 콘텐츠에 이 옵션을 사용합니다. 이 ID를 찾으려면 **앱 콘텐츠** 또는 **자산 라이브러리**&#x200B;에서 작성자에게 속하는 콘텐츠를 검색한 다음 항목을 선택합니다. ID는 **App Content** Info **아래** Info&lt;a3/> 또는 **Details** 섹션의 **Author** 아래의 **자산 라이브러리**&#x200B;에서 사용할 수 있습니다.
+         * Livefyre 작성자 ID(JID)로 계정을 식별합니다. RSS, Tumblr 또는 URL을 통해 소스를 받는 콘텐츠에 이 옵션을 사용합니다. 이 ID를 찾으려면 **앱 콘텐츠** 또는 **자산 라이브러리**&#x200B;에서 작성자에게 속하는 콘텐츠를 검색한 다음 항목을 선택합니다. ID는 **App Content** Info **아래** Info 또는 **Details** 섹션의 **Author** 아래의 **자산 라이브러리**&#x200B;에서 사용할 수 있습니다.
 
          * 허용된 값:최대 255자 영숫자 문자열
 
@@ -90,4 +87,3 @@ Livefyre에서 개인정보 보호 요청을 만듭니다.
    >[!IMPORTANT]
    >
    >계정에 대한 데이터를 삭제하면 계정과 관련된 데이터가 영구적으로 삭제되거나 삭제됩니다. 이 작업은 되돌릴 수 없으며, 삭제한 후에는 데이터를 복구할 수 없습니다.
-
