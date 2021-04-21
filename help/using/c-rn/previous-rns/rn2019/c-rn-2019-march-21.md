@@ -1,17 +1,14 @@
 ---
 description: 2019년 3월 21일 릴리스에 대한 릴리스 노트입니다.
-seo-description: 2019년 3월 21일 릴리스에 대한 릴리스 노트입니다.
-seo-title: 릴리스 노트
-solution: Experience Manager
 title: 2019년 3월 21일자 Livefyre 릴리스 노트
+exl-id: 965432d1-e706-48a8-ad58-8b3c28fdcf6f
 translation-type: tm+mt
-source-git-commit: 8dfd0ba4f1c0097f7e42818fa5c1ca81f3a77394
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '89'
-ht-degree: 5%
+source-wordcount: '80'
+ht-degree: 3%
 
 ---
-
 
 # 2019년 3월 21일 업데이트에 대한 릴리스 노트
 
