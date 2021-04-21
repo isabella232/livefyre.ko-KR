@@ -1,17 +1,14 @@
 ---
 description: Livefyre.js 인증 패키지는 페이지의 모든 소셜 구성 요소에서 단일 인증 통합을 검색할 수 있도록 합니다.
-seo-description: Livefyre.js 인증 패키지는 페이지의 모든 소셜 구성 요소에서 단일 인증 통합을 검색할 수 있도록 합니다.
-seo-title: Livefyre ID 초기화
 title: Livefyre ID 초기화
-uuid: 9365d827-2734-4a84-bfe7-9be573b2b03e
+exl-id: 9990d284-a21e-49fb-932c-62906b41484a
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '112'
+source-wordcount: '91'
 ht-degree: 0%
 
 ---
-
 
 # Livefyre ID 초기화{#initialize-livefyre-identity}
 
