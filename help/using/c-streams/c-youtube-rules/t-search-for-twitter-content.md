@@ -1,19 +1,16 @@
 ---
 description: 소셜 검색을 사용하여 자산 라이브러리에 포함하거나 앱에 게시할 Twitter 컨텐츠를 검색합니다.
-seo-description: 소셜 검색을 사용하여 자산 라이브러리에 포함하거나 앱에 게시할 Twitter 컨텐츠를 검색합니다.
-seo-title: Twitter 컨텐츠 검색
-title: Twitter 컨텐츠 검색
-uuid: 7e36cc1f-7dce-446b-84b6-22939e8dcaf5
+title: twitter 컨텐츠 검색
+exl-id: 25cb5b74-0e6c-4f00-90f9-1022a13406ca
 translation-type: tm+mt
-source-git-commit: df5991d9d70282b289f2cca954dc8727c82d699f
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '318'
+source-wordcount: '296'
 ht-degree: 0%
 
 ---
 
-
-# Twitter 컨텐츠 검색{#search-for-twitter-content}
+# twitter 내용 검색{#search-for-twitter-content}
 
 소셜 검색을 사용하여 자산 라이브러리에 포함하거나 앱에 게시할 Twitter 컨텐츠를 검색합니다.
 
@@ -22,7 +19,7 @@ ht-degree: 0%
 라이브러리에 새 에셋을 추가하면 라이브러리에 이미 포함된 에셋은 확인 표시로 표시됩니다.
 
 1. **[!UICONTROL Social Search]**&#x200B;으로 이동합니다.
-1. Twitter 컨텐츠를 검색하려면 **[!UICONTROL Twitter]**&#x200B;을 선택합니다.
+1. twitter 내용을 검색하려면 **[!UICONTROL Twitter]**&#x200B;을 선택합니다.
 1. 키워드, #hashtag 또는 @person을 입력합니다. 검색 막대의 오른쪽 풀다운 메뉴에서 검색 유형을 선택하여 검색을 조정할 수 있습니다.
 
    * **[!UICONTROL Subject Search:]** 기본값은 입력 텍스트에 대해 사용 가능한 모든 필드를 검색합니다.
