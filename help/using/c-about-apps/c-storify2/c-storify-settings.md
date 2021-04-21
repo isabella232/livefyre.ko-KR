@@ -1,18 +1,14 @@
 ---
 description: 태그, 중재 및 허용된 컨텐츠 등 Storify 2 스토리에 대한 설정을 조정합니다.
-seo-description: 태그, 중재 및 허용된 컨텐츠 등 Storify 2 스토리에 대한 설정을 조정합니다.
-seo-title: 설정 저장
-solution: Experience Manager
 title: 설정 저장
-uuid: 030936fb-7c8b-487e-b468-7128b641c8ed
+exl-id: 11eed2ef-5e6d-4a7c-b6bb-b195b89fc79d
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '133'
+source-wordcount: '119'
 ht-degree: 0%
 
 ---
-
 
 # 저장소 설정{#storify-settings}
 
@@ -57,4 +53,3 @@ ht-degree: 0%
 * **[!UICONTROL Allow Bulk Content]**
 
    일치하는 텍스트를 포함하는 여러 게시물을 허용합니다.
-
