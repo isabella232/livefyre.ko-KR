@@ -1,18 +1,14 @@
 ---
 description: 참조 트래픽에서 페이지로의 클릭을 추적합니다.
-seo-description: 참조 트래픽에서 페이지로의 클릭을 추적합니다.
-seo-title: 참조 추적
-solution: Experience Manager
 title: 참조 추적
-uuid: 5206cc16-9671-4b3d-a013-be1a3e8c029d
+exl-id: 9955d4a4-184d-421f-bcde-b19342b0b181
 translation-type: tm+mt
-source-git-commit: bd989c97ae5cf06a5ac3deec215f865b0fe95d16
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '238'
+source-wordcount: '227'
 ht-degree: 2%
 
 ---
-
 
 # 참조 추적{#referral-tracking}
 
