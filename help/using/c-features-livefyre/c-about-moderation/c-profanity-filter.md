@@ -1,18 +1,14 @@
 ---
-description: 'null'
-seo-description: 'null'
-seo-title: 비속어 필터 사용
-solution: Experience Manager
 title: 비속어 필터 사용
-uuid: b0b1fbae-c88c-403c-9b91-df6620675f39
+description: 비속어 필터 사용
+exl-id: 6ea7d913-f562-42a5-a6ea-241aa4e1089a
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '691'
-ht-degree: 1%
+source-wordcount: '689'
+ht-degree: 0%
 
 ---
-
 
 # 비속어 필터 사용{#using-the-profanity-filter}
 
@@ -90,4 +86,3 @@ Livefyre는 기본 비속어 목록을 제공합니다. 네트워크 수준에�
 >[!NOTE]
 >
 >스튜디오 관리자와 중재자만 비속어 목록을 편집할 수 있습니다.
-
