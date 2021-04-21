@@ -1,20 +1,16 @@
 ---
 description: <DATE> 릴리스의 릴리스 노트입니다.
-seo-description: <DATE> 릴리스의 릴리스 노트입니다.
-seo-title: 릴리스 노트
-solution: Experience Manager
-title: 릴리스 노트
-uuid: 34e64943-dea6-46ac-9fcc-8febeab6aa42
+title: 릴리스 정보
 translation-type: tm+mt
-source-git-commit: a314ad0bbc845c2f9e1a37d89137110e766529b4
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '51'
+source-wordcount: '43'
 ht-degree: 25%
 
 ---
 
 
-# 릴리스 노트{#release-notes}
+# 릴리스 정보{#release-notes}
 
 `<DATE>` 릴리스의 릴리스 노트입니다.
 
