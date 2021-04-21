@@ -1,17 +1,14 @@
 ---
 description: 2017년 11월 2일 릴리스에 대한 릴리스 노트입니다.
-seo-description: 2017년 11월 2일 릴리스에 대한 릴리스 노트입니다.
-seo-title: 2017년 11월 2일
 title: 2017년 11월 2일
-uuid: 496fdc55-3386-48f2-a491-26dc2bc8aa72
+exl-id: bfc8fd65-550b-477e-be96-aa310bc64ea0
 translation-type: tm+mt
-source-git-commit: 35feb87bb82d1f298496717a65f1972cf4e71104
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '321'
+source-wordcount: '314'
 ht-degree: 7%
 
 ---
-
 
 # 2017년 11월 2일{#november}
 
@@ -35,7 +32,6 @@ ht-degree: 7%
 | 개선 사항 | 기능 카드 | 기능 카드 앱에는 모든 상거래 기능이 활성화됩니다. |
 | 개선 사항 | 필름스트립 | 사용자가 앱에서 이미지가 어떻게 표시되는지 더 잘 제어할 수 있도록 필름스트립에 대한 크기 조정 옵션이 추가되었습니다. |
 | 개선 사항 | 라이브러리 | 고객이 에셋을 라이브러리에 저장할 때 Livefyre는 Adobe Sensei 기계 학습 기술을 사용하여 에셋 이미지의 내용을 설명하는 태그를 자동으로 추가합니다. 이렇게 하면 시스템에서 해당 태그를 검색할 수 있습니다. SP |
-| 개선 사항 | Rights Management | Instagram 컨텐츠가 삭제되거나 비공개 계정으로 표시된 공개 권한 요청의 경우 권한 상태는 &quot;만료됨&quot;으로 표시되고 컨텐츠가 이제 비공개/삭제되었음을 알리는 활동 내역 항목이 표시됩니다. |
+| 개선 사항 | Rights Management | instagram 컨텐츠가 삭제 또는 비공개 계정으로 표시된 공개 권한 요청의 경우, 권한 상태는 &quot;만료&quot;로 표시되고 컨텐츠가 이제 비공개/삭제되었음을 알리는 활동 내역 항목이 표시됩니다. |
 | 개선 사항 | 설정 | 이제 설정 바닥글의 개인 정보 보호 정책 및 Adobe 서비스 약관을 참조할 수 있습니다. |
 | 버그 | Studio | Livefyre는 이제 Studio 및 Apps에서 280자로 구성된 Twitter 에셋을 완전히 렌더링할 수 있습니다. |
-
