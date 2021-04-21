@@ -1,18 +1,14 @@
 ---
 description: 사이드노트 앱은 사이트에 대해 이러한 기능을 제공합니다.
-seo-description: 사이드노트 앱은 사이트에 대해 이러한 기능을 제공합니다.
-seo-title: 사이드노트 기능
-solution: Experience Manager
 title: 사이드노트 기능
-uuid: f175c1a7-2ccb-43f9-bc21-cc418dbbeb48
+exl-id: 94830b1a-0faa-43f4-aec4-17c44adf0d0f
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '207'
+source-wordcount: '196'
 ht-degree: 0%
 
 ---
-
 
 # 사이드노트 기능{#sidenotes-features}
 
@@ -27,5 +23,4 @@ ht-degree: 0%
 * 페이지의 모든 부분에 포함된 댓글 수를 보여주는 Livefyre 아이디어 버블을 클릭하여 다른 사람의 주석을 읽을 수 있습니다.
 * 기존 사이드노트에 답글을 답니다.
 * 메모 유용성에 투표하여 주석 목록의 맨 위에 유용한 메모를 보냅니다.
-* 메모 위로 마우스를 가져가면 나타나는 줄임표를 클릭하여 Facebook이나 Twitter에 특정 시드노트를 공유합니다.
-
+* 메모를 마우스로 가리키면 나타나는 타원을 클릭하여 Facebook 또는 Twitter에 특정 사이드노트를 공유합니다.
