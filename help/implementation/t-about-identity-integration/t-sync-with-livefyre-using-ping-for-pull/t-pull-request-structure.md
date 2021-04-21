@@ -1,18 +1,14 @@
 ---
 description: 사용자 ID 시스템에 대한 액세스 요청을 받고 응답하도록 가져오기 요청 구조를 만듭니다.
-seo-description: 사용자 ID 시스템에 대한 액세스 요청을 받고 응답하도록 가져오기 요청 구조를 만듭니다.
-seo-title: 요청 구조 가져오기
-solution: Experience Manager
 title: 요청 구조 가져오기
-uuid: bf6b9e45-d08a-48e6-acc6-e4fa56428d25
+exl-id: 70203b23-9d7c-4a22-94ba-2a763e200972
 translation-type: tm+mt
-source-git-commit: cf447db2cb3498fcb01b511848faeee4d1e48481
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '211'
+source-wordcount: '190'
 ht-degree: 0%
 
 ---
-
 
 # 요청 구조 가져오기{#pull-request-structure}
 
