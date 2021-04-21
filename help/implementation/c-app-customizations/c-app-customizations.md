@@ -1,18 +1,14 @@
 ---
 description: 브랜딩 및 스타일에 맞게 앱 표시 옵션을 사용자 정의하고 맞춤형 기능을 추가할 수 있습니다.
-seo-description: 브랜딩 및 스타일에 맞게 앱 표시 옵션을 사용자 정의하고 맞춤형 기능을 추가할 수 있습니다.
-seo-title: 앱 맞춤화
-solution: Experience Manager
 title: 앱 맞춤화
-uuid: 6f27654d-c2b4-45b5-aae7-6fbf312fb829
+exl-id: 897579fb-11b5-4a00-b2bf-86f505b79003
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '171'
+source-wordcount: '155'
 ht-degree: 0%
 
 ---
-
 
 # 앱 사용자 지정{#app-customizations}
 
@@ -41,4 +37,3 @@ Livefyre는 사용자의 취향에 맞게 Apps의 상호 작용 및 표시 옵�
 * **앱 이벤트 수신**
 
    사용 가능한 JavaScript 이벤트를 사용하여 사용자 경험을 보다 세부적으로 사용자 정의하고 추적할 수 있습니다.
-
