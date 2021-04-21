@@ -1,18 +1,14 @@
 ---
 description: Livefyre에서 새 스트림을 만들어 앱 또는 폴더에 콘텐츠를 추가합니다.
-seo-description: Livefyre에서 새 스트림을 만들어 앱 또는 폴더에 콘텐츠를 추가합니다.
-seo-title: 새 스트림 만들기
-solution: Experience Manager
 title: 새 스트림 만들기
-uuid: 2874660b-d26b-4e21-b24e-484744e2303a
+exl-id: 70d1b745-205e-40d8-bfb8-702977648fb7
 translation-type: tm+mt
-source-git-commit: 0c5420fcb3ba2e12375e92d4574d0a6dff310869
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '157'
+source-wordcount: '139'
 ht-degree: 0%
 
 ---
-
 
 # 새 스트림 만들기{#create-a-new-stream}
 
