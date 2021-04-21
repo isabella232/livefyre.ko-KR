@@ -1,18 +1,14 @@
 ---
 description: 사용자 콘텐츠를 대화형 맵으로 플롯
-seo-description: 사용자 콘텐츠를 대화형 맵으로 플롯
-seo-title: 맵
-solution: Experience Manager
 title: 맵
-uuid: 1c3e399d-a610-4b80-a3b2-a5502b31480d
+exl-id: 836b475e-0ec6-49f8-b89f-3af3209cf1f2
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '252'
+source-wordcount: '244'
 ht-degree: 2%
 
 ---
-
 
 # 맵{#map}
 
@@ -87,4 +83,3 @@ var map = new Map({
     } 
 });
 ```
-
