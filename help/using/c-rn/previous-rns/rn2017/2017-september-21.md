@@ -1,17 +1,14 @@
 ---
 description: 2017년 9월 21일 릴리스에 대한 릴리스 노트입니다.
-seo-description: 2017년 9월 21일 릴리스에 대한 릴리스 노트입니다.
-seo-title: 2017년 9월 21일
 title: 2017년 9월 21일
-uuid: 1132b48a-f85c-4e05-b312-0093db9ebc8f
+exl-id: 6d01710e-dab4-4065-85c5-b00f45d8d4fd
 translation-type: tm+mt
-source-git-commit: 35feb87bb82d1f298496717a65f1972cf4e71104
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '414'
+source-wordcount: '407'
 ht-degree: 6%
 
 ---
-
 
 # 2017년 9월 21일{#september}
 
@@ -40,4 +37,3 @@ ht-degree: 6%
 | 개선 사항 | UGC 커머스 | 이제 고객은 JSON 파일 내보내기를 사용하여 Google 제품 카탈로그를 LF 스튜디오에 수동으로 업로드할 수 있습니다. 이를 통해 고객은 UGC를 해당 카탈로그의 제품과 페어링하고 상거래 지원 앱에서 이를 시각화할 수 있습니다. |
 | 개선 사항 | UGC 커머스 | 고객은 제품 ID별로 전자 상거래 앱을 필터링할 때 사용할 제품 폴더를 선택할 수 있습니다. 예를 들어 새 필름 스트립을 여성 신발 및 여성 가방 제품 페이지에 표시해야 하므로 &quot;여성용 신발 컬렉션&quot; 및 &quot;여성용 가방&quot; 제품 폴더만 선택합니다. |
 | 개선 사항 | UGC 커머스 | 이제 Livefyre 고객은 권한이 부여된 경우에만 앱에 게시된 UGC를 필터링할 수 있습니다. 예를 들어 고객은 선택한 항목을 조정 및 게시할 수 있지만, 이러한 항목은 작성자가 부여한 권한을 부여받은 경우에만 앱에서 렌더링됩니다. 이는 UGC가 상업적인 용도로 사용되는 전자 상거래 사용 사례에서 특히 중요합니다. |
-
