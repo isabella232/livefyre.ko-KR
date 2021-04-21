@@ -1,18 +1,14 @@
 ---
 description: 2018년 8월 23일 릴리스에 대한 릴리스 노트입니다.
-seo-description: 2018년 8월 23일 릴리스에 대한 릴리스 노트입니다.
-seo-title: 2018년 8월 23일
-solution: Experience Manager
 title: 2018년 8월 23일
-uuid: 668058d8-cd31-416e-afc3-eaf158109e3e
+exl-id: 13117917-6137-49f1-a138-4d4d2e76f17f
 translation-type: tm+mt
-source-git-commit: 35feb87bb82d1f298496717a65f1972cf4e71104
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '284'
-ht-degree: 8%
+source-wordcount: '277'
+ht-degree: 7%
 
 ---
-
 
 # 2018년 8월 23일{#august}
 
@@ -35,7 +31,7 @@ ht-degree: 8%
 | 버그 | GDPR | 일부 Instagram 비디오에 대해 옵트아웃 메시지가 표시되지 않던 문제를 수정했습니다. |
 | 버그 | 라이브러리 | 사용자가 라이브러리 폴더의 기본 Livefyre 비디오를 앱으로 게시할 수 없는 문제를 해결했습니다. |
 | 버그 | 라이브러리 | 자산을 폴더에 저장할 수 없는 문제가 수정되었습니다. |
-| 버그 | 라이브러리/검색 | 소셜 검색의 Instagram에서 URL을 검색하는 기능이 복원되었습니다. |
+| 버그 | 라이브러리/검색 | 소셜 검색에서 Instagram에서 URL을 검색하는 기능이 복원되었습니다. |
 | 버그 | ModQ | ModQ의 추가 정보 메뉴가 예상대로 표시되지 않았던 문제를 수정했습니다. |
 | 버그 | Rights Management | 권한이 수동으로 부여된 카드가 잘못된 권한 요청 상태를 표시하는 문제를 해결했습니다. |
 | 버그 | Rights Management | 페이지가 스크롤될 때 ModQ에서 정렬하는 문제가 해결되었습니다. |
