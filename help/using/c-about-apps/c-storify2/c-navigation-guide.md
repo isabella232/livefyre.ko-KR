@@ -1,18 +1,14 @@
 ---
 description: 탐색 가이드는 Storify에서 주요 정보를 신속하게 식별하고 찾을 수 있는 방법을 제공합니다.
-seo-description: 탐색 가이드는 Storify에서 주요 정보를 신속하게 식별하고 찾을 수 있는 방법을 제공합니다.
-seo-title: 탐색 안내서
-solution: Experience Manager
 title: 탐색 안내서
-uuid: dc32df5b-ad6f-4b3b-8496-38873c383691
+exl-id: 469fd5f9-2e16-4e28-ae5d-41b51a74aeed
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '546'
+source-wordcount: '525'
 ht-degree: 0%
 
 ---
-
 
 # 탐색 안내서{#navigation-guide}
 
