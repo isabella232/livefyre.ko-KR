@@ -1,18 +1,14 @@
 ---
 description: 사이트에 사용자 지정 HTML을 포함하려면 다음 단계를 수행합니다.
-seo-description: 사이트에 사용자 지정 HTML을 포함하려면 다음 단계를 수행합니다.
-seo-title: 주석에 사용자 정의 HTML 포함
-solution: Experience Manager
 title: 주석에 사용자 정의 HTML 포함
-uuid: f7d07286-b3b3-447d-8281-51735f24ddd9
+exl-id: efeefdd8-6f1f-44c2-80c7-1c0d7da1958c
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '112'
+source-wordcount: '97'
 ht-degree: 0%
 
 ---
-
 
 # 주석에 사용자 지정 HTML 포함{#embed-custom-html-in-comments}
 
