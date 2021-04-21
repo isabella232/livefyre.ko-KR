@@ -1,17 +1,14 @@
 ---
 description: 2017년 9월 14일 릴리스에 대한 릴리스 노트입니다.
-seo-description: 2017년 9월 14일 릴리스에 대한 릴리스 노트입니다.
-seo-title: 2017년 9월 14일
 title: 2017년 9월 14일
-uuid: 6d802e5c-b029-40ad-ada6-dc380f1bcfd5
+exl-id: 5667629a-1b65-454b-953c-2119d3d093db
 translation-type: tm+mt
-source-git-commit: 35feb87bb82d1f298496717a65f1972cf4e71104
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '121'
+source-wordcount: '114'
 ht-degree: 7%
 
 ---
-
 
 # 2017년 9월 14일{#september}
 
@@ -29,4 +26,3 @@ ht-degree: 7%
 | **문제 유형** | **구성 요소** | **릴리스 노트** |
 |---|---|---|
 | 버그 | 모자이크 | UGC의 IE11에서 Mosaic가 회색 상자를 표시하는 제작 버그입니다. 이걸 수정했어요 -SP |
-
