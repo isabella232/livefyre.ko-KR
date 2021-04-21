@@ -1,18 +1,14 @@
 ---
 description: 네트워크 클래스 메서드에 대한 설명입니다.
-seo-description: 네트워크 클래스 메서드에 대한 설명입니다.
-seo-title: 네트워크 메서드
-solution: Experience Manager
 title: 네트워크 메서드
-uuid: f237fead-36b5-4ea1-bfdd-55194d3306e1
+exl-id: 9d43ae5f-1f59-4d0e-8bd4-2f22bacc90b6
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '82'
+source-wordcount: '73'
 ht-degree: 2%
 
 ---
-
 
 # 네트워크 메서드{#network-methods}
 
@@ -38,4 +34,3 @@ Network 객체에는 다음 메서드를 사용할 수 있습니다.
 * PHP
 * 파이톤
 * 루비
-
