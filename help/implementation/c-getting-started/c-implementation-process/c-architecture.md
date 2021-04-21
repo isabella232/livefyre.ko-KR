@@ -1,18 +1,14 @@
 ---
 description: Livefyre 규칙과 Livefyre가 콘텐츠를 구성하는 방법에 대해 알아보십시오.
-seo-description: Livefyre 규칙과 Livefyre가 콘텐츠를 구성하는 방법에 대해 알아보십시오.
-seo-title: 아키텍처
-solution: Experience Manager
 title: 아키텍처
-uuid: 94358e6c-954a-4a52-9bb2-d800b2933130
+exl-id: d4fe12d1-117a-4aae-90ff-e9ebdd6c5bac
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '443'
+source-wordcount: '434'
 ht-degree: 0%
 
 ---
-
 
 # 아키텍처{#architecture}
 
