@@ -1,18 +1,14 @@
 ---
 description: 2018년 11월 1일 릴리스에 대한 릴리스 노트입니다.
-seo-description: 2018년 11월 1일 릴리스에 대한 릴리스 노트입니다.
-seo-title: 2018년 11월 1일
-solution: Experience Manager
 title: 2018년 11월 1일
-uuid: ed1a3bf1-b3f1-4746-8462-07283723ba62
+exl-id: b12b6a56-f14f-4447-9fde-25cb3acf6665
 translation-type: tm+mt
-source-git-commit: 09011bac06f4a1c39836455f9d16654952184962
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '360'
-ht-degree: 5%
+source-wordcount: '353'
+ht-degree: 4%
 
 ---
-
 
 # 2018년 11월 1일{#november}
 
@@ -37,7 +33,7 @@ ht-degree: 5%
 
 * Instagram 속도 제한
 
-   Instagram은 Livefyre를 포함하여 Instagram API를 사용하는 모든 회사가 토큰당 시간당 5,000개의 요청에서 토큰당 시간당 200개의 요청으로 요청할 수 있는 요청 수를 변경했습니다. 이것은 *비율 제한*&#x200B;이라고 합니다. 자세한 내용은 [Instagram 속도 제한](/help/using/c-streams/c-instagram-rate-limiting.md)을 참조하십시오.
+   Instagram은 Livefyre를 포함하여 Instagram API를 사용하는 모든 회사가 토큰당 시간당 5,000개의 요청에서 토큰당 시간당 200개의 요청으로 수행할 수 있는 요청 수를 변경했습니다. 이것은 *비율 제한*&#x200B;이라고 합니다. 자세한 내용은 [Instagram 비율 제한](/help/using/c-streams/c-instagram-rate-limiting.md)을 참조하십시오.
 
 * 라이브러리의 오디오 파일
 
@@ -62,5 +58,4 @@ ht-degree: 5%
 | 개선 사항 | GDPR | Analytics 내에서 이전 고객에게 속하는 모든 데이터가 삭제됩니다. |
 | 버그 | 라이브러리 | 라이브러리에 업로드된 후 자산 세부 정보로 본 비디오가 올바르게 표시되지 않는 문제를 해결했습니다. |
 | 버그 | 모자이크 | 모자이크가 Instagram Carousel의 마지막 컨텐츠 조각을 카드 대신 축소판으로 표시하던 문제를 수정했습니다. |
-| 버그 | 소셜 검색 | Instagram 소셜 검색이 예상대로 작동하지 않던 문제를 수정했습니다. |
-
+| 버그 | 소셜 검색 | instagram 소셜 검색이 예상대로 작동하지 않던 문제를 수정했습니다. |
