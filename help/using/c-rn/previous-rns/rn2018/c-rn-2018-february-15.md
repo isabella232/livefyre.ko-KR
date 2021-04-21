@@ -1,18 +1,14 @@
 ---
 description: 2018년 2월 15일 릴리스에 대한 릴리스 노트입니다.
-seo-description: 2018년 2월 15일 릴리스에 대한 릴리스 노트입니다.
-seo-title: 2018년 2월 15일
-solution: Experience Manager
 title: 2018년 2월 15일
-uuid: ee46f088-9fb7-49e2-a42c-e0d4b2f24a32
+exl-id: 7276de37-c8cd-4e85-bc92-90c272e5bf94
 translation-type: tm+mt
-source-git-commit: 09011bac06f4a1c39836455f9d16654952184962
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '301'
+source-wordcount: '294'
 ht-degree: 5%
 
 ---
-
 
 # 2018년 2월 15일{#february}
 
@@ -43,8 +39,8 @@ ht-degree: 5%
 
 | **문제 유형** | **구성 요소** | **릴리스 노트** |
 |---|---|---|
-| 문제 | ModQ | 승인됨 또는 해시된 것으로 표시된 Instagram 게시물이 대기열에 다시 입력되던 문제를 수정했습니다. |
-| 개선 사항 | Rights Management | 권한 요청을 하는 동안 만료된 Instagram 계정을 사용하려고 할 때 경고를 표시하는 개선 사항을 추가했습니다. |
+| 문제 | ModQ | 승인됨 또는 해시된 Instagram 게시물이 대기열에 다시 포함되는 문제를 해결했습니다. |
+| 개선 사항 | Rights Management | 권한 요청을 수행하는 동안 만료된 Instagram 계정을 사용하려고 할 때 경고를 표시하는 개선 사항을 추가했습니다. |
 | 문제 | 트렌드 | 트렌드 앱이 HTTPS가 아닌 HTTP를 항상 허용하는 문제를 해결했습니다. |
 
 ## UAT 릴리스
@@ -54,4 +50,3 @@ ht-degree: 5%
 | 개선 사항 | 앱 | Livefyre에서 앱을 삭제하는 기능이 추가되었습니다. |
 | 문제 | 투표 | HTTPS만을 사용하도록 투표를 변경했습니다. 이전에는 HTTP에 여전히 투표를 사용할 수 있었습니다. |
 | 문제 | UGC | 시각화 앱의 UGC가 예상대로 제품 ID로 필터링되지 않았던 문제를 수정했습니다. |
-
