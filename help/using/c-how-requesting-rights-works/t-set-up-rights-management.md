@@ -1,22 +1,18 @@
 ---
-description: Instagram 및 Twitter 게시물에 대한 권한 요청 설정을 정의합니다.
-seo-description: Instagram 및 Twitter 게시물에 대한 권한 요청 설정을 정의합니다.
-seo-title: Rights Management 설정
-solution: Experience Manager
+description: instagram 및 Twitter 게시물에 대한 권한 요청에 대한 설정을 정의합니다.
 title: Rights Management 설정
-uuid: 3ffcbc95-484f-4eba-b817-658c1d658bf8
+exl-id: d3d3e837-0ed0-47a8-ac5c-7b9da431d149
 translation-type: tm+mt
-source-git-commit: 0c5420fcb3ba2e12375e92d4574d0a6dff310869
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '483'
+source-wordcount: '468'
 ht-degree: 0%
 
 ---
 
-
 # Rights Management 설정{#set-up-rights-management}
 
-Instagram 및 Twitter 게시물에 대한 권한 요청 설정을 정의합니다.
+instagram 및 Twitter 게시물에 대한 권한 요청에 대한 설정을 정의합니다.
 
 권한 요청 설정을 정의하려면 먼저 Instagram 또는 Twitter에 대해 하나 이상의 소셜 계정을 구성해야 합니다. 소셜 계정 구성 방법에 대한 자세한 내용은 [소셜 계정 추가](../c-users-creating-accounts-with-studio-access/t-configure-social-accout-instagram/t-configure-social-accout-instagram.md#t_configure_social_accout_instagram)를 참조하십시오.
 
@@ -35,7 +31,7 @@ Instagram 및 Twitter 게시물에 대한 권한 요청 설정을 정의합니�
 
    >[!NOTE]
    >
-   >Instagram 계정의 경우 일부 자동화로 권한을 요청하려면 Instagram 비즈니스 계정이 있어야 합니다. 다른 종류의 Instagram 계정과 이를 사용하는 방법에 대한 자세한 내용은 [Instagram 계정 정보](../c-users-creating-accounts-with-studio-access/t-configure-social-accout-instagram/c-about-instagram-accounts.md#c_about_instagram_accounts)를 참조하십시오.
+   >instagram 계정의 경우 일부 자동화를 통해 권한을 요청할 수 있는 Instagram 비즈니스 계정이 있어야 합니다. 다양한 유형의 Instagram 계정 및 이를 사용하는 방법에 대한 자세한 내용은 [Instagram 계정 정보](../c-users-creating-accounts-with-studio-access/t-configure-social-accout-instagram/c-about-instagram-accounts.md#c_about_instagram_accounts)를 참조하십시오.
 
 1. 표시된 필드를 채웁니다. 모든 필드는 필수입니다.
 
@@ -46,11 +42,11 @@ Instagram 및 Twitter 게시물에 대한 권한 요청 설정을 정의합니�
    * **[!UICONTROL Network and sites:]** 이 계정이 콘텐츠 재사용 권한을 요청할 수 있는 네트워크 또는 사이트입니다. 전체 네트워크에서 이 계정을 사용할 수 있게 하려면 목록에서 첫 번째 항목을 선택하거나 Command/Ctrl 키를 사용하여 특정 사이트로 제한합니다.
    * **[!UICONTROL Default message:]** 권한 요청과 함께 표시할 메시지입니다. 권한을 요청할 때 이 메시지를 무시할 수 있습니다.
 
-      * 중재자가 컨텐츠 작성자에게 요청을 발행하면 Livefyre는 중재자에게 기본 메시지 중 하나를 제공합니다. 중재자는 보내기 전에 다른 기본 메시지를 생성하거나 메시지를 편집할 수 있습니다. 메시지에 작성자의 Twitter 또는 Instagram 핸들({handle}), 사용자의 승인 해시 태그({grantTag}) 및 약관({termsLink})에 대한 링크가 포함되어야 합니다.
+      * 중재자가 컨텐츠 작성자에게 요청을 발행하면 Livefyre는 중재자에게 기본 메시지 중 하나를 제공합니다. 중재자는 보내기 전에 다른 기본 메시지를 생성하거나 메시지를 편집할 수 있습니다. 메시지는 작성자의 Twitter 또는 Instagram 핸들({handle}), 사용자의 승인 해시 태그({grantTag}) 및 약관({termsLink})에 대한 링크를 포함해야 합니다.
 
          **[!UICONTROL Note:]** {handle}, {grantTag} 및 {termsLink}은 모두 대/소문자를 구분합니다.
 
-         **[!UICONTROL Note:]** 악성 사용을 방지하기 위해 Twitter는 포함된 모든 URL을  [t.](https://t.co/) coformatting으로 래핑합니다. 기본 메시지가 140자를 초과하지 않도록 하려면 기본 메시지에 URL을 포함하지 않는 것이 좋습니다.
+         **[!UICONTROL Note:]** 악성 사용을 방지하기 위해 Twitter은 포함된 모든 URL을  [t.](https://t.co/) coformatting으로 래핑합니다. 기본 메시지가 140자를 초과하지 않도록 하려면 기본 메시지에 URL을 포함하지 않는 것이 좋습니다.
 
       * 권한 요청 메시지를 쓰는 우수 사례:
 
