@@ -1,18 +1,14 @@
 ---
 description: 실시간으로 컨텐츠 스트리밍을 통해 미디어 장벽을 생성할 수 있습니다.
-seo-description: 실시간으로 컨텐츠 스트리밍을 통해 미디어 장벽을 생성할 수 있습니다.
-seo-title: 미디어 벽
-solution: Experience Manager
 title: 미디어 벽
-uuid: c6087c80-a35b-44d2-9dd4-ba9cd471172d
+exl-id: 597af7e1-9ada-4893-9071-e17c21ef0d04
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '753'
+source-wordcount: '742'
 ht-degree: 0%
 
 ---
-
 
 # 미디어 벽{#media-wall}
 
@@ -61,7 +57,7 @@ Livefyre.require([
 
 >[!NOTE]
 >
->미디어 담벼락 앱에서 렌더링된 트윗의 모든 스타일 맞춤화는 Twitter의 [표시 요구 사항](https://dev.twitter.com/terms/display-requirements)에 따라 수행해야 합니다.
+>미디어 담벼락 앱에서 렌더링된 트윗의 모든 스타일 사용자 지정은 Twitter [표시 요구 사항](https://dev.twitter.com/terms/display-requirements)에 따라 수행해야 합니다.
 
 ## 구성 옵션 {#section_ucv_qvb_c1b}
 
