@@ -1,17 +1,14 @@
 ---
 description: Livefyre.require는 Janrain 백플레인 버스를 수신할 수 있도록 하는 플러그인을 제공합니다.
-seo-description: Livefyre.require는 Janrain 백플레인 버스를 수신할 수 있도록 하는 플러그인을 제공합니다.
-seo-title: AuthDelegate를 사용하여 Janrain을 Livefyre에 연결
 title: AuthDelegate를 사용하여 Janrain을 Livefyre에 연결
-uuid: 9d56e3f4-960a-4108-aab5-2795b0e71c88
+exl-id: d0fe0e88-5827-478b-b2ef-03f06fb3902c
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '276'
+source-wordcount: '256'
 ht-degree: 1%
 
 ---
-
 
 # AuthDelegate{#connecting-janrain-to-livefyre-using-authdelegate}을(를) 사용하여 Janrain을 Livefyre에 연결
 
@@ -124,4 +121,3 @@ authDelegate.viewProfile = function(user) {
    console.log(author); 
 };
 ```
-
