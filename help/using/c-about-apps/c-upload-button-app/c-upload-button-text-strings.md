@@ -1,18 +1,14 @@
 ---
 description: 업로드 단추에 대해 이러한 텍스트 문자열을 수정할 수 있습니다.
-seo-description: 업로드 단추에 대해 이러한 텍스트 문자열을 수정할 수 있습니다.
-seo-title: 업로드 단추 텍스트 문자열
-solution: Experience Manager
 title: 업로드 단추 텍스트 문자열
-uuid: f4d24af3-c7cb-468d-96b9-b5360047b5dc
+exl-id: 10467ae3-294a-4c8f-99a4-201019b81ff1
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '403'
-ht-degree: 0%
+source-wordcount: '389'
+ht-degree: 1%
 
 ---
-
 
 # 업로드 단추 텍스트 문자열{#upload-button-text-strings}
 
@@ -39,4 +35,3 @@ ht-degree: 0%
 |  | 머리글 사용 | 사이트 방문자에게 컨텍스트를 제공할 헤더를 활성화합니다. 단추 상단 또는 오른쪽에 헤더를 추가할 수 있습니다. |
 |  | 기본 설명선 제목 | 헤더의 제목에 사용할 텍스트입니다. |
 |  | 기본 설명선 메시지 | 헤더에 사용할 텍스트입니다. |
-
