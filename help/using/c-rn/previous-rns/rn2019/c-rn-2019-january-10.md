@@ -1,15 +1,11 @@
 ---
 description: 2019년 1월 10일 릴리스에 대한 릴리스 노트입니다.
-seo-description: 2019년 1월 10일 릴리스에 대한 릴리스 노트입니다.
-seo-title: 릴리스 노트
-solution: Experience Manager
-title: 릴리스 노트
-uuid: 34e64943-dea6-46ac-9fcc-8febeab6aa42
+title: 릴리스 정보
 translation-type: tm+mt
-source-git-commit: 35feb87bb82d1f298496717a65f1972cf4e71104
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '42'
-ht-degree: 14%
+source-wordcount: '33'
+ht-degree: 12%
 
 ---
 
