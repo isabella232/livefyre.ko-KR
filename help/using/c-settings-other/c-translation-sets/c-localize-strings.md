@@ -1,18 +1,14 @@
 ---
 description: Livefyre 앱의 문자열 맞춤화
-seo-description: Livefyre 앱의 문자열 맞춤화
-seo-title: 문자열 현지화
-solution: Experience Manager
 title: 문자열 현지화
-uuid: c0ab352d-5d3a-45d7-bbd0-aed165835646
+exl-id: 5eb452e3-3b33-4861-9b62-5a41221defab
 translation-type: tm+mt
-source-git-commit: 09011bac06f4a1c39836455f9d16654952184962
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '1996'
+source-wordcount: '1987'
 ht-degree: 8%
 
 ---
-
 
 # 문자열 현지화{#localize-strings}
 
@@ -259,7 +255,7 @@ var customStrings = {
 
 | 키 | 기본 텍스트 |  |
 |---|---|---|
-| Twitter @mention 양식 | menusTitle | 언급 공유 |
+| Twitter @mention | menusTitle | 언급 공유 |
 |  | mentionSubtitleTwitter | 트윗 공유 대상: |
 |  | menusDefaultText | Livefyre의 댓글에서 언급한 적이 있습니다. |
 |  | mentingConfirmButton | 확인 |
@@ -267,7 +263,7 @@ var customStrings = {
 |  | mentingErrorGeneral | 이런! 문제가 발생했습니다. Livefyre에 경고가 표시되었습니다. |
 |  | menusErrorNoneSelected | 적어도 하나의 언급이 활성화되어 있어야 합니다. |
 |  | menusMenuTitle | 친구를 보고 언급하는 방법 |
-|  | mentingTwitterConnect | Twitter에 연결 |
+|  | mentingTwitterConnect | twitter에 연결 |
 |  | mentionTwitterFetch | 친구를 가져오는 중... |
 |  | mentingSuccessMsg | 언급이 성공적으로 전송되었습니다. |
 
@@ -545,5 +541,3 @@ Livefyre ID에 사용할 수 있는 문자열.
 | passwordErrorMissingUppercase | 암호는 대문자를 하나 이상 포함해야 합니다. |
 | passwordErrorMissingLowercase | 암호는 소문자를 하나 이상 포함해야 합니다. |
 | passwordErrorMissingSymbol | 암호는 `!@#$%^&*()?.,<>\’;:”[]{}|` 집합에 하나 이상의 기호를 포함해야 합니다. |
-
-
