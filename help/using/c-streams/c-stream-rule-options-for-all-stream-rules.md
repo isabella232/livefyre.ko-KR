@@ -1,18 +1,14 @@
 ---
 description: 이러한 옵션은 모든 소셜 네트워크의 모든 스트림 규칙 또는 게시 방법에 적용됩니다.
-seo-description: 이러한 옵션은 모든 소셜 네트워크의 모든 스트림 규칙 또는 게시 방법에 적용됩니다.
-seo-title: 모든 스트림 규칙에 대한 스트림 규칙 옵션
-solution: Experience Manager
 title: 모든 스트림 규칙에 대한 스트림 규칙 옵션
-uuid: 4072ee83-31e7-4de6-918c-134b8b8032e1
+exl-id: eff1a3cb-395f-4eb1-be93-f0f09bba95e2
 translation-type: tm+mt
-source-git-commit: 8bdb537b38d78dba033d6671b710c2a61934d6b2
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '412'
-ht-degree: 1%
+source-wordcount: '391'
+ht-degree: 2%
 
 ---
-
 
 # 모든 스트림 규칙에 대한 스트림 규칙 옵션{#stream-rule-options-for-all-stream-rules}
 
@@ -31,7 +27,7 @@ ht-degree: 1%
 * **[!UICONTROL Media]** 구문을 사용하는 키-값 쌍으로 전달됩니다. 다음 중 하나를 선택합니다.
 
    * **[!UICONTROL All Content.]** 모든 컨텐츠를 허용합니다.
-   * **[!UICONTROL Media Required.]** 이미지와 비디오가 포함된 컨텐츠만 허용합니다. (Instagram 및 Facebook 컨텐츠의 경우 **[!UICONTROL Photos]** 또는 **[!UICONTROL Videos]**&#x200B;만 지정할 수 있습니다.)
+   * **[!UICONTROL Media Required.]** 이미지와 비디오가 포함된 컨텐츠만 허용합니다. instagram 및 Facebook 컨텐츠의 경우 **[!UICONTROL Photos]** 또는 **[!UICONTROL Videos]**&#x200B;만 지정할 수 있습니다.
 
 * **[!UICONTROL Language]** 구문을 사용하는 키-값 쌍으로 전달됩니다. 검색할 언어를 선택합니다. 기본 언어는 영어입니다.
 * **[!UICONTROL Smart Tags]** 구문을 사용하는 키-값 쌍으로 전달됩니다. 컨텐츠를 식별하는 데 사용할 태그를 선택합니다. Livefyre는 컴퓨터 비전 기술을 사용하여 특정 스마트 태그가 포함된 사진과 비디오를 찾아 검색을 보다 정확하게 합니다. **[!UICONTROL ANY]** 수정자를 사용하여 태그 또는 **[!UICONTROL ALL]** 수정자를 사용하여 컨텐츠를 스트림으로 필터링하여 모든 태그를 사용하는 스트림으로 컨텐츠를 필터링합니다. 스트림에서 원하지 않는 내용이 포함된 사진에 대한 태그를 입력하려면 **[!UICONTROL Image contains none of these smart tags]** 필드를 사용합니다. 텍스트 내용에는 이 옵션이 작동하지 않습니다.
