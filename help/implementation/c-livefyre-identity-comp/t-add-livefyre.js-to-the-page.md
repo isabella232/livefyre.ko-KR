@@ -1,17 +1,14 @@
 ---
 description: Livefyre.js는 사이트의 앱에 대한 인증을 제공하는 작은 기본 라이브러리입니다.
-seo-description: Livefyre.js는 사이트의 앱에 대한 인증을 제공하는 작은 기본 라이브러리입니다.
-seo-title: 페이지에 Livefyre.js 추가
 title: 페이지에 Livefyre.js 추가
-uuid: fe52446e-4911-4160-a68c-7413e9bc6222
+exl-id: 4c5dfb31-b7e5-48f7-826c-cddbee06d876
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '87'
+source-wordcount: '68'
 ht-degree: 1%
 
 ---
-
 
 # Livefyre.js를 페이지{#add-livefyre-js-to-the-page}에 추가
 
@@ -28,4 +25,3 @@ Livefyre.js는 사이트의 앱에 대한 인증을 제공하는 작은 기본 �
       ```
       <script src="//cdn.livefyre.com/Livefyre.js"></script>
       ```
-
