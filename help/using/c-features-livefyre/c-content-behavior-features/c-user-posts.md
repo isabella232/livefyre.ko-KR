@@ -1,18 +1,14 @@
 ---
 description: 다양한 서식 지정 옵션을 사용하여 사용자가 컬렉션의 콘텐츠를 게시, 편집, 플래그 지정, 삭제, 회신 및 좋아하도록 할 수 있습니다.
-seo-description: 다양한 서식 지정 옵션을 사용하여 사용자가 컬렉션의 콘텐츠를 게시, 편집, 플래그 지정, 삭제, 회신 및 좋아하도록 할 수 있습니다.
-seo-title: 사용자 게시물
-solution: Experience Manager
 title: 사용자 게시물
-uuid: 41242f4d-614c-4737-a1f6-6f0a914f5f7f
+exl-id: 8a9e2bef-d53c-4693-bc54-6186d08ac7d0
 translation-type: tm+mt
-source-git-commit: 09011bac06f4a1c39836455f9d16654952184962
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '656'
+source-wordcount: '630'
 ht-degree: 1%
 
 ---
-
 
 # 사용자 게시물{#user-posts}
 
@@ -102,4 +98,3 @@ Studio의 설정 패널을 사용하여 컬렉션 수준에서 이 기능을 비
 * [사이드노트](/help/using/c-about-apps/c-sidenotes-app/c-sidenotes-app.md#c_sidenotes_app)
 * [Storify 2](/help/using/c-about-apps/c-storify2/c-storify2.md#c_storify2)
 * [업로드 버튼](/help/using/c-about-apps/c-upload-button-app/c-upload-button-app.md#c_upload_button_app)
-
