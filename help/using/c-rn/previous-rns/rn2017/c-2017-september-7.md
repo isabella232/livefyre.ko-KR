@@ -1,17 +1,14 @@
 ---
 description: 2017년 9월 7일 릴리스에 대한 릴리스 노트입니다.
-seo-description: 2017년 9월 7일 릴리스에 대한 릴리스 노트입니다.
-seo-title: 2017년 9월 7일
 title: 2017년 9월 7일
-uuid: a736cc77-8989-4066-b19c-8cac7bf6d7f9
+exl-id: 761debfa-676b-456f-812a-8e1516ab7689
 translation-type: tm+mt
-source-git-commit: 35feb87bb82d1f298496717a65f1972cf4e71104
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '413'
+source-wordcount: '406'
 ht-degree: 6%
 
 ---
-
 
 # 2017년 9월 7일{#september}
 
@@ -43,4 +40,3 @@ ht-degree: 6%
 | 개선 사항 | 모자이크 | 고객이 Mosaic 시각화 앱에 표시할 카드 수를 지정할 수 있도록 하는 새 구성입니다. |
 | 버그 | Rights Management | Studio 사용자가 Instagram Carousel 콘텐츠에 대한 권한을 요청할 수 없는 버그를 수정했습니다. |
 | 버그 | Studio | 새 사이트를 만들 때 명확한 오류 메시지가 추가되었습니다. |
-
