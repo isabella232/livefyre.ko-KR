@@ -1,18 +1,14 @@
 ---
 description: 2018년 4월 26일 릴리스에 대한 릴리스 노트입니다.
-seo-description: 2018년 4월 26일 릴리스에 대한 릴리스 노트입니다.
-seo-title: 2018년 4월 26일
-solution: Experience Manager
 title: 2018년 4월 26일
-uuid: a84ebe5c-40d5-43b5-a300-3e041ab22046
+exl-id: af0ee64d-d60c-4b21-a628-08848313781c
 translation-type: tm+mt
-source-git-commit: 35feb87bb82d1f298496717a65f1972cf4e71104
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '373'
+source-wordcount: '366'
 ht-degree: 4%
 
 ---
-
 
 # 2018년 4월 26일{#april}
 
@@ -38,7 +34,7 @@ ht-degree: 4%
 | **문제 유형** | **구성 요소** | **릴리스 노트** |
 |---|---|---|
 | 버그 | Rights Management | 소셜 검색에서 권한 요청이 자산을 찾은 후 해당 자산에 대해 작동하지 않던 문제를 수정했습니다. |
-| 개선 사항 | 스트림 | Facebook에서 만든 백엔드 변경 사항을 준수하기 위해 Facebook에서 컨텐츠를 스트리밍할 수 있는 스트리밍 메커니즘을 업데이트했습니다. |
+| 개선 사항 | 스트림 | facebook에서 만든 백엔드 변경 사항을 준수하기 위해 컨텐츠를 Facebook에서 스트리밍할 수 있는 스트리밍 메커니즘을 업데이트했습니다. |
 | 버그 | UGC 커머스 | CTA 단추가 활성화되면 제품이 있는 카드 위로 마우스를 가져가면 CTA &quot;Shop&quot; 단추가 Mosaic 또는 Filmstrip 앱 또는 제품 모달에서 표시되지 않는 문제가 해결되었습니다. |
 | 개선 사항 | UGC 커머스 | UGC 상거래 플래그가 기본적으로 &quot;켜짐&quot; 대신 &quot;꺼짐&quot;으로 설정되던 문제를 수정했습니다. |
 
@@ -48,4 +44,3 @@ ht-degree: 4%
 |---|---|---|
 | 버그 | 라이브러리/검색 | 비디오가 제대로 업로드되지 않는 문제가 해결되었습니다. |
 | 개선 사항 | Studio | 태그 이름을 입력할 때 제안된 단어를 볼 수 있는 기능을 추가했습니다. |
-
