@@ -1,18 +1,14 @@
 ---
 description: 기본 iOS 앱에 Livefyre를 추가합니다.
-seo-description: 기본 iOS 앱에 Livefyre를 추가합니다.
-seo-title: Livefyre iOS SDK
-solution: Experience Manager
 title: Livefyre iOS SDK
-uuid: bfdef31a-49fc-4b25-b0c5-300f27067302
+exl-id: 961c41dc-fee8-480c-a189-a20a689e705f
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '410'
+source-wordcount: '400'
 ht-degree: 0%
 
 ---
-
 
 # Livefyre iOS SDK{#livefyre-ios-sdk}
 
@@ -22,7 +18,7 @@ ht-degree: 0%
 
 또한 Livefyre는 이 SDK를 기반으로 2개의 iOS 샘플 앱을 제공합니다.주석 스트림 및 평가 샘플 앱.
 
-## SDK를 Cocoa Pod로 프로젝트에 통합(권장) {#section_qc5_h3v_zz}
+## SDK를 Cocoa Pod(권장) {#section_qc5_h3v_zz}(으)로 프로젝트에 통합
 
 프로젝트에 StreamHub-iOS SDK를 추가하는 가장 편리한 방법은 CocoaPod을 사용하는 것입니다. CocoaPod가 없는 경우 gem 설치 코드 및 창 설정을 실행하십시오. 다음은 포드파일의 예입니다.
 
