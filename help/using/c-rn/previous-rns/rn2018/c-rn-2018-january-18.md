@@ -1,18 +1,14 @@
 ---
 description: 2018년 1월 18일 릴리스에 대한 릴리스 노트입니다.
-seo-description: 2018년 1월 18일 릴리스에 대한 릴리스 노트입니다.
-seo-title: 2018년 1월 18일
-solution: Experience Manager
 title: 2018년 1월 18일
-uuid: 8141f431-c154-4c8f-bbcd-b7c712fe5f7d
+exl-id: aaf49dc9-64eb-4354-8bcb-04039fa25f10
 translation-type: tm+mt
-source-git-commit: 35feb87bb82d1f298496717a65f1972cf4e71104
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '262'
-ht-degree: 8%
+source-wordcount: '255'
+ht-degree: 7%
 
 ---
-
 
 # 2018년 1월 18일{#january}
 
@@ -35,7 +31,6 @@ ht-degree: 8%
 |---|---|---|
 | 버그 | 라이브러리 | 보안 버그 수정. 이제 모든 인증 호출이 HTTP 대신 HTTPS 프로토콜을 사용하여 수행됩니다. |
 | 개선 사항 | 스마트 태그 | 이제 스트리밍된 컨텐츠는 폴더에 저장하거나 앱에 게시되므로 Adobe Sensei에서 자동으로 태그를 지정하여 스마트하게 디자인할 수 있습니다. |
-| 버그 | 스트림 | Instagram 스트림 규칙에 일본어 문자가 인식되지 않는 문제가 해결되었습니다. |
+| 버그 | 스트림 | instagram 스트림 규칙이 일본어 문자를 인식하지 못하는 문제를 수정했습니다. |
 | 개선 사항 | 스트림 | 고객은 이제 논리 연산자(ANY, ALL, NOT)를 사용하여 보다 정확한 컨텐츠를 조정하는 자세한 스마트 태그 필터를 스트림에 만들 수 있습니다. 예를 들어 해시 태그 #himalyas을 사용하는 경우 &quot;눈&quot; &quot;산&quot;이 포함된 이미지만 표시하도록 선택할 수 있습니다. |
 | 버그 | Studio | 이름에 특수 문자를 HTML로 표시하는 버그를 수정했습니다. |
-
