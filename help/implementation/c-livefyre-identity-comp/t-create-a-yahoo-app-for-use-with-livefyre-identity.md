@@ -1,18 +1,14 @@
 ---
 description: Yahoo!에서 Livefyre ID를 사용할 수 있습니다. 사용자가 Yahoo! 로그인 정보를 참조하십시오.
-seo-description: Yahoo!에서 Livefyre ID를 사용할 수 있습니다. 사용자가 Yahoo! 로그인 정보를 참조하십시오.
-seo-title: Yahoo! 만들기 Livefyre ID와 함께 사용할 앱
-solution: Experience Manager
 title: Yahoo! 만들기 Livefyre ID와 함께 사용할 앱
-uuid: 6863cd2e-eb0d-465b-b706-88ecaccf41bc
+exl-id: 6b4c6ea9-1cb0-4496-aabe-70811f464a3d
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '234'
+source-wordcount: '203'
 ht-degree: 0%
 
 ---
-
 
 # Yahoo! 만들기 Livefyre ID에 사용할 앱{#create-a-yahoo-app-for-use-with-livefyre-identity}
 
