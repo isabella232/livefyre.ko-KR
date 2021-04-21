@@ -1,18 +1,14 @@
 ---
 description: 라이브러리를 사용하면 저장된 컨텐츠에 정보를 추가할 수 있으므로 브랜드 전략에 따라 자산을 구성할 수 있습니다.
-seo-description: 라이브러리를 사용하면 저장된 컨텐츠에 정보를 추가할 수 있으므로 브랜드 전략에 따라 자산을 구성할 수 있습니다.
-seo-title: 자산 세부 사항 보기
-solution: Experience Manager
 title: 자산 세부 사항 보기
-uuid: 06a19bca-d7b9-431b-abc4-9d6f154901b9
+exl-id: 1f0153df-17b9-4082-a335-c2136486d900
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '113'
+source-wordcount: '89'
 ht-degree: 0%
 
 ---
-
 
 # 자산 세부 사항 보기{#view-asset-details}
 
