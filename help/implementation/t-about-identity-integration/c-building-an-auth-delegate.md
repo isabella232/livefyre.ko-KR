@@ -1,18 +1,14 @@
 ---
 description: AuthDelegate 객체는 인증 작업 및 이벤트를 수행하는 방법에 대한 원하는 동작을 구현하므로 사이트의 기존 인증 시스템과의 통합을 사용자 정의할 수 있습니다.
-seo-description: AuthDelegate 객체는 인증 작업 및 이벤트를 수행하는 방법에 대한 원하는 동작을 구현하므로 사이트의 기존 인증 시스템과의 통합을 사용자 정의할 수 있습니다.
-seo-title: AuthDelegate 개체
-solution: Experience Manager
 title: AuthDelegate 개체
-uuid: a6acc4ef-d442-4782-9bfa-bbe494547c2e
+exl-id: 7c669138-627e-476e-a177-c71346f730df
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '277'
+source-wordcount: '249'
 ht-degree: 0%
 
 ---
-
 
 # AuthDelegate 개체{#authdelegate-object}
 
@@ -96,4 +92,3 @@ var authDelegate = {
   
 auth.delegate(authDelegate);
 ```
-
