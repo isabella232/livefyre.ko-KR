@@ -1,18 +1,14 @@
 ---
 description: 2018년 9월 27일 릴리스에 대한 릴리스 노트입니다.
-seo-description: 2018년 9월 27일 릴리스에 대한 릴리스 노트입니다.
-seo-title: 2018년 9월 27일
-solution: Experience Manager
 title: 2018년 9월 27일
-uuid: 8d3b01fe-6d1f-4123-aaaf-3009e7c6599f
+exl-id: ea63c18e-7535-4e57-a569-efbbee376632
 translation-type: tm+mt
-source-git-commit: 35feb87bb82d1f298496717a65f1972cf4e71104
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '300'
+source-wordcount: '293'
 ht-degree: 7%
 
 ---
-
 
 # 2018년 9월 27일{#september}
 
@@ -37,7 +33,7 @@ ht-degree: 7%
 | 버그 | 미디어 벽 | 자산 라이브러리에서 재생할 수 있었지만 업로드된 비디오가 미디어 담벼락에서 재생되지 않았던 문제를 수정했습니다. |
 | 버그 | Storify | Storify 2 좋아요가 보안 도메인에서 작동하지 않는 문제를 해결했습니다. |
 | 버그 | 스트림 | NSFW 필터 기능이 비활성화되고 NSFW 기능이 활성화되었을 때 기본 NSFW 필터가 추가되었을 때 기본 NSFW 필터가 추가되지 않았던 문제를 수정했습니다. |
-| 스토리 | 스트림 | Facebook 페이지 스트림에 대해 다음 업데이트를 수행했습니다. </br><ul><li>API 속도 제한에 도달하면 앱이 절전 모드로 전환되는 시간을 1분에서 1시간으로 늘렸습니다. </li><li>10분에서 1시간으로 처리하기 위해 페이지 및 게시물을 제출하는 시간을 증가시켰습니다.</li></ul> |
+| 스토리 | 스트림 | facebook 페이지 스트림을 위해 다음 업데이트를 수행했습니다. </br><ul><li>API 속도 제한에 도달하면 앱이 절전 모드로 전환되는 시간을 1분에서 1시간으로 늘렸습니다. </li><li>10분에서 1시간으로 처리하기 위해 페이지 및 게시물을 제출하는 시간을 증가시켰습니다.</li></ul> |
 
 
 ## UAT 릴리스 {#section_EE91B0C9313E45C5B4CBD59CFBCCFCFE}
@@ -48,4 +44,3 @@ ht-degree: 7%
 |---|---|---|
 | 버그 | AEM | Livefyre를 통해 AEM Assets으로 가져온 트윗에 링크가 끊어진 문제가 수정되었습니다. |
 | 개선 사항 | 라이브러리 | 라이브러리에서 비디오 태그로 비디오를 필터링하는 기능을 추가했습니다. |
-
