@@ -1,17 +1,14 @@
 ---
 description: 사용자 태그와 함께 CSS를 사용하여 커뮤니티 구성원을 위한 사용자 배지를 만들 수 있습니다.
-seo-description: 사용자 태그와 함께 CSS를 사용하여 커뮤니티 구성원을 위한 사용자 배지를 만들 수 있습니다.
-seo-title: 사용자 배지
 title: 사용자 배지
-uuid: ff1451e1-7eb3-45dc-8c5a-1a6d1313e344
+exl-id: ae51ee10-4536-43d9-abf2-8a724924a45f
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '107'
-ht-degree: 1%
+source-wordcount: '91'
+ht-degree: 2%
 
 ---
-
 
 # 사용자 배지{#user-badges}
 
@@ -25,4 +22,3 @@ ht-degree: 1%
 * [댓글](/help/using/c-about-apps/c-comments/c-comments.md)
 * [평가](../../c-about-apps/c-reviews-app/c-reviews-app.md#c_reviews_app)
 * [사이드노트](../../c-about-apps/c-sidenotes-app/c-sidenotes-app.md#c_sidenotes_app)
-
