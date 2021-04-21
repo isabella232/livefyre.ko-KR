@@ -1,18 +1,14 @@
 ---
 description: .js 구현을 사용하여 사이드노트를 구현합니다.
-seo-description: .js 구현을 사용하여 사이드노트를 구현합니다.
-seo-title: 사이드노트 구현
-solution: Experience Manager
 title: 사이드노트 구현
-uuid: aa13852e-e2b0-4a86-97cd-d08ab5e2cfab
+exl-id: 07a68677-c67e-4128-8cb7-c5fb9e0ecc60
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '56'
-ht-degree: 10%
+source-wordcount: '49'
+ht-degree: 12%
 
 ---
-
 
 # 사이드노트 구현{#sidenotes-implementation}
 
