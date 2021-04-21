@@ -1,18 +1,14 @@
 ---
 description: Storify는 여러 명의 동시 편집기를 관리하여 실수로 덮어쓰거나 편집 내용을 손실하지 않도록 합니다.
-seo-description: Storify는 여러 명의 동시 편집기를 관리하여 실수로 덮어쓰거나 편집 내용을 손실하지 않도록 합니다.
-seo-title: 동일한 스토리에서 여러 편집자를 사용한 작업
-solution: Experience Manager
 title: 동일한 스토리에서 여러 편집자를 사용한 작업
-uuid: c9b8bf70-84c3-4e58-bbd0-f3d0ea74fc68
+exl-id: e3cb4326-134d-443a-9087-a48e77243230
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '165'
+source-wordcount: '146'
 ht-degree: 0%
 
 ---
-
 
 # 동일한 스토리에서 여러 편집기로 작업{#working-with-multiple-editors-on-the-same-story}
 
@@ -29,4 +25,3 @@ Storify를 사용하면 여러 명의 편집자가 하나의 Story에 전달할 
 * 콘텐트 삭제
 * 텍스트 블록을 편집합니다.
 * 헤드라인 추가를 참조하십시오.
-
