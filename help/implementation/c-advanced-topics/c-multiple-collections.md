@@ -1,18 +1,14 @@
 ---
 description: 하나의 페이지에 여러 컬렉션을 표시할 수 있습니다.
-seo-description: 하나의 페이지에 여러 컬렉션을 표시할 수 있습니다.
-seo-title: 여러 컬렉션
-solution: Experience Manager
 title: 여러 컬렉션
-uuid: 9675ffd7-1a59-42a1-b3ba-40af1744cfd1
+exl-id: 748b6ca6-635e-4bae-9b95-cfbd4651751f
 translation-type: tm+mt
-source-git-commit: 5bf937c8cb1a9ca12216ee1884142b8787ff063e
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '117'
+source-wordcount: '108'
 ht-degree: 1%
 
 ---
-
 
 # 여러 컬렉션 {#multiple-collections}
 
