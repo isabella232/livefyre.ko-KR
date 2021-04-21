@@ -1,18 +1,14 @@
 ---
 description: 실시간 블로그, 채팅, 검토 또는 댓글 스트림에 이미지를 업로드합니다.
-seo-description: 실시간 블로그, 채팅, 검토 또는 댓글 스트림에 이미지를 업로드합니다.
-seo-title: 사진 업로드
-solution: Experience Manager
 title: 사진 업로드
-uuid: 1fc92fbe-1dd4-43f3-a43f-cc9a5ac3aea1
+exl-id: 97606f5b-75d4-439e-ad96-09e35b8d1f30
 translation-type: tm+mt
-source-git-commit: 09011bac06f4a1c39836455f9d16654952184962
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '127'
+source-wordcount: '114'
 ht-degree: 3%
 
 ---
-
 
 # 사진 업로드{#photo-upload}
 
@@ -30,4 +26,3 @@ ht-degree: 3%
 * [댓글](/help/using/c-about-apps/c-comments/c-comments.md)
 * [평가](/help/using/c-about-apps/c-reviews-app/c-reviews-app.md#c_reviews_app)
 * [업로드 버튼](/help/using/c-about-apps/c-upload-button-app/c-upload-button-app.md#c_upload_button_app)
-
