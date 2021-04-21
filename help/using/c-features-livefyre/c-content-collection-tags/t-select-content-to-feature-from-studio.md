@@ -1,18 +1,14 @@
 ---
 description: 앱 대신 Studio에서 기능할 콘텐츠를 선택할 수 있습니다.
-seo-description: 앱 대신 Studio에서 기능할 콘텐츠를 선택할 수 있습니다.
-seo-title: Studio에서 기능할 내용 선택
-solution: Experience Manager
 title: Studio에서 기능할 내용 선택
-uuid: 50cb620c-ef45-4ccb-829f-f5b2e3c521dd
+exl-id: b17e3c4f-6ec6-4c9b-9db0-5169cdb0ffaa
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '108'
+source-wordcount: '90'
 ht-degree: 0%
 
 ---
-
 
 # Studio{#select-content-to-feature-from-studio}에서 기능할 내용 선택
 
