@@ -1,18 +1,14 @@
 ---
 description: 개인 정보 보호 규정(GDPR)과 사용자가 Livefyre를 사용하여 수집한 데이터 및 기타 관련 개인 정보 보호 제어를 위해 GDPR에서 허용하는 액세스 및 삭제 요청을 완료하는 방법에 대해 알아보십시오.
-seo-description: 개인 정보 보호 규정(GDPR)과 사용자가 Livefyre를 사용하여 수집한 데이터 및 기타 관련 개인 정보 보호 제어를 위해 GDPR에서 허용하는 액세스 및 삭제 요청을 완료하는 방법에 대해 알아보십시오.
-seo-title: 개인 정보 보호 요청(GDPR-Ready)
-solution: Experience Manager
 title: 개인 정보 보호 요청(GDPR-Ready)
-uuid: 8c8b2001-f94d-4afc-8acd-ff4c096dc2f9
+exl-id: 46565fe8-d9f0-4374-bf67-1a0bca28588a
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '188'
+source-wordcount: '151'
 ht-degree: 0%
 
 ---
-
 
 # 개인 정보 보호 요청(GDPR-Ready){#privacy-requests-gdpr-ready}
 
