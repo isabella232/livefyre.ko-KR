@@ -1,18 +1,14 @@
 ---
 description: Livefyre 앱을 구현할 때 구현 스타일은 사용 사례에 따라 다릅니다. 이 페이지에서는 앱을 만들 수 있는 3가지 방법에 대한 기능에 대해 설명합니다.
-seo-description: Livefyre 앱을 구현할 때 구현 스타일은 사용 사례에 따라 다릅니다. 이 페이지에서는 앱을 만들 수 있는 3가지 방법에 대한 기능에 대해 설명합니다.
-seo-title: CMS 앱 통합
-solution: Experience Manager
 title: CMS 앱 통합
-uuid: 14fd7e36-0e50-4ae3-97f0-2de731c184f5
+exl-id: 7590e247-87cc-470e-bab6-e61a19221dbd
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '303'
-ht-degree: 1%
+source-wordcount: '272'
+ht-degree: 2%
 
 ---
-
 
 # CMS 앱 통합{#cms-app-integrations}
 
