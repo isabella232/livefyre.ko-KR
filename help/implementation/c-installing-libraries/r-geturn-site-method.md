@@ -1,18 +1,14 @@
 ---
 description: 이 메서드는 이 사이트의 URN을 반환합니다.
-seo-description: 이 메서드는 이 사이트의 URN을 반환합니다.
-seo-title: getUrn 사이트 메서드
-solution: Experience Manager
 title: getUrn 사이트 메서드
-uuid: 231c915c-6288-43e6-86e0-b8d09a08c4d3
+exl-id: e904f435-c734-4cb0-bfcc-85b3d1fc5492
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '54'
-ht-degree: 1%
+source-wordcount: '43'
+ht-degree: 2%
 
 ---
-
 
 # getUrn 사이트 메서드{#geturn-site-method}
 
@@ -79,4 +75,3 @@ site.urn
 ```
 "urn:livefyre:network=`example.fyre.co`:site=1"
 ```
-
