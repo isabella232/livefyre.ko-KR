@@ -1,18 +1,14 @@
 ---
 description: 채팅을 사용하면 매력적이고 신속한 대화를 유도할 수 있는 다양한 기능을 이용할 수 있습니다.
-seo-description: 채팅을 사용하면 매력적이고 신속한 대화를 유도할 수 있는 다양한 기능을 이용할 수 있습니다.
-seo-title: 채팅 기능
-solution: Experience Manager
 title: 채팅 기능
-uuid: 8773a8f9-96cd-41db-80dd-261af749e4b1
+exl-id: 38812de7-ee3f-411f-afac-7a1d5b672292
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '154'
+source-wordcount: '141'
 ht-degree: 0%
 
 ---
-
 
 # 채팅 기능{#chat-features}
 
@@ -30,4 +26,3 @@ ht-degree: 0%
 * 좋아요 단추는 주석을 마우스로 가리키면 나타납니다.
 * 댓글에 좋아요 개수가 아바타 없이 나타나고 좋아요 개수만 표시됩니다.
 * 스트림 너비를 250픽셀로 줄일 수 있습니다.
-
