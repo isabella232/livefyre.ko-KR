@@ -1,18 +1,14 @@
 ---
 description: CSS를 사용하여 맞춤형 스타일 주요 컨텐츠를 만들어 사용자에게 중요한 컨텐츠를 강조 표시합니다.
-seo-description: CSS를 사용하여 맞춤형 스타일 주요 컨텐츠를 만들어 사용자에게 중요한 컨텐츠를 강조 표시합니다.
-seo-title: 주요 컨텐츠
-solution: Experience Manager
 title: 주요 컨텐츠
-uuid: 2204a989-69b3-440d-beae-7e9c6e9d5698
+exl-id: 3e8bbdb5-ec3a-4a6a-94c5-63bd9687fe99
 translation-type: tm+mt
-source-git-commit: 09011bac06f4a1c39836455f9d16654952184962
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '233'
+source-wordcount: '217'
 ht-degree: 1%
 
 ---
-
 
 # 특별 컨텐츠 정보{#featured-content}
 
@@ -41,4 +37,3 @@ CSS를 사용하여 맞춤형 스타일 주요 컨텐츠를 만들어 사용자�
 * [모자이크](/help/using/c-about-apps/c-mosaic-app/c-mosaic-app.md#c_mosaic_app)
 * [평가](/help/using/c-about-apps/c-reviews-app/c-reviews-app.md#c_reviews_app)
 * [Storify 2](/help/using/c-about-apps/c-storify2/c-storify2.md#c_storify2)
-
