@@ -1,18 +1,14 @@
 ---
 description: 사이트에 Storify 2를 게시합니다.
-seo-description: 사이트에 Storify 2를 게시합니다.
-seo-title: 스토리 게시
-solution: Experience Manager
 title: 스토리 게시
-uuid: 2fbf0ab3-ae59-4dac-8a4d-e076bb5e477a
+exl-id: 5252418a-cb91-4c4c-b488-c77a1f8fdc29
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '98'
+source-wordcount: '89'
 ht-degree: 0%
 
 ---
-
 
 # 스토리 게시{#publish-a-story}
 
