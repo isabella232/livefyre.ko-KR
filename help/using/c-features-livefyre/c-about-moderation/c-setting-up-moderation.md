@@ -1,18 +1,14 @@
 ---
 description: 중재 탭을 사용하여 욕설 목록, 플래그 규칙 및 금지된 IP 주소를 비롯한 수신 컨텐츠에 대한 사전 중재 규칙을 설정할 수 있습니다.
-seo-description: 중재 탭을 사용하여 욕설 목록, 플래그 규칙 및 금지된 IP 주소를 비롯한 수신 컨텐츠에 대한 사전 중재 규칙을 설정할 수 있습니다.
-seo-title: 중재 설정
-solution: Experience Manager
 title: 중재 설정
-uuid: 0ec53fdb-08c2-4058-88cb-2f6f4b56a95b
+exl-id: 09fc44c4-7ee1-47fd-ae68-885532a6f03f
 translation-type: tm+mt
-source-git-commit: 52f59cd15f315aa93be198f6eb586f008c18a384
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '1299'
+source-wordcount: '1276'
 ht-degree: 0%
 
 ---
-
 
 # 중재 설정{#setting-up-moderation}
 
