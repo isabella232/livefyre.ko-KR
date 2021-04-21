@@ -1,18 +1,14 @@
 ---
 description: Studio는 모든 편집자가 변경한 내용을 자동으로 저장하고 변경 내용이 표시될 때마다 새로운 버전을 생성합니다.
-seo-description: Studio는 모든 편집자가 변경한 내용을 자동으로 저장하고 변경 내용이 표시될 때마다 새로운 버전을 생성합니다.
-seo-title: 검토 내역
-solution: Experience Manager
 title: 검토 내역
-uuid: c2f8a45b-54c1-4667-893a-b3bd4be4546a
+exl-id: d0ed17ae-0878-4477-8ec7-49b7f6e638d1
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '167'
+source-wordcount: '143'
 ht-degree: 0%
 
 ---
-
 
 # 검토 내역{#review-history}
 
