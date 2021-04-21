@@ -1,18 +1,14 @@
 ---
 description: 컬렉션의 데이터를 업데이트하려면 Collection 클래스 개체 메서드의 내용을 수정합니다.
-seo-description: 컬렉션의 데이터를 업데이트하려면 Collection 클래스 개체 메서드의 내용을 수정합니다.
-seo-title: 컬렉션 클래스 메서드
-solution: Experience Manager
 title: 컬렉션 클래스 메서드
-uuid: fd3163c6-981f-44b3-a7ba-6b4e85b0830d
+exl-id: e54fe99d-381a-433e-b42f-8be609864ca8
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '118'
-ht-degree: 1%
+source-wordcount: '99'
+ht-degree: 2%
 
 ---
-
 
 # 컬렉션 클래스 메서드{#collection-class-methods}
 
@@ -33,4 +29,3 @@ ht-degree: 1%
 * PHP
 * 파이톤
 * 루비
-
