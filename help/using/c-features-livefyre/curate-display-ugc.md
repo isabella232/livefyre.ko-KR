@@ -1,18 +1,15 @@
 ---
 description: Livefyre를 사용하여 사용자 정의 시각화를 사용하여 UGC를 조정하고 표시할 수 있습니다.
-seo-description: Livefyre를 사용하여 사용자 정의 시각화를 사용하여 UGC를 조정하고 표시할 수 있습니다.
-seo-title: UGC 조정 및 표시
-solution: Experience Manager
 title: UGC 조정 및 표시
 uuid: null
+exl-id: 1af48d91-0f24-4759-b6c2-41828de158a9
 translation-type: tm+mt
-source-git-commit: c5fd168c0ed74dada9fb85423c92cf6955c4b8c9
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '133'
+source-wordcount: '118'
 ht-degree: 0%
 
 ---
-
 
 # UGC {#curatedisplayugc} 조정 및 표시
 
