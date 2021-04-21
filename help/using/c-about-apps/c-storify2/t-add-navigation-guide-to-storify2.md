@@ -1,18 +1,14 @@
 ---
 description: Storify 2 애플리케이션에 내비게이션 가이드를 추가하여 스토리 옆에 있는 눈에 띄는 위치에 잘못된 게시물 목록을 만들 수 있습니다.
-seo-description: Storify 2 애플리케이션에 내비게이션 가이드를 추가하여 스토리 옆에 있는 눈에 띄는 위치에 잘못된 게시물 목록을 만들 수 있습니다.
-seo-title: Storify 2에 내비게이션 가이드 추가
-solution: Experience Manager
 title: Storify 2에 내비게이션 가이드 추가
-uuid: 2db131b2-54b8-4409-a947-b86169656cad
+exl-id: 183a5035-4603-4c9d-a883-95966550accb
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '103'
+source-wordcount: '73'
 ht-degree: 0%
 
 ---
-
 
 # Storify 2{#add-a-navigation-guide-to-a-storify}에 내비게이션 가이드 추가
 
