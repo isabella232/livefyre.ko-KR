@@ -1,16 +1,13 @@
 ---
 description: 'null'
-seo-description: 'null'
-seo-title: Adobe Analytics 및 DTM(Dynamic Tag Manager) lk xavn에서 Livefyre 사용   adobe analytics 및 다이내믹 태그 관리자(DTM)를 사용한 vefyre
-uuid: 9a1c25c0-c474-46ff-82ac-e89357007c7f
+exl-id: a866782d-fca6-48bf-9fb8-5080e396919b
 translation-type: tm+mt
-source-git-commit: 573e815799fbae2c2c4f1d98a01ea0ae04108a34
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '1025'
+source-wordcount: '1003'
 ht-degree: 1%
 
 ---
-
 
 # Adobe Analytics 및 다이내믹 태그 관리자(DTM)에서 Livefyre 사용{#use-livefyre-with-adobe-analytics-and-dynamic-tag-manager-dtm}
 
