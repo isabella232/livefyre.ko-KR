@@ -1,18 +1,14 @@
 ---
 description: Livefyre는 다양한 수준의 권한을 가진 여러 사용자 유형을 제공합니다.
-seo-description: Livefyre는 다양한 수준의 권한을 가진 여러 사용자 유형을 제공합니다.
-seo-title: 사용자 역할 및 권한
-solution: Experience Manager
 title: 사용자 역할 및 권한
-uuid: d9261cfd-ae60-40d8-9816-25aef541506f
+exl-id: 0e590857-74c5-4fdc-82a9-1673909d5eb7
 translation-type: tm+mt
-source-git-commit: 52f59cd15f315aa93be198f6eb586f008c18a384
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '257'
+source-wordcount: '243'
 ht-degree: 0%
 
 ---
-
 
 # 사용자 역할 및 권한{#user-roles-and-permissions}
 
