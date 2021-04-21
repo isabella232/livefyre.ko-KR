@@ -1,18 +1,14 @@
 ---
 description: Sidecotes 구성 객체는 Livefyre 앱이 페이지에서 렌더링하는 컨텐츠를 지정하는 데 사용되는 JSON 개체입니다.
-seo-description: Sidecotes 구성 객체는 Livefyre 앱이 페이지에서 렌더링하는 컨텐츠를 지정하는 데 사용되는 JSON 개체입니다.
-seo-title: 사이드노트 구성 옵션
-solution: Experience Manager
 title: 사이드노트 구성 옵션
-uuid: 067e51e6-9720-4226-a805-c7a07c8cdaa0
+exl-id: efebf9e5-6623-4953-a8f6-c58495304ac1
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '479'
+source-wordcount: '455'
 ht-degree: 2%
 
 ---
-
 
 # 사이드노트 구성 옵션{#sidenotes-configuration-options}
 
@@ -35,4 +31,3 @@ Sidecotes 구성 객체는 Livefyre 앱이 페이지에서 렌더링하는 컨�
 | 선택기 | ** requiredobject, string 또는 array | 실행 프로그램 아이콘을 표시할 요소를 지정합니다. (CSS3 DOM 선택기 사양을 사용합니다.) 개체의 경우 일치하는 모든 포함에 대해 CSS 선택기를 적용할 &quot;includes&quot; 섹션 및 &quot;excludes&quot; 섹션이 포함되며 제외와 일치하는 모든 요소를 제거합니다. 문자열인 경우, 페이지에 일치하는 모든 요소가 포함됩니다. 배열인 경우 포함할 요소를 나열합니다. |
 | 문자열 | ** optionalobject | 사용자 정의 텍스트 문자열을 추가하여 애플리케이션 전체의 모든 언어 또는 텍스트를 변경합니다. 자세한 내용은 사용자 지정 문자열을 참조하십시오. |
 | threadContainerEl | *선택* 사항객체, 문자열 또는 배열 | 사이드노트의 스레드가 표시되는 요소를 지정합니다. 이 매개 변수를 사용하면 스레드의 위치를 변경할 수 있습니다. 문자열 선택기가 둘 이상의 요소와 일치하는 경우 첫 번째 요소가 선택됩니다. (CSS3 DOM 선택기 사양을 사용합니다.) |
-
