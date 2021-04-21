@@ -1,18 +1,14 @@
 ---
 description: 참조 트래픽에서 페이지로의 클릭을 추적합니다.
-seo-description: 참조 트래픽에서 페이지로의 클릭을 추적합니다.
-seo-title: 참조 추적
-solution: Experience Manager
 title: 참조 추적
-uuid: 7daf615d-0c07-49d1-adb2-1ac67ea563e7
+exl-id: 44cc221c-1603-4e6e-ae4a-1b993f7dc446
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '238'
+source-wordcount: '227'
 ht-degree: 2%
 
 ---
-
 
 # 참조 추적{#referral-tracking}
 
@@ -59,4 +55,3 @@ Livefyre 앱을 사용하면 참조 트래픽으로 인한 데이터 스트림�
 * [댓글](/help/using/c-about-apps/c-comments/c-comments.md)
 * [평가](../c-about-apps/c-reviews-app/c-reviews-app.md#c_reviews_app)
 * [사이드노트](../c-about-apps/c-sidenotes-app/c-sidenotes-app.md#c_sidenotes_app)
-
