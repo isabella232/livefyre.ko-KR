@@ -1,26 +1,22 @@
 ---
-description: Facebook 페이지에서 컨텐트를 가져오는 스트림 규칙을 만들 수 있습니다.
-seo-description: Facebook 페이지에서 컨텐트를 가져오는 스트림 규칙을 만들 수 있습니다.
-seo-title: Facebook 페이지 규칙
-solution: Experience Manager
+description: facebook 페이지에서 컨텐츠를 가져오는 스트림 규칙을 만들 수 있습니다.
 title: Facebook 페이지 규칙
-uuid: 2be63476-1a92-409d-a22f-e1ec66b6dcc8
+exl-id: 1dc728c6-81fa-4c6c-acba-d9a4aea71ed2
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '288'
+source-wordcount: '274'
 ht-degree: 1%
 
 ---
 
-
 # Facebook 페이지 규칙{#facebook-page-rules}
 
-Facebook 페이지에서 컨텐트를 가져오는 스트림 규칙을 만들 수 있습니다.
+facebook 페이지에서 컨텐츠를 가져오는 스트림 규칙을 만들 수 있습니다.
 
-Facebook 페이지 규칙을 사용하여 Facebook 페이지에서 공개적으로 게시된 컨텐츠를 스트리밍할 수 있습니다. 컨텐츠는 SocialSync와 동일한 빈도로 앱 또는 폴더로 가져올 수 있으며 Facebook 페이지 및 게시물 트래픽 패턴에 따라 변경됩니다. Facebook 페이지 내의 링크도 지원되며 스트림에 표시됩니다.
+facebook 페이지 규칙을 사용하여 Facebook 페이지에서 공개적으로 게시된 컨텐츠를 스트리밍할 수 있습니다. 컨텐츠는 Facebook 페이지 및 게시물 트래픽 패턴에 따라 변경되는 SocialSync와 동일한 빈도로 앱 또는 폴더로 가져올 수 있습니다. facebook 페이지 내의 링크도 지원되며, 스트림에 표시됩니다.
 
-Facebook 페이지 규칙을 만들어 Facebook 페이지의 컨텐츠를 앱 또는 폴더로 가져오려면 다음을 기준으로 필터링할 수 있습니다.
+facebook 페이지 규칙을 만들어 Facebook 페이지의 콘텐츠를 앱 또는 폴더로 가져오려면 다음을 기준으로 필터링할 수 있습니다.
 
 * **[!UICONTROL Facebook Page]**
 
@@ -33,13 +29,13 @@ Facebook 페이지 규칙을 만들어 Facebook 페이지의 컨텐츠를 앱 �
 
 >[!NOTE]
 >
->Livefyre는 Facebook에서 수신되는 컨텐츠로 제한되므로 Facebook 페이지의 모든 게시물이 스트림에 포함될 것이라고 보장할 수 없습니다.
+>Livefyre는 Facebook에서 수신한 컨텐트로 제한되므로 Facebook 페이지의 모든 게시물이 스트림에 포함될 것이라고 보장할 수 없습니다.
 
 >[!NOTE]
 >
->Facebook SocialSync와 Facebook 페이지 규칙이 모두 특정 Facebook 페이지에 대해 활성화되어 있고 사용자 댓글이 Facebook 페이지 규칙에 대해 활성화되어 있으면 스트림 규칙이 SocialSync를 덮어씁니다. 컨텐츠는 SocialSync를 사용하지 않고 Facebook 페이지 조정 규칙만을 기반으로 앱으로 스트리밍됩니다.
+>facebook SocialSync와 Facebook 페이지 규칙이 모두 특정 Facebook 페이지에 대해 활성화되어 있고 사용자 주석이 Facebook 페이지 규칙에 대해 활성화된 경우 스트림 규칙이 SocialSync를 재정의합니다. 컨텐츠는 SocialSync를 사용하지 않고 Facebook 페이지 조정 규칙만을 기반으로 앱으로 스트리밍됩니다.
 
-Facebook 페이지 큐레이트에서 지원하는 컨텐츠 유형은 다음과 같습니다.
+facebook 페이지 조정에서 지원하는 컨텐츠 유형은 다음과 같습니다.
 
 * 페이지 소유자 또는 관리자
 
@@ -56,4 +52,3 @@ Facebook 페이지 큐레이트에서 지원하는 컨텐츠 유형은 다음과
 * 제3자
 
    * 상태
-
