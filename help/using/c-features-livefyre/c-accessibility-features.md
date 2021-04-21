@@ -1,18 +1,14 @@
 ---
 description: Livefyre ID 및 앱에는 화면 판독기 및 기타 보조 장치를 사용할 수 있는 사용자를 비롯하여 모든 사이트 방문자가 컨텐츠와 상호 작용할 수 있는 액세스 가능성 기능이 포함되어 있습니다.
-seo-description: Livefyre ID 및 앱에는 화면 판독기 및 기타 보조 장치를 사용할 수 있는 사용자를 비롯하여 모든 사이트 방문자가 컨텐츠와 상호 작용할 수 있는 액세스 가능성 기능이 포함되어 있습니다.
-seo-title: 액세서빌러티 기능
-solution: Experience Manager
 title: 액세서빌러티 기능
-uuid: e04970d5-f45d-40e0-807e-ae88a9386ef7
+exl-id: c1f10835-06a8-459b-8d58-63ad61a3e0b7
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '354'
+source-wordcount: '325'
 ht-degree: 1%
 
 ---
-
 
 # 액세스 가능성 기능{#accessibility-features}
 
@@ -56,4 +52,3 @@ Livefyre는 사이트 방문자가 Livefyre ID 및 앱에 액세스할 수 있�
 * [모자이크](../c-about-apps/c-mosaic-app/c-mosaic-app.md#c_mosaic_app)
 * [투표](../c-about-apps/c-polls-app/c-polls-app.md#c_polls_app)
 * [사이드노트](../c-about-apps/c-sidenotes-app/c-sidenotes-app.md#c_sidenotes_app)
-
