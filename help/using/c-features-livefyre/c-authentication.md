@@ -1,18 +1,14 @@
 ---
 description: 사이트 방문자가 앱에 로그인할지 여부 및 방법을 선택할 수 있습니다.
-seo-description: 사이트 방문자가 앱에 로그인할지 여부 및 방법을 선택할 수 있습니다.
-seo-title: 인증 기능
-solution: Experience Manager
 title: 인증 기능
-uuid: 6f1236a0-7766-47c6-b6b5-1e6b8f1c0781
+exl-id: 4d0691e2-1327-4008-bf12-82cc91ed0612
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '84'
-ht-degree: 5%
+source-wordcount: '67'
+ht-degree: 7%
 
 ---
-
 
 # 인증 기능{#authentication-features}
 
@@ -31,4 +27,3 @@ livefyre.js를 사용하여 인증을 설정합니다. 자세한 내용은 [Live
 * [사이드노트](../c-about-apps/c-sidenotes-app/c-sidenotes-app.md#c_sidenotes_app)
 * [Storify 2](../c-about-apps/c-storify2/c-storify2.md#c_storify2)
 * [업로드 버튼](../c-about-apps/c-upload-button-app/c-upload-button-app.md#c_upload_button_app)
-
