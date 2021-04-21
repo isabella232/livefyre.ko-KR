@@ -1,17 +1,14 @@
 ---
 description: 사이트 방문자가 이 추적을 옵트아웃할 수 있도록 userPrivacyOptOut 플래그를 페이지에 추가합니다.
-seo-description: 사이트 방문자가 이 추적을 옵트아웃할 수 있도록 userPrivacyOptOut 플래그를 페이지에 추가합니다.
-seo-title: userPrivacyOptOut
 title: userPrivacyOptOut
-uuid: a043c50e-0a02-4c83-bbce-54b9b51316a5
+exl-id: 1e935e69-60af-4151-905c-93a1cccbeb49
 translation-type: tm+mt
-source-git-commit: 9e01dd4515c01154e3566a39b367b8efa4ec082a
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '227'
+source-wordcount: '208'
 ht-degree: 0%
 
 ---
-
 
 # userPrivacyOptOut{#userprivacyoptout}
 
