@@ -1,16 +1,14 @@
 ---
-seo-title: Livefyre 도움말
-solution: Experience Manager
 title: Livefyre 구현 도움말
-uuid: ccdede9b-88d3-4e6e-9105-662e984002d5
+description: Livefyre 구현 도움말
+exl-id: 510826ea-3313-4388-ad82-63fe07d018bf
 translation-type: tm+mt
-source-git-commit: 3664bc1c51d2b372c358385127a1ca9c2f0cfef8
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '91'
+source-wordcount: '92'
 ht-degree: 6%
 
 ---
-
 
 # Livefyre 구현 안내서 {#livefyre-help}
 
@@ -34,4 +32,4 @@ Livefyre 스튜디오에서 Livefyre Studio 및 Livefyre 앱을 사용하는 방
 
 * [API 설명서](https://api.livefyre.com)
 
-* [릴리스 노트](/help/using/c-rn/c-rn.md)
+* [릴리스 정보](/help/using/c-rn/c-rn.md)
