@@ -1,10 +1,10 @@
 ---
-description: 'null'
+description: Adobe Analytics 및 DTM(다이내믹 태그 관리자)을 설정하여 Livefyre 앱에 대한 데이터를 수집합니다.
 exl-id: a866782d-fca6-48bf-9fb8-5080e396919b
 translation-type: tm+mt
-source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
+source-git-commit: 24d016fbb2771487f8105b2ca0bb0d03dd60cfc1
 workflow-type: tm+mt
-source-wordcount: '1003'
+source-wordcount: '1017'
 ht-degree: 1%
 
 ---
