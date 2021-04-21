@@ -1,18 +1,14 @@
 ---
 description: 가장 신뢰할 수 있는 음성으로 고객의 참여를 유도하는 데 필요한 툴을 제공하는 선도적인 소셜 지원 플랫폼
-seo-description: 가장 신뢰할 수 있는 음성으로 고객의 참여를 유도하는 데 필요한 툴을 제공하는 선도적인 소셜 지원 플랫폼
-seo-title: Livefyre 정보
-solution: Experience Manager
 title: Livefyre 정보
-uuid: b864afe0-9ccb-4607-b735-69ce42cd8199
+exl-id: 37aa41c5-6fa7-4a0d-8f8e-4210ca8ade0c
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '217'
+source-wordcount: '193'
 ht-degree: 0%
 
 ---
-
 
 # Livefyre 정보{#about-livefyre}
 
@@ -31,4 +27,3 @@ Livefyre 스튜디오에서 다음을 수행할 수 있습니다.
 * [컨텐츠를 조정하여 컨텐츠 품질 보장](c-features-livefyre/c-about-moderation/c-setting-up-moderation.md#c_setting_up_moderation)
 * [컨텐츠 부분에 있는 클릭유도문안 단추를 통해 사이트 방문자의 매출과 추가 작업 유도](c-features-livefyre/c-ugc-commerce.md#c_ugc_commerce)
 * [사용자, 역할 및 권한 관리](c-about-apps/c-about-apps.md#c_about_apps)
-
