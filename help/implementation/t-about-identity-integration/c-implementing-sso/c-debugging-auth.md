@@ -1,18 +1,14 @@
 ---
 description: 통합 및 테스트 중에 콘솔을 통해 사용자를 로그인하여 권한을 디버깅할 수 있습니다.
-seo-description: 통합 및 테스트 중에 콘솔을 통해 사용자를 로그인하여 권한을 디버깅할 수 있습니다.
-seo-title: 디버깅 인증 위임
-solution: Experience Manager
 title: 디버깅 인증 위임
-uuid: fb0c7396-190e-4dc9-bf26-23dde9efd45d
+exl-id: fa1c17fa-5aba-4f4c-9217-5823af30af61
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '109'
+source-wordcount: '90'
 ht-degree: 0%
 
 ---
-
 
 # 인증 위임 디버깅{#debugging-auth-delegate}
 
@@ -29,4 +25,3 @@ window.addEventListener('userAuthenticated', function(data) {
  }); 
 });
 ```
-
