@@ -1,18 +1,14 @@
 ---
 description: Livefyre에 네트워크의 사용자 동기화 URL을 제공된 URL로 업데이트하라는 메시지가 표시됩니다. 부울 값을 반환합니다.
-seo-description: Livefyre에 네트워크의 사용자 동기화 URL을 제공된 URL로 업데이트하라는 메시지가 표시됩니다. 부울 값을 반환합니다.
-seo-title: setUserSyncUrl 네트워크 메서드
-solution: Experience Manager
 title: setUserSyncUrl 네트워크 메서드
-uuid: cd067e90-a2da-4e3d-8e60-7eabfd86fc7f
+exl-id: 8124ac0f-013f-4943-a33c-6cf8fe696f95
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '101'
-ht-degree: 3%
+source-wordcount: '82'
+ht-degree: 4%
 
 ---
-
 
 # setUserSyncUrl 네트워크 메서드{#setusersyncurl-network-method}
 
