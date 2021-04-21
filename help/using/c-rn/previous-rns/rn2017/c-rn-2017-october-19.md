@@ -1,17 +1,14 @@
 ---
 description: 2017년 10월 19일 릴리스에 대한 릴리스 노트입니다.
-seo-description: 2017년 10월 19일 릴리스에 대한 릴리스 노트입니다.
-seo-title: 2017년 10월 19일
 title: 2017년 10월 19일
-uuid: 7f5fba9e-bd07-4d85-b67c-7a5577055447
+exl-id: 6887e4a9-8451-464f-a27f-bdaa3624196d
 translation-type: tm+mt
-source-git-commit: 35feb87bb82d1f298496717a65f1972cf4e71104
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '167'
+source-wordcount: '160'
 ht-degree: 8%
 
 ---
-
 
 # 2017년 10월 19일{#october}
 
@@ -33,4 +30,3 @@ ht-degree: 8%
 | 개선 사항 | 앱 콘텐츠 | 앱 컨텐츠에서 오디오 파일을 다운로드하는 기능이 추가되었습니다. |
 | 버그 | Rights Management | 사용자가 Twitter 또는 Instagram에서 삭제된 후 소셜 검색에서 컨텐츠를 저장하려고 할 때 적절한 오류 메시지가 표시되지 않던 버그를 수정했습니다. |
 | 개선 사항 | SAFE | 이제 Studio 관리자는 스마트 모드 기능을 활성화하는 스마트 모드 거부라는 설정에 새 SAFE 규칙을 추가할 수 있습니다. |
-
