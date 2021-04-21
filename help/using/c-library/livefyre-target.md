@@ -1,13 +1,11 @@
 ---
 description: Livefyre와 Adobe Target의 통합을 통해 Livefyre 앱을 Target 오퍼 라이브러리에 직접 공유할 수 있습니다.
-seo-description: Livefyre와 Adobe Target의 통합을 통해 Livefyre 앱을 Target 오퍼 라이브러리에 직접 공유할 수 있습니다.
-seo-title: Adobe Target에서 Adobe Experience Manager Livefyre 사용
 title: Adobe Target에서 Adobe Experience Manager Livefyre 사용
-uuid: 98108ddb-5710-4331-891b-7e1bbb106059
+exl-id: 0110fb81-9051-4f8c-9195-dff1a5eed029
 translation-type: tm+mt
-source-git-commit: 573e815799fbae2c2c4f1d98a01ea0ae04108a34
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '250'
+source-wordcount: '225'
 ht-degree: 1%
 
 ---
