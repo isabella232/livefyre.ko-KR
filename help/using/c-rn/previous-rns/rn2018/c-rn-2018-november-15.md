@@ -1,20 +1,16 @@
 ---
 description: 2018년 11월 15일 릴리스에 대한 릴리스 노트입니다.
-seo-description: 2018년 11월 15일 릴리스에 대한 릴리스 노트입니다.
-seo-title: 릴리스 노트
-solution: Experience Manager
-title: 릴리스 노트
-uuid: 34e64943-dea6-46ac-9fcc-8febeab6aa42
+title: 릴리스 정보
+exl-id: 3f904022-b770-4f35-a3b0-790e15748763
 translation-type: tm+mt
-source-git-commit: efb031b58f01ec69c8297a808998d25a0015f102
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '371'
-ht-degree: 7%
+source-wordcount: '363'
+ht-degree: 6%
 
 ---
 
-
-# 릴리스 노트{#release-notes}
+# 릴리스 정보{#release-notes}
 
 2018년 11월 15일 릴리스에 대한 릴리스 노트입니다.
 
@@ -22,19 +18,19 @@ ht-degree: 7%
 
 이번 릴리스의 프로덕션 버전에서 다음과 같은 새로운 기능이 릴리스되었습니다.
 
-* **Instagram 검색 및 스트림에 대한 업데이트.** Instagram  *비즈니스 계정을 사용하여 다음을 수행할 수* 있습니다.
+* **instagram 검색 및 스트림에 대한 업데이트.** instagram  *비즈니스 계정을 사용하여 다음을 수행할 수* 있습니다.
 
    * 사용자별로 Instagram 소셜 검색을 수행합니다(사용자는 Instagram 비즈니스 계정이어야 함).
 
-   * 자신의 계정을 포함하여 특정 Instagram 사용자 계정(계정도 비즈니스 계정이어야 함)에서 Instagram 스트림을 만듭니다.
+   * 사용자 계정을 포함하여 특정 Instagram 사용자 계정에서 Instagram 스트림을 만듭니다(계정도 비즈니스 계정이어야 함).
 
-   * 부분적으로 자동화된 워크플로우를 사용하여 Instagram에서 에셋에 대한 권한을 요청합니다.
+   * 부분적으로 자동화된 워크플로우를 사용하여 Instagram에서 자산에 대한 권한을 요청합니다.
 
-   * Instagram에서 권한을 설정하고 요청해야 하는 Instagram 계정의 유형에 대한 자세한 내용은 [Instagram 계정 정보](/help/using/c-users-creating-accounts-with-studio-access/t-configure-social-accout-instagram/c-about-instagram-accounts.md)를 참조하십시오.
+   * instagram에서 권한을 설정하고 요청해야 하는 Instagram 계정 유형에 대한 자세한 내용은 [Instagram 계정 정보](/help/using/c-users-creating-accounts-with-studio-access/t-configure-social-accout-instagram/c-about-instagram-accounts.md)를 참조하십시오.
 
 * **비즈니스 계정 기반 검색에 대한 사용 권한 요청 응답을 자동으로 모니터링합니다.** 비즈니스 계정 기반 검색의 경우—권한 요청에 대한 응답을 자동으로 모니터링하고 Livefyre에서 활동 내역을 업데이트하는 기능을 사용할 수 있습니다.
 
-Instagram 계정에 대한 권한을 요청하는 방법에 대한 자세한 내용은 [Instagram 권한 요청을 수동으로 보내기](/help/using/c-how-requesting-rights-works/c-send-instagram-manual-rights-request.md) 및 [부분적으로 자동화된 Instagram 권한 요청 보내기](/help/using/c-how-requesting-rights-works/c-send-an-instagram-rights-request-from-the-library.md)를 참조하십시오.
+instagram 계정에 대한 권한을 요청하는 방법에 대한 자세한 내용은 [Instagram 권한 요청을 수동으로 보내기](/help/using/c-how-requesting-rights-works/c-send-instagram-manual-rights-request.md) 및 [부분적으로 자동화된 Instagram 권한 요청 보내기](/help/using/c-how-requesting-rights-works/c-send-an-instagram-rights-request-from-the-library.md)를 참조하십시오.
 
 * **Adobe Target 통합.** Adobe Target 오퍼 라이브러리에 직접 Livefyre 앱을 공유할 수 있도록 Adobe Target와의 통합을 추가했습니다. Adobe Target에서 Livefyre 사용에 대한 자세한 내용은 [Target 설명서](hhttps://docs.adobe.com/content/help/en/livefyre/using/library/livefyre-target.html)를 참조하십시오.
 
