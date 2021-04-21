@@ -1,18 +1,14 @@
 ---
 description: 사용자가 알림 빈도 및 컨텐츠를 선택할 수 있도록 허용합니다.
-seo-description: 사용자가 알림 빈도 및 컨텐츠를 선택할 수 있도록 허용합니다.
-seo-title: 이메일 알림
-solution: Experience Manager
 title: 이메일 알림
-uuid: 27dad133-bd8d-4949-8146-1254c160d3af
+exl-id: 46821382-ac93-4523-a0ac-84535e76d367
 translation-type: tm+mt
-source-git-commit: 09011bac06f4a1c39836455f9d16654952184962
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '951'
-ht-degree: 1%
+source-wordcount: '940'
+ht-degree: 0%
 
 ---
-
 
 # 이메일 알림{#email-notifications}
 
@@ -117,4 +113,3 @@ Livefyre는 2개의 이메일 주기 옵션을 제공합니다.
 * [기능 카드](/help/using/c-about-apps/c-feature-card-app/c-feature-card-app.md#c_feature_card_app)
 * [미디어 벽](/help/using/c-about-apps/c-media-wall-app/c-media-wall-app.md#c_media_wall_app)
 * [평가](/help/using/c-about-apps/c-reviews-app/c-reviews-app.md#c_reviews_app)
-
