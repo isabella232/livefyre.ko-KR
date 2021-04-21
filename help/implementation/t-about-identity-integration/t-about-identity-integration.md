@@ -1,18 +1,14 @@
 ---
 description: Janrain Capture 또는 자신의 ID 서비스를 비롯한 Livefyre 앱에 사용자 인증을 추가하는 옵션에 대해 설명합니다.
-seo-description: Janrain Capture 또는 자신의 ID 서비스를 비롯한 Livefyre 앱에 사용자 인증을 추가하는 옵션에 대해 설명합니다.
-seo-title: ID 통합
-solution: Experience Manager
 title: ID 통합
-uuid: 079dc9c7-656a-49d0-920d-9e5a421a319c
+exl-id: a3b849fc-0182-4fed-94b5-6d7199fc4e44
 translation-type: tm+mt
-source-git-commit: 0c5420fcb3ba2e12375e92d4574d0a6dff310869
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '208'
+source-wordcount: '189'
 ht-degree: 0%
 
 ---
-
 
 # ID 통합{#identity-integration}
 
