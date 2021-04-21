@@ -1,16 +1,14 @@
 ---
 description: 사용자가 중재하지 않고 앱에 직접 게시할 수 있도록 허용-목록 설정
-solution: Experience Manager
 title: 사용자 목록 허용
-uuid: c58f7279-5fde-419a-a833-3c639d469421
+exl-id: d291c62a-03a1-4a1e-a0b3-efeb270e519a
 translation-type: tm+mt
-source-git-commit: 52f59cd15f315aa93be198f6eb586f008c18a384
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
 source-wordcount: '106'
 ht-degree: 0%
 
 ---
-
 
 # 사용자{#allow-list-a-user} 목록 허용
 
