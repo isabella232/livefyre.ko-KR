@@ -1,18 +1,14 @@
 ---
 description: Storify 2가 포함된 페이지에 처음 방문할 때 특정 컨텐츠에 대한 주의를 집중하도록 게시물을 고정합니다.
-seo-description: Storify 2가 포함된 페이지에 처음 방문할 때 특정 컨텐츠에 대한 주의를 집중하도록 게시물을 고정합니다.
-seo-title: 저장소 2에 게시물 고정
-solution: Experience Manager
 title: 저장소 2에 게시물 고정
-uuid: c4043ea6-8763-4afb-bc1b-d69e1c8eca61
+exl-id: 09064707-1797-4f7b-891d-ef86880f94c0
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '202'
+source-wordcount: '178'
 ht-degree: 0%
 
 ---
-
 
 # Storify 2{#pin-a-post-to-storify}에 게시물 고정
 
