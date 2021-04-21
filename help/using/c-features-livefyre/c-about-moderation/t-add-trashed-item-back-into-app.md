@@ -1,17 +1,14 @@
 ---
 description: ModQ에서 항목을 휴지하는 경우 소셜 검색을 사용하여 앱에 다시 추가할 수 있습니다.
-seo-description: ModQ에서 항목을 휴지하는 경우 소셜 검색을 사용하여 앱에 다시 추가할 수 있습니다.
-seo-title: 패싱된 항목을 앱에 다시 추가
 title: 패싱된 항목을 앱에 다시 추가
-uuid: 96c5db19-999f-476f-a96c-ad101028d484
+exl-id: 6d00e065-c165-4189-914b-a1682b182e7c
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '150'
+source-wordcount: '123'
 ht-degree: 0%
 
 ---
-
 
 # 휴지된 항목을 다시 앱에 추가{#add-a-trashed-item-back-into-an-app}
 
