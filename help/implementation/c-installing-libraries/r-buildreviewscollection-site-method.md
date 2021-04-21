@@ -1,18 +1,14 @@
 ---
 description: 검토 유형으로 인스턴스화된 컬렉션 개체를 반환합니다. 컬렉션 개체에서 create_or_update()를 실행하여 빌드 프로세스를 완료합니다.
-seo-description: 검토 유형으로 인스턴스화된 컬렉션 개체를 반환합니다. 컬렉션 개체에서 create_or_update()를 실행하여 빌드 프로세스를 완료합니다.
-seo-title: buildReviewsCollection 사이트 메서드
-solution: Experience Manager
 title: buildReviewsCollection 사이트 메서드
-uuid: 88af4c68-57de-4ae9-9394-550c94ede48f
+exl-id: 581ad24c-d115-4ffb-93eb-936c2da6e3fa
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '119'
-ht-degree: 6%
+source-wordcount: '94'
+ht-degree: 8%
 
 ---
-
 
 # buildReviewsCollection 사이트 메서드{#buildreviewscollection-site-method}
 
@@ -54,4 +50,3 @@ collection = site.build_reviews_collection(title, articleId, url)
 ```
 collection = site.build_reviews_collection(title, articleId, url) 
 ```
-
