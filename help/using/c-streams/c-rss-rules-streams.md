@@ -1,18 +1,14 @@
 ---
 description: RSS 피드에서 콘텐츠를 가져오는 스트림 규칙을 만들 수 있습니다.
-seo-description: RSS 피드에서 콘텐츠를 가져오는 스트림 규칙을 만들 수 있습니다.
-seo-title: RSS 규칙
-solution: Experience Manager
 title: RSS 규칙
-uuid: 3c9e2069-bb85-41dc-8b35-6237642a538a
+exl-id: bfb3bbad-ab26-451e-b540-d6c41f54dc31
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '245'
+source-wordcount: '232'
 ht-degree: 0%
 
 ---
-
 
 # RSS 규칙{#rss-rules}
 
