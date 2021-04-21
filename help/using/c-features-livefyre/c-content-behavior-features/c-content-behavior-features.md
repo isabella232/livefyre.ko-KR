@@ -1,18 +1,14 @@
 ---
 description: Livefyre는 사이트 방문자가 앱 콘텐츠를 보는 방법을 선택할 수 있는 앱의 기능을 제공합니다.
-seo-description: Livefyre는 사이트 방문자가 앱 콘텐츠를 보는 방법을 선택할 수 있는 앱의 기능을 제공합니다.
-seo-title: 컨텐츠 동작 기능
-solution: Experience Manager
 title: 컨텐츠 동작 기능
-uuid: 4a1c6d6e-8785-49e8-aaf5-6fa4576d7232
+exl-id: ef477ca0-516f-45bf-9753-e050fe4cc6a1
 translation-type: tm+mt
-source-git-commit: 09011bac06f4a1c39836455f9d16654952184962
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '472'
+source-wordcount: '453'
 ht-degree: 2%
 
 ---
-
 
 # 콘텐츠 비헤이비어 기능{#content-behavior-features}
 
@@ -91,4 +87,3 @@ Livefyre 앱은 콘텐츠가 Studio 또는 콘텐츠 스트림에서 수동으�
 
 * [대화](/help/using/c-about-apps/c-chat-app/c-chat-app.md#c_chat_app)
 * [댓글](/help/using/c-about-apps/c-comments/c-comments.md)
-
