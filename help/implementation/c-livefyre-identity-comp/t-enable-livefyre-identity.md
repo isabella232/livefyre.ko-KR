@@ -1,18 +1,14 @@
 ---
 description: 사용자가 이메일, Twitter, Facebook, Yahoo! 또는 Google 로그인을 사용하여 Livefyre 앱에 로그인할 수 있도록 Livefyre ID 패키지를 활성화합니다.
-seo-description: 사용자가 이메일, Twitter, Facebook, Yahoo! 또는 Google 로그인을 사용하여 Livefyre 앱에 로그인할 수 있도록 Livefyre ID 패키지를 활성화합니다.
-seo-title: Livefyre ID 활성화
-solution: Experience Manager
 title: Livefyre ID 활성화
-uuid: 9bb5e168-4596-42a7-9105-e09c65c5e3ae
+exl-id: 5eda2be7-26fd-4730-a1ad-95421c773cbe
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '115'
-ht-degree: 3%
+source-wordcount: '88'
+ht-degree: 4%
 
 ---
-
 
 # Livefyre ID 사용{#enable-livefyre-identity}
 
