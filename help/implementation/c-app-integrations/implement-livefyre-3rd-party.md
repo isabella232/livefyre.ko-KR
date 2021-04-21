@@ -1,18 +1,14 @@
 ---
 description: Livefyre 앱을 처음부터 제작하여 맞춤화된 경험 및 데이터 시각화를 만들 수 있습니다.
-seo-description: Livefyre 앱을 처음부터 제작하여 맞춤화된 경험 및 데이터 시각화를 만들 수 있습니다.
-seo-title: 제3자 통합과 Livefyre 통합
-solution: Experience Manager
 title: Livefyre를 CMS에 통합
-uuid: 5a3e18e8-8568-45bb-9070-d0fa43dd819b
+exl-id: 05d85792-de97-47b1-90cc-ad7e841754b5
 translation-type: tm+mt
-source-git-commit: 2436c389cbe14c7d64dd8c0392a3e0f031468836
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '381'
+source-wordcount: '363'
 ht-degree: 0%
 
 ---
-
 
 # 제3자 통합을 통해 Livefyre 구현
 
@@ -57,7 +53,7 @@ b.Livefyre.js 임베드 코드 구조를 사용하여 Livefyre 앱을 사이트�
    * 트렌드 앱을 통합하는 방법에 대한 자세한 내용은 [트렌딩](/help/using/c-about-apps/c-trending-app/c-trending-app.md)을 참조하십시오.
 
 1. 인증 통합을 수행합니다.
-a.사용자 인증 토큰을 만들어 사용자 데이터를 전달하고 Livefyre에 저장합니다.
+a.사용자 인증 토큰을 만들어 사용자 데이터를 Livefyre에 전달하고 저장합니다.
 b.제3자 사용자 및 인증 플랫폼 통합 지원되는 플랫폼 목록은 [ID 통합](/help/implementation/t-about-identity-integration/t-about-identity-integration.md)을 참조하십시오.
 
 >[!NOTE]
