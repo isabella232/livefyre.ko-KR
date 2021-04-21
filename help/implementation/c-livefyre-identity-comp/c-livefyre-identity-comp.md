@@ -1,18 +1,14 @@
 ---
 description: Livefyre의 소셜 사용자 관리 시스템 사용
-seo-description: Livefyre의 소셜 사용자 관리 시스템 사용
-seo-title: Livefyre ID
-solution: Experience Manager
 title: Livefyre ID
-uuid: 5e9219b4-fbd7-40c6-9d57-129bb0649714
+exl-id: 1e6149b6-dcdb-4e2a-a19d-06b24fe1288a
 translation-type: tm+mt
-source-git-commit: 74a63daa264014af9a8afb6639fa1561a7b83241
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '160'
+source-wordcount: '151'
 ht-degree: 0%
 
 ---
-
 
 # Livefyre ID 사용{#livefyre-identity}
 
@@ -32,4 +28,3 @@ Livefyre 통합에 소셜 사인온을 추가하려면:
 >[!NOTE]
 >
 >이 문서에서는 소셜 공급자의 앱 만들기 프로세스에 대한 Livefyre 특정 측면을 설명합니다. Livefyre는 인터페이스의 변경 사항에 대해 책임을 지지 않으며, Livefyre는 이러한 앱 제작 또는 승인 프로세스에 대한 지원을 제공할 수 없습니다. 사용 가능한 Twitter, Facebook, Yahoo! 및 Google 개발자 정보를 사용하여 이러한 앱을 만들고 승인 프로세스를 탐색하십시오(필요한 경우).
-
