@@ -1,18 +1,14 @@
 ---
 description: 소셜 계정이 만료되면 토큰을 새로 고칩니다.
-seo-description: 소셜 계정이 만료되면 토큰을 새로 고칩니다.
-seo-title: 소셜 계정에 대한 토큰 새로 고침
-solution: Experience Manager
 title: 소셜 계정에 대한 토큰 새로 고침
-uuid: 8a25305c-aaa3-460f-b782-404a55b491cd
+exl-id: 46819456-1da1-44fe-a73c-a8a4800c4cd3
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '232'
+source-wordcount: '215'
 ht-degree: 0%
 
 ---
-
 
 # 소셜 계정{#refresh-a-token-for-a-social-account} 토큰 새로 고침
 
@@ -28,8 +24,8 @@ Instagram 비즈니스 계정은 만료되는 Facebook 토큰을 사용합니다
 
 토큰이 만료되면 Livefyre가 다음과 같은 방식으로 사용자에게 알립니다.
 
-* Instagram 콘텐츠를 검색할 때 왼쪽 아래에 Instagram 토큰이 만료되었음을 나타내는 창이 표시됩니다. 다른 Instagram 계정을 설정하는 경우 Livefyre는 목록에서 다음 Instagram 계정을 사용하여 Instagram을 자동으로 검색합니다.
-* 특정 만료된 Instagram 계정으로 권한을 요청할 때 오류가 표시되고 다른 Instagram 계정을 선택하거나 만료된 계정에 대한 토큰을 새로 고친 후 요청 권한을 다시 클릭합니다.
+* instagram 컨텐츠를 검색할 때 왼쪽 아래에 Instagram 토큰이 만료되었음을 나타내는 창이 표시됩니다. 다른 Instagram 계정을 설정하는 경우 Livefyre는 목록에서 다음 Instagram 계정을 사용하여 Instagram을 자동으로 검색합니다.
+* 특정 만료된 Instagram 계정으로 권한을 요청하면 오류가 표시되고 다른 Instagram 계정을 선택하거나 만료된 계정에 대한 토큰을 새로 고친 후 요청 권한을 다시 클릭해야 합니다.
 * 만료된 Instagram 계정을 사용하는 스트림은 작동하지 않습니다.
 * **[!UICONTROL Network Settings]** > **[!UICONTROL Social Accounts]**&#x200B;에 만료된 토큰이 있는 계정에는 오류 경고 아이콘( ![](assets/warningError.png))이 표시됩니다.
 
