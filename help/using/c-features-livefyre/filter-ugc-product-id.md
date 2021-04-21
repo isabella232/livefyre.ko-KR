@@ -1,17 +1,14 @@
 ---
 description: 제품 ID별로 UGC를 필터링하면 각 페이지에 대해 다른 제품별 UGC를 표시하면서 동일한 앱을 여러 페이지에 포함할 수 있습니다.
-seo-description: 제품 ID별로 UGC를 필터링하면 각 페이지에 대해 다른 제품별 UGC를 표시하면서 동일한 앱을 여러 페이지에 포함할 수 있습니다.
-seo-title: 제품 ID로 UGC 필터링
 title: 제품 ID로 UGC 필터링
-uuid: 98108ddb-5710-4331-891b-7e1bbb106059
+exl-id: c98ee899-fcac-45dd-a26a-f678814776fd
 translation-type: tm+mt
-source-git-commit: 76efa427b59a709009a3c2d3744ea65e0c959816
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '265'
+source-wordcount: '236'
 ht-degree: 0%
 
 ---
-
 
 # 제품 ID {#filter-ugc-product-id}별로 UGC 필터링
 
