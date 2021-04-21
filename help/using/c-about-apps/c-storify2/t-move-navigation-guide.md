@@ -1,18 +1,14 @@
 ---
 description: 화면에서 내비게이션 안내서의 위치를 지정합니다.
-seo-description: 화면에서 내비게이션 안내서의 위치를 지정합니다.
-seo-title: 내비게이션 가이드 이동
-solution: Experience Manager
 title: 내비게이션 가이드 이동
-uuid: 124cfda1-ef58-4b41-97e2-7a4fcf08210e
+exl-id: 00166235-b4b3-49f3-b6da-4d5c9e695120
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '60'
+source-wordcount: '46'
 ht-degree: 0%
 
 ---
-
 
 # 탐색 안내서 이동{#move-the-navigation-guide}
 
