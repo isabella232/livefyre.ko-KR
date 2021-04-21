@@ -1,16 +1,14 @@
 ---
-seo-title: Livefyre 사용자 안내서
-solution: Experience Manager
 title: Livefyre 사용자 안내서
-uuid: ccdede9b-88d3-4e6e-9105-662e984002d5
+description: Livefyre 사용자 안내서
+exl-id: 1b106519-9165-4cce-bddf-c0980424f54d
 translation-type: tm+mt
-source-git-commit: 3664bc1c51d2b372c358385127a1ca9c2f0cfef8
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
 source-wordcount: '102'
 ht-degree: 4%
 
 ---
-
 
 # Livefyre 사용자 안내서 {#livefyre-help}
 
@@ -37,5 +35,4 @@ Livefyre Studio를 사용하여 앱을 만들고, 사용자 생성 콘텐츠를 
 
 * [Livefyre를 Adobe 실행 Livefyre 익스텐션과 함께 사용](https://docs.adobelaunch.com/extension-reference/web/adobe-livefyre-extension)
 
-* [릴리스 노트](c-rn/c-rn.md#c_rn)
-
+* [릴리스 정보](c-rn/c-rn.md#c_rn)
