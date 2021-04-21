@@ -1,18 +1,14 @@
 ---
 description: 2017년 11월 16일 릴리스에 대한 릴리스 노트입니다.
-seo-description: 2017년 11월 16일 릴리스에 대한 릴리스 노트입니다.
-seo-title: 2017년 11월 16일
-solution: Experience Manager
 title: 2017년 11월 16일
-uuid: e7d09640-d2c1-4d23-8fa6-ecc90d0b2daa
+exl-id: 167b8c7d-f2fb-4735-9681-d349646ec3eb
 translation-type: tm+mt
-source-git-commit: 35feb87bb82d1f298496717a65f1972cf4e71104
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '532'
+source-wordcount: '525'
 ht-degree: 8%
 
 ---
-
 
 # 2017년 11월 16일{#november}
 
@@ -51,4 +47,3 @@ ht-degree: 8%
 | 버그 | 앱 관리자 | 앱 관리자의 앱 태그 검색 문제를 수정했습니다. |
 | 버그 | 라이브러리 | 자산 라이브러리에서 한 번에 여러 콘텐트에 대해 별표를 추가할 수 없는 문제를 해결했습니다. |
 | 버그 | Studio | 일부 사용자가 Livefyre에 로그인하지 못했던 문제를 수정했습니다. |
-
