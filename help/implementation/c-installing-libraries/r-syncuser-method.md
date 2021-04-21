@@ -1,18 +1,14 @@
 ---
 description: 이전에 설정한 사용자 동기화 URL에서 사용자 정보를 가져오도록 Livefyre에 알려줍니다. 부울 값을 반환합니다.
-seo-description: 이전에 설정한 사용자 동기화 URL에서 사용자 정보를 가져오도록 Livefyre에 알려줍니다. 부울 값을 반환합니다.
-seo-title: syncUser 네트워크 메서드
-solution: Experience Manager
 title: syncUser 네트워크 메서드
-uuid: 2affb03d-3907-4b01-9a64-02ba1b06da14
+exl-id: a21ff487-2ab1-4788-b455-84941f03a98f
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '103'
-ht-degree: 4%
+source-wordcount: '84'
+ht-degree: 5%
 
 ---
-
 
 # syncUser 네트워크 메서드{#syncuser-network-method}
 
