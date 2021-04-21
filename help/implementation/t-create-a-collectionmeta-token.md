@@ -1,18 +1,14 @@
 ---
 description: Livefyre에 전달되는 collectionMeta 토큰을 만들어 새 컬렉션을 만듭니다.
-seo-description: Livefyre에 전달되는 collectionMeta 토큰을 만들어 새 컬렉션을 만듭니다.
-seo-title: CollectionMeta 토큰을 사용하여 컬렉션 만들기
-solution: Experience Manager
 title: CollectionMeta 토큰을 사용하여 컬렉션 만들기
-uuid: 5a3e18e8-8568-45bb-9070-d0fa43dd819b
+exl-id: d2dafc90-de21-4998-8e85-83f970524329
 translation-type: tm+mt
-source-git-commit: 5bf937c8cb1a9ca12216ee1884142b8787ff063e
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '128'
+source-wordcount: '107'
 ht-degree: 0%
 
 ---
-
 
 # CollectionMeta 토큰{#create-a-collection-using-the-collectionmeta-token}을 사용하여 컬렉션 만들기
 
