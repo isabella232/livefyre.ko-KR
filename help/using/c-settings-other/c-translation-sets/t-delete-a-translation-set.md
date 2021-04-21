@@ -1,18 +1,14 @@
 ---
 description: 삭제하려는 번역 세트 옆에 있는 휴지통 아이콘을 클릭하여 언제든지 번역 세트를 삭제합니다.
-seo-description: 삭제하려는 번역 세트 옆에 있는 휴지통 아이콘을 클릭하여 언제든지 번역 세트를 삭제합니다.
-seo-title: 번역 세트 삭제
-solution: Experience Manager
 title: 번역 세트 삭제
-uuid: 8a098100-e51e-4554-83b8-a91fdb204a49
+exl-id: 0d3267ed-b359-45eb-86a4-d44fc9b9ed5b
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '196'
+source-wordcount: '169'
 ht-degree: 1%
 
 ---
-
 
 # 번역 세트 삭제{#delete-a-translation-set}
 
