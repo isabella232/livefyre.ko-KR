@@ -1,18 +1,14 @@
 ---
 description: 스타일을 사용하여 선택한 컨텐츠 또는 사용자 그룹을 만들고 홍보할 수 있습니다.
-seo-description: 스타일을 사용하여 선택한 컨텐츠 또는 사용자 그룹을 만들고 홍보할 수 있습니다.
-seo-title: 내용 강조 표시
-solution: Experience Manager
 title: 내용 강조 표시
-uuid: 89876b89-3ee2-40cd-9431-377e43ea1e89
+exl-id: 2c287965-bce9-4d50-849a-f3ad9af39f87
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '140'
+source-wordcount: '127'
 ht-degree: 0%
 
 ---
-
 
 # 내용 강조 표시{#highlight-content}
 
