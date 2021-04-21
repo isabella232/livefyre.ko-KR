@@ -1,17 +1,14 @@
 ---
 description: 사이트에서 사용자 호버카드를 활성화하거나 비활성화합니다.
-seo-description: 사이트에서 사용자 호버카드를 활성화하거나 비활성화합니다.
-seo-title: 호버카드
 title: 호버카드
-uuid: a7336a4d-b92f-4b3b-a3de-713aa388b58a
+exl-id: 958fbf18-e045-4a6e-baa0-03213963fca5
 translation-type: tm+mt
-source-git-commit: 09011bac06f4a1c39836455f9d16654952184962
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '205'
-ht-degree: 0%
+source-wordcount: '196'
+ht-degree: 1%
 
 ---
-
 
 # 호버카드{#hovercards}
 
@@ -41,4 +38,3 @@ Livefyre 호버카드는 표시 이름, 소개, 소셜 네트워크, 사용자 �
 * [댓글](/help/using/c-about-apps/c-comments/c-comments.md)
 * [평가](/help/using/c-about-apps/c-reviews-app/c-reviews-app.md#c_reviews_app)
 * [사이드노트](/help/using/c-about-apps/c-sidenotes-app/c-sidenotes-app.md#c_sidenotes_app)
-
