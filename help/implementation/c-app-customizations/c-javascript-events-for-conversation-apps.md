@@ -1,18 +1,14 @@
 ---
 description: 대화 앱(예를 들어 댓글, 채팅, 라이브 블로그, 검토 및 방주)에 JavaScript를 바인딩할 수 있는 이벤트.
-seo-description: 대화 앱(예를 들어 댓글, 채팅, 라이브 블로그, 검토 및 방주)에 JavaScript를 바인딩할 수 있는 이벤트.
-seo-title: 대화 앱에 대한 Javascript 이벤트
-solution: Experience Manager
 title: 대화 앱에 대한 Javascript 이벤트
-uuid: cce112b5-7c3a-4721-9854-fc8471f3d5d0
+exl-id: 2497346e-b2cc-44b2-bcd9-906dd443fe38
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '542'
+source-wordcount: '516'
 ht-degree: 73%
 
 ---
-
 
 # 대화 앱에 대한 Javascript 이벤트{#javascript-events-for-conversation-apps}
 
@@ -32,13 +28,13 @@ ht-degree: 73%
 | 게시물 | X | X | X | X |  | N/A | 해당 없음 |
 | 게시됨 | X | X | X | X | X | 해당 없음 | 해당 없음 |
 | Twitter 답글 | X | X | X | 해당 없음 | 해당 없음 | 해당 없음 | 해당 없음 |
-| Twitter 좋아요 | X | X | X | 해당 없음 | 해당 없음 | 해당 없음 | 해당 없음 |
+| 좋아요 twitter | X | X | X | 해당 없음 | 해당 없음 | 해당 없음 | 해당 없음 |
 | 좋아요 LF | X | X | X | X | 해당 없음 | 해당 없음 | 해당 없음 |
 | LF Unlike | X | X | X | X | 해당 없음 | 해당 없음 | 해당 없음 |
 | 게시물에 공유 | X | X |  | X | 해당 없음 | 해당 없음 | 해당 없음 |
 | 공유 단추 | X | X | X | X |  | 해당 없음 | 해당 없음 |
-| Twitter 공유 | X | X | X | X | X | 해당 없음 | 해당 없음 |
-| Facebook 공유 | X | X | X | X | X | 해당 없음 | 해당 없음 |
+| twitter 공유 | X | X | X | X | X | 해당 없음 | 해당 없음 |
+| facebook 공유 | X | X | X | X | X | 해당 없음 | 해당 없음 |
 | URL 공유 | X | X | X | X |  | 해당 없음 | 해당 없음 |
 | 답글 확장 | X | 해당 없음 | X | X | 해당 없음 | 해당 없음 | 해당 없음 |
 | 답글 축소 | X | 해당 없음 | X | X | 해당 없음 | 해당 없음 | 해당 없음 |
@@ -66,4 +62,3 @@ ht-degree: 73%
 | 컨텐츠 유형 | X | X | X | X |  |  |  |
 | 앱에 게시된 날짜 |  |  |  |  |  |  |  |
 | 최종 사용자 앱에 로그인됨 |  |  |  |  |  |  |  |
-
