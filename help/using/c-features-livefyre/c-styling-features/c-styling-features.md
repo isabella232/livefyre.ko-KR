@@ -1,17 +1,14 @@
 ---
 description: Livefyre 앱의 스타일을 지정하여 다양한 방식으로 행동하거나 다른 브랜드 캠페인처럼 보이고 느끼도록 변경할 수 있습니다.
-seo-description: Livefyre 앱의 스타일을 지정하여 다양한 방식으로 행동하거나 다른 브랜드 캠페인처럼 보이고 느끼도록 변경할 수 있습니다.
-seo-title: 스타일 지정 기능
 title: 스타일 지정 기능
-uuid: 72a3843d-692a-43ff-b72b-6bd840de87d6
+exl-id: d2ba6865-566a-4258-9c5f-3b4c6780907f
 translation-type: tm+mt
-source-git-commit: 09011bac06f4a1c39836455f9d16654952184962
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '139'
-ht-degree: 7%
+source-wordcount: '112'
+ht-degree: 8%
 
 ---
-
 
 # 스타일 지정 기능{#styling-features}
 
@@ -45,4 +42,3 @@ CSS를 사용하여 앱에 애니메이션을 적용할 수 있습니다.
 
 * [대화](/help/using/c-about-apps/c-chat-app/c-chat-app.md#c_chat_app)
 * [댓글](/help/using/c-about-apps/c-comments/c-comments.md)
-
