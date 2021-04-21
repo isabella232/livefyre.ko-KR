@@ -1,18 +1,14 @@
 ---
 description: '''C#'' 언어를 사용하여 Livefyre 토큰을 생성하는 방법을 학습합니다.'
-seo-description: '''C#'' 언어를 사용하여 Livefyre 토큰을 생성하는 방법을 학습합니다.'
-seo-title: Livefyre 토큰 'C#' 만들기
-solution: Experience Manager
 title: Livefyre 토큰 'C#' 만들기
-uuid: c5e05625-8550-4b51-9211-134600e20ec7
+exl-id: 6360c325-0c3f-4ecb-90f7-951ef4e6f410
 translation-type: tm+mt
-source-git-commit: 74a63daa264014af9a8afb6639fa1561a7b83241
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '798'
+source-wordcount: '784'
 ht-degree: 2%
 
 ---
-
 
 # Livefyre 토큰 만들기 C\# {#creating-livefyre-tokens-c}
 
