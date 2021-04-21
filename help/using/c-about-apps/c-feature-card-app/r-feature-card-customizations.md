@@ -1,18 +1,14 @@
 ---
 description: 맵 앱의 크기, 폭 및 상호 작용 옵션을 변경합니다.
-seo-description: 맵 앱의 크기, 폭 및 상호 작용 옵션을 변경합니다.
-seo-title: 기능 카드 사용자 정의
-solution: Experience Manager
 title: 기능 카드 사용자 정의
-uuid: dd43c076-027f-42c8-be2e-7d863d4e3976
+exl-id: b907885a-211d-4628-9955-5f1a5ec577cf
 translation-type: tm+mt
-source-git-commit: a014b5cd618672934843f1adf20d6b2cc504e2d8
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '403'
+source-wordcount: '389'
 ht-degree: 0%
 
 ---
-
 
 # 기능 카드 사용자 지정{#feature-card-customizations}
 
@@ -49,4 +45,3 @@ r_feature_card_customization.dita
    * **[!UICONTROL Filter UGC by Product ID]** 구문을 사용하는 키-값 쌍으로 전달됩니다. 여러 제품 페이지에 하나의 앱을 만들려면 이 옵션을 선택합니다. 각 제품 페이지에 대해 제품별 UGC를 앱으로 필터링합니다. 하나 이상의 폴더를 선택하여 특정 컬렉션을 앱에 연결할 수 있습니다.
    * **[!UICONTROL Select Product folders]** 구문을 사용하는 키-값 쌍으로 전달됩니다. UGC를 필터링하는 데 사용할 최상위 제품 폴더를 선택합니다. 둘 이상의 폴더를 선택하려면 `CTRL/Command + click`을 사용합니다. Livefyre는 폴더를 사용하여 다양한 페이지의 앱에 표시할 해당 폴더의 제품을 결정합니다.
    * **[!UICONTROL Show related content]** 구문을 사용하는 키-값 쌍으로 전달됩니다. 앱에 게시되었지만 다른 제품 ID로 태그가 지정된 컨텐츠를 표시하려면 이 설정을 전환합니다. 앱의 제품별 콘텐츠가 표시되면 Livefyre가 다른 제품의 콘텐츠와 제품과 연관되지 않은 콘텐츠를 표시합니다. Livefyre는 먼저 동일한 제품 ID로 콘텐츠를 우선 배치하고, 다른 제품 ID를 사용하여 앱에 게시된 콘텐츠를 제품 ID가 없는 앱에 게시했습니다.
-
