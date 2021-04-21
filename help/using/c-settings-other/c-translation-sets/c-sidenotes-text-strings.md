@@ -1,18 +1,14 @@
 ---
 description: Livefyre 사이드노트에 대한 텍스트 문자열 사용자 정의
-seo-description: Livefyre 사이드노트에 대한 텍스트 문자열 사용자 정의
-seo-title: 텍스트 문자열 사이드노트
-solution: Experience Manager
 title: 텍스트 문자열 사이드노트
-uuid: a3735237-e55d-4bc0-b88d-8a323980ee09
+exl-id: 132a7c8d-10e1-419c-9d79-a40553e70785
 translation-type: tm+mt
-source-git-commit: 0c5420fcb3ba2e12375e92d4574d0a6dff310869
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '501'
+source-wordcount: '491'
 ht-degree: 12%
 
 ---
-
 
 # 사이드노트 텍스트 문자열{#sidenotes-text-strings}
 
@@ -164,4 +160,3 @@ networkConfig["strings"] = customStrings; fyre.conv.load(
 |  | errorDuplicate | 당신의 메모도 마음에 드는데, 두 번 게시할 수는 없습니다. |
 |  | errorGeneral | 오류가 발생했습니다. 다시 시도하십시오. |
 |  | errorServer | 서버에 문제가 발생했습니다. 다시 한번 해 보시겠습니까? |
-
