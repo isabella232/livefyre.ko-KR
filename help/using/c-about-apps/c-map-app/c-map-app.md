@@ -1,18 +1,14 @@
 ---
 description: Map을 사용하여 앱으로 컨텐츠 스트리밍의 인터랙티브한 맵을 생성할 수 있습니다.
-seo-description: Map을 사용하여 앱으로 컨텐츠 스트리밍의 인터랙티브한 맵을 생성할 수 있습니다.
-seo-title: 맵
-solution: Experience Manager
 title: 맵
-uuid: e6021a8a-055d-4c60-817c-ca3236c48159
+exl-id: f5f45a39-0181-406a-ac5c-1f4377dafcf9
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '188'
+source-wordcount: '175'
 ht-degree: 1%
 
 ---
-
 
 # 맵{#map}
 
@@ -27,4 +23,3 @@ Livefyre 맵을 사용하여 컬렉션에 유입되는 모든 콘텐츠를 고�
 >[!NOTE]
 >
 >맵은 Livefyre가 맵을 렌더링하는 데 사용하는 데이터를 제공하는 ©OpenStreetMap을 통해 지원됩니다.
-
