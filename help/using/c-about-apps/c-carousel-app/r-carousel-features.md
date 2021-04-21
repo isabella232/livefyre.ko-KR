@@ -1,18 +1,14 @@
 ---
 description: Carousel 앱은 사이트에 대해 이러한 기능을 제공합니다.
-seo-description: Carousel 앱은 사이트에 대해 이러한 기능을 제공합니다.
-seo-title: 회전판 기능
-solution: Experience Manager
 title: 회전판 기능
-uuid: c5c95675-d7ca-4677-b293-16de5ccf0022
+exl-id: bb3555fd-e861-4100-a1ce-c6f22ca9dbfc
 translation-type: tm+mt
-source-git-commit: 09011bac06f4a1c39836455f9d16654952184962
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '63'
+source-wordcount: '52'
 ht-degree: 3%
 
 ---
-
 
 # 회전판 기능 {#carousel-features}
 
@@ -30,4 +26,3 @@ Carousel 앱은 사이트에 대해 이러한 기능을 제공합니다.
 * [SAFE](/help/using/c-features-livefyre/c-about-moderation/c-moderation.md#c_moderation)
 * [번역 세트](/help/using/c-settings-other/c-translation-sets/c-translation-sets.md#c_translation_sets)
 * [온사이트 기여도 기능](/help/using/c-features-livefyre/c-on-site-contribution-features.md#section_vzs_t2s_d1b)
-
