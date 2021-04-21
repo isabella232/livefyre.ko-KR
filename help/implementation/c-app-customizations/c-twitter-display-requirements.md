@@ -1,26 +1,22 @@
 ---
-description: Twitter의 표시 요구 사항에 대한 개요입니다.
-seo-description: Twitter의 표시 요구 사항에 대한 개요입니다.
-seo-title: Twitter 표시 요구 사항
-solution: Experience Manager
+description: twitter 디스플레이 요구 사항에 대한 개요입니다.
 title: Twitter 표시 요구 사항
-uuid: 705c25b8-4a25-4640-9843-074f50ebae4f
+exl-id: f985a47e-4bab-4e60-8b8b-d8c6e5321be7
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '187'
+source-wordcount: '178'
 ht-degree: 0%
 
 ---
 
-
 # Twitter 표시 요구 사항{#twitter-display-requirements}
 
-소셜 미디어 네트워크는 자사의 브랜드 표준에 맞게 컨텐츠를 표시해야 하는 경우가 많습니다. Livefyre 플랫폼을 사용하여 Twitter 컨텐츠를 다시 제공할 때 사용자는 표시 요구 사항을 비롯하여 사용 약관을 준수해야 합니다. Livefyre 앱에 콘텐츠를 표시하기 전에 약관을 읽고 이해해야 합니다.
+소셜 미디어 네트워크는 자사의 브랜드 표준에 맞게 컨텐츠를 표시해야 하는 경우가 많습니다. Livefyre 플랫폼을 사용하여 Twitter 컨텐츠를 다시 표시할 때는 디스플레이 요구 사항을 비롯하여 사용 약관을 준수해야 합니다. Livefyre 앱에 콘텐츠를 표시하기 전에 약관을 읽고 이해해야 합니다.
 
-자세한 내용은 [Twitter의 표시 요구 사항](https://about.twitter.com/company/display-requirements) 설명서를 참조하십시오.
+자세한 내용은 [Twitter의 디스플레이 요구 사항](https://about.twitter.com/company/display-requirements) 설명서를 참조하십시오.
 
-Twitter에서는 다음과 같은 프레젠테이션 요구 사항을 규정하고 있습니다.
+Twitter은 다음 프레젠테이션 요구 사항을 준수합니다.
 
 * 온라인(웹 및 모바일) 디스플레이에는 다음 내용이 모두 포함되어야 합니다.
 
