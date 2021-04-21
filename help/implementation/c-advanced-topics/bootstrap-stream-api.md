@@ -1,18 +1,14 @@
 ---
 description: Livefyre 앱에 Bootstrap 및 스트림 API를 사용할 수 있습니다.
-seo-description: Livefyre 앱에 Bootstrap 및 스트림 API를 사용할 수 있습니다.
-seo-title: Livefyre 앱에 Bootstrap 및 스트림 API 사용
-solution: Experience Manager
 title: 계정 세부 사항 보기
-uuid: bace558f-ade8-49d6-abda-9ee754ce4ac0
+exl-id: b8458954-3727-4c4d-93dd-d21a4328e069
 translation-type: tm+mt
-source-git-commit: d615705ccf5e4511cc735ce91d95c3e15d0c0160
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '546'
+source-wordcount: '530'
 ht-degree: 0%
 
 ---
-
 
 # Livefyre 앱 {#bootstrap-stream-api}에 Bootstrap 및 스트림 API 사용
 
