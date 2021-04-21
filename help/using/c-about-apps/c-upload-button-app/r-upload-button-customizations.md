@@ -1,18 +1,14 @@
 ---
 description: 업로드 버튼의 크기, 너비 및 상호 작용 옵션을 변경합니다.
-seo-description: 업로드 버튼의 크기, 너비 및 상호 작용 옵션을 변경합니다.
-seo-title: 업로드 단추 사용자 지정
-solution: Experience Manager
 title: 업로드 단추 사용자 지정
-uuid: d820bbec-8c76-4864-9e70-55394010c35d
+exl-id: 7481911f-2fb5-4721-8345-cbdd5e4ea202
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '398'
-ht-degree: 8%
+source-wordcount: '384'
+ht-degree: 5%
 
 ---
-
 
 # 업로드 단추 사용자 지정{#upload-button-customizations}
 
@@ -52,4 +48,3 @@ ht-degree: 8%
 * **[!UICONTROL Style]** 및  **[!UICONTROL Config]** 옵션  **[!UICONTROL App Designer]**&#x200B;사용 **[!UICONTROL App Designer]**&#x200B;의 모든 앱에 대한 표준 **[!UICONTROL Style]** 및 **[!UICONTROL Config]** 옵션에 대한 자세한 내용은 앱 맞춤화를 참조하십시오.
 
 * 통합 툴. 통합 도구를 사용하여 앱을 사용자 정의하는 방법에 대한 자세한 내용은 앱 통합을 참조하십시오.
-
