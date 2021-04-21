@@ -1,14 +1,10 @@
 ---
-description: UGC 커머스 기능을 사용하면 고객 경로의 특정 지점에서 제품별 UGC를 전달하여 구매 의사 결정 및 구매 전환율을 향상시킬 수 있습니다.
-seo-description: UGC 커머스 기능을 사용하면 고객 경로의 특정 지점에서 제품별 UGC를 전달하여 구매 의사 결정 및 구매 전환율을 향상시킬 수 있습니다.
-seo-title: UGC 커머스
-solution: Experience Manager
+description: UGC 커머스 기능을 사용하면 고객 여정의 특정 지점에서 제품별 UGC를 전달하여 구매 의사 결정 및 구매 전환율을 향상시킬 수 있습니다.
 title: UGC 커머스
-uuid: 71e64901-a2b6-4957-ba88-058e4eaca537
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '877'
+source-wordcount: '854'
 ht-degree: 2%
 
 ---
@@ -16,7 +12,7 @@ ht-degree: 2%
 
 # UGC 상거래{#ugc-commerce}
 
-UGC 커머스 기능을 사용하면 고객 경로의 특정 지점에서 제품별 UGC를 전달하여 구매 의사 결정 및 구매 전환율을 향상시킬 수 있습니다.
+UGC 커머스 기능을 사용하면 고객 여정의 특정 지점에서 제품별 UGC를 전달하여 구매 의사 결정 및 구매 전환율을 향상시킬 수 있습니다.
 
 UGC 상거래 기능을 사용하여 UGC 및 제품 세부 정보 페이지에서 구매 의사 및 전환에 영향을 줄 수 있습니다. UGC를 제품 인벤토리와 원활하게 연계하여 출시 시간을 단축합니다. UGC를 사용하여 커뮤니티를 만들어 실제 고객 사례를 강조하여 브랜드 충성도를 구축할 수 있습니다.
 
