@@ -1,18 +1,14 @@
 ---
 description: 사용자 동기화를 사용하면 사용자 관리 시스템에서 사용자 프로필 데이터를 가져오는 데 사용되는 끝점을 입력할 수 있습니다.
-seo-description: 사용자 동기화를 사용하면 사용자 관리 시스템에서 사용자 프로필 데이터를 가져오는 데 사용되는 끝점을 입력할 수 있습니다.
-seo-title: 사용자 동기화
-solution: Experience Manager
 title: 사용자 동기화
-uuid: 6259e6fa-0541-4f5b-9d14-4c7c932ef997
+exl-id: 6a7a4bb3-a344-48be-8ba1-fd6d27a3b4af
 translation-type: tm+mt
-source-git-commit: 30aa5cce5e7567208362cc35caeb7b7260c42f3b
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '106'
-ht-degree: 1%
+source-wordcount: '85'
+ht-degree: 2%
 
 ---
-
 
 # 사용자 동기화{#user-sync}
 
@@ -24,4 +20,3 @@ Livefyre가 이 URL을 사용하여 풀링을 통해 Livefyre와 사용자 데�
 
 **프로필 동기화 URL: 업데이트된 사용자 프로필 정보를 가져올 URL을** 입력합니다.
 * 예: `https://example.yoursite.com/some_path/?id={***id***}`
-
