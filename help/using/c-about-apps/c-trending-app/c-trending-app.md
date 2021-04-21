@@ -1,18 +1,14 @@
 ---
 description: 트렌드를 사용하여 가장 활동적인 컬렉션을 표시할 수 있습니다.
-seo-description: 트렌드를 사용하여 가장 활동적인 컬렉션을 표시할 수 있습니다.
-seo-title: 트렌딩
-solution: Experience Manager
 title: 트렌딩
-uuid: 7c0bc020-46a3-4ac6-a8db-9532a4fa83b1
+exl-id: 6db437bb-72b7-4ee2-8c42-773692c11c7f
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '90'
-ht-degree: 3%
+source-wordcount: '81'
+ht-degree: 2%
 
 ---
-
 
 # 트렌딩{#trending}
 
