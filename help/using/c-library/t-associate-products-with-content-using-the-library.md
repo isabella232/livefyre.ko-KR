@@ -1,17 +1,14 @@
 ---
 description: 제품을 라이브러리의 컨텐츠와 연결하여 컨텐츠 및 제품 카탈로그를 관리가 용이한 하나의 위치에서 동기화할 수 있습니다.
-seo-description: 제품을 라이브러리의 컨텐츠와 연결하여 컨텐츠 및 제품 카탈로그를 관리가 용이한 하나의 위치에서 동기화할 수 있습니다.
-seo-title: 라이브러리를 사용하여 제품과 컨텐츠 연결
 title: 라이브러리를 사용하여 제품과 컨텐츠 연결
-uuid: 63520f34-c5fe-4cbd-937a-33d707bbcc5f
+exl-id: 4d3e99cc-9188-4b5c-afdb-d177c66f19e6
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '185'
+source-wordcount: '158'
 ht-degree: 0%
 
 ---
-
 
 # 라이브러리{#associate-products-with-content-using-the-library}를 사용하여 제품과 컨텐츠 연결
 
