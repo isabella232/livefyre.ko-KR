@@ -1,18 +1,14 @@
 ---
 description: 웹 사이트에서 실시간으로 모든 컨텐츠의 평가 및 검토
-seo-description: 웹 사이트에서 실시간으로 모든 컨텐츠의 평가 및 검토
-seo-title: 평가
-solution: Experience Manager
 title: 평가
-uuid: 5386fc74-7a3b-4b2a-91fd-cfe5300e602d
+exl-id: e065319b-5ee6-40c4-8d04-56a06e0c92fa
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '282'
+source-wordcount: '269'
 ht-degree: 0%
 
 ---
-
 
 # 검토{#reviews}
 
@@ -38,4 +34,3 @@ Allure는 리뷰를 사용하여 사용자가 해당 제품에 대한 평점과 
 * 사용자가 볼 수 있도록 목록 맨 위에 있는 사용자의 검토를 유지한 상태에서 검토 대기열이 표시됩니다.
 * 사용자가 검토 작업의 유용성에 투표한 다음 가장 도움 및/또는 가장 높은 평점을 기준으로 정렬할 수 있습니다.
 * 모바일 친화적인 인터페이스
-
