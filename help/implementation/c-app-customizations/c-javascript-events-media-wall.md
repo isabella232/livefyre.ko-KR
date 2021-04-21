@@ -1,18 +1,14 @@
 ---
 description: Javascript 이벤트를 사용하여 미디어 담벼락에서 발생하는 이벤트를 수신하고 원하는 분석 툴로 전송할 수 있습니다.
-seo-description: Javascript 이벤트를 사용하여 미디어 담벼락에서 발생하는 이벤트를 수신하고 원하는 분석 툴로 전송할 수 있습니다.
-seo-title: 미디어 담벼락에 대한 Javascript 이벤트
-solution: Experience Manager
 title: 미디어 담벼락에 대한 Javascript 이벤트
-uuid: 8afc0529-4640-476a-b207-91b2c70101f0
+exl-id: 3fe76467-65e2-4f8b-bd75-5a2ffc3e7e15
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '315'
+source-wordcount: '287'
 ht-degree: 0%
 
 ---
-
 
 # 미디어 담벼락에 대한 Javascript 이벤트{#javascript-events-for-media-wall}
 
@@ -38,12 +34,12 @@ document.body.addEventListener('insights', function (data) {
 | `Load` | 위치에 관계없이 페이지에 미디어 월을 로드할 때 |
 | `PostButtonClick` | 사용자가 미디어 담벼락의 업로드 단추를 클릭하면 |
 | `RequestMore` | 사용자가 미디어 담벼락에 더 많은 컨텐츠를 로드할 때. |
-| `TwitterReplyClick` | 사용자가 미디어 담벼락에서 Twitter 답글 단추를 클릭하면 |
+| `TwitterReplyClick` | 사용자가 미디어 담벼락에서 Twitter 응답 단추를 클릭하면 |
 | `TwitterRetweetClick` | 사용자가 미디어 담벼락에서 Twitter 리트윗 버튼을 클릭하면 |
 | `TwitterLikeClick` | 사용자가 미디어 담벼락에서 Twitter 좋아요/즐겨찾기 단추를 클릭하면 |
 | `ModalView` | 사용자가 클릭하면 더 큰 모달 창에서 미디어 담벼락 컨텐츠를 볼 수 있습니다. |
 | `Like` | 사용자가 미디어 담벼락에서 좋아요 단추를 클릭하면 |
 | `ShareButtonClick` | 사용자가 미디어 담벼락 카드에서 공유 버튼을 클릭할 때마다 언제든지 |
 | `ShareURL` | [URL로 공유] 텍스트 영역이 선택된 경우 미디어 담벼락에서 복사됩니다. |
-| `ShareFacebook` | 미디어 담벼락에서 Facebook에 공유를 클릭하면 |
-| `ShareTwitter` | 미디어 담벼락에서 Twitter에 공유를 클릭하면 |
+| `ShareFacebook` | 미디어 담벼락에서 Facebook으로 공유를 클릭하면 |
+| `ShareTwitter` | 미디어 담벼락에서 Twitter에 공유를 클릭할 때 |
