@@ -1,18 +1,14 @@
 ---
 description: 브랜딩 및 스타일에 맞게 앱 표시 옵션을 사용자 정의합니다.
-seo-description: 브랜딩 및 스타일에 맞게 앱 표시 옵션을 사용자 정의합니다.
-seo-title: 표시 옵션 변경
-solution: Experience Manager
 title: 표시 옵션 변경
-uuid: 121bb921-d9a7-4925-ab46-8e3d7dd0cbfe
+exl-id: 30da2022-9ec8-4f71-be94-facaa5971938
 translation-type: tm+mt
-source-git-commit: bd989c97ae5cf06a5ac3deec215f865b0fe95d16
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '200'
+source-wordcount: '187'
 ht-degree: 0%
 
 ---
-
 
 # 표시 옵션 변경{#change-display-options}
 
@@ -31,4 +27,3 @@ Livefyre는 CSS 클래스, 지역화된 텍스트 문자열, 앱 요소 및 미�
 * 지정된 미디어 포함 유형을 사용자가 업로드하지 못하도록 미디어를 제한합니다.
 * 앱 요소를 숨기면 사용자 경험을 간소화할 수 있습니다.
 * Livefyre `@mention` 아이콘을 변경하여 Livefyre 대상의 멤버를 위한 풀다운 @mention 메뉴에 표시할 사용자 정의 아이콘을 선택합니다.
-
