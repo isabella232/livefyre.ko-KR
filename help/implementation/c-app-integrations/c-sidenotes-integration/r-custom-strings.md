@@ -1,17 +1,14 @@
 ---
-description: 'null'
-seo-description: 'null'
-seo-title: 사이드노트 사용자 지정 문자열
 title: 사이드노트 사용자 지정 문자열
-uuid: 73745273-d3fb-4569-8910-d149fb37a7b4
+description: 사이드노트 사용자 지정 문자열
+exl-id: b5e2c18b-5b98-45ff-aa89-dd92a02949a9
 translation-type: tm+mt
-source-git-commit: 74a63daa264014af9a8afb6639fa1561a7b83241
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '341'
-ht-degree: 11%
+source-wordcount: '339'
+ht-degree: 10%
 
 ---
-
 
 # 사이드노트 사용자 지정 문자열{#sidenotes-custom-strings}
 
