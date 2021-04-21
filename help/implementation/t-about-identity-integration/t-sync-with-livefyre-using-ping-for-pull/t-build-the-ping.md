@@ -1,18 +1,14 @@
 ---
 description: 사용자가 프로필을 업데이트할 때 Livefyre 페이지가 표시되도록 Ping을 만듭니다.
-seo-description: 사용자가 프로필을 업데이트할 때 Livefyre 페이지가 표시되도록 Ping을 만듭니다.
-seo-title: Ping 구축
-solution: Experience Manager
 title: Ping 구축
-uuid: cb8cc043-9ea5-407c-b70f-3f1e37accdae
+exl-id: 626c200b-eaff-483f-b1eb-7d8993fe5e7c
 translation-type: tm+mt
-source-git-commit: f76dcd31e58b94856bf551009c2ac50c3233e516
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '151'
+source-wordcount: '135'
 ht-degree: 0%
 
 ---
-
 
 # Ping{#build-the-ping} 빌드
 
