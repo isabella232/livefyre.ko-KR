@@ -1,18 +1,14 @@
 ---
 description: 사용자 정의 스타일을 사용하여 사용자를 차별화합니다.
-seo-description: 사용자 정의 스타일을 사용하여 사용자를 차별화합니다.
-seo-title: 사용자 그룹 콘텐츠 스타일 지정
-solution: Experience Manager
 title: 사용자 그룹 콘텐츠 스타일 지정
-uuid: 2205d2c9-1892-427d-a289-bab0bf1dfe19
+exl-id: ed9cd412-5775-4d49-be34-c8b8f6df6358
 translation-type: tm+mt
-source-git-commit: 52f59cd15f315aa93be198f6eb586f008c18a384
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '232'
+source-wordcount: '221'
 ht-degree: 4%
 
 ---
-
 
 # 사용자 그룹 콘텐츠 스타일 지정{#style-user-group-content}
 
