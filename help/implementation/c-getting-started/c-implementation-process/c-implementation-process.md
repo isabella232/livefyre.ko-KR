@@ -1,18 +1,14 @@
 ---
 description: Livefyre Studio 구현 시 예상되는 사항.
-seo-description: Livefyre Studio 구현 시 예상되는 사항.
-seo-title: 구현 과정
-solution: Experience Manager
 title: 구현 과정
-uuid: 9a0f394e-3467-47d1-9816-45e2130db440
+exl-id: 82bf8c09-946a-4be8-97bf-5b9868a4e031
 translation-type: tm+mt
-source-git-commit: 09011bac06f4a1c39836455f9d16654952184962
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '300'
+source-wordcount: '291'
 ht-degree: 3%
 
 ---
-
 
 # 구현 과정{#implementation-process}
 
@@ -49,4 +45,3 @@ Livefyre 통합에는 다음 3가지 주요 단계가 있습니다.
 * 사용자 정의
 
    맞춤화는 선택 사항이지만 대부분의 고객은 자신의 브랜드에 맞게 앱을 맞춤화할 수 있습니다.
-
