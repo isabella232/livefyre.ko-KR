@@ -1,18 +1,14 @@
 ---
 description: Livefyre.js를 사용하여 날짜 및 타임스탬프를 사용자 정의합니다.
-seo-description: Livefyre.js를 사용하여 날짜 및 타임스탬프를 사용자 정의합니다.
-seo-title: 날짜 및 타임스탬프 사용자 지정
-solution: Experience Manager
 title: 날짜 및 타임스탬프 사용자 지정
-uuid: 632ea405-56b7-4664-8d2b-0dd0a7611bd8
+exl-id: 77130793-00ba-4a5c-8318-4221d971da6c
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '383'
+source-wordcount: '370'
 ht-degree: 0%
 
 ---
-
 
 # 날짜 및 타임스탬프 사용자 지정{#customize-the-date-and-time-stamp}
 
