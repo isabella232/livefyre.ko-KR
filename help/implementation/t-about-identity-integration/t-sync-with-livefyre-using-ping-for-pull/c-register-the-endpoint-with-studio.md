@@ -1,18 +1,14 @@
 ---
 description: Livefyre가 URL을 사용하여 업데이트된 프로필 정보를 가져올 수 있도록 URL 끝점을 등록합니다.
-seo-description: Livefyre가 URL을 사용하여 업데이트된 프로필 정보를 가져올 수 있도록 URL 끝점을 등록합니다.
-seo-title: Studio에 끝점 등록
-solution: Experience Manager
 title: Studio에 끝점 등록
-uuid: 4eb816ee-d743-43bf-bfee-d9b9fd98b482
+exl-id: 2910a13a-ae88-41d7-ba7c-88d7a1dbe445
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '127'
+source-wordcount: '107'
 ht-degree: 0%
 
 ---
-
 
 # Studio{#register-the-endpoint-with-studio}에 끝점 등록
 
@@ -24,4 +20,3 @@ Ping for Pull URL은 네트워크당 한 번만 등록합니다. 한 번 설정�
 1. Livefyre가 업데이트된 사용자 프로필 정보를 가져올 URL을 등록하고 **[!UICONTROL Studio > Settings > Integration Settings > Remote Profiles]**&#x200B;으로 이동한 다음 **[!UICONTROL Ping for Pull URL]** 필드에 입력합니다.
 
    예를 들어 URL은 다음과 같을 수 있습니다.`https://example.yoursite.com/some_path/?id={id}`
-
