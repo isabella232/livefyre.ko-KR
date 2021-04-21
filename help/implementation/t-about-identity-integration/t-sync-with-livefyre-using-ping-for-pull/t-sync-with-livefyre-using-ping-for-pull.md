@@ -1,18 +1,14 @@
 ---
 description: Ping for Pull을 사용하여 사용자 관리 시스템과 Livefyre를 동기화할 수 있습니다.
-seo-description: Ping for Pull을 사용하여 사용자 관리 시스템과 Livefyre를 동기화할 수 있습니다.
-seo-title: Pull용 Ping을 사용하여 Livefyre와 동기화
-solution: Experience Manager
 title: Pull용 Ping을 사용하여 Livefyre와 동기화
-uuid: 7b059064-1cca-46d7-8055-dfe59f493ac1
+exl-id: 01b5851d-9dc0-44dc-9c0d-0c467502450d
 translation-type: tm+mt
-source-git-commit: 74a63daa264014af9a8afb6639fa1561a7b83241
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '340'
+source-wordcount: '319'
 ht-degree: 0%
 
 ---
-
 
 # 풀링{#sync-with-livefyre-using-ping-for-pull}에 Ping을 사용하여 Livefyre와 동기화
 
