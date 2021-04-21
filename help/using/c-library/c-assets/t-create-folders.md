@@ -1,18 +1,14 @@
 ---
 description: 폴더를 만들어 자산을 구성합니다.
-seo-description: 폴더를 만들어 자산을 구성합니다.
-seo-title: 자산 폴더 만들기
-solution: Experience Manager
 title: 자산 폴더 만들기
-uuid: fe5eb098-ac8c-44e9-aee4-6c0b88f82747
+exl-id: f9c83081-c1c8-4e3a-b975-55d6738995f5
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '115'
+source-wordcount: '107'
 ht-degree: 0%
 
 ---
-
 
 # 자산 폴더 만들기{#create-asset-folders}
 
