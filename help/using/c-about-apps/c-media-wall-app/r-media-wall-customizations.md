@@ -1,18 +1,14 @@
 ---
 description: Media Wall 앱의 크기, 폭 및 상호 작용 옵션을 변경합니다.
-seo-description: Media Wall 앱의 크기, 폭 및 상호 작용 옵션을 변경합니다.
-seo-title: 미디어 벽 사용자 지정
-solution: Experience Manager
 title: 미디어 벽 사용자 지정
-uuid: 79aecd92-3937-4bb4-a1a6-b090fb39afb0
+exl-id: bc34d8da-9e14-4226-b38d-128889bc31cc
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '733'
+source-wordcount: '718'
 ht-degree: 0%
 
 ---
-
 
 # 미디어 벽 사용자 지정{#media-wall-customizations}
 
@@ -82,4 +78,3 @@ Media Wall 앱의 크기, 폭 및 상호 작용 옵션을 변경합니다.
 * **[!UICONTROL Style]** 및  **[!UICONTROL Config]** 옵션  **[!UICONTROL App Designer]**&#x200B;사용 **[!UICONTROL App Designer]**&#x200B;의 모든 앱에 대한 표준 **[!UICONTROL Style]** 및 **[!UICONTROL Config]** 옵션에 대한 자세한 내용은 앱 맞춤화를 참조하십시오.
 
 * 통합 툴. 통합 도구를 사용하여 미디어 담벼락을 사용자 지정하는 방법에 대한 자세한 내용은 [미디어 담벼락 통합](/help/implementation/c-app-integrations/c-media-wall-integration.md)을 참조하십시오.
-
