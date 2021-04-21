@@ -1,18 +1,14 @@
 ---
 description: 사용자 그룹의 사용자 정의 스타일 컨텐츠를 만들려면 먼저 계정에 사용자 태그를 추가한 다음 CSS를 사용하여 컨텐츠의 스타일을 지정해야 합니다.
-seo-description: 사용자 그룹의 사용자 정의 스타일 컨텐츠를 만들려면 먼저 계정에 사용자 태그를 추가한 다음 CSS를 사용하여 컨텐츠의 스타일을 지정해야 합니다.
-seo-title: 사용자 정의 스타일 적용
-solution: Experience Manager
 title: 사용자 정의 스타일 적용
-uuid: 0556aa2f-4fcd-4bde-abb5-479ec682f573
+exl-id: 54692525-32ce-487a-b3c3-da1261b58da1
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '286'
+source-wordcount: '260'
 ht-degree: 0%
 
 ---
-
 
 # 사용자 지정 스타일 적용{#applying-custom-styles}
 
@@ -82,4 +78,3 @@ CSS 클래스 fyre-author-tag-***&lt;your_group>*** 또는 fyre-tag-author-***&l
     padding-top: 4px; 
 }
 ```
-
