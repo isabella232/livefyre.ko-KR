@@ -1,18 +1,14 @@
 ---
 description: Livefyre는 사이트 방문자의 데이터를 추적하고 소셜 미디어 네트워크와의 동기화를 위한 추가 기능을 제공합니다.
-seo-description: Livefyre는 사이트 방문자의 데이터를 추적하고 소셜 미디어 네트워크와의 동기화를 위한 추가 기능을 제공합니다.
-seo-title: 기타 기능
-solution: Experience Manager
 title: 기타 기능
-uuid: 76ac2102-622d-48d3-8b1d-6ca6c90c806a
+exl-id: 9ad2220a-a875-4eec-9d25-3cebf2478f41
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '77'
+source-wordcount: '59'
 ht-degree: 0%
 
 ---
-
 
 # 기타 기능{#miscellaneous-features}
 
@@ -25,4 +21,3 @@ Livefyre는 사이트 방문자의 데이터를 추적하고 소셜 미디어 �
 이 기능을 사용하는 앱:
 
 * [투표](../c-about-apps/c-polls-app/c-polls-app.md#c_polls_app)
-
