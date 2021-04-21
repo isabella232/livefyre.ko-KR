@@ -1,17 +1,14 @@
 ---
 description: 지능적인 단일 인터페이스에서 컨텐츠를 중재합니다.
-seo-description: 지능적인 단일 인터페이스에서 컨텐츠를 중재합니다.
-seo-title: ModQ를 사용하여 컨텐츠 중재
 title: ModQ를 사용하여 컨텐츠 중재
-uuid: c630fb85-7bd0-4da0-ac7e-080e970fb4f9
+exl-id: 694b1f45-2b24-4e80-99a1-788e2cecc8a4
 translation-type: tm+mt
-source-git-commit: 52f59cd15f315aa93be198f6eb586f008c18a384
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '1465'
+source-wordcount: '1454'
 ht-degree: 0%
 
 ---
-
 
 # ModQ{#moderate-content-using-modq}을 사용하여 콘텐트 중재
 
@@ -125,7 +122,7 @@ ModQ에서 각 컨텐츠로 수행할 작업을 결정할 수 있습니다.
 
    >[!NOTE]
    >
-   >Instagram의 콘텐츠에 대한 ModQ의 권한은 요청할 수 없습니다. 라이브러리 또는 앱 콘텐츠를 사용하여 Instagram에서 콘텐츠에 대한 권한 요청을 보내야 합니다.
+   >ModQ에서 Instagram의 콘텐츠에 대한 권한을 요청할 수 없습니다. instagram에서 콘텐츠에 대한 권한 요청을 보내려면 라이브러리 또는 앱 콘텐츠를 사용해야 합니다.
 
 * **[!UICONTROL Feature and Approve]** 컨텐츠를 승인하고 컨텐츠 일부를 특정할 수 있습니다.
 * **[!UICONTROL Product Tag and Approve]** 제품 카탈로그의 제품을 컨텐츠에 추가한 다음 승인합니다.
@@ -171,4 +168,3 @@ ModQ를 사용하는 앱:
 * [사이드노트](/help/using/c-about-apps/c-sidenotes-app/c-sidenotes-app.md#c_sidenotes_app)
 * [Storify 2](/help/using/c-about-apps/c-storify2/c-storify2.md#c_storify2)
 * [업로드 버튼](/help/using/c-about-apps/c-upload-button-app/c-upload-button-app.md#c_upload_button_app)
-
