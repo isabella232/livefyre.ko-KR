@@ -1,18 +1,14 @@
 ---
 description: Mosaic 앱을 사용하여 색상, 사진 및 비디오의 생동감 있고 동적인 벽을 사이트에 추가할 수 있습니다.
-seo-description: Mosaic 앱을 사용하여 색상, 사진 및 비디오의 생동감 있고 동적인 벽을 사이트에 추가할 수 있습니다.
-seo-title: 모자이크
-solution: Experience Manager
 title: 모자이크
-uuid: 331c5f80-7440-4b91-8ac6-4f56a8a5befe
+exl-id: 79259c77-169d-4819-a7b0-39f64d92ea1e
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '808'
+source-wordcount: '789'
 ht-degree: 1%
 
 ---
-
 
 # 모자이크{#mosaic}
 
@@ -103,4 +99,3 @@ Mosaic에 현지화를 사용할 수 있습니다. 다음을 수행할 수 있�
 * Mosaic 변환 세트 만들기 및 수정
 * 사이트에 번역 세트 적용
 * 네트워크에 변환 세트 적용
-
