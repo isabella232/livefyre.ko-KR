@@ -1,18 +1,14 @@
 ---
 description: Livefyre Studio에서 Storify 2에 대한 스타일, 표시 및 사용자 참여 구성 옵션을 선택합니다.
-seo-description: Livefyre Studio에서 Storify 2에 대한 스타일, 표시 및 사용자 참여 구성 옵션을 선택합니다.
-seo-title: 구성 옵션
-solution: Experience Manager
 title: 구성 옵션
-uuid: 4a7f03b3-6d97-46e9-8832-81e665f06d3a
+exl-id: bdb5210e-860c-477f-95cd-37a1233469f1
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '405'
+source-wordcount: '390'
 ht-degree: 0%
 
 ---
-
 
 # 구성 옵션{#configuration-options}
 
@@ -79,4 +75,3 @@ Livefyre Studio에서 Storify 2에 대한 스타일, 표시 및 사용자 참여
 * **[!UICONTROL Number of views]**
 
    활성화된 경우 스토리를 본 횟수가 표시됩니다.
-
