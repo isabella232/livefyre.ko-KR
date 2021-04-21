@@ -1,18 +1,14 @@
 ---
 description: GDPR 준비 개인 정보 보호 요청에 대한 FAQ에 대한 답변입니다.
-seo-description: GDPR 준비 개인 정보 보호 요청에 대한 FAQ에 대한 답변입니다.
-seo-title: 개인 정보 요청 FAQ
-solution: Experience Manager
 title: 개인 정보 요청 FAQ
-uuid: 0cd6f0d2-504d-46e9-ac46-070536cda086
+exl-id: 6d0add45-589a-46d0-b15a-63a7599aad73
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '425'
+source-wordcount: '412'
 ht-degree: 1%
 
 ---
-
 
 # 개인 정보 요청 FAQ{#privacy-request-faqs}
 
@@ -40,5 +36,4 @@ GDPR 준비 개인 정보 보호 요청에 대한 FAQ에 대한 답변입니다.
 
 * **현재 직원 또는 이전 직원의 데이터 추적 보고서를 어떻게 생성합니까?** [개인 정보 ](../../c-settings-other/c-gdpr-compliance/c-view-a-privacy-report.md#c_view_a_privacy_report) 보고서를 보고 사용자 계정에 대해 추적된 데이터 보고서를 생성합니다.
 
-* **Livefyre 소셜 스트림이 준수됩니까?** 사용자가 소셜 네트워크에서 게시물 또는 트윗을 삭제하면 24시간 이내에 Livefyre의 모든 소스에서도 컨텐츠가 삭제됩니다. 이것은 Twitter 및 Facebook에도 적용됩니다.
-
+* **Livefyre 소셜 스트림이 준수됩니까?** 사용자가 소셜 네트워크에서 게시물 또는 트윗을 삭제하면 24시간 이내에 Livefyre의 모든 소스에서도 컨텐츠가 삭제됩니다. 이는 Twitter 및 Facebook에 적용됩니다.
