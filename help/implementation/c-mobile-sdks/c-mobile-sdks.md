@@ -1,18 +1,14 @@
 ---
 description: 기본 모바일 앱에 Livefyre 추가
-seo-description: 기본 모바일 앱에 Livefyre 추가
-seo-title: Mobile SDK
-solution: Experience Manager
 title: Mobile SDK
-uuid: 84c7ca1c-3401-492a-bfa5-62b996947a44
+exl-id: e05001a4-6199-4d98-a661-123e031b657b
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '376'
-ht-degree: 5%
+source-wordcount: '367'
+ht-degree: 4%
 
 ---
-
 
 # Mobile SDK{#mobile-sdks}
 
@@ -66,4 +62,3 @@ HTTP API는 Livefyre 플랫폼에서 대화와 컨텐츠를 만들 수 있는 �
 >[!IMPORTANT]
 >
 >**보안되지 않은 앱 내에 Livefyre 비밀 네트워크 키를 노출해야 하므로 모바일 클라이언트 내에서 사용자 인증 토큰을** 만들지 마십시오. 더욱 강력하고 안전한 솔루션을 보려면 사용자 인증 토큰 섹션을 참조하십시오.
-
