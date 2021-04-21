@@ -1,18 +1,14 @@
 ---
 description: 라이브 블로그를 사용하면 작성자 및 편집자는 실시간 업데이트를 게시하여 사이트를 매력적인 라이브 뉴스 소스로 변환할 수 있습니다.
-seo-description: 라이브 블로그를 사용하면 작성자 및 편집자는 실시간 업데이트를 게시하여 사이트를 매력적인 라이브 뉴스 소스로 변환할 수 있습니다.
-seo-title: 라이브 블로그
-solution: Experience Manager
 title: 라이브 블로그
-uuid: 40ae3120-c630-440e-b224-49cd99677dc2
+exl-id: 9a356e8b-7120-466b-8c78-4e7d6d21d0c4
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '230'
+source-wordcount: '208'
 ht-degree: 0%
 
 ---
-
 
 # 라이브 블로그{#live-blog}
 
@@ -31,4 +27,3 @@ ht-degree: 0%
 또 다른 눈보라가 몰아치는 가운데, 슬레이트 시장은 독자들에게 동부 해안의 기후에 대한 즉각적인 업데이트를 제공하고자 했다. 슬레이트의 편집자들은 라이브 블로그를 사용하여 자신의 사진, 사용자 트윗, 그리고 강설에대한 정보를 포함한 폭풍에 대한 최신 정보를 즉시 공유할 수 있었다. 라이브 블로그는 Slate의 사이트의 첫 페이지를 만들 정도로 유용했다.
 
 ![](assets/LiveBlogSlate_example.png)
-
