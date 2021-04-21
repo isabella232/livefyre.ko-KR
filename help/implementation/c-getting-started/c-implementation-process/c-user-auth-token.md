@@ -1,18 +1,14 @@
 ---
 description: 이 섹션에서는 사용자를 앱에 로그인하는 데 필요한 사용자 인증 토큰을 만드는 UserAuth JSON 개체를 생성하는 방법에 대해 설명합니다.
-seo-description: 이 섹션에서는 사용자를 앱에 로그인하는 데 필요한 사용자 인증 토큰을 만드는 UserAuth JSON 개체를 생성하는 방법에 대해 설명합니다.
-seo-title: 사용자 인증 토큰
-solution: Experience Manager
 title: 사용자 인증 토큰
-uuid: 6483debd-453c-4780-b19c-1d8041693617
+exl-id: 564144dd-6db4-447b-80ac-b743ecac833d
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '263'
+source-wordcount: '237'
 ht-degree: 2%
 
 ---
-
 
 # 사용자 인증 토큰{#user-auth-token}
 
@@ -64,4 +60,3 @@ network.build_user_auth_token(userId, displayName, expires)
 >[!NOTE]
 >
 >네트워크 키는 Livefyre 디모자이크 계정에 대해 공유되지 않습니다. Livefyre가 환경을 프로비저닝하면 네트워크 키를 받게 됩니다. 이 키는 비공개로 유지되어야 합니다.
-
