@@ -1,18 +1,14 @@
 ---
 description: Janrain Capture 및 후면판을 사용하는 고객은 SSO(Single Sign On)에 대해 Livefyre 인증을 사용할 수 있으므로 사용자가 사이트에 로그인할 때 Livefyre 앱을 즉시 이용할 수 있습니다.
-seo-description: Janrain Capture 및 후면판을 사용하는 고객은 SSO(Single Sign On)에 대해 Livefyre 인증을 사용할 수 있으므로 사용자가 사이트에 로그인할 때 Livefyre 앱을 즉시 이용할 수 있습니다.
-seo-title: 잔레인 캡처/후면판
-solution: Experience Manager
 title: 잔레인 캡처/후면판
-uuid: 776e9626-db04-4c34-adfe-681a71b552c5
+exl-id: c7e6cfef-7570-4f9c-9d2c-79f890ee5c49
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '959'
+source-wordcount: '926'
 ht-degree: 1%
 
 ---
-
 
 # 재엔 캡처/후면판{#janrain-capture-backplane}
 
