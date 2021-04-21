@@ -1,18 +1,14 @@
 ---
-description: Livefyre 사용자에게 표시되는 아이콘을 @mention 풀다운 메뉴에서 변경합니다.
-seo-description: 언급 풀다운 메뉴에서 Livefyre 사용자에게 표시되는 아이콘을 변경합니다.
-seo-title: 언급 아이콘 변경
-solution: Experience Manager
-title: Mention 아이콘 변경
-uuid: a395f4ff-a774-454a-8d94-4a3371d8cc2c
+description: 언급 풀다운 메뉴에서 Livefyre 사용자에게 표시되는 아이콘을 변경합니다.
+title: 언급 아이콘 변경
+exl-id: e078ef7f-7f16-4f5d-9152-95ae7fe7e4bd
 translation-type: tm+mt
-source-git-commit: 0d2ff61b1db6100de1d59e6e20c1175f015a78c5
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '98'
-ht-degree: 31%
+source-wordcount: '83'
+ht-degree: 19%
 
 ---
-
 
 # `@mention` 아이콘 {#change-mention-icon} 변경
 
