@@ -1,18 +1,14 @@
 ---
 description: 사용자가 단일 페이지 레이아웃 및 URL에서 컬렉션을 클릭하도록 허용합니다.
-seo-description: 사용자가 단일 페이지 레이아웃 및 URL에서 컬렉션을 클릭하도록 허용합니다.
-seo-title: 컬렉션 변경
-solution: Experience Manager
 title: 컬렉션 변경
-uuid: 81c8a554-375f-4659-9e25-5b3618824633
+exl-id: 5ddae18f-0279-457d-ae02-85e24fe81150
 translation-type: tm+mt
-source-git-commit: 5bf937c8cb1a9ca12216ee1884142b8787ff063e
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '128'
+source-wordcount: '113'
 ht-degree: 0%
 
 ---
-
 
 # 컬렉션 변경 {#change-collection}
 
@@ -22,7 +18,7 @@ Livefyre 앱이 이미 로드되어 있는 동안 URL을 변경하지 않고, �
 
 예를 들어 갤러리에서 비디오나 사진을 클릭해도 해당 선택 항목에 해당하는 컬렉션이 로드되지만 페이지의 URL은 변경되지 않습니다.
 
-단일 페이지[에서 3개의 컬렉션 중 하나를 로드하려면:](../c-advanced-topics/t-display-comment-count.md#t_display_comment_count)
+단일 페이지](../c-advanced-topics/t-display-comment-count.md#t_display_comment_count)에서 3개의 컬렉션 중 하나를 로드하려면:[
 
 ```
 <html> 
