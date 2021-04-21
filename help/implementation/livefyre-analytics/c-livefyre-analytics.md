@@ -1,18 +1,14 @@
 ---
-description: 'null'
-seo-description: 'null'
-seo-title: 다른 분석 도구에서 Livefyre 사용
-solution: Experience Manager
 title: 다른 분석 도구에서 Livefyre 사용
-uuid: 26c835f6-aced-41f7-aabe-418afce8a829
+description: 다른 분석 도구에서 Livefyre 사용
+exl-id: da29e281-5095-4e99-a248-19390f2059a2
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '227'
+source-wordcount: '225'
 ht-degree: 0%
 
 ---
-
 
 # 다른 분석 도구에서 Livefyre 사용{#use-livefyre-with-other-analytics-tool}
 
@@ -61,4 +57,3 @@ pollForAnalytics();
 1. analytics 핸들러는 공급자가 지원하는 경우 개별적으로 또는 일괄적으로 반복해야 하는 일련의 이벤트를 받습니다.
 1. 핸들러가 받은 이벤트 데이터를 분석 공급자가 요구하는 형식으로 매핑합니다.
 1. 데이터를 분석 공급자에게 보냅니다.
-
