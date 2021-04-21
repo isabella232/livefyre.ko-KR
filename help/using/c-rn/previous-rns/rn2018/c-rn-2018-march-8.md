@@ -1,18 +1,14 @@
 ---
 description: 2018년 3월 8일 릴리스에 대한 릴리스 노트입니다.
-seo-description: 2018년 3월 8일 릴리스에 대한 릴리스 노트입니다.
-seo-title: 2018년 3월 8일
-solution: Experience Manager
 title: 2018년 3월 8일
-uuid: 4ed67147-0837-4d5e-8e99-532a4278bcce
+exl-id: 46d4a425-17e0-48a2-a596-5cc7163f9edd
 translation-type: tm+mt
-source-git-commit: 35feb87bb82d1f298496717a65f1972cf4e71104
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '302'
+source-wordcount: '295'
 ht-degree: 5%
 
 ---
-
 
 # 2018년 3월 8일{#march}
 
@@ -40,7 +36,6 @@ ht-degree: 5%
 | 문제 유형 | 구성 요소 | 릴리스 노트 |
 |--- |--- |--- |
 | 개선 사항 | 필름스트립 | 필름 스트립에 대한 다음 액세스 가능성 기능이 업데이트되었습니다.<br><ul><li>&lt;div>에서 &lt;button>으로 수정된 왼쪽/오른쪽 화살표 </li><li>설명이 덜 포함된 ARIA 레이블 &quot;첨부된 사진 열기&quot;에서 플랫폼 이름과 게시물 텍스트를 읽는 레이블로 변경된 이미지 요소를 미리 봅니다.</li></ul> |
-| 버그 | 미디어 벽 | 스트림 규칙에서 Instagram 게시물이 추가될 때 태그를 클릭할 수 없는 미디어 벽의 문제를 해결했습니다. |
+| 버그 | 미디어 벽 | 스트림 규칙에서 Instagram 게시물을 추가할 때 태그를 클릭할 수 없는 미디어 담벼락 문제가 해결되었습니다. |
 | 개선 사항 | 미디어 벽 | 다음과 같은 방법으로 미디어 벽 접근성을 개선했습니다.<br><ul><li>키보드 명령을 통해 모듈을 열고 닫으면 포커스가 더 이상 페이지의 맨 위로 이동되지 않습니다. 대신 포커스는 모달 팝업 전에 마지막으로 포커스가 있는 요소에 남아 있습니다.</li><li>추가 로드 단추는 키보드 Enter 키를 사용하여 탭 방식으로 지정하고 트리거할 수 있습니다.</li></ul> |
-| 버그 | Rights Management | Instagram 자산에 대한 권한이 부여된 후 권한 요청 양식을 볼 수 없는 오류가 수정되었습니다. |
-
+| 버그 | Rights Management | instagram 자산에 대한 권한이 부여된 후 권한 요청 양식을 볼 수 없는 오류가 수정되었습니다. |
