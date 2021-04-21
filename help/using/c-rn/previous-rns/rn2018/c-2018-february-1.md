@@ -1,18 +1,14 @@
 ---
 description: 2018년 2월 1일 릴리스에 대한 릴리스 노트입니다.
-seo-description: 2018년 2월 1일 릴리스에 대한 릴리스 노트입니다.
-seo-title: 2018년 2월 1일
-solution: Experience Manager
 title: 2018년 2월 1일
-uuid: c4776206-ccb7-4b5f-b85a-f9bef256ac6e
+exl-id: 39313b4d-342f-451b-8c15-471e604ba943
 translation-type: tm+mt
-source-git-commit: 35feb87bb82d1f298496717a65f1972cf4e71104
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '194'
+source-wordcount: '187'
 ht-degree: 9%
 
 ---
-
 
 # 2018년 2월 1일 {#february}
 
@@ -24,7 +20,7 @@ ht-degree: 9%
 |---|---|---|
 | 버그 | 미디어 벽 | 미디어 담벼락에서 재생되지 않는 일부 비디오에 대한 문제가 해결되었습니다. |
 | 개선 사항 | 스트림 | 스마트 태그로 스트림을 필터링하는 새 기능을 만들었습니다. |
-| 버그 | 스트림 | Instagram 스트림 규칙에 일본어 문자가 인식되지 않는 문제가 해결되었습니다. |
+| 버그 | 스트림 | instagram 스트림 규칙이 일본어 문자를 인식하지 못하는 문제를 수정했습니다. |
 | 개선 사항 | 스트림 | 이제 스트리밍 컨텐츠는 폴더에 저장되거나 앱에 게시되므로 Adobe Sensei에서 자동으로 태그가 지정되는 스마트하게 됩니다. |
 | 버그 | Studio | 이름에 특수 문자를 HTML로 표시하는 Nat Geo에서 보고한 버그를 수정했습니다. |
 
@@ -36,4 +32,3 @@ ht-degree: 9%
 | 개선 사항 | 앱 | Mosaic, Filmstrip, Media Wall, Feature Card 및 Carousel에서 사용자 정의 클릭유도문안 단추를 활성화/비활성화하는 새 디자이너 토글을 추가했습니다. |
 | 개선 사항 | 설명 | 새 오디오 파일 형식을 주석에 넣고 업로드 단추를 사용하는 기능을 추가했습니다. |
 | 버그 | 스트림 | SAFE Rules 확인란은 올바르게 선택/선택 취소되지 않는 버그를 수정했습니다. |
-
