@@ -1,18 +1,14 @@
 ---
 description: 댓글 앱을 포함시키는 것은 핵심 앱을 포함시키는 과정을 따릅니다.
-seo-description: 댓글 앱을 포함시키는 것은 핵심 앱을 포함시키는 과정을 따릅니다.
-seo-title: 댓글 앱 포함
-solution: Experience Manager
 title: 댓글 앱 포함
-uuid: e4982ad3-cab1-4805-a55c-594cca3b7203
+exl-id: 5eb191f8-ee52-4a9d-9180-90457a49fd4e
 translation-type: tm+mt
-source-git-commit: 268dc91369d346a254b7120706264eb91da8257e
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '94'
+source-wordcount: '78'
 ht-degree: 1%
 
 ---
-
 
 # 주석 앱 포함{#embed-a-comments-app}
 
@@ -67,4 +63,3 @@ CollectionMeta 빌드 섹션에 설명된 대로 CollectionMeta는 인코딩된 
 "title": "articleTitle" 
 }
 ```
-
