@@ -1,17 +1,14 @@
 ---
 description: 2017년 8월 3일 릴리스의 릴리스 노트입니다.
-seo-description: 2017년 8월 3일 릴리스의 릴리스 노트입니다.
-seo-title: 2017년 8월 3일
 title: 2017년 8월 3일
-uuid: 316b269b-d1c5-451a-badc-3b927da8ed91
+exl-id: 764abba7-0113-4c99-a80e-b914f79da3fb
 translation-type: tm+mt
-source-git-commit: 35feb87bb82d1f298496717a65f1972cf4e71104
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '216'
+source-wordcount: '209'
 ht-degree: 11%
 
 ---
-
 
 # 2017년 8월 3일{#august}
 
@@ -28,8 +25,8 @@ ht-degree: 11%
 | 버그 | 라이브러리 | 제품을 제거한 다음 라이브러리의 자산에 제품을 다시 추가한 후 제품이 잘못 표시되는 문제가 해결되었습니다. |
 | 버그 | ModQ | ModQ에서 필터 선택 사항이 항상 적용되지 않는 버그를 수정했습니다. |
 | 버그 | 평가 | 모든 구현에서 HTTPS를 통해 미디어가 로드되도록 하기 위한 검토 버그가 수정되었습니다. |
-| 버그 | Storify 2 | Facebook 댓글을 URL로 가져오는 안정성이 개선되어 Storify 2가 나타납니다. |
-| 개선 사항 | Storify 2 | Facebook의 기능 사용 중단으로 인해 Storify Search에서 ID별 Facebook 댓글 검색 옵션을 제거했습니다. |
+| 버그 | Storify 2 | facebook 주석을 URL로 가져오는 안정성이 개선되어 Storify 2가 생성됩니다. |
+| 개선 사항 | Storify 2 | facebook의 기능 사용 중단으로 인해 Storify Search에서 ID별 Facebook 주석 검색 옵션을 제거했습니다. |
 | 버그 | 스트림 | 클릭 시 스트림 규칙 구성 텍스트 상자의 텍스트 알약이 제거되게 하는 버그를 수정했습니다. |
 
 ## UAT 릴리스
@@ -37,4 +34,3 @@ ht-degree: 11%
 | **문제 유형** | **구성 요소** | **릴리스 노트** |
 |---|---|---|
 | 버그 | 라이브러리 | &quot;추가 정보&quot; 단추 컨텐츠가 라이브러리에 표시되지 않던 버그를 수정했습니다. |
-
