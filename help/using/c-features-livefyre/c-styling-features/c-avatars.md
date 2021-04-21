@@ -1,17 +1,14 @@
 ---
 description: 컨텐츠와 함께 표시되는 이미지를 사용자 정의할 수 있습니다.
-seo-description: 컨텐츠와 함께 표시되는 이미지를 사용자 정의할 수 있습니다.
-seo-title: 아바타
 title: 아바타
-uuid: bf20f3bc-3dcc-4e16-a629-3380d1a7a3f2
+exl-id: cff7f6be-3660-4d71-949b-6ac04379d68d
 translation-type: tm+mt
-source-git-commit: 7dc3ac6725a27460cecfa6051549da85370ca053
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '214'
+source-wordcount: '202'
 ht-degree: 1%
 
 ---
-
 
 # 아바타{#avatars}
 
@@ -45,4 +42,3 @@ Livefyre는 Gravatars 사용을 지원합니다. 사용자 프로필의 일부�
 * [모자이크](/help/using/c-about-apps/c-mosaic-app/c-mosaic-app.md#c_mosaic_app)
 * [평가](/help/using/c-about-apps/c-reviews-app/c-reviews-app.md#c_reviews_app)
 * [Storify 2](/help/using/c-about-apps/c-storify2/c-storify2.md#c_storify2)
-
