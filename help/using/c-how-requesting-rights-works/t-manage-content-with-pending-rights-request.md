@@ -1,18 +1,14 @@
 ---
 description: 보류 중인 권한 요청을 사용하여 Livefyre의 자산을 보고 수정합니다.
-seo-description: 보류 중인 권한 요청을 사용하여 Livefyre의 자산을 보고 수정합니다.
-seo-title: 자산 라이브러리에서 보류 중인 권한 요청을 사용하여 콘텐트 관리
-solution: Experience Manager
 title: 자산 라이브러리에서 보류 중인 권한 요청을 사용하여 콘텐트 관리
-uuid: fab285af-de09-4061-a946-5bede91603de
+exl-id: f25be7d8-6d53-4365-9215-d6076b39f7b4
 translation-type: tm+mt
-source-git-commit: 0c5420fcb3ba2e12375e92d4574d0a6dff310869
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '107'
+source-wordcount: '84'
 ht-degree: 0%
 
 ---
-
 
 # 자산 라이브러리의 보류 중인 권한 요청을 사용하여 콘텐트 관리{#manage-content-with-a-pending-rights-requests-from-the-asset-library}
 
