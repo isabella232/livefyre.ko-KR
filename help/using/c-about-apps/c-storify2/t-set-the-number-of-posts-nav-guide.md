@@ -1,18 +1,14 @@
 ---
 description: 탐색 안내서에서 사이트 방문자가 볼 수 있는 게시물 수를 설정합니다.
-seo-description: 탐색 안내서에서 사이트 방문자가 볼 수 있는 게시물 수를 설정합니다.
-seo-title: 탐색 안내서에서 게시물 수 설정
-solution: Experience Manager
 title: 탐색 안내서에서 게시물 수 설정
-uuid: 8baee47a-7f9f-48dd-ac6e-a2f47f56148b
+exl-id: 9cbf4408-b0e7-4884-a91a-518f0d56a621
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '90'
+source-wordcount: '69'
 ht-degree: 0%
 
 ---
-
 
 # 탐색 안내서의 게시물 수 설정{#set-the-number-of-posts-in-the-navigation-guide}
 
