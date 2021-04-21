@@ -1,17 +1,14 @@
 ---
 description: 2017년 4월 27일 릴리스에 대한 릴리스 노트입니다.
-seo-description: 2017년 4월 27일 릴리스에 대한 릴리스 노트입니다.
-seo-title: 2017년 4월 27일
 title: 2017년 4월 27일
-uuid: 30284115-92c0-4a85-acdb-adc70605ed5f
+exl-id: ebafb0ee-bb72-4187-ae35-316135434740
 translation-type: tm+mt
-source-git-commit: 35feb87bb82d1f298496717a65f1972cf4e71104
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '307'
+source-wordcount: '300'
 ht-degree: 8%
 
 ---
-
 
 # 2017년 4월 27일{#april}
 
@@ -39,4 +36,3 @@ ht-degree: 8%
 | 개선 사항 | API | 앱 포함 코드를 검색하기 위한 새 API를 출시했습니다. 자세한 내용은 https://api.livefyre.com/docs/apis/by-category/apps을 참조하십시오. |
 | 버그 | 자산 라이브러리 | 라이브러리 결과의 첫 페이지를 10개의 에셋으로 제한하던 버그를 수정했습니다. |
 | 개선 사항 | Studio | Studio에서 구성 요소 전환 시 대비를 강화하여 쉽게 볼 수 있습니다. |
-
