@@ -1,18 +1,14 @@
 ---
 description: 인기도별로 정렬하여 앱 내에서 가장 인기 있는 25개의 스레드를 표시합니다.
-seo-description: 인기도별로 정렬하여 앱 내에서 가장 인기 있는 25개의 스레드를 표시합니다.
-seo-title: 핫 스레드
-solution: Experience Manager
 title: 핫 스레드
-uuid: 0011f769-6712-48e9-bb10-a43610fef595
+exl-id: a7d4efef-6f25-4eaf-9a1e-b0ff3c033d5d
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '396'
+source-wordcount: '383'
 ht-degree: 0%
 
 ---
-
 
 # 핫 스레드{#hot-threads}
 
@@ -53,4 +49,3 @@ ht-degree: 0%
 이 기능을 사용하는 앱:
 
 * [댓글](/help/using/c-about-apps/c-comments/c-comments.md)
-
