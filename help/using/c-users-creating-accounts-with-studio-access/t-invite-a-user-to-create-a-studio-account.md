@@ -1,18 +1,14 @@
 ---
 description: 스튜디오 관리자와 관리자는 새 사용자 또는 기존 사용자를 초대하여 Studio 계정을 만들 수 있습니다.
-seo-description: 스튜디오 관리자와 관리자는 새 사용자 또는 기존 사용자를 초대하여 Studio 계정을 만들 수 있습니다.
-seo-title: Studio 계정을 만들 사용자 초대
-solution: Experience Manager
 title: Studio 계정을 만들 사용자 초대
-uuid: 2cfa4639-1624-4a28-a06d-b6b0180bf3b0
+exl-id: 5b4f5bb9-6bd0-413a-9cf9-9604bc2fb8af
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '205'
+source-wordcount: '182'
 ht-degree: 0%
 
 ---
-
 
 # Studio 계정 만들기 사용자 초대{#invite-a-user-to-create-a-studio-account}
 
