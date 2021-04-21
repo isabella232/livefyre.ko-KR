@@ -1,18 +1,14 @@
 ---
 description: Livefyre의 사용자 정의 HTML 기능을 사용하여 댓글 또는 라이브 블로그 앱에 투표를 추가할 수 있습니다.
-seo-description: Livefyre의 사용자 정의 HTML 기능을 사용하여 댓글 또는 라이브 블로그 앱에 투표를 추가할 수 있습니다.
-seo-title: 댓글 또는 라이브 블로그 앱에 투표 추가
-solution: Experience Manager
 title: 댓글 또는 라이브 블로그 앱에 투표 추가
-uuid: eedb63c1-7d31-40d9-ab3e-b15765cbe804
+exl-id: a889392c-8fef-4006-829a-adfe1c3cd126
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '110'
+source-wordcount: '85'
 ht-degree: 0%
 
 ---
-
 
 # 댓글 또는 라이브 블로그 앱에 투표 추가{#add-a-poll-to-a-comments-or-live-blog-app}
 
