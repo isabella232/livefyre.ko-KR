@@ -1,18 +1,14 @@
 ---
 description: '전체 가이드를 통해 필름스트립 앱에 대한 자세한 내용을 살펴보십시오. 시각화 앱은 복고풍 카메라 필름 스트립의 이미지를 보여줍니다. 팁기본을 참고하세요. '
-seo-description: 필름스트립은 카메라의 필름 스트립과 유사한 사용자 생성 컨텐츠를 다이내믹한 단일 가로 스트립으로 보여주는 시각화 앱입니다.
-seo-title: 필름스트립
-solution: Experience Manager
 title: 필름스트립 앱 안내서
-uuid: 2e3cb6f4-15db-4509-8a5b-a651511cdbd6
+exl-id: a96e5de0-bebb-42ee-ae10-813ad8b9e960
 translation-type: tm+mt
-source-git-commit: 2584041dd080c08ee769bd897e55157ec05ce8b6
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '821'
+source-wordcount: '794'
 ht-degree: 1%
 
 ---
-
 
 # 필름스트립{#filmstrip}
 
