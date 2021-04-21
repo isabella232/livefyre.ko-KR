@@ -1,18 +1,14 @@
 ---
 description: 라이브 블로그에 스타일과 주석이 표시되는 방식을 사용자 정의할 수 있습니다.
-seo-description: 라이브 블로그에 스타일과 주석이 표시되는 방식을 사용자 정의할 수 있습니다.
-seo-title: 라이브 블로그 사용자 지정
-solution: Experience Manager
 title: 라이브 블로그 사용자 지정
-uuid: f07d4c33-4aef-4d69-b9dd-3fd3c27ffd6d
+exl-id: 388b700b-c7bc-47ef-a0f3-dac0b01fcb2b
 translation-type: tm+mt
-source-git-commit: 67aeb3de964473b326c88c3a3f81ff48a6a12652
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '247'
+source-wordcount: '232'
 ht-degree: 0%
 
 ---
-
 
 # 라이브 블로그 사용자 지정{#live-blog-customizations}
 
@@ -60,11 +56,10 @@ ht-degree: 0%
 
 * **[!UICONTROL Users may share comments]**
 
-   활성화된 경우 사용자는 게시된 컨텐트를 Twitter, Facebook 또는 LinkedIn에 공유할 수 있습니다. 공유 활성화에 대한 자세한 내용은 설정 > 통합 설정 > 소셜 공유를 참조하십시오.
+   활성화된 경우 사용자는 게시된 컨텐츠를 Twitter, Facebook 또는 LinkedIn에 공유할 수 있습니다. 공유 활성화에 대한 자세한 내용은 설정 > 통합 설정 > 소셜 공유를 참조하십시오.
 
 다음을 사용하여 라이브 블로그를 사용자 정의할 수 있습니다.
 
 * **[!UICONTROL Style]** 및  **[!UICONTROL Config]** 옵션  **[!UICONTROL App Designer]**&#x200B;사용 **[!UICONTROL App Designer]**&#x200B;의 모든 앱에 대한 표준 **[!UICONTROL Style]** 및 **[!UICONTROL Config]** 옵션에 대한 자세한 내용은 앱 맞춤화를 참조하십시오.
 
 * 통합 툴. 통합 도구를 사용하여 앱을 사용자 정의하는 방법에 대한 자세한 내용은 라이브 블로그를 참조하십시오.
-
