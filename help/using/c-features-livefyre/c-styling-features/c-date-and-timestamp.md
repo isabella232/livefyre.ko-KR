@@ -1,14 +1,11 @@
 ---
 description: 필요에 맞게 날짜 및 타임스탬프 형식을 변경할 수 있습니다.
-seo-description: 필요에 맞게 날짜 및 타임스탬프 형식을 변경할 수 있습니다.
-seo-title: 날짜 및 타임스탬프
 title: 날짜 및 타임스탬프
-uuid: 3022059f-cfdc-4e13-aa3d-7537875ef431
 translation-type: tm+mt
-source-git-commit: 09011bac06f4a1c39836455f9d16654952184962
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '113'
-ht-degree: 3%
+source-wordcount: '98'
+ht-degree: 4%
 
 ---
 
