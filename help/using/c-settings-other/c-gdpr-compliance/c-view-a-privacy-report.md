@@ -1,18 +1,14 @@
 ---
 description: Livefyre의 개인정보 보호 보고서를 통해 사용자를 위해 Livefyre에 기록되는 정보를 확인할 수 있습니다.
-seo-description: Livefyre의 개인정보 보호 보고서를 통해 사용자를 위해 Livefyre에 기록되는 정보를 확인할 수 있습니다.
-seo-title: 개인 정보 보고서 보기
-solution: Experience Manager
 title: 개인 정보 보고서 보기
-uuid: 70d9f614-5f5b-40da-ada6-78e9ffebcc28
+exl-id: bcbb4651-e492-4ff7-be31-4f561365334d
 translation-type: tm+mt
-source-git-commit: 155791af94c277e7afdbd51521e00da77169911e
+source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
 workflow-type: tm+mt
-source-wordcount: '76'
-ht-degree: 2%
+source-wordcount: '55'
+ht-degree: 3%
 
 ---
-
 
 # 개인 정보 보고서 보기{#view-a-privacy-report}
 
@@ -22,4 +18,3 @@ Livefyre의 개인정보 보호 보고서를 통해 사용자를 위해 Livefyre
 1. 목록에서 개인 정보 보고서를 클릭하여 표시합니다.
 
 ![](assets/privacypage5.png)
-
