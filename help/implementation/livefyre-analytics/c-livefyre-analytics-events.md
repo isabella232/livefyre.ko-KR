@@ -2,10 +2,10 @@
 title: Livefyre Analytics 이벤트
 description: Livefyre Analytics 이벤트
 exl-id: ec32414c-0580-44dc-ae5b-6df0b42c0ec3
-source-git-commit: 53aead87db517e6f68266a66115889509287a287
+source-git-commit: 3091db9d7b9611e26ad65c1432856c9465694e92
 workflow-type: tm+mt
-source-wordcount: '540'
-ht-degree: 4%
+source-wordcount: '525'
+ht-degree: 5%
 
 ---
 
@@ -95,7 +95,6 @@ ht-degree: 4%
 
 이 페이지에서 설명한 주제에 대한 자세한 내용은 다음을 참조하십시오.
 
-* [보고서 세트 ](https://experienceleague.adobe.com/docs/analytics/admin/manage-report-suites/report-suites-admin.html?lang=en)[관리자 DTM](https://experienceleague.adobe.com/docs/livefyre/using/apps/filmstrip/c-filmstrip-app.html?lang=en)
-
-* [규칙](https://experienceleague.adobe.com/docs/dtm/using/resources/rules/create-rules.html?lang=en)
+* [보고서 세트 관리자](https://experienceleague.adobe.com/docs/analytics/admin/manage-report-suites/report-suites-admin.html?lang=en)
+* [태그](https://experienceleague.adobe.com/docs/experience-platform/tags/home.html)
 * [Livefyre.js](/help/implementation/c-livefyre.js.md)

@@ -2,8 +2,7 @@
 description: Livefyre 서버측 작업을 위한 라이브러리 설치
 title: 설치
 exl-id: d74f85be-14c0-4f6d-8f16-b688282c0eb0
-translation-type: tm+mt
-source-git-commit: a2449482e617939cfda7e367da34875bf187c4c9
+source-git-commit: 3091db9d7b9611e26ad65c1432856c9465694e92
 workflow-type: tm+mt
 source-wordcount: '309'
 ht-degree: 1%
@@ -15,7 +14,7 @@ ht-degree: 1%
 
 ## Java {#section_yd3_3zk_rz}
 
-Java 라이브러리를 설치하려면 프로젝트의 POM에 이 종속성을 추가하십시오.
+Java 라이브러리를 설치하려면 프로젝트의 POM에 다음 종속성을 추가합니다.
 
 ```
 <dependency> 
@@ -55,7 +54,7 @@ Java 라이브러리에는 다음 모듈에 대한 종속성이 있습니다.
 </dependency> 
 ```
 
-자세한 내용은 Java 문서를 읽거나 [GitHub](https://github.com/Livefyre/livefyre-java-utils)의 소스를 참조하십시오.
+자세한 내용은 Java 문서를 읽어보거나 [GitHub](https://github.com/Livefyre/livefyre-java-utils)에서 소스를 참조하십시오.
 
 ## NodeJS {#section_swj_pwq_rz}
 
@@ -71,13 +70,13 @@ NodeJS 라이브러리에는 다음 모듈에 대한 종속성이 있습니다.
 "jsonwebtoken": ">=5.0.0" 
 ```
 
-자세한 내용은 NodeJs 문서를 읽거나 [GitHub](https://github.com/Livefyre/livefyre-nodejs-utils)의 소스를 참조하십시오.
+자세한 내용은 NodeJs 문서를 읽어보거나 [GitHub](https://github.com/Livefyre/livefyre-nodejs-utils)에서 소스를 참조하십시오.
 
-링크:[레슬러](https://github.com/danwrong/restler), [유효성 검사기](https://www.npmjs.org/package/validator), [jsonwebtoken](https://github.com/auth0/node-jsonwebtoken).
+링크: [Restler](https://github.com/danwrong/restler), [유효성 검사기](https://www.npmjs.org/package/validator), [jsonwebtoken](https://github.com/auth0/node-jsonwebtoken)
 
 ## PHP {#section_txj_xwq_rz}
 
-Composer와 함께 PHP 라이브러리를 설치하려면 composer.json에 다음 항목을 추가하십시오.
+Composer와 함께 PHP 라이브러리를 설치하려면 composer.json에 추가합니다.
 
 ```
 "require": { 
@@ -85,13 +84,13 @@ Composer와 함께 PHP 라이브러리를 설치하려면 composer.json에 다�
 }
 ```
 
-그런 다음 다음을 사용하여 설치합니다.
+그런 다음 를 사용하여 를 설치합니다.
 
 ```
 composer.phar install 
 ```
 
-Composer를 사용하지 않는 **이(가) 있는 경우 다음을 사용하여 최신 버전의 라이브러리를 가져옵니다.**
+Composer를 사용하지 않는 **을 사용하는 경우 다음을 사용하여 라이브러리의 최신 버전을 얻습니다.**
 
 ```
 git clone https://github.com/Livefyre/livefyre-php-utils 
@@ -111,13 +110,13 @@ PHP 라이브러리에는 다음 모듈에 대한 종속성이 있습니다.
 "firebase/php-jwt": ">=2.0" 
 ```
 
-자세한 내용은 PHP 문서를 읽거나 [GitHub](https://github.com/Livefyre/livefyre-php-utils)에서 소스를 참조하십시오.
+자세한 내용은 PHP 문서를 읽어보거나 [GitHub](https://github.com/Livefyre/livefyre-php-utils)에서 소스를 참조하십시오.
 
-링크:[ext-json](https://php.net/manual/en/book.json.php), [요청](https://github.com/rmccue/Requests/), [PHP-JWT](https://github.com/firebase/php-jwt/tree/v2.0.0)
+링크: [ext-json](https://www.php.net/manual/en/book.json.php), [요청](https://github.com/rmccue/Requests/), [PHP-JWT](https://github.com/firebase/php-jwt/tree/v2.0.0)
 
-## Python {#section_irk_fxq_rz}
+## 파이톤 {#section_irk_fxq_rz}
 
-Python 라이브러리를 설치하려면 다음 줄을 실행하십시오.
+Python 라이브러리를 설치하려면 다음 행을 실행합니다.
 
 `$ pip install livefyre`
 
@@ -131,19 +130,19 @@ enum34 == 1.0
 ordereddict == 1.1 if sys.version_info[:2] < 2.7 
 ```
 
-자세한 내용은 Python 문서를 읽거나 [GitHub](https://github.com/Livefyre/livefyre-python-utils)에서 소스를 참조하십시오.
+자세한 내용은 Python 문서를 읽어보거나 [GitHub](https://github.com/Livefyre/livefyre-python-utils)에서 소스를 참조하십시오.
 
-링크:[PyJWT](https://github.com/progrium/pyjwt), [요청](https://github.com/kennethreitz/requests), [Python-Dateutil](https://pypi.python.org/pypi/python-dateutil), [Enum34](https://pypi.python.org/pypi/enum34), [OrderedDict](https://pypi.python.org/pypi/ordereddict)
+링크: [PyJWT](https://github.com/progrium/pyjwt), [요청](https://github.com/kennethreitz/requests), [Python-Dateutil](https://pypi.python.org/pypi/python-dateutil), [Enum34](https://pypi.python.org/pypi/enum34), [OrderedDict](https://pypi.python.org/pypi/ordereddict)
 
-## Ruby {#section_fv2_tzq_rz}
+## 루비 {#section_fv2_tzq_rz}
 
-Ruby 라이브러리를 설치하려면 다음 줄을 응용 프로그램의 Gemfile에 추가합니다.
+Ruby 라이브러리를 설치하려면 응용 프로그램의 Gemfile에 다음 줄을 추가합니다.
 
 ```
 gem 'livefyre' 
 ```
 
-또는 직접 설치:
+또는 직접 설치합니다.
 
 `$ gem install livefyre`
 
@@ -155,6 +154,6 @@ Ruby 라이브러리에는 다음 모듈에 대한 종속성이 있습니다.
 "addressable", '~> 2.3', ">= 2.3.6" 
 ```
 
-자세한 내용은 루비 문서를 읽거나 [GitHub](https://github.com/Livefyre/livefyre-ruby-utils)의 소스를 참조하십시오.
+자세한 내용은 Ruby 문서를 읽어보거나 [GitHub](https://github.com/Livefyre/livefyre-ruby-utils)에서 소스를 참조하십시오.
 
-링크:[Ruby JWT](https://github.com/firebase/php-jwt/tree/v2.0.0), [REST 클라이언트](https://github.com/rest-client/rest-client/), [주소 지정 가능](https://github.com/sporkmonger/addressable)
+링크: [Ruby JWT](https://github.com/firebase/php-jwt/tree/v2.0.0), [REST 클라이언트](https://github.com/rest-client/rest-client/), [대응 가능](https://github.com/sporkmonger/addressable)

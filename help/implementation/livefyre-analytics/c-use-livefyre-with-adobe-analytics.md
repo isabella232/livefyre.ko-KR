@@ -2,9 +2,9 @@
 description: Livefyre 앱에 대한 데이터를 수집하도록 Adobe Analytics 및 DTM(Dynamic Tag Manager)을 설정합니다.
 title: Livefyre와 Adobe Analytics 및 Dynamic Tag Manager(DTM) 사용
 exl-id: a866782d-fca6-48bf-9fb8-5080e396919b
-source-git-commit: 53aead87db517e6f68266a66115889509287a287
+source-git-commit: 3091db9d7b9611e26ad65c1432856c9465694e92
 workflow-type: tm+mt
-source-wordcount: '1027'
+source-wordcount: '1009'
 ht-degree: 1%
 
 ---
@@ -31,14 +31,16 @@ Livefyre 전환 변수(eVar)를 Adobe Analytics 관리자 보고서 세트 관�
 
 1. 보고서 세트 관리자에서 **[!UICONTROL Edit Settings > Conversion > Conversion Variables]** 을 클릭합니다.
 1. 사용할 사용자 지정 전환 변수(eVar)를 선택하고 Livefyre 전환 변수에 매핑합니다. Livefyre 전환 변수를 사용자 지정 전환 변수에 매핑하려면:
-* 전환 변수 활성화
-* 전환 변수에 이름을 지정합니다
-* 전환 변수에 유형을 지정합니다
+
+   * 전환 변수 활성화
+   * 전환 변수에 이름을 지정합니다
+   * 전환 변수에 유형을 지정합니다
+
 1. 사용자 지정 전환 변수를 저장합니다.
 
 ## 3단계: DTM을 사용하여 Livefyre 이벤트와 함께 보고서 세트 추가 {#section_t15_2hd_4cb}
 
-Analytics를 작동하도록 DTM에 Adobe Analytics을 추가합니다. 이렇게 하려면 새 속성 및 도구를 만들고 Livefyre 이벤트가 있는 새 보고서 세트를 속성에 추가합니다. DTM에 대한 자세한 내용은 [DTM](https://experienceleague.adobe.com/docs/dtm/using/c-overview.html?lang=en)을 참조하십시오.
+태그를 사용하여 Analytics와 Livefyre 이벤트가 통합됩니다. 이렇게 하려면 새 속성 및 도구를 만들고 Livefyre 이벤트가 있는 새 보고서 세트를 속성에 추가합니다. 자세한 내용은 [태그 개요](https://experienceleague.adobe.com/docs/experience-platform/tags/home.html)를 참조하십시오.
 
 Livefyre 이벤트로 설정한 보고서 세트에 대해 이미 속성 또는 도구를 설정한 경우 이 단계를 수행할 필요가 없습니다.
 
@@ -65,7 +67,7 @@ Livefyre 이벤트로 설정한 보고서 세트에 대해 이미 속성 또는 
 1. **[!UICONTROL Create New Rule]** 단추를 클릭합니다.
 1. **[!UICONTROL Plus]** 단추를 클릭하여 **[!UICONTROL Conditions]** 섹션을 엽니다.
 1. 규칙을 트리거합니다. 규칙을 비동기식으로 지연 또는 구현하려면 **[!UICONTROL DOM Ready]** 또는 **[!UICONTROL Onload]** 트리거 유형을 선택합니다.
-1. (선택 사항) 추가 매개 변수를 추가하여 Livefyre 앱을 표시하는 페이지를 제한합니다. 추가 구성 옵션에 대한 자세한 내용은 [DTM](https://experienceleague.adobe.com/docs/dtm/using/c-overview.html?lang=en)을 참조하십시오.
+1. (선택 사항) 추가 매개 변수를 추가하여 Livefyre 앱을 표시하는 페이지를 제한합니다. 추가 구성 옵션에 대한 자세한 내용은 [태그 개요](https://experienceleague.adobe.com/docs/experience-platform/tags/home.html)를 참조하십시오.
 1. **[!UICONTROL Javascript/ Third Party Tags]**&#x200B;에서 **[!UICONTROL Non-sequential]** 탭을 클릭한 다음 **[!UICONTROL Add New Script]**&#x200B;를 클릭합니다.
 1. 스크립트 유형으로 **[!UICONTROL Sequential HTML]** 을 선택합니다.
 1. 코드 편집기에 다음 스크립트를 추가하고 **[!UICONTROL Save Code]** 을 클릭합니다.
@@ -306,6 +308,5 @@ function addAnalyticsHandler() {
 이 페이지에서 설명한 주제에 대한 자세한 내용은 다음을 참조하십시오.
 
 * [보고서 세트 관리자](https://experienceleague.adobe.com/docs/analytics/admin/manage-report-suites/report-suites-admin.html?lang=en)
-* [DTM](https://experienceleague.adobe.com/docs/dtm/using/c-overview.html?lang=en)
-* [규칙](https://experienceleague.adobe.com/docs/dtm/using/resources/rules/create-rules.html?lang=en)
+* [태그 개요](https://experienceleague.adobe.com/docs/experience-platform/tags/home.html)
 * [Livefyre.js](/help/implementation/c-livefyre.js.md)
