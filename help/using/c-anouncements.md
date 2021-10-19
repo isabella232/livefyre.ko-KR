@@ -2,9 +2,9 @@
 title: Livefyre 서비스 종료 미리 알림
 description: Livefyre 및 Livefyre Studio에 대한 서비스 종료 미리 알림 및 보관된 공지.
 exl-id: 78fe3f11-2365-4765-a0af-f817e9c80ea9
-source-git-commit: c1f1f501203ea64a282abc631318983011eb4e5b
+source-git-commit: 96f4e5f196446834cdf92a2774bd26f02b6b58a4
 workflow-type: tm+mt
-source-wordcount: '1867'
+source-wordcount: '1866'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 작년에 Facebook 및 Twitter을 포함한 소셜 미디어 공급자와의 역학 변화에 따라 Adobe 고객에게 강력한 UGC(사용자 생성 컨텐츠) 솔루션을 계속 제공하기 어렵게 되었습니다. 이러한 도전으로 인해 Adobe은 Livefyre 서비스를 종료하기로 어려운 결정을 내렸습니다. Livefyre에 액세스할 수 있는 최종 기한은 2021년 11월 30일입니다. 2021년 1월부터 Adobe은 Livefyre를 사용하는 고객과 협력하여 신뢰할 수 있는 Adobe 파트너로의 원활한 전환과 대체 솔루션을 추천했습니다. 이 미리 알림은 Livefyre 서비스 날짜 종료를 확인하는 것입니다. Adobe은 원활한 핸드오프에 필요한 사항을 제공하기 위해 노력하고 있습니다. 질문이 있는 경우 고객 성공 관리자 또는 계정 관리자에게 문의하십시오.
 
-## Livefyre 서비스 종료에 대한 FAQ {#livefyre-eos-faq}
+## Livefyre 서비스 종료 FAQ {#livefyre-eos-faq}
 
 ### **_Livefyre의 변경 사항_**
 
